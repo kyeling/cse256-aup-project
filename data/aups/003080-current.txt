@@ -1,0 +1,17 @@
+ntl clarifies Acceptable Use PolicyParagraph 16 - the infamous "no servers" clause of ntl's Acceptable Use Policy for its internet services is further clarified... to the fury of many broadband customers.By Published: 21 March 2001ntl recently posted a revised Acceptable Use Policy for its internet services, and contained within this document was a controversial paragraph which reads:"The running of servers via your dial-up or broadband connection is not
+permitted. If ntl become aware that servers are being run via the connection
+supplied by ntl the account may be subject to immediate suspension or
+termination."This ambiguous statement led many subscribers to question what exactly ntl meant by the term "server".  Today, the AUP team gave a list of services not allowed to be run by customers on ntl's internet service... which hasn't been particularly well received by subscribers.Services not allowed:
+Web serversSMTP, POP, IMAP mail serversNews serversFTP serversGames serversMedia servers (e.g. Napster)Streaming media serversProxy serversRemote adminstration serversDNS serversDHCP serversX serversTelnet serversSSH serversPrint serversTFTP ServersMessaging serversMUD serversICQ serversChat serversIRC serversDatabase serversFile and Printer sharing (e.g. the Windows Networking service)They do say, however, that customers are allowed to run ICQ and chat software.A couple of comments from ntl's subscribers, taken from ntl.support.cablemodems:"Who can we write to about this? Other than ntl and The Register, both of
+whom I'm about to email. I mean, given the political rhetoric being
+bandied around about the broadband revolution, it really is too much
+that Britain's largest single provider of broadband services isn't
+willing to actually let you use it for anything." - Glyndwr"This is not the service I initially signed up for, being *considerably* more
+restricted, but as you seem to have the monopoly on broadband in my area you
+think you can force this Draconian change on us without any opposition from
+your 'customers'."For a company which claims to 'listen to it's customers views' you show very
+little signs of doing so. Just what are you afraid of? We PAY for the bandwidth
+allocated to us, just what gives you the *moral* right to stop us using it for
+what we want? Providing, of course, that it's not used for business (not SOHO)
+use, the availability of illegal/copyrighted material nor an open (spam magnet)
+mail relay." - Colin JonesIt will be most interesting to see how ntl responds to these statements, and whether they will consider that such restrictions are unwieldy and look quite out of place in today's era of broadband internet technologies.Watch Next Advertisement - Continue Reading BelowAdvertisement - Continue Reading Below
