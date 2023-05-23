@@ -54,6 +54,7 @@ def get_sample(df, n, save=None):
   return sample_urls
 
 
+
 ### PART 2: Searching for AUPs ###
 
 # try removing trivial components of url
@@ -106,6 +107,26 @@ def get_aups_in_bucket(partial_df, batch=None):
         w.writerows(aups)
       aups = []
 
+# Run a direct google search for AUPs and continue until desired number of AUP urls is reached
+# TODO find out why this terminates at 222 AUPs
+def googlesearch_for_aups():
+  import re
+  pattern = re.compile('[\W_]+')
+
+  search_str = f'acceptable use policy site.com'
+  rand_aups = set()
+  for init_result in search(search_str, pause=0):
+    if len(list(rand_aups)) > 1000:
+      break
+    
+    result = pattern.sub('', init_result)
+    if ('aup' in result or 'acceptableusepolicy' in result) \
+        and not ('howto' in result or 'whatis' in result or 'template' in result or 'guide' in result):
+      rand_aups.add(init_result)
+
+  open('../data/urls/googlesearch-aups.txt', 'w').write('\n'.join(list(rand_aups)))
+
+
 
 ### PART 3: Longitudinal Data ###
 
@@ -131,6 +152,7 @@ def get_snapshots(url):
   snapshots = [f'http://web.archive.org/web/{c[0]}/{c[3]}' for c in cdx]
   timestamps = [c[0] for c in cdx]
   return snapshots, timestamps
+
 
 
 ### PART 4: Scraping Content from URLs ###
@@ -168,14 +190,10 @@ def get_aup_content(aup_url, fname):
   cleantext = '\n'.join(line for line in lines if line)
 
   # write to file
-  # padded_index = str(index).zfill(6)
-  # fname = f'../data/aups/{padded_index}-{timestamp}.txt'
-  open(fname, 'w').write(cleantext)
-
-  # try:
-  #   open(fname, 'w').write(cleantext)
-  # except:
-  #   print(f'unable to scrape contents of {aup_url}')
+  try:
+    open(fname, 'w').write(cleantext)
+  except Exception as e:
+    print(f'unable to write contents of {aup_url} to file due to {e}')
 
 
 if '__name__' == '__main__':
