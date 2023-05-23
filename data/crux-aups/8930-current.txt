@@ -1,4 +1,3 @@
-Copyright
 Question:
 Differentiate between a security policy and an acceptable use policy. Be sure to provide examples of what each might contain.
 Security policy and acceptable use policy

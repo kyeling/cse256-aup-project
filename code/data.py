@@ -82,7 +82,7 @@ def get_search_results(url, n=5):
 def get_aups_in_bucket(partial_df, batch=None):
   aups = []
   rank = partial_df.iloc[0]['rank']
-  fname = f"../data/urls/crux-aups-rank{rank}{'-batch' + str(batch) if batch else ''}.csv"
+  fname = f"../data/aup-urls/crux-aups-rank{rank}{'-batch' + str(batch) if batch else ''}.csv"
 
   # create a new file to store aup urls
   with open(fname, 'w') as f:
@@ -157,44 +157,47 @@ def get_snapshots(url):
 
 ### PART 4: Scraping Content from URLs ###
 
-def get_aup_content(aup_url, fname):
-  response = requests.get(aup_url)
-  text = ""
-
-  if not response.ok:
-    raise Exception(f'get request failed with status code {response.status_code} on {aup_url}')
-  
-  # if AUP is a webpage, remove extraneous html elements and get text from remaining elements
-  if 'text/html' in response.headers['Content-Type']:
-    soup = BeautifulSoup(response.content)
-    elems_to_rm = ['style', 'script', 'meta', 'head', 'title', 'nav', 'header', 'footer', 'button', 'img', 'svg']
-    for s in soup(elems_to_rm):
-      s.extract()
-    text = soup.get_text()
-
-  # if AUP is a pdf, read bytes in as pdf and get text from each page of pdf
-  elif 'pdf' in response.headers['Content-Type']:
-    pdf_bytes = BytesIO(response.content)
-    pdf = PdfReader(pdf_bytes)
-    for page in pdf.pages:
-      text += page.extract_text()
-    
-  else:
-    raise Exception(f"urecognized content type {response.headers['Content-Type']} for {aup_url}")
-
-  if not text:
-    raise Exception(f'unable to scrape text from {aup_url}')
-  
-  # strip leading/trailing space and drop blank lines
-  lines = (line.strip() for line in text.splitlines())
-  cleantext = '\n'.join(line for line in lines if line)
-
-  # write to file
+def get_aup_content(aup_url, fname, logfile='../data/log.txt'):
   try:
-    open(fname, 'w').write(cleantext)
-  except Exception as e:
-    print(f'unable to write contents of {aup_url} to file due to {e}')
+    response = requests.get(aup_url)
+    text = ""
 
+    if not response.ok:
+      raise Exception(f'get request failed with status code {response.status_code} on {aup_url}')
+    
+    # if AUP is a webpage, remove extraneous html elements and get text from remaining elements
+    if 'text/html' in response.headers['Content-Type']:
+      soup = BeautifulSoup(response.content)
+      elems_to_rm = ['style', 'script', 'meta', 'head', 'title', 'nav', 'header', 'footer', 'button', 'img', 'svg']
+      for s in soup(elems_to_rm):
+        s.extract()
+      text = soup.get_text()
+
+    # if AUP is a pdf, read bytes in as pdf and get text from each page of pdf
+    elif 'pdf' in response.headers['Content-Type']:
+      pdf_bytes = BytesIO(response.content)
+      pdf = PdfReader(pdf_bytes)
+      for page in pdf.pages:
+        text += page.extract_text()
+      
+    else:
+      raise Exception(f"urecognized content type {response.headers['Content-Type']} for {aup_url}")
+
+    if not text:
+      raise Exception(f'unable to scrape text from {aup_url}')
+    
+    # strip leading/trailing space and drop blank lines
+    lines = (line.strip() for line in text.splitlines())
+    cleantext = '\n'.join(line for line in lines if line)
+
+    # write to file
+    # try:
+    open(fname, 'w').write(cleantext)
+    # except Exception as e:
+    #   print(f'unable to write contents of {aup_url} to file due to {e}')
+
+  except Exception as e:
+    open(logfile, 'a').write(f'{aup_url}\n{fname}\n{e}\n\n')
 
 if '__name__' == '__main__':
   pass

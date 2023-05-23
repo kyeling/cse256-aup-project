@@ -1,124 +1,1218 @@
-  0%|          | 0/72 [00:00<?, ?it/s]
-https://abadis.ir/entofa/acceptable-use-policy/ 2314
-c:\Users\kyeling\Desktop\cse256\project\cse256-aup-project\code\data.py:148: GuessedAtParserWarning: No parser was explicitly specified, so I'm using the best available HTML parser for this system ("html.parser"). This usually isn't a problem, but if you run this code on another system, or in a different virtual environment, it may use a different parser and behave differently.
+https://abadis.ir/entofa/acceptable-use-policy/
+../data/crux-aups/2314-current.txt
+'charmap' codec can't encode characters in position 23-26: character maps to <undefined>
 
-The code that caused this warning is on line 148 of the file c:\Users\kyeling\Desktop\cse256\project\cse256-aup-project\code\data.py. To get rid of this warning, pass the additional argument 'features="html.parser"' to the BeautifulSoup constructor.
+https://business-isp.rakuten.co.jp/about/policy/aup.html
+../data/crux-aups/2352-current.txt
+'charmap' codec can't encode characters in position 0-13: character maps to <undefined>
 
-  soup = BeautifulSoup(response.content)
-  1%|▏         | 1/72 [00:01<01:57,  1.66s/it]
-on https://abadis.ir/entofa/acceptable-use-policy/, exception occurred 'charmap' codec can't encode characters in position 23-26: character maps to <undefined>
-https://about.gitlab.com/handbook/people-group/acceptable-use-policy/ 1145
-  3%|▎         | 2/72 [00:01<00:56,  1.24it/s]
-https://about.realestate.com.au/acceptable-use-policy-residential/ 2111
-  4%|▍         | 3/72 [00:04<01:39,  1.44s/it]
-https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/1137343/dwp-acceptable-use-policy-version-3.pdf 301
-  6%|▌         | 4/72 [00:05<01:33,  1.37s/it]
-https://aws.amazon.com/aup/ 43
-  7%|▋         | 5/72 [00:05<01:04,  1.04it/s]
-https://business-isp.rakuten.co.jp/about/policy/aup.html 2352
-  8%|▊         | 6/72 [00:06<00:55,  1.18it/s]
-on https://business-isp.rakuten.co.jp/about/policy/aup.html, exception occurred 'charmap' codec can't encode characters in position 23-39: character maps to <undefined>
-https://cash.app/legal/us/en-us/acceptable-use-policy 2645
- 10%|▉         | 7/72 [00:06<00:45,  1.42it/s]
-https://cdn.auth0.com/website/legals/files/aup-feb-20.pdf?_ga=2.145244535.270615629.1602600152-1580183395.1598368988 2553
- 11%|█         | 8/72 [00:07<00:40,  1.60it/s]
-https://dev.epicgames.com/en-US/services/terms/aup 1710
- 12%|█▎        | 9/72 [00:07<00:38,  1.63it/s]
-https://devedge.t-mobile.com/acceptable-use-policy 766
- 14%|█▍        | 10/72 [00:08<00:34,  1.78it/s]
-on https://devedge.t-mobile.com/acceptable-use-policy, exception occurred 'charmap' codec can't encode character '\u200b' in position 2426: character maps to <undefined>
-https://developer.grammarly.com/aup 3300
- 15%|█▌        | 11/72 [00:08<00:34,  1.79it/s]
-https://elcomercio.pe/noticias/aup/ 4430
- 17%|█▋        | 12/72 [00:09<00:39,  1.51it/s]
-https://es.scribd.com/document/381358773/acceptable-use-policy-docx 4095
- 18%|█▊        | 13/72 [00:10<00:40,  1.47it/s]
-https://explore.zoom.us/en/trust/contactcenter-acceptable-use-policy/ 2060
- 19%|█▉        | 14/72 [00:10<00:35,  1.61it/s]
-https://explore.zoom.us/en/trust/zoom-phone-acceptable-use-policy/ 354
- 21%|██        | 15/72 [00:11<00:31,  1.79it/s]
-https://help.nexusmods.com/article/114-api-acceptable-use-policy 586
- 22%|██▏       | 16/72 [00:11<00:29,  1.91it/s]
-https://issuu.com/schudio1/docs/hnc-hnc-it-acceptable-use-policy-march-2019-no 1291
- 24%|██▎       | 17/72 [00:12<00:27,  1.97it/s]
-https://learn.microsoft.com/en-us/legal/intune/acceptable-use-policy-for-microsoft-intune 838
- 25%|██▌       | 18/72 [00:12<00:23,  2.29it/s]
-https://m.timesofindia.com/topic/acceptable-use-policy/news/21 111
- 26%|██▋       | 19/72 [00:12<00:25,  2.04it/s]
-https://pdfcoffee.com/developing-acceptable-use-policy-pdf-free.html 4057
- 28%|██▊       | 20/72 [00:13<00:27,  1.92it/s]
-on https://pdfcoffee.com/developing-acceptable-use-policy-pdf-free.html, exception occurred 'charmap' codec can't encode character '\uf06f' in position 1674: character maps to <undefined>
-https://postmaster.t-online.de/aup.en.html 14
- 29%|██▉       | 21/72 [00:14<00:30,  1.70it/s]
-https://prezi.com/ssuncfjkkta8/acceptable-use-policy/ 3274
- 31%|███       | 22/72 [00:15<00:32,  1.53it/s]
-https://quickbooks.intuit.com/ca/payments/legal-documents/canada-acceptable-use-policy-2017/ 2510
- 32%|███▏      | 23/72 [00:15<00:33,  1.45it/s]
-https://quizizz.com/admin/quiz/59bd6213f3ac8a1000484286/acceptable-use-policy-aup 42
- 35%|███▍      | 25/72 [00:16<00:27,  1.73it/s]
-https://quizlet.com/28742194/acceptable-use-policy-flash-cards/ 925
-https://security-guidance.service.justice.gov.uk/acceptable-use-policy/ 3045
- 36%|███▌      | 26/72 [00:17<00:27,  1.70it/s]
-https://slack.com/acceptable-use-policy 1657
- 38%|███▊      | 27/72 [00:17<00:24,  1.85it/s]
-https://stackoverflow.com/legal/acceptable-use-policy 156
- 39%|███▉      | 28/72 [00:18<00:21,  2.06it/s]
-https://terra.bio/about/acceptable-use-policy/ 267
- 40%|████      | 29/72 [00:19<00:24,  1.79it/s]
-https://testbook.com/acceptable-use-policy 1893
- 42%|████▏     | 30/72 [00:19<00:27,  1.54it/s]
-https://trust.kahoot.com/acceptable-use-policy/ 40
- 44%|████▍     | 32/72 [00:20<00:17,  2.32it/s]
-https://tureng.com/en/spanish-english/acceptable%20use%20policy%20(aup) 1793
-https://wise.com/acceptable-use-policy 2661
- 47%|████▋     | 34/72 [00:20<00:13,  2.87it/s]
-https://www.almaany.com/en/dict/ar-en/acceptable-use-policy/ 1784
-https://www.ansa.dev/acceptable-use-policy 328
- 49%|████▊     | 35/72 [00:21<00:13,  2.76it/s]
-on https://www.ansa.dev/acceptable-use-policy, exception occurred 'charmap' codec can't encode character '\u200d' in position 566: character maps to <undefined>
-https://www.autotrader.co.zm/acceptable-use-policy 1296
- 50%|█████     | 36/72 [00:22<00:19,  1.86it/s]
-https://www.barnesandnoble.com/w/acceptable-use-policy-a-complete-guide-2020-edition-gerardus-blokdyk/1136391212 3930
-## gets stuck here
+https://cash.app/legal/us/en-us/acceptable-use-policy
+../data/crux-aups/2645-current.txt
+unable to scrape text from https://cash.app/legal/us/en-us/acceptable-use-policy
+
+https://clara.co/startup-legal-documents/website-acceptable-use-policy/
+../data/crux-aups/6257-current.txt
+HTTPSConnectionPool(host='clara.co', port=443): Max retries exceeded with url: /startup-legal-documents/website-acceptable-use-policy/ (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)')))
+
+https://devedge.t-mobile.com/acceptable-use-policy
+../data/crux-aups/0766-current.txt
+'charmap' codec can't encode character '\u200b' in position 2448: character maps to <undefined>
+
+https://economictimes.indiatimes.com/topic/acceptable-use-policy
+../data/crux-aups/5442-current.txt
+'charmap' codec can't encode character '\u200b' in position 6132: character maps to <undefined>
+
+https://gamma.app/acceptable-use-policy
+../data/crux-aups/6058-current.txt
+'charmap' codec can't encode character '\u200d' in position 721: character maps to <undefined>
+
+https://info.wonolo.com/acceptable-use-policy/
+../data/crux-aups/6068-current.txt
+get request failed with status code 403 on https://info.wonolo.com/acceptable-use-policy/
+
+https://insttech.roundrockisd.org/digital-citizenship/acceptable-use-policy/
+../data/crux-aups/9979-current.txt
+'charmap' codec can't encode characters in position 9-14: character maps to <undefined>
+
+https://na.panasonic.com/ca/acceptable-use-policy
+../data/crux-aups/8357-current.txt
+get request failed with status code 403 on https://na.panasonic.com/ca/acceptable-use-policy
+
+https://pdfcoffee.com/developing-acceptable-use-policy-pdf-free.html
+../data/crux-aups/4057-current.txt
+'charmap' codec can't encode character '\uf06f' in position 3210: character maps to <undefined>
+
+https://quizlet.com/28742194/acceptable-use-policy-flash-cards/
+../data/crux-aups/0925-current.txt
+get request failed with status code 403 on https://quizlet.com/28742194/acceptable-use-policy-flash-cards/
+
+https://speed.venus.ispwebhost.com/about-us/legal-information/acceptable-use-policy
+../data/crux-aups/8152-current.txt
+HTTPSConnectionPool(host='speed.venus.ispwebhost.com', port=443): Max retries exceeded with url: /about-us/legal-information/acceptable-use-policy (Caused by SSLError(SSLError(1, '[SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:997)')))
+
+https://terra.bio/about/acceptable-use-policy/
+../data/crux-aups/0267-current.txt
+get request failed with status code 403 on https://terra.bio/about/acceptable-use-policy/
+
+https://tureng.com/en/spanish-english/acceptable%20use%20policy%20(aup)
+../data/crux-aups/1793-current.txt
+get request failed with status code 403 on https://tureng.com/en/spanish-english/acceptable%20use%20policy%20(aup)
+
+https://www.almaany.com/en/dict/ar-en/acceptable-use-policy/
+../data/crux-aups/1784-current.txt
+get request failed with status code 403 on https://www.almaany.com/en/dict/ar-en/acceptable-use-policy/
+
+https://www.ansa.dev/acceptable-use-policy
+../data/crux-aups/0328-current.txt
+'charmap' codec can't encode character '\u200d' in position 566: character maps to <undefined>
+
+https://www.atlassian.com/legal/acceptable-use-policy
+../data/crux-aups/8220-current.txt
+'charmap' codec can't encode characters in position 83-84: character maps to <undefined>
+
+https://www.chegg.com/homework-help/questions-and-answers/question-one-20-marks-acceptable-use-policy-businesses-institutions-provide-wi-fi-internet-q40346689
+../data/crux-aups/0383-current.txt
+get request failed with status code 403 on https://www.chegg.com/homework-help/questions-and-answers/question-one-20-marks-acceptable-use-policy-businesses-institutions-provide-wi-fi-internet-q40346689
+
+https://www.connexus.com.au/acceptable-use-policy
+../data/crux-aups/4497-current.txt
+'charmap' codec can't encode character '\u200b' in position 320: character maps to <undefined>
+
+https://www.docsity.com/en/acceptable-use-policy-agreement/9595121/
+../data/crux-aups/4716-current.txt
+get request failed with status code 403 on https://www.docsity.com/en/acceptable-use-policy-agreement/9595121/
+
+https://www.furaffinity.net/aup
+../data/crux-aups/0125-current.txt
+'charmap' codec can't encode character '\u25bc' in position 24: character maps to <undefined>
+
+https://www.indeed.com/q-acceptable-use-policy%22-jobs.html
+../data/crux-aups/9659-current.txt
+get request failed with status code 403 on https://www.indeed.com/q-acceptable-use-policy%22-jobs.html
+
+https://www.istockphoto.com/illustrations/acceptable-use-policy
+../data/crux-aups/2263-current.txt
+get request failed with status code 403 on https://www.istockphoto.com/illustrations/acceptable-use-policy
+
+https://www.jotform.com/form-templates/ipad-care-and-acceptable-use-policy
+../data/crux-aups/5177-current.txt
+'charmap' codec can't encode characters in position 8950-8958: character maps to <undefined>
+
+https://www.lawinsider.com/clause/acceptable-use-policy
+../data/crux-aups/8086-current.txt
+'charmap' codec can't encode character '\ufb03' in position 7417: character maps to <undefined>
+
+https://www.leadsquared.com/aup/
+../data/crux-aups/5364-current.txt
+get request failed with status code 403 on https://www.leadsquared.com/aup/
+
+https://www.ledauphine.com/faits-divers-justice
+../data/crux-aups/2720-current.txt
+'charmap' codec can't encode character '\U0001f3a7' in position 743: character maps to <undefined>
+
+https://www.pdffiller.com/100836094-7th20SCT20AUP1pdf-army-acceptable-use-policy-2022-
+../data/crux-aups/2940-current.txt
+'charmap' codec can't encode character '\u0421' in position 6581: character maps to <undefined>
+
+https://www.sarthaks.com/248177/what-should-not-be-part-of-an-acceptable-use-policy
+../data/crux-aups/4552-current.txt
+get request failed with status code 403 on https://www.sarthaks.com/248177/what-should-not-be-part-of-an-acceptable-use-policy
+
+https://www.shutterstock.com/search/acceptable-use-policy
+../data/crux-aups/3590-current.txt
+get request failed with status code 406 on https://www.shutterstock.com/search/acceptable-use-policy
+
+https://www.studocu.com/en-us/document/grand-canyon-university/introduction-to-computer-technology/acceptable-use-policy/9802952
+../data/crux-aups/0021-current.txt
+get request failed with status code 403 on https://www.studocu.com/en-us/document/grand-canyon-university/introduction-to-computer-technology/acceptable-use-policy/9802952
+
+https://www.studypool.com/documents/1131958/aup-acceptable-use-policy
+../data/crux-aups/8762-current.txt
+get request failed with status code 403 on https://www.studypool.com/documents/1131958/aup-acceptable-use-policy
+
+https://www.thehill.org/academics/its/acceptable-use-policy
+../data/crux-aups/8205-current.txt
+'charmap' codec can't encode character '\ufb00' in position 4760: character maps to <undefined>
+
+https://www.twitch.tv/p/en/legal/channel-points-acceptable-use-policy
+../data/crux-aups/1367-current.txt
+'charmap' codec can't encode characters in position 782-790: character maps to <undefined>
+
+https://www.verizon.com/about/terms-conditions/acceptable-use-policy
+../data/crux-aups/4072-current.txt
+get request failed with status code 403 on https://www.verizon.com/about/terms-conditions/acceptable-use-policy
+
+https://www.yumpu.com/en/document/view/23439172/acceptable-use-policy
+../data/crux-aups/6963-current.txt
+'charmap' codec can't encode characters in position 1778-1794: character maps to <undefined>
+
+https://www.totallyrunable.com/acceptable-use-policy
+
+../data/googlesearch-aups/000-current.txt
+get request failed with status code 404 on https://www.totallyrunable.com/acceptable-use-policy
 
 
-## continue from 37
-https://www.cbssports.com/info/about/tos/aup 1706
-https://www.chegg.com/homework-help/questions-and-answers/question-one-20-marks-acceptable-use-policy-businesses-institutions-provide-wi-fi-internet-q40346689 383
-https://www.connexus.com.au/acceptable-use-policy 4497
-on https://www.connexus.com.au/acceptable-use-policy, exception occurred 'charmap' codec can't encode character '\u200b' in position 241: character maps to <undefined>
-https://www.coursehero.com/file/p5kq5gc/An-acceptable-use-policy-is-a-document-that-the-employee-signs-in-which-the/ 878
-https://www.dailymail.co.uk/news/article-11236623/Three-accounts-set-Toby-Young-cut-giant-breaking-acceptable-use-policy.html 34
-https://www.dell.com/learn/us/en/uscorp1/terms-conditions/acceptable-use-policy 1350
-https://www.dexerto.com/acceptable-use-policy/ 3839
-https://www.digitalspy.com/tech/cable/a2368/ntl-clarifies-acceptable-use-policy/ 3080
-https://www.docsity.com/en/acceptable-use-policy-agreement/9595121/ 4716
-https://www.doubtnut.com/pcmb-questions/what-should-not-be-part-of-an-acceptable-use-policy1-allowable-use-of-systems2-legal-obligations3-en-104655 2344
-https://www.dreamstime.com/photos-images/acceptable-use-policy.html 3631
-https://www.figma.com/aup/ 1028
-https://www.flipkart.com/acceptable-use-policy/p/itmdyr4ayg7kuur8 648
-https://www.furaffinity.net/aup 125
-on https://www.furaffinity.net/aup, exception occurred 'charmap' codec can't encode character '\u25bc' in position 8: character maps to <undefined>
-https://www.hudl.com/acceptable-use-policy 2803
-https://www.istockphoto.com/illustrations/acceptable-use-policy 2263
-https://www.ledauphine.com/faits-divers-justice 2720
-https://www.linkedin.com/pulse/acceptable-use-policy-aup-allen-amadi 318
-https://www.paypal.com/us/cshelp/article/what-is-paypal%E2%80%99s-acceptable-use-policy-and-where-can-i-find-it-help270 790
-https://www.pdffiller.com/100836094-7th20SCT20AUP1pdf-army-acceptable-use-policy-2022- 2940
-on https://www.pdffiller.com/100836094-7th20SCT20AUP1pdf-army-acceptable-use-policy-2022-, exception occurred 'charmap' codec can't encode character '\u0421' in position 6561: character maps to <undefined>
-https://www.pinterest.com/INelearn/aup-acceptable-use-policy-and-more/ 4901
-https://www.pinterest.com/meganlsuggs/acceptable-use-policy/ 274
-https://www.quora.com/What-is-an-acceptable-use-policy-What-do-you-consider-that-means 331
-https://www.reddit.com/r/cybersecurity/comments/12xfy0d/how_strict_is_your_companies_aup_acceptable_use/ 800
-https://www.ripley.k12.ok.us/page/acceptable-use-policy 3138
-https://www.sarthaks.com/248177/what-should-not-be-part-of-an-acceptable-use-policy 4552
-https://www.schools.nyc.gov/about-us/policies/internet-acceptable-use-policy 3041
-https://www.scribd.com/document/287829804/acceptable-use-policy-pdf 1132
-https://www.shopify.com/legal/aup 3352
-https://www.shutterstock.com/search/acceptable-use-policy 3590
-https://www.slideshare.net/gfair3/acceptable-use-policy-18802628 585
-https://www.studocu.com/en-us/document/grand-canyon-university/introduction-to-computer-technology/acceptable-use-policy/9802952 21
-https://www.twitch.tv/p/en/legal/channel-points-acceptable-use-policy 1367
-https://www.verizon.com/about/terms-conditions/acceptable-use-policy 4072
-on https://www.verizon.com/about/terms-conditions/acceptable-use-policy, exception occurred 'content-type'
-https://www.xfinity.com/corporate/customers/policies/highspeedinternetaup 1091
+https://www.dreamhost.com/legal/acceptable-use-policy/
+
+../data/googlesearch-aups/001-current.txt
+get request failed with status code 404 on https://www.dreamhost.com/legal/acceptable-use-policy/
+
+
+https://legal.here.com/en-gb/terms/acceptable-use-policy
+
+../data/googlesearch-aups/002-current.txt
+get request failed with status code 404 on https://legal.here.com/en-gb/terms/acceptable-use-policy
+
+
+https://www.sharetru.com/legal/acceptable-use-policy
+
+../data/googlesearch-aups/003-current.txt
+get request failed with status code 404 on https://www.sharetru.com/legal/acceptable-use-policy
+
+
+https://www.websitepolicies.com/blog/acceptable-use-policy
+
+../data/googlesearch-aups/006-current.txt
+get request failed with status code 404 on https://www.websitepolicies.com/blog/acceptable-use-policy
+
+
+https://biotechsocialpact.com/acceptable-use-policy/
+
+../data/googlesearch-aups/007-current.txt
+('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+https://www.codingdojo.com/acceptable-use-policy
+
+../data/googlesearch-aups/008-current.txt
+get request failed with status code 404 on https://www.codingdojo.com/acceptable-use-policy
+
+
+https://www.everylifetechnologies.com/acceptable-use-policy/
+
+../data/googlesearch-aups/009-current.txt
+get request failed with status code 520 on https://www.everylifetechnologies.com/acceptable-use-policy/
+
+
+https://www.eurobeds.com/webiste-acceptable-use-policy
+
+../data/googlesearch-aups/010-current.txt
+get request failed with status code 400 on https://www.eurobeds.com/webiste-acceptable-use-policy
+
+
+https://www.nasstar.com/acceptable-use-policy
+
+../data/googlesearch-aups/011-current.txt
+get request failed with status code 404 on https://www.nasstar.com/acceptable-use-policy
+
+
+https://www.puntersouthall.com/acceptable-use-policy
+
+../data/googlesearch-aups/012-current.txt
+get request failed with status code 404 on https://www.puntersouthall.com/acceptable-use-policy
+
+
+https://polishedgeek.com/acceptable-use-policy
+
+../data/googlesearch-aups/014-current.txt
+get request failed with status code 403 on https://polishedgeek.com/acceptable-use-policy
+
+
+https://aws.amazon.com/aup/
+
+../data/googlesearch-aups/015-current.txt
+get request failed with status code 404 on https://aws.amazon.com/aup/
+
+
+https://www.tracelink.com/legal-and-trust/acceptable-use-policy
+
+../data/googlesearch-aups/016-current.txt
+get request failed with status code 403 on https://www.tracelink.com/legal-and-trust/acceptable-use-policy
+
+
+https://www.cricketwireless.com/legal-info/acceptable-use-policy.html
+
+../data/googlesearch-aups/018-current.txt
+get request failed with status code 400 on https://www.cricketwireless.com/legal-info/acceptable-use-policy.html
+
+
+https://stackoverflow.com/legal/acceptable-use-policy
+
+../data/googlesearch-aups/019-current.txt
+get request failed with status code 400 on https://stackoverflow.com/legal/acceptable-use-policy
+
+
+https://celestion.com/website-acceptable-use-policy/
+
+../data/googlesearch-aups/020-current.txt
+get request failed with status code 404 on https://celestion.com/website-acceptable-use-policy/
+
+
+https://ruthbradleyphysio.com/acceptable-use-policy/
+
+../data/googlesearch-aups/021-current.txt
+get request failed with status code 404 on https://ruthbradleyphysio.com/acceptable-use-policy/
+
+
+https://www.tradealgo.com/acceptable-use-policy
+
+../data/googlesearch-aups/023-current.txt
+get request failed with status code 404 on https://www.tradealgo.com/acceptable-use-policy
+
+
+https://assureddigitaltech.com/acceptable-use-policy/
+
+../data/googlesearch-aups/024-current.txt
+get request failed with status code 404 on https://assureddigitaltech.com/acceptable-use-policy/
+
+
+https://www.ringcentral.com/legal/acceptable-use-policy.html
+
+../data/googlesearch-aups/025-current.txt
+get request failed with status code 404 on https://www.ringcentral.com/legal/acceptable-use-policy.html
+
+
+https://www.itrsgroup.com/legal/acceptable-use-policy
+
+../data/googlesearch-aups/028-current.txt
+get request failed with status code 404 on https://www.itrsgroup.com/legal/acceptable-use-policy
+
+
+https://selzy.com/en/eaup/
+
+../data/googlesearch-aups/030-current.txt
+'charmap' codec can't encode character '\u25cf' in position 2722: character maps to <undefined>
+
+https://www.cox.com/aboutus/policies/business-acceptable-use-policy.html
+
+../data/googlesearch-aups/031-current.txt
+get request failed with status code 403 on https://www.cox.com/aboutus/policies/business-acceptable-use-policy.html
+
+
+https://smartaira.com/aup/
+
+../data/googlesearch-aups/032-current.txt
+get request failed with status code 404 on https://smartaira.com/aup/
+
+
+https://www.domino-printing.com/en/tc/acceptable-use-policy.aspx
+
+../data/googlesearch-aups/033-current.txt
+get request failed with status code 400 on https://www.domino-printing.com/en/tc/acceptable-use-policy.aspx
+
+
+https://www.synopsys.com/company/legal/software-integrity/acceptable-use-policy.html
+
+../data/googlesearch-aups/034-current.txt
+get request failed with status code 404 on https://www.synopsys.com/company/legal/software-integrity/acceptable-use-policy.html
+
+
+https://www.circle.com/en/legal/acceptable-use-policy
+
+../data/googlesearch-aups/035-current.txt
+get request failed with status code 404 on https://www.circle.com/en/legal/acceptable-use-policy
+
+
+https://www.optimizely.com/legal/customer-acceptable-use-policy/
+
+../data/googlesearch-aups/037-current.txt
+get request failed with status code 404 on https://www.optimizely.com/legal/customer-acceptable-use-policy/
+
+
+https://www.dat.com/acceptable-use-policy
+
+../data/googlesearch-aups/038-current.txt
+get request failed with status code 520 on https://www.dat.com/acceptable-use-policy
+
+
+https://www.megaport.com/legal/acceptable-use-policy/
+
+../data/googlesearch-aups/039-current.txt
+get request failed with status code 404 on https://www.megaport.com/legal/acceptable-use-policy/
+
+
+https://tresorit.com/acceptable-use-policy
+
+../data/googlesearch-aups/040-current.txt
+get request failed with status code 400 on https://tresorit.com/acceptable-use-policy
+
+
+https://www.att.com/legal/terms.aup.html
+
+../data/googlesearch-aups/042-current.txt
+get request failed with status code 503 on https://www.att.com/legal/terms.aup.html
+
+
+http://gauss.ececs.uc.edu/Courses/c6055/pdf/sophosexampleITacceptableusepolicy.pdf
+
+../data/googlesearch-aups/043-current.txt
+get request failed with status code 404 on http://gauss.ececs.uc.edu/Courses/c6055/pdf/sophosexampleITacceptableusepolicy.pdf
+
+
+https://athenian.com/transparency/acceptable-use-policy
+
+../data/googlesearch-aups/044-current.txt
+get request failed with status code 404 on https://athenian.com/transparency/acceptable-use-policy
+
+
+https://www.kyriba.com/acceptable-use-policy/
+
+../data/googlesearch-aups/046-current.txt
+get request failed with status code 520 on https://www.kyriba.com/acceptable-use-policy/
+
+
+https://www.programframework.com/acceptable-use-policy
+
+../data/googlesearch-aups/047-current.txt
+get request failed with status code 404 on https://www.programframework.com/acceptable-use-policy
+
+
+https://webflow.com/legal/aup
+
+../data/googlesearch-aups/048-current.txt
+get request failed with status code 404 on https://webflow.com/legal/aup
+
+
+https://www.theinstantgroup.com/en-us/acceptable-use-policy/
+
+../data/googlesearch-aups/049-current.txt
+get request failed with status code 400 on https://www.theinstantgroup.com/en-us/acceptable-use-policy/
+
+
+https://www.powerdms.com/policy-learning-center/updating-your-acceptable-use-policy
+
+../data/googlesearch-aups/051-current.txt
+get request failed with status code 404 on https://www.powerdms.com/policy-learning-center/updating-your-acceptable-use-policy
+
+
+https://www.otava.com/acceptable-use-policy/
+
+../data/googlesearch-aups/052-current.txt
+get request failed with status code 520 on https://www.otava.com/acceptable-use-policy/
+
+
+https://surfinternet.com/wp-content/uploads/sites/10/2022/07/acceptable-use-policy-surf-internet-1.pdf
+
+../data/googlesearch-aups/053-current.txt
+get request failed with status code 404 on https://surfinternet.com/wp-content/uploads/sites/10/2022/07/acceptable-use-policy-surf-internet-1.pdf
+
+
+https://www.progress.com/legal/aup
+
+../data/googlesearch-aups/054-current.txt
+get request failed with status code 400 on https://www.progress.com/legal/aup
+
+
+https://www.sciris.com/acceptable-use-policy.html
+
+../data/googlesearch-aups/055-current.txt
+get request failed with status code 400 on https://www.sciris.com/acceptable-use-policy.html
+
+
+https://about.gitlab.com/handbook/people-group/acceptable-use-policy/
+
+../data/googlesearch-aups/056-current.txt
+get request failed with status code 400 on https://about.gitlab.com/handbook/people-group/acceptable-use-policy/
+
+
+https://mountstreet.com/acceptable-use-policy/
+
+../data/googlesearch-aups/058-current.txt
+('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+https://www.everbridge.com/about/legal/acceptable-use-policy/
+
+../data/googlesearch-aups/059-current.txt
+get request failed with status code 404 on https://www.everbridge.com/about/legal/acceptable-use-policy/
+
+
+https://www.planisys.net/aup/
+
+../data/googlesearch-aups/061-current.txt
+get request failed with status code 404 on https://www.planisys.net/aup/
+
+
+https://portland-communications.com/acceptable-use-policy/
+
+../data/googlesearch-aups/062-current.txt
+get request failed with status code 520 on https://portland-communications.com/acceptable-use-policy/
+
+
+https://www.pagerduty.com/acceptable-use-policy/
+
+../data/googlesearch-aups/063-current.txt
+get request failed with status code 520 on https://www.pagerduty.com/acceptable-use-policy/
+
+
+https://www.inmotionhosting.com/legal/acceptable-use-policy-and-content/
+
+../data/googlesearch-aups/065-current.txt
+get request failed with status code 404 on https://www.inmotionhosting.com/legal/acceptable-use-policy-and-content/
+
+
+https://www.ukg.com/acceptable-use-policy
+
+../data/googlesearch-aups/066-current.txt
+get request failed with status code 404 on https://www.ukg.com/acceptable-use-policy
+
+
+https://www.portt.com/acceptable-use-policy/
+
+../data/googlesearch-aups/067-current.txt
+get request failed with status code 404 on https://www.portt.com/acceptable-use-policy/
+
+
+https://thefuneralmarket.com/acceptable-use-policy
+
+../data/googlesearch-aups/068-current.txt
+get request failed with status code 400 on https://thefuneralmarket.com/acceptable-use-policy
+
+
+https://www.pulsarplatform.com/acceptable-use-policy/
+
+../data/googlesearch-aups/069-current.txt
+get request failed with status code 404 on https://www.pulsarplatform.com/acceptable-use-policy/
+
+
+https://wise.com/acceptable-use-policy
+
+../data/googlesearch-aups/070-current.txt
+get request failed with status code 404 on https://wise.com/acceptable-use-policy
+
+
+https://opti9tech.com/acceptable-use-policy/
+
+../data/googlesearch-aups/072-current.txt
+get request failed with status code 404 on https://opti9tech.com/acceptable-use-policy/
+
+
+https://www.tanium.com/acceptable-use-policy/
+
+../data/googlesearch-aups/073-current.txt
+get request failed with status code 520 on https://www.tanium.com/acceptable-use-policy/
+
+
+https://www.lumen.com/en-us/about/legal/acceptable-use-policy.html
+
+../data/googlesearch-aups/074-current.txt
+'charmap' codec can't encode character '\u2015' in position 16093: character maps to <undefined>
+
+https://www.quilter.com/important-information/website-acceptable-use-policy/
+
+../data/googlesearch-aups/075-current.txt
+get request failed with status code 400 on https://www.quilter.com/important-information/website-acceptable-use-policy/
+
+
+http://www.telus.com/aup
+
+../data/googlesearch-aups/076-current.txt
+get request failed with status code 404 on http://www.telus.com/aup
+
+
+https://www.liquidweb.com/about-us/policies/acceptable-use-policy/
+
+../data/googlesearch-aups/078-current.txt
+get request failed with status code 404 on https://www.liquidweb.com/about-us/policies/acceptable-use-policy/
+
+
+https://www.sailthru.com/archive-acceptable-use-policy/
+
+../data/googlesearch-aups/080-current.txt
+get request failed with status code 404 on https://www.sailthru.com/archive-acceptable-use-policy/
+
+
+https://www.egress.com/legal/acceptable-use-policy
+
+../data/googlesearch-aups/081-current.txt
+get request failed with status code 400 on https://www.egress.com/legal/acceptable-use-policy
+
+
+https://www.hellosign.com/acceptable-use-policy
+
+../data/googlesearch-aups/084-current.txt
+get request failed with status code 404 on https://www.hellosign.com/acceptable-use-policy
+
+
+https://www.quanticate.com/acceptable-use-policy
+
+../data/googlesearch-aups/085-current.txt
+get request failed with status code 404 on https://www.quanticate.com/acceptable-use-policy
+
+
+https://www.ntt.com/en/about-us/disclosure/aup.html
+
+../data/googlesearch-aups/086-current.txt
+get request failed with status code 404 on https://www.ntt.com/en/about-us/disclosure/aup.html
+
+
+https://www.ghsclassificationcourses.com/home/acceptable-use-policy/
+
+../data/googlesearch-aups/087-current.txt
+('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+https://www.raymondblanc.com/website-acceptable-use-policy/
+
+../data/googlesearch-aups/088-current.txt
+('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+
+https://bregroup.com/acceptable-use-policy/
+
+../data/googlesearch-aups/089-current.txt
+get request failed with status code 520 on https://bregroup.com/acceptable-use-policy/
+
+
+https://www.itispivotal.com/post/the-importance-of-an-acceptable-use-policy
+
+../data/googlesearch-aups/090-current.txt
+get request failed with status code 400 on https://www.itispivotal.com/post/the-importance-of-an-acceptable-use-policy
+
+
+https://integrisit.com/adopt-an-acceptable-use-policy-help-your-employees-keep-your-network-safe/
+
+../data/googlesearch-aups/091-current.txt
+get request failed with status code 520 on https://integrisit.com/adopt-an-acceptable-use-policy-help-your-employees-keep-your-network-safe/
+
+
+https://usinternet.com/acceptable-use-policy/
+
+../data/googlesearch-aups/092-current.txt
+get request failed with status code 404 on https://usinternet.com/acceptable-use-policy/
+
+
+https://www.twilio.com/en-us/legal/aup
+
+../data/googlesearch-aups/093-current.txt
+get request failed with status code 404 on https://www.twilio.com/en-us/legal/aup
+
+
+https://www.atlassian.com/legal/acceptable-use-policy
+
+../data/googlesearch-aups/094-current.txt
+get request failed with status code 404 on https://www.atlassian.com/legal/acceptable-use-policy
+
+
+https://www.graft.com/acceptable-use-policy
+
+../data/googlesearch-aups/095-current.txt
+get request failed with status code 404 on https://www.graft.com/acceptable-use-policy
+
+
+https://www.mailgun.com/legal/aup/
+
+../data/googlesearch-aups/096-current.txt
+'charmap' codec can't encode character '\u2264' in position 4300: character maps to <undefined>
+
+https://www.csoonline.com/article/3682760/how-acceptable-is-your-acceptable-use-policy.html
+
+../data/googlesearch-aups/099-current.txt
+get request failed with status code 404 on https://www.csoonline.com/article/3682760/how-acceptable-is-your-acceptable-use-policy.html
+
+
+https://www.silicloud.com/doc/article/acceptable-use-policy-aup
+
+../data/googlesearch-aups/100-current.txt
+get request failed with status code 403 on https://www.silicloud.com/doc/article/acceptable-use-policy-aup
+
+
+https://enterprise.verizon.com/terms/aup/
+
+../data/googlesearch-aups/102-current.txt
+get request failed with status code 403 on https://enterprise.verizon.com/terms/aup/
+
+
+https://www.squarespace.com/acceptable-use-policy
+
+../data/googlesearch-aups/103-current.txt
+get request failed with status code 404 on https://www.squarespace.com/acceptable-use-policy
+
+
+https://www.europeanaviationnetwork.com/en/site-services/acceptable-use-policy.html
+
+../data/googlesearch-aups/104-current.txt
+get request failed with status code 404 on https://www.europeanaviationnetwork.com/en/site-services/acceptable-use-policy.html
+
+
+https://schneiderfs.com/acceptable-use-policy/
+
+../data/googlesearch-aups/105-current.txt
+get request failed with status code 400 on https://schneiderfs.com/acceptable-use-policy/
+
+
+https://bonterms.com/forms/acceptable-use-policy-version-1-0/
+
+../data/googlesearch-aups/106-current.txt
+get request failed with status code 400 on https://bonterms.com/forms/acceptable-use-policy-version-1-0/
+
+
+https://www.blackbaud.com/company/acceptable-use-policy
+
+../data/googlesearch-aups/108-current.txt
+get request failed with status code 400 on https://www.blackbaud.com/company/acceptable-use-policy
+
+
+https://www.commonstructuralrulessoftware.com/Topic/23-acceptable-use-policy.aspx
+
+../data/googlesearch-aups/109-current.txt
+HTTPSConnectionPool(host='www.commonstructuralrulessoftware.com', port=443): Max retries exceeded with url: /Topic/23-acceptable-use-policy.aspx%0A (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)')))
+
+https://www.forbin.com/acceptable-use-policy
+
+../data/googlesearch-aups/110-current.txt
+get request failed with status code 404 on https://www.forbin.com/acceptable-use-policy
+
+
+https://www.sprint.com/en/legal/acceptable-use-policy.html
+
+../data/googlesearch-aups/111-current.txt
+get request failed with status code 404 on https://www.sprint.com/en/legal/acceptable-use-policy.html
+
+
+https://trove-research.com/acceptable-use-policy/
+
+../data/googlesearch-aups/112-current.txt
+get request failed with status code 404 on https://trove-research.com/acceptable-use-policy/
+
+
+https://www.zscaler.com/legal/acceptable-use-policy
+
+../data/googlesearch-aups/113-current.txt
+get request failed with status code 404 on https://www.zscaler.com/legal/acceptable-use-policy
+
+
+https://smartbear.com/legal/acceptable-use-policy/
+
+../data/googlesearch-aups/114-current.txt
+get request failed with status code 400 on https://smartbear.com/legal/acceptable-use-policy/
+
+
+https://www.thembrsite.com/terms/acceptable-use-policy/
+
+../data/googlesearch-aups/117-current.txt
+get request failed with status code 500 on https://www.thembrsite.com/terms/acceptable-use-policy/
+
+
+https://www.edgeconnex.com/aup/
+
+../data/googlesearch-aups/118-current.txt
+get request failed with status code 520 on https://www.edgeconnex.com/aup/
+
+
+https://www.digitalocean.com/legal/acceptable-use-policy
+
+../data/googlesearch-aups/119-current.txt
+get request failed with status code 404 on https://www.digitalocean.com/legal/acceptable-use-policy
+
+
+https://saucelabs.com/doc/acceptable-use-policy
+
+../data/googlesearch-aups/120-current.txt
+get request failed with status code 404 on https://saucelabs.com/doc/acceptable-use-policy
+
+
+https://www.westerndigital.com/legal/acceptable-use-policy
+
+../data/googlesearch-aups/121-current.txt
+get request failed with status code 404 on https://www.westerndigital.com/legal/acceptable-use-policy
+
+
+https://netnerd.com/acceptable-use-policy/
+
+../data/googlesearch-aups/122-current.txt
+get request failed with status code 404 on https://netnerd.com/acceptable-use-policy/
+
+
+https://www.alchemer.com/acceptable-use-policy/
+
+../data/googlesearch-aups/123-current.txt
+get request failed with status code 403 on https://www.alchemer.com/acceptable-use-policy/
+
+
+https://www.excedrin.com/acceptable-use-policy/
+
+../data/googlesearch-aups/124-current.txt
+get request failed with status code 404 on https://www.excedrin.com/acceptable-use-policy/
+
+
+https://softpower30.com/acceptable-use-policy/
+
+../data/googlesearch-aups/125-current.txt
+get request failed with status code 520 on https://softpower30.com/acceptable-use-policy/
+
+
+https://www.business.com/articles/acceptable-use-policy/
+
+../data/googlesearch-aups/128-current.txt
+get request failed with status code 404 on https://www.business.com/articles/acceptable-use-policy/
+
+
+https://www.plivo.com/aup/
+
+../data/googlesearch-aups/130-current.txt
+get request failed with status code 404 on https://www.plivo.com/aup/
+
+
+https://www.e2open.com/acceptable-use-policy/
+
+../data/googlesearch-aups/131-current.txt
+get request failed with status code 404 on https://www.e2open.com/acceptable-use-policy/
+
+
+https://www.webscale.com/acceptable-use-policy/
+
+../data/googlesearch-aups/132-current.txt
+get request failed with status code 502 on https://www.webscale.com/acceptable-use-policy/
+
+
+https://www.getflashy.com/acceptable-use-policy
+
+../data/googlesearch-aups/133-current.txt
+get request failed with status code 404 on https://www.getflashy.com/acceptable-use-policy
+
+
+https://www.higherlogic.com/legal/acceptable-use-policy/
+
+../data/googlesearch-aups/134-current.txt
+get request failed with status code 520 on https://www.higherlogic.com/legal/acceptable-use-policy/
+
+
+https://www.intercom.com/legal/acceptable-use-policy
+
+../data/googlesearch-aups/135-current.txt
+get request failed with status code 404 on https://www.intercom.com/legal/acceptable-use-policy
+
+
+https://aldohappy.com/acceptable-use-policy
+
+../data/googlesearch-aups/136-current.txt
+get request failed with status code 403 on https://aldohappy.com/acceptable-use-policy
+
+
+https://appfire.com/acceptable-use-policy/
+
+../data/googlesearch-aups/137-current.txt
+get request failed with status code 400 on https://appfire.com/acceptable-use-policy/
+
+
+https://meetmarigold.com/acceptable-use-policy/
+
+../data/googlesearch-aups/138-current.txt
+get request failed with status code 520 on https://meetmarigold.com/acceptable-use-policy/
+
+
+https://www.diligenciagroup.com/policies/acceptable-use-policy
+
+../data/googlesearch-aups/139-current.txt
+get request failed with status code 404 on https://www.diligenciagroup.com/policies/acceptable-use-policy
+
+
+https://www.bluejeans.com/legal/acceptable-use-policy
+
+../data/googlesearch-aups/140-current.txt
+get request failed with status code 403 on https://www.bluejeans.com/legal/acceptable-use-policy
+
+
+https://mapp.com/acceptable-use-policy/
+
+../data/googlesearch-aups/141-current.txt
+get request failed with status code 404 on https://mapp.com/acceptable-use-policy/
+
+
+https://www.tritondigital.com/acceptable-use-policy
+
+../data/googlesearch-aups/142-current.txt
+get request failed with status code 400 on https://www.tritondigital.com/acceptable-use-policy
+
+
+https://serversaurus.com.au/acceptable-use-policy/
+
+../data/googlesearch-aups/143-current.txt
+get request failed with status code 404 on https://serversaurus.com.au/acceptable-use-policy/
+
+
+https://www.sumologic.com/acceptable-use-policy/
+
+../data/googlesearch-aups/145-current.txt
+get request failed with status code 404 on https://www.sumologic.com/acceptable-use-policy/
+
+
+https://www.ipage.com/legal/acceptable-use-policy
+
+../data/googlesearch-aups/147-current.txt
+get request failed with status code 404 on https://www.ipage.com/legal/acceptable-use-policy
+
+
+https://www.digicelgroup.com/en/legal/acceptable-use-policy.html
+
+../data/googlesearch-aups/148-current.txt
+get request failed with status code 404 on https://www.digicelgroup.com/en/legal/acceptable-use-policy.html
+
+
+https://ministryvenues.com/policies/acceptable-use-policy/
+
+../data/googlesearch-aups/149-current.txt
+get request failed with status code 400 on https://ministryvenues.com/policies/acceptable-use-policy/
+
+
+https://ckeditor.com/legal/fair-acceptable-use-policy/
+
+../data/googlesearch-aups/150-current.txt
+get request failed with status code 404 on https://ckeditor.com/legal/fair-acceptable-use-policy/
+
+
+https://www.infinitelyvirtual.com/acceptable-use-policy/
+
+../data/googlesearch-aups/151-current.txt
+get request failed with status code 404 on https://www.infinitelyvirtual.com/acceptable-use-policy/
+
+
+https://www.betterup.com/acceptable-use-policy
+
+../data/googlesearch-aups/153-current.txt
+get request failed with status code 404 on https://www.betterup.com/acceptable-use-policy
+
+
+https://www.larksuite.com/acceptable-use-policy
+
+../data/googlesearch-aups/154-current.txt
+get request failed with status code 404 on https://www.larksuite.com/acceptable-use-policy
+
+
+https://trust.kahoot.com/acceptable-use-policy/
+
+../data/googlesearch-aups/155-current.txt
+get request failed with status code 400 on https://trust.kahoot.com/acceptable-use-policy/
+
+
+https://londonbusinessforum.com/website-acceptable-use-policy/
+
+../data/googlesearch-aups/156-current.txt
+get request failed with status code 404 on https://londonbusinessforum.com/website-acceptable-use-policy/
+
+
+https://woodsford.com/acceptable-use-policy/
+
+../data/googlesearch-aups/157-current.txt
+get request failed with status code 400 on https://woodsford.com/acceptable-use-policy/
+
+
+https://www.formstack.com/legal/website-acceptable-use-policy
+
+../data/googlesearch-aups/158-current.txt
+get request failed with status code 400 on https://www.formstack.com/legal/website-acceptable-use-policy
+
+
+https://www.animoassociates.com/acceptable-use-policy/
+
+../data/googlesearch-aups/159-current.txt
+get request failed with status code 404 on https://www.animoassociates.com/acceptable-use-policy/
+
+
+https://www.shopify.com/legal/aup
+
+../data/googlesearch-aups/160-current.txt
+get request failed with status code 404 on https://www.shopify.com/legal/aup
+
+
+https://www.dataselect.com/website-acceptable-use-policy/
+
+../data/googlesearch-aups/161-current.txt
+get request failed with status code 403 on https://www.dataselect.com/website-acceptable-use-policy/
+
+
+https://wpengine.com/legal/aup/
+
+../data/googlesearch-aups/162-current.txt
+get request failed with status code 520 on https://wpengine.com/legal/aup/
+
+
+https://kapiapartners.com/acceptable-use-policy/
+
+../data/googlesearch-aups/163-current.txt
+get request failed with status code 400 on https://kapiapartners.com/acceptable-use-policy/
+
+
+https://www.hp.com/us-en/acceptable-use-policy.html
+
+../data/googlesearch-aups/164-current.txt
+get request failed with status code 404 on https://www.hp.com/us-en/acceptable-use-policy.html
+
+
+https://www.prnewswire.com/news-releases/internet-security-firm-compliance-specialists-distributes-ai-acceptable-use-policy-to-protect-businesses-from-illegal-sharing-and-lawsuits-301830084.html
+
+../data/googlesearch-aups/166-current.txt
+get request failed with status code 404 on https://www.prnewswire.com/news-releases/internet-security-firm-compliance-specialists-distributes-ai-acceptable-use-policy-to-protect-businesses-from-illegal-sharing-and-lawsuits-301830084.html
+
+
+https://www.midco.com/legal/acceptable-use-policy-aup/
+
+../data/googlesearch-aups/167-current.txt
+get request failed with status code 400 on https://www.midco.com/legal/acceptable-use-policy-aup/
+
+
+https://about.realestate.com.au/acceptable-use-policy-residential/
+
+../data/googlesearch-aups/168-current.txt
+get request failed with status code 404 on https://about.realestate.com.au/acceptable-use-policy-residential/
+
+
+https://launchdarkly.com/policies/aup/
+
+../data/googlesearch-aups/169-current.txt
+get request failed with status code 404 on https://launchdarkly.com/policies/aup/
+
+
+https://www.hcafloridaphysicians.com/legal/acceptable-use-policy
+
+../data/googlesearch-aups/170-current.txt
+get request failed with status code 400 on https://www.hcafloridaphysicians.com/legal/acceptable-use-policy
+
+
+https://zivaro.com/acceptable-use-policy/
+
+../data/googlesearch-aups/171-current.txt
+get request failed with status code 520 on https://zivaro.com/acceptable-use-policy/
+
+
+https://www.cdnetworks.com/acceptable-use-policy/
+
+../data/googlesearch-aups/172-current.txt
+get request failed with status code 403 on https://www.cdnetworks.com/acceptable-use-policy/
+
+
+https://www.consolidated.com/support/terms-policies/internet-terms-policies/internet-acceptable-use-policy
+
+../data/googlesearch-aups/173-current.txt
+get request failed with status code 400 on https://www.consolidated.com/support/terms-policies/internet-terms-policies/internet-acceptable-use-policy
+
+
+https://www.infoblox.com/company/legal/csp-acceptable-use-policy/
+
+../data/googlesearch-aups/174-current.txt
+get request failed with status code 404 on https://www.infoblox.com/company/legal/csp-acceptable-use-policy/
+
+
+https://www.bdxworld.com/acceptable-use-policy
+
+../data/googlesearch-aups/175-current.txt
+get request failed with status code 404 on https://www.bdxworld.com/acceptable-use-policy
+
+
+https://www.linode.com/legal-aup/
+
+../data/googlesearch-aups/176-current.txt
+get request failed with status code 404 on https://www.linode.com/legal-aup/
+
+
+https://www.fusionconnect.com/acceptable-use-policy
+
+../data/googlesearch-aups/177-current.txt
+get request failed with status code 404 on https://www.fusionconnect.com/acceptable-use-policy
+
+
+https://thrivenextgen.com/acceptable-use-policy/
+
+../data/googlesearch-aups/179-current.txt
+get request failed with status code 520 on https://thrivenextgen.com/acceptable-use-policy/
+
+
+https://www.dimagi.com/terms/latest/aup/
+
+../data/googlesearch-aups/181-current.txt
+get request failed with status code 404 on https://www.dimagi.com/terms/latest/aup/
+
+
+https://www.sparklight.com/legal/acceptable-use-policy
+
+../data/googlesearch-aups/182-current.txt
+get request failed with status code 400 on https://www.sparklight.com/legal/acceptable-use-policy
+
+
+https://sycurio.com/acceptable-use-policy
+
+../data/googlesearch-aups/183-current.txt
+get request failed with status code 404 on https://sycurio.com/acceptable-use-policy
+
+
+https://iterable.com/trust/acceptable-use-policy/
+
+../data/googlesearch-aups/184-current.txt
+get request failed with status code 404 on https://iterable.com/trust/acceptable-use-policy/
+
+
+https://theinvestmentcompanyplc.co.uk/acceptable-use-policy/
+
+../data/googlesearch-aups/186-current.txt
+get request failed with status code 410 on https://theinvestmentcompanyplc.co.uk/acceptable-use-policy/
+
+
+https://docs.newrelic.com/docs/licenses/license-information/general-usage-licenses/acceptable-use-policy/
+
+../data/googlesearch-aups/187-current.txt
+get request failed with status code 404 on https://docs.newrelic.com/docs/licenses/license-information/general-usage-licenses/acceptable-use-policy/
+
+
+https://www.flexspring.com/acceptable-use-policy
+
+../data/googlesearch-aups/188-current.txt
+get request failed with status code 404 on https://www.flexspring.com/acceptable-use-policy
+
+
+https://www.zenlayer.com/acceptable-use-policy/
+
+../data/googlesearch-aups/189-current.txt
+get request failed with status code 404 on https://www.zenlayer.com/acceptable-use-policy/
+
+
+https://www.namecheap.com/legal/hosting/aup/
+
+../data/googlesearch-aups/190-current.txt
+get request failed with status code 400 on https://www.namecheap.com/legal/hosting/aup/
+
+
+https://www.beyondtheschoolrun.com/website-acceptable-use-policy/
+
+../data/googlesearch-aups/191-current.txt
+get request failed with status code 404 on https://www.beyondtheschoolrun.com/website-acceptable-use-policy/
+
+
+https://www.imperva.com/legal/acceptable-use-policy/
+
+../data/googlesearch-aups/192-current.txt
+get request failed with status code 403 on https://www.imperva.com/legal/acceptable-use-policy/
+
+
+https://www.telstra.us.com/en/legal/acceptable-use-policy
+
+../data/googlesearch-aups/193-current.txt
+get request failed with status code 404 on https://www.telstra.us.com/en/legal/acceptable-use-policy
+
+
+https://www.wellbeingthroughschool.com/aup
+
+../data/googlesearch-aups/194-current.txt
+get request failed with status code 404 on https://www.wellbeingthroughschool.com/aup
+
+
+https://www.comsenso.com/aup/
+
+../data/googlesearch-aups/195-current.txt
+get request failed with status code 404 on https://www.comsenso.com/aup/
+
+
+https://www.mentimeter.com/trust/legal/acceptable-use-policy
+
+../data/googlesearch-aups/196-current.txt
+get request failed with status code 403 on https://www.mentimeter.com/trust/legal/acceptable-use-policy
+
+
+https://lightpathfiber.com/acceptable-use-policy
+
+../data/googlesearch-aups/200-current.txt
+get request failed with status code 404 on https://lightpathfiber.com/acceptable-use-policy
+
+
+https://amplitude.com/aup
+
+../data/googlesearch-aups/201-current.txt
+get request failed with status code 502 on https://amplitude.com/aup
+
+
+https://uk.rs-online.com/web/content/about-rs/articles/acceptable-use-policy
+
+../data/googlesearch-aups/202-current.txt
+get request failed with status code 404 on https://uk.rs-online.com/web/content/about-rs/articles/acceptable-use-policy
+
+
+https://www.invicti.com/legal/aup/
+
+../data/googlesearch-aups/203-current.txt
+get request failed with status code 404 on https://www.invicti.com/legal/aup/
+
+
+https://www.smartsheet.com/legal/acceptable-use-policy
+
+../data/googlesearch-aups/204-current.txt
+get request failed with status code 404 on https://www.smartsheet.com/legal/acceptable-use-policy
+
+
+https://www.energyoptimisation.com/acceptable-use-policy/
+
+../data/googlesearch-aups/205-current.txt
+get request failed with status code 404 on https://www.energyoptimisation.com/acceptable-use-policy/
+
+
+https://www.techinsurance.com/resources/acceptable-use-policy
+
+../data/googlesearch-aups/206-current.txt
+get request failed with status code 400 on https://www.techinsurance.com/resources/acceptable-use-policy
+
+
+https://www.databricks.com/legal/aup
+
+../data/googlesearch-aups/207-current.txt
+get request failed with status code 403 on https://www.databricks.com/legal/aup
+
+
+https://www.freuds.com/acceptable-use-policy
+
+../data/googlesearch-aups/208-current.txt
+get request failed with status code 404 on https://www.freuds.com/acceptable-use-policy
+
+
+https://identity.digital/policies/acceptable-use-policy/
+
+../data/googlesearch-aups/209-current.txt
+get request failed with status code 403 on https://identity.digital/policies/acceptable-use-policy/
+
+
+https://www.everyaction.com/acceptable-use-policy/
+
+../data/googlesearch-aups/210-current.txt
+get request failed with status code 404 on https://www.everyaction.com/acceptable-use-policy/
+
+
+https://www.goalshouse.com/acceptable-use-policy
+
+../data/googlesearch-aups/211-current.txt
+get request failed with status code 404 on https://www.goalshouse.com/acceptable-use-policy
+
+
+https://harkn.com/acceptable-use-policy/
+
+../data/googlesearch-aups/213-current.txt
+get request failed with status code 400 on https://harkn.com/acceptable-use-policy/
+
+
+https://www.cogentco.com/en/acceptable-use-policy
+
+../data/googlesearch-aups/214-current.txt
+get request failed with status code 404 on https://www.cogentco.com/en/acceptable-use-policy
+
+
+https://www.avast.com/acceptable-use-policy
+
+../data/googlesearch-aups/215-current.txt
+'charmap' codec can't encode character '\u010c' in position 715: character maps to <undefined>
+
+https://www.pccwglobal.com/acceptable-use-policy/
+
+../data/googlesearch-aups/216-current.txt
+get request failed with status code 404 on https://www.pccwglobal.com/acceptable-use-policy/
+
+
+https://www.qtsdatacenters.com/company/legal/acceptable-use-policy
+
+../data/googlesearch-aups/218-current.txt
+HTTPSConnectionPool(host='www.qtsdatacenters.com', port=443): Max retries exceeded with url: /company/legal/acceptable-use-policy%0A (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:997)')))
+
+https://www.ibm.com/services/us/imc/html/aup1.html
+
+../data/googlesearch-aups/219-current.txt
+get request failed with status code 400 on https://www.ibm.com/services/us/imc/html/aup1.html
+
+
+https://pressidium.com/legal/acceptable-use-policy/
+
+../data/googlesearch-aups/220-current.txt
+unable to scrape text from https://pressidium.com/legal/acceptable-use-policy/
+
+
