@@ -9,7 +9,7 @@ import csv
 from bs4 import BeautifulSoup
 from PyPDF2 import PdfReader
 from io import BytesIO
-from Crypto.Cipher import AES
+# from Crypto.Cipher import AES
 
 random.seed(0)
 
@@ -81,7 +81,7 @@ def get_search_results(url, n=5):
 def get_aups_in_bucket(partial_df, batch=None):
   aups = []
   rank = partial_df.iloc[0]['rank']
-  fname = f"../data/urls/aups-rank{rank}{'-batch' + str(batch) if batch else ''}.csv"
+  fname = f"../data/urls/crux-aups-rank{rank}{'-batch' + str(batch) if batch else ''}.csv"
 
   # create a new file to store aup urls
   with open(fname, 'w') as f:
@@ -135,18 +135,17 @@ def get_snapshots(url):
 
 ### PART 4: Scraping Content from URLs ###
 
-def get_aup_content(aup_url, index, timestamp='current'):
+def get_aup_content(aup_url, fname):
   response = requests.get(aup_url)
-  padded_index = str(index).zfill(6)
   text = ""
 
-  # if not response.ok:
-  #   print(f'get request failed with status code {response.status_code} on {aup_url}')
+  if not response.ok:
+    raise Exception(f'get request failed with status code {response.status_code} on {aup_url}')
   
   # if AUP is a webpage, remove extraneous html elements and get text from remaining elements
   if 'text/html' in response.headers['Content-Type']:
     soup = BeautifulSoup(response.content)
-    elems_to_rm = ['style', 'script', 'head', 'title', 'nav', 'heater', 'footer', 'button', 'a']
+    elems_to_rm = ['style', 'script', 'meta', 'head', 'title', 'nav', 'header', 'footer', 'button', 'img', 'svg']
     for s in soup(elems_to_rm):
       s.extract()
     text = soup.get_text()
@@ -159,16 +158,20 @@ def get_aup_content(aup_url, index, timestamp='current'):
       text += page.extract_text()
     
   else:
-    print(f"urecognized content type {response.headers['Content-Type']} for {aup_url}")
-    # TODO return error
+    raise Exception(f"urecognized content type {response.headers['Content-Type']} for {aup_url}")
 
+  if not text:
+    raise Exception(f'unable to scrape text from {aup_url}')
+  
   # strip leading/trailing space and drop blank lines
   lines = (line.strip() for line in text.splitlines())
   cleantext = '\n'.join(line for line in lines if line)
 
   # write to file
-  fname = f'../data/aups/{padded_index}-{timestamp}.txt'
+  # padded_index = str(index).zfill(6)
+  # fname = f'../data/aups/{padded_index}-{timestamp}.txt'
   open(fname, 'w').write(cleantext)
+
   # try:
   #   open(fname, 'w').write(cleantext)
   # except:
