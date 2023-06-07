@@ -1,0 +1,52 @@
+Skip to the content
+Don't miss an insight. Subscribe to Techopedia for free.
+Subscribe
+Advertisements
+Table of Contents
+What Does Acceptable Use Policy Mean?
+An acceptable use policy (AUP) is a document that outlines a set of rules to be followed by users or customers of a set of computing resources, which could be a computer network, website or large computer system. An AUP clearly states what the user is and is not allowed to do with the these resources.Advertisements
+An AUP is very similar to the ubiquitous terms and conditions or end-user license agreements (EULA) found on almost all software applications. The main difference is that an AUP covers the use of a much larger shared computing resource, such as an LAN or website, as opposed to a single software item. One consequence of sharing is that an AUP typically goes into detail about etiquette and respect for fellow users of the resource, which is not applicable for single-user software applications.
+An acceptable use policy is also known as a fair use policy or terms of use.
+Techopedia Explains Acceptable Use Policy
+AUPs are mostly used by organizations deploying networks for internal use, such as commercial corporations, schools and universities. They are also frequently employed by websites to inform site visitors and customers about what is allowed on the site. For example, some companies do not allow employees to use the corporate LAN after-hours for activities (such as games) that don’t provide value to the company. This must be clearly spelled out to the employees.
+Users may only glance through AUPs or not read them at all. Often, this happens because AUPs use standard do’s and don’ts and may be written in a way that is hard to read and understand. For the user, this is a mistake because he or she may never know about any unusual requirements. For example, some social networking sites may not allow discussions that disparage or offend certain religious, racial or political groups.
+The majority of AUPs also spell out the consequences of breaching the laid-down regulations. These range from warning users to disabling user accounts to extreme measures such as legal action.
+Advertisements
+Share This Article
+Related Terms
+End-User License AgreementLocal Area NetworkWide Area NetworkNetworkingPolicy AwarenessTerms of Service
+Related Reading
+SOPA and the Internet: Copyright Freedom or Uncivil War?
+Tags
+Data ManagementInternetIT Business AlignmentPrivacy and Compliance
+Trending Articles
+Blockchain
+How ChatGPT is Revolutionizing Smart Contract and Blockchain
+Blockchain
+An Introduction to Blockchain Technology
+Blockchain
+How Do Cryptocurrencies Work?
+Healthcare IT
+AI in Healthcare: Identifying Risks & Saving Money
+Tech moves fast! Stay ahead of the curve with Techopedia!
+Join nearly 200,000 subscribers who receive actionable tech insights from Techopedia.
+This site is protected by reCAPTCHA and the GooglePrivacy Policy andTerms of Service apply.
+Latest Articles
+Machine Learning in Business: How Companies are Leveraging AI for Growth?
+By: Dr. Tehseen Zia
+| Tenured Associate Professor at Comsats University Islamabad
+Why is Multi-Cloud the Future of Resilient Enterprises?
+By: Assad Abbas
+| Tenured Associate Professor of Computer Science at COMSATS University
+HedgeUp (HDUP) Onboards 400+ Holders Daily, While Preparing to Take on Rivals Shiba Inu (SHIB) and Filecoin (FIL)
+By: Alan Draper
+| Editor-in-Chief
+How Does Transfer Learning Benefit AI models in Leveraging Knowledge?
+By: Kaushik Pal
+| Contributor
+Exploring the Power of XAI for Cloud System Architecture Evaluation
+By: Assad Abbas
+| Tenured Associate Professor of Computer Science at COMSATS University
+Advertisements
+Advertisements
+Advertisements
