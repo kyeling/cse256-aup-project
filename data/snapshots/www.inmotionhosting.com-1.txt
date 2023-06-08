@@ -1,0 +1,50 @@
+Skip to content
+Terms
+Modification to the Agreements, Policies and/or the Services.
+Authority to Contract
+Customer’s Account
+Customer’s Responsibilities
+License to Company
+Billing and Payment
+Term; Termination; Cancellation Policy
+Customer Conduct Towards Company
+Property Rights
+Trademark and/or Copyright Claims
+Links to Third-Party Websites
+Indemnification
+Compliance with Local Laws
+Translation
+General Terms
+Agreements
+Hosting Agreement
+Backup Manager Agreement
+Domain Registration Agreement
+QuickStarter Agreement
+Reseller Advantage Agreement
+Web Design Services Agreement
+WebPro Agreement
+Website Transfer Agreement
+White Glove Agreement
+Third Party Services
+ICANN Registrants’ Benefits and Responsibilities
+ICANN Registrar Transfer Dispute Resolution Policy
+Sectigo Terms of Use
+Tucows Master Domain Agreement
+Customer Conduct
+Overview
+Universal Terms of Service
+In the event of a conflict between this article and the Universal Terms of Service, the Universal Terms of Service will control.
+Policy
+Acceptable Use Policy and Content
+Under this Agreement and Policies, Customer shall comply with Company’s then current Acceptable Use Policy (“AUP”), as amended, modified or updated from time to time by Company, which currently can be viewed under the Legal Details section of Company’s Site, and which is incorporated in this Agreement by this reference.
+Customer hereby acknowledges that it has reviewed the AUP and that the terms of the AUP are incorporated herein by reference.  In the event of any inconsistencies between this Agreement and the AUP, the terms of the AUP shall govern. Company does not monitor the content that is submitted to, stored on or distributed or disseminated by Customer via the Services (collectively, the “Customer Content”).  Customer Content also includes (but is not limited to) content of Customer’s website(s), customer(s) and/or user(s).
+Some of the features of Company’s Site or the Services may allow Users to view, post, publish, share, store, or manage ideas, opinions, recommendations, or advice via forum posts, literary, artistic, musical, or other content (“User Content”).  All content submitted through an Account is considered User Content.  By posting or publishing User Content to Company’s Site or through the Services, Customer represents and warrants to Company that (i) Customer has all necessary rights to distribute User Content via Company’s Site or via the Services, either because Customer is the author of the User Content and has the right to distribute the same, or because Customer has the appropriate distribution rights, licenses, consents, and/or permissions to use, in writing, from the copyright or other owner of the User Content, and (ii) the User Content does not violate the rights of any third party.
+Customer understands and agrees that the content posted and/or stored on the Customer’s website(s) will not contain adult content, pornography nudity of any kind, and/or the written word of a sexual nature.
+Customer understands and agrees that posting and/or storing of material that contains hate speech is not permitted.
+Customer understands and agrees that all Customer Content posted and/or stored on Customer’s website(s) will not be used for cryptocurrency mining, render farming, committing or promoting any type of illegal activity including, but not limited to, fraud, mailbombing, denial of service attacks, storing and/or housing and/or linking to illegal content, including but not limited to, “warez,” “hacking”/”cracking”/”key generators,” gambling, obscene material or be used in the traffic of illegal materials.
+Customer is not permitted to use ad-servers, attempts to circumvent quota system owned by “nobody,” certain podcasting sites, use of torrent software, proxies, excessive resource usage or ‘core dumping’, attempting to circumvent any of our or other sites security policies, procedures or systems.
+Customer shall be solely responsible for any and all of Customer Content or User Content that is submitted through an Account, and the consequences of, and requirements for, distributing it.
+Customer shall be solely responsible and will be held liable for incorrect setting of netmasks, routes, or any other network configuration or programming issue which causes unnecessary broadcast or multicast traffic on Company’s network, or denial of service, deliberate or not, caused by forging address resolution protocol (“ARP”) queries or replies or by configuring internet protocol addresses into Customer’s hardware which were not assigned to Customer’s Account. The foregoing actions may result in disconnection of the Services. Any loss of functionality of the Account related to the foregoing actions will be and remain the Customer’s sole responsibility. If the foregoing actions are deemed by Company to not warrant an immediate and drastic action, Customer will be contacted.
+Notwithstanding anything to the contrary contained in this Agreement, Company may immediately take corrective action, including removal of all or a portion of the Customer Content, disconnection or discontinuance of any and all Services, or termination of this Agreement. In the event Company takes corrective action due to a violation of the AUP, Company shall not refund to Customer any fees paid in advance of such corrective action. Customer hereby agrees that Company shall have no liability to Customer or any of Customer’s customers due to any corrective action that Company may take (including, without limitation, disconnection of the Services).
+Scroll Up
+We use cookies to ensure that we give you the best experience on our website. By using this site, you agree to our Website Privacy Policy.

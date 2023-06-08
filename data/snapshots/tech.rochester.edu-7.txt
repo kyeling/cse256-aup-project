@@ -1,0 +1,53 @@
+Skip to main content
+IT Policies
+Acceptable Use Policy
+Acceptable Use Policy
+Scope
+This policy details specific requirements for the use of all computing and network resources at the University of Rochester, including electronic and hardcopy data, information, and information assets.  Information resources and technology at the University of Rochester support the educational, patient care, instructional, research, and administrative activities of the University, and the use of these resources is a privilege that is extended to members of the University of Rochester community.  As a user of these services and facilities, you have access to valuable University resources, to high risk and/or moderate risk information, and to internal and external networks.  Consequently, it is important for you to behave in a responsible, ethical, and legally compliant manner.
+In general, acceptable use means ensuring that the information resources and technology of the University are used for their intended purposes while respecting the rights of other computer users, the integrity of the physical facilities, the confidentiality of data, information, and information assets, and all pertinent license and contractual agreements.  If an individual is found to be in violation of the Acceptable Use Policy, the University may take disciplinary action, including restriction of and possible loss of network privileges or more serious consequences, up to and including suspension, termination, or expulsion from the University.  Individuals may also be subject to federal, state, and local laws governing many interactions that occur on the University’s networks and on the Internet.  These policies and laws are subject to change as state and federal laws evolve.
+Purpose
+This policy applies to all users of computing resources owned or managed by the University of Rochester. Individuals covered by the policy include, but not limited to, University faculty and visiting faculty, physicians, staff, students, alumni, contractors, volunteers, guests or agents of the administration, and external individuals and organizations accessing network services via the University’s computing facilities.
+Computing resources include all University-owned, licensed, or managed hardware and software, data, information, information assets, University assigned user accounts, and use of the University network via a physical or wireless connection (including RESNET), regardless of the ownership of the computer or device connected to the network.
+These policies apply to technology whether administered in individual departments and divisions or by central administrative departments.  They apply to personally owned computers and devices connected by wire or wireless to the University network, and to off-site computers that connect remotely to the University’s network services.
+Requirements
+In making acceptable use of resources, individuals covered by this policy must:
+Use resources only for authorized purposes.
+Protect their User IDs, digital / electronic signatures, other authentication and authorization mechanisms, and systems, from unauthorized use.  Each individual is responsible for all accesses to University information resources and technology by their User IDs, digital/electronic signatures, and other authentication and authorization mechanisms, and for any activity originating from their systems.
+Access only information to which they have been given authorized access or that is publicly available.
+Protect electronic and hardcopy data, information, and information assets classified as High-Risk or Moderate-Risk (i.e., “confidential”), in compliance with the Data Security Classification policy, published University security and other policies, and applicable Federal, State, and Local laws.
+Use only legal versions of copyrighted software in compliance with vendor license requirements.
+Be considerate in the use of shared resources.  Refrain from monopolizing systems, overloading networks with excessive data, degrading services, or wasting computer time, connection time, disk space, printer paper, manuals, or other resources.
+Restrict personal use of the University’s information resources and technology to incidental, intermittent and minor use that is consistent with applicable law and University Policy.
+Include only material germane to University matters in University, school, or departmental electronic communications, such as e-mail, Websites, blogs, etc. ** Personal web sites, chat rooms, web logs (also known as blogs) and other forms of publicly available electronic communications hosted on or linked from University information resources and technology must comply with this Acceptable Use Policy and prominently include the following disclaimer: “The views, opinions and material expressed here are those of the author and have not been reviewed or approved by the University of Rochester.”
+Store confidential data only in University approved secured locations.
+Transmit / transport confidential data, information, and information assets only via University approved secured mechanisms.
+Use Bring Your Own Device (BYOD) in only University approved means.
+Revise passwords and other authentication and authorization mechanisms suspected of compromise.
+Report identified or suspected security incidents to the Information Security Office or Information Technology (IT) Support/Help Desk.
+In making acceptable use of resources, individuals covered by this policy must not:
+Gain access to or use another person’s system, files, or data without permission (note that permission from an individual user may not be sufficient – some systems may require additional authority).
+Reveal a password or other authentication and authorization means to any other individual, even those claiming to be an IT support technician (over the phone or in person).
+Use computer programs to decode passwords or access-control information.
+Attempt to circumvent or subvert system or network security measures.
+Engage in any activity that is intended to harm systems or any information stored thereon, including creating or propagating malware, such as viruses, worms, or “Trojan horse” programs; disrupting services; damaging files; or making unauthorized modifications to University data.
+Make or use illegal copies of copyrighted software, store such copies on University systems, or transmit them over University networks.
+Use e-mail, social networking sites or tools, or messaging services in violation of laws or regulations or to harass or intimidate another person, for example, by broadcasting unsolicited messages, by repeatedly sending unwanted mail, or by using someone else’s name or User ID.  Waste shared computing or network resources, for example, by intentionally placing a program in an endless loop, printing excessive amounts of paper, or by sending chain letters or unsolicited mass mailings.
+Use the University’s systems or networks for commercial purposes; for example, by selling access to your User ID or by performing work for profit with University resources in a manner not authorized by the University.
+State or imply that they speak on behalf of the University or use University trademarks and logos without authorization to do so.
+Violate any applicable laws and regulations or University policies and procedures that govern the use of IT resources.
+Transmit commercial or personal advertisements, solicitations, endorsements, or promotions unrelated to the business of the University.
+Use “auto-forward” rules to send business e-mail to a non-University e-mail account if the e-mail contains any high risk, and/or confidential information.
+Send or receive high risk and/or confidential information via the Internet without making reasonable accommodations for the security of such information.
+Modify, without proper authorization, any of the University’s information resources and technology, including the work products of others.
+Store confidential data on local drives, flash drives, or other portable or external media.
+Related Policies
+Information Technology Policy
+Copyright Policy
+Faculty Handbook
+Human Resource Policies
+URMC Code of Conduct
+University Code of Conduct for Business Activities
+Health Insurance Portability and Accountability Act (HIPAA)
+Contact UR Information Security
+infosec@rochester.edu
+Connect with IT

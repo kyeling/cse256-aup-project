@@ -1,0 +1,924 @@
+Products
+Solutions
+Services
+Community
+About Us
+SolvNet
+Global Sites
+日本サイ ト
+中文网站
+All Products
+Software Integrity
+Semiconductor IP
+Verification
+Design
+Silicon Engineering
+Software Integrity
+Application Security Testing
+Software Security Services
+Program Development
+Semiconductor IP
+Interface IP
+Memories & Libraries
+Analog IP
+Processor Solutions
+IP Subsystems
+Security IP
+SoC Infrastructure IP
+IP Accelerated
+Market Segments
+Verification
+Verification Continuum
+Simulation
+AMS Verification
+Static & Formal Verification
+Debug & Coverage
+Verification IP
+Virtual Prototyping
+Emulation
+Prototyping
+Design
+Galaxy Design Platform
+RTL Synthesis
+Synthesis-Based Test
+Physical Implementation
+Custom Implementation
+Signoff
+Physical Verification
+FPGA Design
+Lynx Design System
+Silicon Engineering
+TCAD
+Mask Synthesis
+Mask Data Prep
+Yield Management
+Optical Solutions
+LightTools
+CODE V
+LucidShape
+RSoft
+Application Security Products
+Fuzz Testing
+Interactive Application Security Testing (IAST)
+Software Composition Analysis
+Software Testing Optimization
+Static Analysis (SAST)
+Threat Intelligence
+Application Security Services
+Dynamic Analysis (DAST)
+Mobile Application Security
+Penetration Testing
+Managed Static Analysis
+Resources
+Analyst Reports
+Case Studies
+Data Sheets
+eBooks
+Glossary
+Knowledge Database
+Podcasts
+Standards & Compliance
+Videos
+Webinars
+Whitepapers
+Training & Education
+Software Security Courses
+Product Education
+Blog
+Support
+Interface IP
+USB
+PCI Express
+DDR
+MIPI
+CCIX
+Bluetooth
+Ethernet
+HDMI
+SATA
+Mobile Storage
+Multi-Protocol PHYs
+IP Prototyping Kits
+IP Virtualizer Development Kits
+Interface IP Subsystems
+All Interface IP
+Memories & Libraries
+Logic Libraries
+Memory Compliers
+Duet Packages
+HPC Design Kit
+Embedded Test & Repair
+Non-Volatile Memory
+Analog IP
+Data Converters
+Audio Analog Codecs
+Processor Solutions
+ARC Processors
+Embedded Vision Processors
+Development Tools
+Operating Systems
+Ecosystems
+ASIP Tools
+IP Subsystems
+ARC Data Fusion IP Subsystem
+ARC Sensor & Control IP Subsystem
+ARC Audio IP Subsystem
+Interface IP Subsystem
+Security IP
+Root of Trust
+Cryptography IP
+Content Protection
+Security Protocol Accelerator
+Market Segments
+Internet of Things
+Automotive
+Cloud Computing
+Mobile
+IP Accelerated
+IP Prototyping Kits
+IP Virtualizer Development Kits
+IP Subsystems
+SoC Infrastructure IP
+DesignWare Library
+Foundation Cores
+minPower Components
+Verification IP
+Verification
+Verification Continuum
+Simulation
+AMS Verification
+Static & Formal Verification
+Debug & Coverage
+Verification IP
+Virtual Prototyping
+Emulation
+Prototyping
+Solutions
+Aerospace & Defense
+Automotive
+Low  Power
+Blogs
+A View from the Top
+Hitting the Mark
+InFormal Chat
+VIP Central
+Design
+Galaxy Design Platform
+RTL Synthesis
+Synthesis-Based Test
+Physical Implementation
+Custom Implementation
+Signoff
+Physical Verification
+FPGA Design
+Lynx Design System
+Power Electronic Systems
+Power Electronics
+Wire Harnesses
+Optical Solutions
+LightTools
+CODE V
+LucidShape
+RSoft
+Silicon Engineering
+TCAD
+Mask Synthesis
+Mask Data Prep
+Yield Management
+Solutions
+Solutions
+Automotive
+Internet of Things
+Advanced Low Power
+FinFET
+Industry Solutions
+Automotive
+Cloud Computing
+Financial Services
+Industrial Controls Systems
+Healthcare
+Mobile Devices
+Technical Platforms
+Verification Continuum
+FPGA Design
+Galaxy Design Platform
+All Services
+Software Security
+Silicon Design
+Software Security
+Professional Services
+Managed Services
+Program Development & Design
+Training & Education
+Silicon Design
+Methodology Consulting & Flow Development
+Physical Design & Assistance
+SoC Integration & Verification
+Core Optimization & Hardening
+Project Acceleration & Infrastructure
+Support
+SolvNet
+Training
+Global Support Centers
+Licensing, Installation & Compute Platform
+Software Security       Professional Services
+Embedded Software Testing
+Insider Threat Detection
+Red Teaming
+Secure Coding Guidelines
+Software Architecture & Design
+Thick Client Testing
+Managed Services
+Program Development & Design
+Maturity Model (BSIMM)
+Maturity Action Plan (MAP)
+Policies & Standards
+Security Metrics
+Software Security-in-a-Box
+Training
+Software Security Courses
+Product Education
+Support
+Silicon Design Services
+Methodology Consulting & Flow Development
+Physical Design & Assistance
+SoC Integration & Verification
+Core Optimization & Hardening
+Project Acceleration & Infrastructure
+Support
+Support Center Locations
+Licensing
+Installation
+Compute Platforms
+SolvNet
+Documentation
+Open a Support Case
+Download Center
+Training
+Course Catalog
+Training Options
+Community
+Community
+Community Overview
+SNUG
+Conferences
+Keynotes
+Proceedings
+Sponsors
+Partners
+ARM
+GLOBALFOUNDRIES
+Intel Custom Foundry
+Samsung
+TSMC
+All Partners
+Interoperability
+ARC Access
+HAPS Connect
+HSPICE Integrator
+In-Sync
+System-Level Catalyst
+TAP-in
+VC Apps Access
+Academic Programs
+Electronic Design
+Optical Design
+Static Analysis
+Company Blogs
+Software Security
+Custom Layout Insights
+To USB or Not to USB
+A View from the Top
+Hitting the Mark
+InFormal Chat
+VIP Central
+Committed to Memory
+All Blogs
+BSIMM
+Conference
+Download BSIMM
+Join BSIMM
+About Us
+About Us
+Company Overview
+Management Team
+Global Citizenship
+Board of Directors
+Governance & Values
+Publications
+Investor Relations
+Recent Financial News
+Financials
+Investor Presentations
+Governance & Values
+Newsroom
+Press Releases
+Speaker Calendar
+Spokesperson Bios & Images
+Synopsys Logos
+Media Contacts
+Events
+Events
+Seminars
+Webinars
+Synopsys Users Group (SNUG)
+Careers
+Current Opportunities
+Values & Ethics
+Worldwide Locations
+Discover
++
+Solutions
++
+Services
++
+Community
++
+About Us
+SolvNet
+Products
++
+All Products
++
+Software Integrity
++
+Semiconductor IP
++
+Verification
++
+Design
++
+Silicon Engineering
+Global Sites
+日本サイ ト
+中文网站
+< All Products
+Software Integrity
+Application Security Testing
+Software Security Services
+Program Development
+< All Products
+Semiconductor IP
+Interface IP
+Memories & Libraries
+Analog IP
+Processor Solutions
+IP Subsystems
+Security IP
+SoC Infrastructure IP
+IP Accelerated
+Market Segments
+< All Products
+Verification
+Verification Continuum
+Simulation
+AMS Verification
+Static & Formal Verification
+Debug & Coverage
+Verification IP
+Virtual Prototyping
+Emulation
+Prototyping
+< All Products
+Design
+Galaxy Design Platform
+RTL Synthesis
+Synthesis-Based Test
+Physical Implementation
+Custom Implementation
+Signoff
+Physical Verification
+FPGA Design
+Lynx Design System
+< All Products
+Silicon Engineering
+TCAD
+Mask Synthesis
+Mask Data Prep
+Yield Management
+< All Products
+Optical Solutions
+LightTools
+CODE V
+LucidShape
+RSoft
+< overview
+All Products
++
+Software Integrity
++
+Semiconductor IP
++
+Verification
++
+Design
++
+Silicon Engineering
++
+Optical Solutions
+< Software Integrity
+Application Security Products
+Fuzz Testing
+Interactive Application Security Testing (IAST)
+Software Composition Analysis
+Software Testing Optimization
+Static Analysis (SAST)
+Threat Intelligence
+< Software Integrity
+Application Security Services
+Dynamic Analysis (DAST)
+Mobile Application Security
+Penetration Testing
+Managed Static Analysis
+< Software Integrity
+Resources
+Analyst Reports
+Case Studies
+Data Sheets
+eBooks
+Glossary
+Knowledge Database
+Podcasts
+Standards & Compliance
+Videos
+Webinars
+Whitepapers
+< Software Integrity
+Training & Education
+Software Security Courses
+Product Education
+< Software Integrity
+Blog
+< Software Integrity
+Support
+< overview
+Software Integrity
++
+Application Security Products
++
+Application Security Services
++
+Resources
++
+Training & Education
+Blog
+Support
+< Semiconductor IP
+Interface IP
+USB
+PCI Express
+DDR
+MIPI
+CCIX
+Bluetooth
+Ethernet
+HDMI
+SATA
+Mobile Storage
+Multi-Protocol PHYs
+IP Prototyping Kits
+IP Virtualizer Development Kits
+Interface IP Subsystems
+All Interface IP
+< Semiconductor IP
+Memories & Libraries
+Logic Libraries
+Memory Compliers
+Duet Packages
+HPC Design Kit
+Embedded Test & Repair
+Non-Volatile Memory
+< Semiconductor IP
+Analog IP
+Data Converters
+Audio Analog Codecs
+< Semiconductor IP
+Processor Solutions
+ARC Processors
+Embedded Vision Processors
+Development Tools
+Operating Systems
+Ecosystems
+ASIP Tools
+< Semiconductor IP
+IP Subsystems
+ARC Data Fusion IP Subsystem
+ARC Sensor & Control IP Subsystem
+ARC Audio IP Subsystem
+Interface IP Subsystem
+< Semiconductor IP
+Security IP
+Root of Trust
+Cryptography IP
+Content Protection
+Security Protocol Accelerator
+< Semiconductor IP
+Market Segments
+Internet of Things
+Automotive
+Cloud Computing
+Mobile
+< Semiconductor IP
+IP Accelerated
+IP Prototyping Kits
+IP Virtualizer Development Kits
+IP Subsystems
+< Semiconductor IP
+SoC Infrastructure IP
+DesignWare Library
+Foundation Cores
+minPower Components
+Verification IP
+< overview
+Semiconductor IP
++
+Interface IP
++
+Memories & Libraries
++
+Analog IP
++
+Processor Solutions
++
+IP Subsystems
++
+Security IP
++
+Market Segments
++
+IP Accelerated
++
+SoC Infrastructure IP
+< Verification
+Verification
+Verification Continuum
+Simulation
+AMS Verification
+Static & Formal Verification
+Debug & Coverage
+Verification IP
+Virtual Prototyping
+Emulation
+Prototyping
+< Verification
+Solutions
+Aerospace & Defense
+Automotive
+Low  Power
+< Verification
+Blogs
+A View from the Top
+Hitting the Mark
+InFormal Chat
+VIP Central
+< overview
+Verification
++
+Verification
++
+Solutions
++
+Blogs
+< Design
+Design
+Galaxy Design Platform
+RTL Synthesis
+Synthesis-Based Test
+Physical Implementation
+Custom Implementation
+Signoff
+Physical Verification
+FPGA Design
+Lynx Design System
+< Design
+Power Electronic Systems
+Power Electronics
+Wire Harnesses
+< Design
+Optical Solutions
+LightTools
+CODE V
+LucidShape
+RSoft
+< overview
+Design
++
+Design
++
+Power Electronic Systems
++
+Optical Solutions
+< Silicon Engineering
+Silicon Engineering
+TCAD
+Mask Synthesis
+Mask Data Prep
+Yield Management
+< overview
+Silicon Engineering
++
+Silicon Engineering
+< main menu
+Products
++
+All Products
++
+Software Integrity
++
+Semiconductor IP
++
+Verification
++
+Design
++
+Silicon Engineering
+< Solutions
+Solutions
+Automotive
+Internet of Things
+Advanced Low Power
+FinFET
+< Solutions
+Industry Solutions
+Automotive
+Cloud Computing
+Financial Services
+Industrial Controls Systems
+Healthcare
+Mobile Devices
+< Solutions
+Technical Platforms
+Verification Continuum
+FPGA Design
+Galaxy Design Platform
+< overview
+Solutions
++
+Solutions
++
+Industry Solutions
++
+Technical Platforms
+< main menu
+Solutions
++
+Solutions
+< All Services
+Software Security
+Professional Services
+Managed Services
+Program Development & Design
+Training & Education
+< All Services
+Silicon Design
+Methodology Consulting & Flow Development
+Physical Design & Assistance
+SoC Integration & Verification
+Core Optimization & Hardening
+Project Acceleration & Infrastructure
+< All Services
+Support
+SolvNet
+Training
+Global Support Centers
+Licensing, Installation & Compute Platform
+< overview
+All Services
++
+Software Security
++
+Silicon Design
++
+Support
+< Software Security
+Software Security       Professional Services
+Embedded Software Testing
+Insider Threat Detection
+Red Teaming
+Secure Coding Guidelines
+Software Architecture & Design
+Thick Client Testing
+< Software Security
+Managed Services
+< Software Security
+Program Development & Design
+Maturity Model (BSIMM)
+Maturity Action Plan (MAP)
+Policies & Standards
+Security Metrics
+Software Security-in-a-Box
+< Software Security
+Training
+Software Security Courses
+Product Education
+< Software Security
+Support
+< overview
+Software Security
++
+Software Security       Professional Services
+Managed Services
++
+Program Development & Design
++
+Training
+Support
+< Silicon Design
+Silicon Design Services
+Methodology Consulting & Flow Development
+Physical Design & Assistance
+SoC Integration & Verification
+Core Optimization & Hardening
+Project Acceleration & Infrastructure
+< Silicon Design
+Support
+Support Center Locations
+Licensing
+Installation
+Compute Platforms
+< Silicon Design
+SolvNet
+Documentation
+Open a Support Case
+Download Center
+< Silicon Design
+Training
+Course Catalog
+Training Options
+< overview
+Silicon Design
++
+Silicon Design Services
++
+Support
++
+SolvNet
++
+Training
+< main menu
+Services
++
+All Services
++
+Software Security
++
+Silicon Design
+< Community
+Community
+Community Overview
+< Community
+SNUG
+Conferences
+Keynotes
+Proceedings
+Sponsors
+< Community
+Partners
+ARM
+GLOBALFOUNDRIES
+Intel Custom Foundry
+Samsung
+TSMC
+All Partners
+< Community
+Interoperability
+ARC Access
+HAPS Connect
+HSPICE Integrator
+In-Sync
+System-Level Catalyst
+TAP-in
+VC Apps Access
+< Community
+Academic Programs
+Electronic Design
+Optical Design
+Static Analysis
+< Community
+Company Blogs
+Software Security
+Custom Layout Insights
+To USB or Not to USB
+A View from the Top
+Hitting the Mark
+InFormal Chat
+VIP Central
+Committed to Memory
+All Blogs
+< Community
+BSIMM
+Conference
+Download BSIMM
+Join BSIMM
+< overview
+Community
++
+Community
++
+SNUG
++
+Partners
++
+Interoperability
++
+Academic Programs
++
+Company Blogs
++
+BSIMM
+< main menu
+Community
++
+Community
+< About Us
+About Us
+Company Overview
+Management Team
+Global Citizenship
+Board of Directors
+Governance & Values
+Publications
+< About Us
+Investor Relations
+Recent Financial News
+Financials
+Investor Presentations
+Governance & Values
+< About Us
+Newsroom
+Press Releases
+Speaker Calendar
+Spokesperson Bios & Images
+Synopsys Logos
+Media Contacts
+< About Us
+Events
+Events
+Seminars
+Webinars
+Synopsys Users Group (SNUG)
+< About Us
+Careers
+Current Opportunities
+Values & Ethics
+Worldwide Locations
+< overview
+About Us
++
+About Us
++
+Investor Relations
++
+Newsroom
++
+Events
++
+Careers
+< main menu
+About Us
++
+About Us
+Synopsys – Acceptable Use Policy
+Version 2015.1
+Synopsys, Inc. (“Synopsys”, “we”, “us” or “our”) provides you with access to our forums as a service to you, our users and customers (“you” or “User”) to help you exchange ideas and information about our products and services.  Our Acceptable Use Policy (“AUP”) is provided to you as part of our effort to ensure that (1) our forums continue to function as a high quality and collaborative experience for you, (2) your privacy is protected, (3) assure everyone’s responsible participation in our forums, and (4) ensure everyone’s compliance with applicable laws.
+Our forums are here for the enjoyment and benefit of all participants and users and is accessible to all who register and are 13 years of age or older.  Our forum is most valuable when everyone obeys certain basic guidelines and rules for online behavior.  Our AUP is presented here so that everyone understands the ground rules of use and collaboration when using our forum. By registering you agree to comply with this AUP, in addition to our Legal Terms of Use.  We may change our AUP at any time, and our changes shall be effective immediately.  Your use of our forums after our changes are posted shall be deemed to constitute your acceptance of the changes.
+We may, in our sole discretion, determine whether a use of our forum is a violation of this policy. While it is not our intent to control or censor communications of participants, if we become aware of a violation of this policy, we make take such action as we deem appropriate to address such violation.
+We reserve the right to amend this policy from time to time without notice. Any such changes will be effective immediately upon posting of the revised policy to this site.
+Stay on Point.
+We provide our forums to you to facilitate collaboration between our users and customers regarding our products and services.  Please stay on point — refrain from discussing personal matters, abusing any company or product, or, in general, from posting content that is not related to Synopsys products or services.  Our forum is not a legal venue, and as such any discussion of litigation or potential litigation (past, present, future or otherwise) is not permitted and automatically regarded as off-point.
+Respect Each Other.
+We want everyone to have a positive experience while participating in our forums. It is your responsibility to make sure that you are not detracting from any of our other user’s experience in our forums. You must not post any material that is unlawful, libelous, defamatory, obscene, pornographic, indecent, lewd, harassing, threatening, harmful, invasive of privacy or publicity rights, abusive, inflammatory or otherwise disrespectful, objectionable, or injurious to others, as we may determine in our sole discretion. We welcome your opinions and advice, but personal attacks and harassment of other users using our forum or through private messaging are not acceptable.
+No Unsolicited Emails.
+Our forum is provided as a service to our users and customers only. You are not allowed to use our forums for the promotion of third party services, products, websites, or organizations. Please do not post advertisements, junk mail, spam, chain letters, charity requests, petitions for signatures or any other form of solicitation. Further, overwhelming our forum by excessive posting, padding/bumping posts, overly large font sizes, or cross-posting to other forums or websites is not allowed.
+Comply with the law.
+You must comply with all applicable laws when you use our forum. Our forums may not be used in connection with any criminal or civil violations of state, federal or international laws, regulations or other government requirements. Accordingly, you cannot post any material that (a) infringes on any patent, trademark, trade secret, copyright, or other rights of any party; (b) is fraudulent; (c) contains software viruses or any other computer code or files that are designed to disrupt, damage, or limit the functioning of any software or hardware; or (d) is illegal under local, state, federal, or international law, rule or regulation.
+Use common sense.
+If you follow any advice that you read in our forums, you do so at your own risk. You alone are responsible for deciding whether or not to follow such advice. If in doubt, do not try it.
+Don’t disclose your personal information.
+Please do not post personal information on our forums including your name and address, age, or phone number. If any user asks you for personal information, such as an account number, address, password or credit card number, do not provide it.
+We make no guarantee regarding, and we assume no liability for, the security and integrity of any data or information you store or transmit via the forums or the Internet, including any data or information stored or transmitted by any computer designated as “secure.” You are responsible for immediately reporting to us any issue which could compromise the security or integrity of any User or system taking part in the use of our forums.
+Don’t post your product’s license key publicly.
+Please do not post the serial number of your product on the public forum. You may post full information about your product, including its model number and part number, as well as information about your surrounding system, but DO NOT include the serial number. If you want to ask a moderator to look up something specific to your product, use the private message system or open a support case with Synopsys technical support.
+Moderator actions.
+Public discussion of moderator actions on the forum is not allowed. If you are inquiring about a moderator action, please send a PM to one of the other moderators for more information. Although the moderator’s will attempt to address the inquiry, we cannot guarantee such or that you will be satisfied with the response.
+Unofficial Copies, Benchmarks and Results of Analysis.
+Suggesting, referencing, or linking to unofficial copies of our Licensed Product, benchmarks of our Licensed Product, or results of analysis created by our Licensed Product is not permitted and shall be removed by our forums moderator.
+Private Messaging policy.
+Our forum Private Messaging (“PM”) tool is available for any user to use to contact any other user or our moderator in our forums.  You may access the PM tool by selecting the appropriate icon in the applicable forum.  Any PM is a private correspondence between you and the party to whom it is sent.
+Oversight.
+We retain the right to remove any posts or information we deem inconsistent with our AUP.
+Violations of our AUP.
+We do not edit or monitor User content posted in our forums.  However, we retain the right, at our sole discretion, to limit or deny your access to our forums and to remove any material posted by you that, in our sole judgment, does not comply with our policies or that we otherwise deem to be inappropriate for our forums.  Notwithstanding the foregoing, we are not responsible for any failure or delay in removing such material.  We may involve, and will cooperate with, law enforcement if we suspect criminal activity, and we shall have no liability to you or any third party for any actions taken in connection with such cooperation.  Our employees and all Users of our forums are responsible for providing assistance to us in such investigations as needed.
+Please report any suspected violations of our policy to us.
+If you suspect that a violation of our policy has occurred, please report it immediately to a forum moderator (this option is available from within all forum posts) or by email at legal@coverity.com.  Please include details that would assist us in investigating and resolving the complaint.
+Information that we collect.
+We may collect and use data pertaining to the use of our forums (“Usage Data”).  Any Usage Data we collect will be anonymous without reference to the particular user or users.  We may only use the Usage Data for our internal research and development purposes and may only disclose Usage Data in an aggregated format that in no way identifies any User or any particular User (e.g. we may disclose aggregate usage statistics for all of our hosted customers).
+We have the right to disclose User content to a third party only if required by law.  We will, to the extent permitted by law: (a) promptly notify the affected User (if we know the identity of the User) of the order’s terms and the circumstances surrounding its issuance; (b) consult in good faith with the affected User regarding possible responses to the order and, if requested by the User, make best efforts to narrow the order’s scope, obtain a protective order from the court, or produce documents to the court or government body under seal with appropriate instructions regarding preservation of the User’s confidentiality, if applicable; and (c) if disclosure is required to prevent Synopsys from being subjected to contempt sanctions or other penalties, disclose only the User content that, in the opinion of counsel reasonably satisfactory to us, is legally required to be disclosed, consistent with a reasonable interpretation of the order.
+DISCLAIMER OF WARRANTIES AND LIMITATION OF LIABILITY.
+Synopsys does not control and is not responsible for content posted to our forum by third parties. Participants like you are providing most of the material in our forum.  Such third-party content is the sole responsibility of the person originating the material.
+OUR FORUM AND ALL CONTENT AND MATERIALS ON THIS SITE ARE PROVIDED “AS IS” WITHOUT WARRANTIES OF ANY KIND EITHER EXPRESS OR IMPLIED.  SYNOPSYS DOES NOT WARRANT OR GUARANTEE THE ACCURACY, VALIDITY, RELIABILITY, COMPLETENESS, USEFULNESS, NON-INFRINGEMENT ON INTELLECTUAL PROPERTY RIGHTS OR QUALITY OF ANY MATERIAL THAT APPEARS IN OUR FORUMS, REGARDLESS OF WHO ORIGINATES THAT MATERIAL.  SYNOPSYS DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION, IMPLIED WARRANTIES OR MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT OR OTHER VIOLATIONS OF RIGHTS.  YOU EXPRESSLY UNDERSTAND AND AGREE THAT YOU BEAR ALL RISKS ASSOCIATED WITH USING OR RELYING ON ANY MATERIAL VIA THE FORUMS.  SYNOPSYS WILL NOT BE LIABLE OR RESPONSIBLE IN ANY WAY FOR ANY CONTENT IN OUR FORUMS, INCLUDING, WITHOUT LIMITATION, ANY ERRORS OR OMISSIONS IN THE MATERIAL OR FOR ANY LOSSES OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF OR RELIANCE ON ANY MATERIAL. THIS DISCLAIMER AND LIMITATION ON LIABILITY IS IN ADDITION TO THE DISCLAIMERS AND LIMITATIONS CONTAINED OUR TERMS OF USE THAT APPLY TO ALL USE OF THE FORUMS.
+Contact Information.
+Direct your inquiries regarding the AUP to:
+Synopsys, Inc.
+700 East Middlefield Road
+Mountain View, CA 94043

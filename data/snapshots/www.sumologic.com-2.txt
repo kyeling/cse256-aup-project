@@ -1,0 +1,33 @@
+Acceptable Use Policy
+Last Updated: 09/30/2019
+This Acceptable Use Policy (“AUP”) applies to customers’ use of (and access to) all services offered by Sumo Logic, Inc. or its affiliates (“Sumo Logic”).
+Sumo Logic may change this AUP by posting an updated version of the AUP at www.sumologic.com
+and such updates will be effective upon posting.
+A customer’s violation of this AUP will be considered a material breach of the service agreement (or other agreement) governing the customer’s use of (or access to) the services (“Agreement”).
+Customer will promptly notify Sumo Logic in writing of any unauthorized use of the services under this AUP (in each case that comes to customer’s attention) and promptly take all reasonable steps necessary to terminate such unauthorized use, including collaborating with Sumo Logic to remediate.
+Customer will not, and will not encourage, permit or assist any third party to:
+Circumvent any usage or access limits on the use of the services.Create multiple accounts, including online or otherwise, to access the services in a manner intended to void incurring fees.Intentionally distribute viruses, worms, defects, Trojan horses, corrupted files, hoaxes, or any other item of a destructive or deceptive nature.Make the services available to any third party (via, a services arrangement, service bureau, lease, sale, resale, or otherwise) or use such for any purpose other than its own internal business purposes.Damage, disable, overburden, impair, or disrupt the services or attempt to gain unauthorized access to any systems or networks that connect thereto or otherwise interfere with the operation of the services or in any way with the use or enjoyment of the services by others.Perform or disclose network discovery, port and service identification, vulnerability scanning, password cracking, or penetration testing of the services (without first obtaining Sumo Logic’s written consent).Use the services other than in accordance with the Agreement and in compliance with all applicable laws and regulations (including but not limited to any European or local privacy laws to the extent applicable to customer).Use the services in a manner that violates any third-party rights (including, without limitation, intellectual property and privacy rights).Promote, facilitate, or encourage illegal activity.Access or use the services in order to create a product or service competitive with the services.Copy any features, functionality, or graphics of the services.Remove any copyright, trademark, or other proprietary rights notices contained in or on the services or reformat (or frame) any portion of the web pages that are part of the service’s administration display.Use the services in connection with any real-time control system (including any aviation, mass transit, medical or nuclear application) or any other application that could result in death, personal injury, catastrophic damage or mass destruction.Use any services in any manner that would disparage Sumo Logic.To the extent the following restriction is permitted by applicable law, access or use the services for purposes of evaluating the availability, performance or functionality of the services, or for any other benchmarking or competitive purposes.Create, train or improve (directly or indirectly) a substantially similar product or service, including machine learning engine.Reverse engineer (except to the extent statutory law expressly prohibits or limits restrictions on reverse engineering and, in which instance, customer will provide notice to Sumo Logic so that Sumo Logic can respond and assist with such request), decompile, disassemble or otherwise attempt to discover the source code, object code or underlying structure, ideas or algorithms of the services, documentation or data related to the services.Modify, translate, or create derivative works based on the services.
+Business email
+Please enter a valid email.
+Deployment region
+North America - US
+North America - Canada
+Europe - Ireland
+Europe - Frankfurt
+APAC - Mumbai
+APAC - Sydney
+APAC - Tokyo
+Federal
+Plan
+Enterprise - Free Trial
+Professional - Free Trial
+Sumo Logic Free
+I agree to the Service License Agreement.
+Please agree to the Service License Agreement.
+Yes, I’d like to opt-in to Sumo Logic communications.
+Already have an account?
+Login
+Privacy Statement
+Terms & Conditions
+You're in good company
+More than 2,100 enterprises around the world rely on Sumo Logic to build, run, and secure their modern applications and cloud infrastructures.

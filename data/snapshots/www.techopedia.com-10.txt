@@ -1,0 +1,62 @@
+Don't miss an insight. Subscribe to Techopedia for free.
+Subscribe
+Advertisement
+Acceptable Use Policy (AUP)
+Last updated: December 5, 2016
+Table of Contents
+What Does Acceptable Use Policy (AUP) Mean?
+Techopedia Explains Acceptable Use Policy (AUP)
+What Does Acceptable Use Policy (AUP) Mean?
+An acceptable use policy (AUP) is a document that outlines a set of rules to be followed by users or customers of a set of computing resources, which could be a computer network, website or large computer system. An AUP clearly states what the user is and is not allowed to do with the these resources.  An AUP is very similar to the ubiquitous terms and conditions or end-user license agreements (EULA) found on almost all software applications. The main difference is that an AUP covers the use of a much larger shared computing resource, such as an LAN or website, as opposed to a single software item. One consequence of sharing is that an AUP typically goes into detail about etiquette and respect for fellow users of the resource, which is not applicable for single-user software applications.  An acceptable use policy is also known as a fair use policy or terms of use.
+Advertisement
+Techopedia Explains Acceptable Use Policy (AUP)
+AUPs are mostly used by organizations deploying networks for internal use, such as commercial corporations, schools and universities. They are also frequently employed by websites to inform site visitors and customers about what is allowed on the site. For example, some companies do not allow employees to use the corporate LAN after-hours for activities (such as games) that don't provide value to the company. This must be clearly spelled out to the employees.Users may only glance through AUPs or not read them at all. Often, this happens because AUPs use standard do's and don'ts and may be written in a way that is hard to read and understand. For the user, this is a mistake because he or she may never know about any unusual requirements. For example, some social networking sites may not allow discussions that disparage or offend certain religious, racial or political groups.The majority of AUPs also spell out the consequences of breaching the laid-down regulations. These range from warning users to disabling user accounts to extreme measures such as legal action.
+Advertisement
+Synonyms
+Fair Use Policy, Terms of Use
+Share this Term
+Related Terms
+End-User License Agreement
+Local Area Network
+Wide Area Network
+Networking
+Policy Awareness
+Terms of Service
+Related Reading
+SOPA and the Internet: Copyright Freedom or Uncivil War?
+Data Quality: Why Diversity is Essential to Train AI
+How to Set Up a Static IP Address
+AI in the Enterprise: 3 Key Application Areas
+5 Ways AI is Changing Art
+AI's Got Some Explaining to Do
+Tags
+Data ManagementPrivacy and ComplianceIT Business AlignmentInternet
+Trending Articles
+Emerging Technology
+Mastering the Foundations of AI: Top 8 Beginner-Level AI Courses to Try
+Personal Tech
+7 Sneaky Ways Hackers Can Get Your Facebook Password
+Artificial Intelligence
+5 Ways AI is Changing Art
+Tech moves fast! Stay ahead of the curve with Techopedia!
+Join nearly 200,000 subscribers who receive actionable tech insights from Techopedia.
+This site is protected by reCAPTCHA and the Google
+Privacy Policy and
+Terms of Service apply.
+Thank you for subscribing to our newsletter!
+Something failed. Refresh and try again!
+Latest Articles
+Data Quality: Why Diversity is Essential to Train AI
+By: Justin Stoltzfus
+| Contributor, Reviewer
+How to Set Up a Static IP Address
+By: Robiul Hossein
+| Technology Writer
+AI in the Enterprise: 3 Key Application Areas
+By: Arthur Cole
+| Contributor
+5 Ways AI is Changing Art
+By: Kaushik Pal
+| Contributor
+Advertisement
+Advertisement

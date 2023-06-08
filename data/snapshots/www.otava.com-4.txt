@@ -1,0 +1,157 @@
+We do public cloud so you can do you. Learn more about our new managed offering.
+✕
+Site Search
+Search
+Support
+Login
+Partner Portal
+Solutions
+Why OTAVA®
+Industries
+Compliance Expertise
+Extraordinary Tales
+Results
+Clients & Testimonials
+Case Studies
+Accolades
+Meet OTAVA®
+Our Team
+Locations
+Tech Partners
+Careers
+Partner with Us
+Current Partners
+Partner Portal
+Engage & Learn
+News & Press
+Case Studies
+Blog
+Whitepapers
+Webinars
+Events
+Contact Us
+Multi-Cloud Infrastructure
+OTAVA® Cloud
+Managed Public Cloud
+Hosted Colocation
+OTAVA® Desktop as a Service
+Business Resilience
+Disaster Recovery as a Service (DRaaS)
+Backup and Data Protection
+Cybersecurity (MSSP)
+Intelligence & Insight
+Professional Services
+Digital Transformation Strategy
+Managed Services
+Migration Services
+Acceptable Use Policy
+1. Acceptable Use Policy
+1.1. OTAVA® has published this acceptable use policy (“AUP”) in an effort to enhance the use of the Internet by promoting responsible use and in an effort to provide a reliable, high-quality service to its clients. In that regard, OTAVA requires its clients and other third-party users (collectively, its “Members”) to utilize OTAVA’s Services, as defined below, and network responsibly and in compliance with all applicable laws and the terms of this AUP.
+1.2.OTAVA reserves the right to modify this AUP at any time, effective upon posting of the modified AUP to www.otava.com/aup. By purchasing and using the Services, and thereby accepting the terms and conditions of the OTAVA General Terms of Sale, you agree to abide by this AUP as modified from time to time. Your continued use of the Services after posting of the modified AUP will be considered acceptance of any and all changes to the AUP.
+2. Your General Responsibilities
+2.1. The Services enable you to develop and display a Web site through which you can interact with users of the Internet and retrieve and send vast amounts of information. OTAVA will not monitor, censor, or directly control any content that you display on your Web site(s) or information that you collect or use through your Web site(s); provided, however, that Oavat reserves the right, but undertakes no duty or obligation, to do so and decide whether any item of Content, as defined below, complies with this AUP. OTAVA provides the Services with the goals of (a) maintaining an image and reputation of OTAVA as a responsible provider of the Services, (b) preserving the value of Internet resources as a conduit for free expression, and (c) encouraging the responsible use of Internet resources and discouraging degrading, libelous or illegal uses of such resources. Consequently, OTAVA expects you, and all other users of the Services, to take responsibility in using the Internet with courtesy and responsibility, and to be familiar with and practice good Internet etiquette, in furtherance of the above stated goals.
+2.2. VIOLATION OF ANY ASPECT OF THIS AUP IS STRICTLY PROHIBITED AND MAY RESULT IN THE TERMINATION OR SUSPENSION OF THE SERVICES YOU RECEIVE FROM OTAVA . YOU WILL REMAIN SOLELY LIABLE AND RESPONSIBLE FOR YOUR USE OF THE SERVICES AND ANY AND ALL CONTENT THAT YOU DISPLAY, UPLOAD, DOWNLOAD OR TRANSMIT THROUGH THE USE OF THE SERVICES. “CONTENT” INCLUDES, WITHOUT LIMITATION, YOUR E-MAIL, INDIVIDUALLY IDENTIFIABLE INFORMATION, WEB PAGES, PERSONAL HOME PAGES, AND DOMAIN NAMES.
+2.3. OTAVA may need to contact you from time to time. OTAVA’s principal mode of contact is through email. It is your sole responsibility to ensure that your contact information with OTAVA is accurate and kept up to date in our customer portal.
+3. Illegal or Harmful Use
+3.1. The following list sets forth examples of prohibited uses of OTAVA Services. This list is not, and is not intended to be, inclusive of all prohibited uses of the Services:
+3.1.1. Infringement. Infringement of intellectual property rights or other proprietary rights including, without limitation, material protected by copyright, trademark, patent, trade secret, or other intellectual property right used without proper authorization. Infringement may result from, among other activities, the unauthorized copying and posting of pictures, logos, software, articles, musical works, and videos. For procedures to report infringement, see Section 8 below.
+3.1.2. Offensive Materials. Transmission, disseminating, sale, storage or hosting material that is unlawful, libelous, defamatory, obscene, pornographic, indecent, lewd, harassing, threatening, harmful, invasive of privacy or publicity rights, abusive, inflammatory or otherwise objectionable.
+3.1.3. Export Violations. Posting or sending of software or technical information in violation of U.S. export laws, including, without limitation, the Export Administration Act and the Export Administration Regulations maintained by the Department of Commerce.
+3.1.4. Harmful Content. Disseminating or hosting harmful content including, without limitation, viruses, Trojan horses, worms, time bombs, cancelbots or any other computer programming routines that may damage, interfere with, surreptitiously intercept or expropriate any system, program, data or personal information.
+3.1.5. Fraudulent Conduct. Offering or disseminating fraudulent goods, services, schemes, or promotions (i.e., make money fast schemes, chain letters, pyramid schemes), or furnishing false data on any signup form, contract or online application or registration, or the fraudulent use of any information obtained through the use of the Services, including without limitation use of credit card numbers.
+4. System and Network Security and Integrity
+4.1. Violations of OTAVA’s or any third party’s server, system or network security through the use of the Services are prohibited, and may result in criminal and civil liability. OTAVA may, in its sole discretion, investigate incidents involving such violations. OTAVA may, in its sole discretion, involve and cooperate with law enforcement if OTAVA suspects a criminal violation. Examples of server, system or network security violations include, without limitation, the following:
+4.1.1. Hacking. Unauthorized access to or use of data, systems, server or networks, including any attempt to probe, scan or test the vulnerability of a system, server or network or to breach security or authentication measures without express written authorization of the owner of the system, server or network.
+4.1.2. Interception. Unauthorized monitoring of data or traffic on any network, server, or system without express written authorization of the owner of the system, server, or network.
+4.1.3. Intentional Interference. Interference with service to any user, host or network including, without limitation, mail bombing, news bombing, other flooding techniques, deliberate attempts to overload a system, broadcast attacks and any activity resulting in the crash of a host. Intentional interference also means the use of any kind of program/script/command, or send messages of any kind, designed to interfere with a user’s terminal session, via any means, locally or by the Internet.
+4.1.4. Falsification of Origin. Forging of any TCP-IP packet header, e-mail header or any part of a message header. This prohibition does not include the use of aliases or anonymous remailers.
+4.1.5. Avoiding System Restrictions. Using manual or electronic means to avoid any use limitations placed on the Services such as timing out specifications.
+4.1.6. Failure to Safeguard Accounts. Failing to prevent unauthorized access to accounts, including any account passwords.
+5. E-Mail
+5.1. You may not distribute, publish, or send any of the following types of e-mail through the use of the Services:
+5.1.1. Unsolicited promotions, advertising or solicitations (commonly referred to as “spam”), including, without limitation, commercial advertising and informational announcements, except to those who have explicitly requested such e-mails;
+5.1.2. Commercial promotions, advertising, solicitations, or informational announcements that contain false or misleading information in any form;
+5.1.3. Harassing e-mail, whether through language, frequency, or size of messages;
+5.1.4. Chain letters;
+5.1.5. Malicious e-mail, including without limitation “mailbombing” (flooding a user or Web site with very large or numerous pieces of mail) or “trolling” (posting outrageous messages to generate numerous responses); or
+5.1.6. E-mails containing forged or falsified information in the header (including sender name and routing information), or any other forged or falsified information.
+5.2. In addition, you may not use OTAVA’s mail server or another Web site’s mail server to relay mail without the written permission of the account holder or the Web site owner. Posting the same or similar message to one or more newsgroups (excessive cross-posting or multiple-posting) also is explicitly prohibited.
+6. Recommended Client Controls
+OTAVA’s controls are designed with the assumption that our clients implement certain controls to assure the security of their equipment in our data centers. The following are controls that OTAVA believes customer organizations should implement to assure secure access to their equipment in the data center:
+6.1. Controls should be established to ensure that you only authorize employees to be granted access to the OTAVA facility.
+6.2. Controls should be established to ensure written notification for terminated employees is communicated to OTAVA in a timely manner to restrict unauthorized access to the facility along with the collection of proximity cards being collected at the time of termination.
+6.3. Controls should be established to ensure client equipment is physically secured at all time to restrict unauthorized access to client cabinets and/or cages.
+6.4. Controls should be established to ensure all individuals with active access to client space are valid.
+6.5. Controls should be established for clients managing dedicated suites to ensure adequate environmental controls, physical controls, and monitoring of equipment is in place to mitigate the risk of environmental threats, unauthorized access and system downtime.
+7. Reporting Violations of AUP
+OTAVA requests that anyone who believes that there is a violation of this AUP direct the information to [email protected]. If available, please provide the following information: IP address used to commit the alleged violation; date and time of the alleged violation, including the time zone or offset from GMT; evidence of the alleged violation. OTAVA may, in its sole discretion, investigate any violation reported.
+8. Intellectual Property
+8.1. If you (“Complaining Party”) believe that your trademark or your copyrighted work is being infringed by Content hosted by OTAVA, please submit a written notice in accordance with the applicable process outlined below. OTAVA customers who receive notice of a written complaint and whose material was removed or access to which was suspended, may follow the counter notification policy in Section 8.4.
+8.2. Copyright Complaints.
+8.2.1. Please send an e-mail to [email protected] with the words “Copyright Complaint” in the subject line or fax your complaint to the fax number provided on the contact page, /contact. For your written notice to be effective, it must comply will all requirements sets forth in the Digital Millennium Copyright Act and include the following information and include the following information:
+(a) Identification of the copyrighted work claimed to have been infringed with the Copyright Registration number if the work is registered;
+(b) Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled;
+(c) Information reasonably sufficient to permit us to locate the material that is claimed to be infringing such as the website URL or step by step directions to locate the infringing materialOTAVA customer’s website;
+(d) Information reasonably sufficient to permit OTAVA to contact the Complaining Party, such as the Complaining Party’s address, telephone number, or an email address;
+(e) A statement that the Complaining Party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law;
+(f) A statement that the information in the notification is accurate, and under penalty of perjury, that the Complaining Party is the owner, or is authorized to act on behalf of the owner; and
+(g) An electronic signature of the copyright owner, or a person authorized to act on behalf of the owner, of an exclusive copyright that has allegedly been infringed.
+8.2.2. Upon receipt of notification consistent with the requirements set forth in Section 8.2.1, OTAVA shall (a) remove or disable access to the material claimed to be infringing, (b) forward the Complaining Party’s written notification to the alleged infringer to the email address on file with OTAVA; and (c) notify the alleged infringer via the email address on file with OTAVA that the allegedly infringed content was removed or disabled.
+8.3. Trademark Complaints.
+8.3.1. Please send an e-mail to [email protected] with the words “Trademark Complaint” in the subject line or fax your complaint to the fax number provided on the contact page, /contact . Your must be the owner of a valid trademark or service mark, where validity is demonstrated through having a registration number from the United States Patent and Trademark Office or an equivalent foreign office (state registrations are not valid for these purposes).
+8.3.2. For your written notice to be effective, it must include the following information:
+(a) The trademark, service mark, trade dress, name, or other indicia of origin (the “Mark”) that is claimed to be infringed;
+(b) The Marks registration number and the name of the office that issued the registration (e.g., United States Patent and Trademark Office);
+(c) The jurisdiction or geographical area to which the mark applies;
+(d) The name, mailing address, telephone number and email address of the Mark’s owner;
+(e) A description of the manner in which the Complaining Party believes its Mark is being infringed upon.
+(f) Information reasonably sufficient to permit OTAVA to locate the allegedly infringing mark such as the website URL or step by step directions to locate the infringing mark on the OTAVA customer’s website;
+(g) Sufficient evidence demonstrating that the owner of the website that is claimed to be infringing is an OTAVA customer;
+(h) A good faith certification, signed under penalty of perjury, stating that: (i) You have a good faith believe that use of the trademarks describe above in connection with the use(s) described above is not authorized by the trademark owner, its authorized agent and is not otherwise permissible under law; (ii) You are the trademark owner or its authorized agent; and (iii) Under penalty of perjury, the information in the written notification is true and correct.
+8.3.3. Upon receipt of notification consistent with the requirements set forth in Section 8.3.2, OTAVA will (i) initiate an investigation and may, at its sole discretion and without any legal obligation to do so, temporarily remove or disable access to the website or website page displaying the allegedly infringing mark; (ii) forward the Complaining Party’s written notification to the alleged infringer at the email address on file with OTAVA; and (c) if the allegedly infringing content was removed or disabled, notify the alleged infringer via the email address on file with OTAVA of such removal.
+8.3.4. If OTAVA determines that the Complaining Party has raised a legitimate claim, OTAVA may, at its sole discretion and without any legal obligation to do so, permanently remove the material from OTAVA’s system and notify the alleged infringer of such removal. If OTAVA determines, at its sole, that the Complaining Party has not raised a legitimate claim or if it is not clear whether the Complaining Party has raised a legitimate claim, OTAVA will restore access to the challenged material.
+8.4. Counter Notification Process. If you are an OTAVA customer and have received a notice of copyright or trademark infringement, you may provide Counter Notification by emailing [email protected] and including the following:
+(a) Identification of the material that was removed or to which access was disabled and the location of where the material appeared before it was removed or access to it was disabled;
+(b) A statement under penalty of perjury that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled;
+(c) Your name, mailing address, telephone number, email address and a statement that you consent to the jurisdiction of the Eastern District of Michigan, and that you will accept service of process from the Complaining Party or its agent; and
+(d) Your electronic signature.
+8.5. Upon receipt of a Counter Notification consistent with Section 8.4, OTAVA shall provide the Complaining Party with a copy of the Counter Notification, and inform such Party that it will replace the removed material or cease disabling access to it in five (5) days. OTAVA will replace the removed material and cease disabling access to it in not less than five (5), nor more than ten (10), days following receipt of the Counter Notification, unless OTAVA first receives notice from the Complaining Party that such Complaining Party has filed an action seeking a court order to restrain the alleged infringer from engaging in infringing activity relating to the Content onOTAVA’s network. The Complaining Party shall include a copy of the filed court action with such notice.
+Overwhelmed by cloud chaos?We’re cloud experts, so you don’t have to be.
+Talk to an expert
+(877) 740-5028
+Contact Us
+Solutions
+Multi-Cloud Infrastructure
+Business Resilience
+Intelligence & Insight
+Results
+Clients & Testimonials
+Case Studies
+Accolades
+Meet OTAVA®
+Our Team
+Locations
+Tech Partners
+Careers
+Why OTAVA®
+Industries
+Compliance Expertise
+Extraordinary Tales
+Partner With Us
+Current Partners
+Partner Portal
+Engage & Learn
+News & Press
+Case Studies
+Blog
+Whitepapers
+Webinars
+Events
+Subscribe to stay up to date *
+Email(Required)
+©
+2023                    OTAVA® All Rights Reserved
+Privacy Policy
+Legal Notices
+Acceptable Use Policy
+Rules of Use

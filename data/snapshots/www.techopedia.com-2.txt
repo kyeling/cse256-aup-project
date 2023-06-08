@@ -1,0 +1,278 @@
+Home
+Dictionary
+Articles
+Tutorials
+Newsletters
+Free Resources
+Welcome,  (account)
+sign-out
+Sign-In
+Join Techopedia
+Terms
+Articles
+Menu
+Home
+Dictionary
+Term of the Day
+Audit Trail
+An audit trail, in the context of IT, is a chain of evidence in the form of hard or electronic business transactions or communications resulting from business processes, functions or programming executions.
+Read more
+Newest Terms
+Consolidated Service Desk
+E-Distribution
+Subject-Oriented Programming
+Shortest Job First
+Softmodem
+Supervisor Mode
+Serial Communication
+Software Interrupt
+Screensaver
+Webrooming
+View All...
+Top Categories
+Communication
+Data
+Development
+Enterprise
+Hardware
+Internet
+IT Business
+Networking
+Security
+Software
+View Tag Cloud...
+Big Data
+6 Big Myths About Managing Big Data
+10 Big Data Do's and Don'ts
+5 Geek Terms That Are Cooler Than They Sound
+More Recent Content in Big Data
+Big Data, Social Sciences and How to Change Negative Outcomes Into Positive Ones
+7 Things You Must Know About Big Data Before Adoption
+Back to School With Big Data Analytics
+View All...
+Big Data Home
+Cloud Computing
+Virtualization
+Enterprise
+Databases
+Buzzwords and Jargon
+Hadoop Common
+Unstructured Data Mining
+Characterization
+Data Source
+Data Collection
+Data Exhaust
+Demographic Data
+Location Analytics
+Informatics
+Data Discovery
+Cloud Computing
+How Virtualization Can Empower SaaS Applications
+5 Things To Know About Cloud Pricing
+The Cloud Imperative - What, Why, When and How - TechWise Episode 3 Transcript
+More Recent Content in Cloud Computing
+Choosing Between IaaS and PaaS: What You Need To Know
+The Top 3 Advantages of Virtualization
+Do You Really Understand Virtualization?
+View All...
+Cloud Computing Home
+Virtualization
+Buzzwords and Jargon
+Software-as-a-Service (SaaS)
+Distributed Computing
+Data Centers
+Open Source
+Cloud Management Platform
+Cloud Elasticity
+Cloud Printing Service
+Cloud Encryption Gateway
+Cloud Advertising
+Cloud Access Security Broker
+Identity and Access Management as a Service
+Hadoop Common
+Managed Cloud As a Service
+Cloud Performance Monitoring
+Mobile Computing
+Web Roundup: Oops! Apple Does It Again
+Web Roundup: Wearables, Mobile and a Dog's Eye View of the World
+Web Roundup: Smartphones are Smarter Than Ever ... Again
+More Recent Content in Mobile Computing
+Web Roundup: Big Data Scores at the World Cup
+Web Roundup: Mobile Releases, DSL Ripoffs and Microsoft's Plea for Positive Press
+Web Roundup: Privacy, Internet Speeds and Room for Innovation in the Digital Music Industry
+View All...
+Mobile Computing Home
+Mobile Development
+Internet
+Networking
+CIO
+Data
+Enterprise Applications
+Wireless
+Mobile Performance Testing
+Two-In-One Computer
+Modular Phone
+Mobile Enterprise
+Mobile Virtualization
+Location-Aware Application
+Local Positioning System
+Handwriting Recognition
+Mobile Social Network
+Mobility Managed Services
+Security
+The 7 Basic Principles of IT Security
+Why Small Businesses Need to Learn from High-Profile Data Breaches
+Performance Testing: The First Line of Security Against Attacks
+More Recent Content in Security
+10 Ways Virtualization Can Improve Security
+Web Roundup: Security Remains a Top Concern
+Why Data Loss Happens - and What to Do About It
+View All...
+Security Home
+Hacking
+Data Centers
+Forensics
+Legal
+Viruses
+Software
+Mobile Security Testing
+Secure Print
+Cyber Incident Response Plan
+Dynamic Application Security Testing
+Network Security Key
+Context-Aware Security
+Cloud Access Security Broker
+Content-Aware Data Loss Prevention
+Dynamic Data Masking
+Secure Delete
+Online Privacy
+Who Owns All the Data Collected About You? The Answer May Surprise You
+Web Roundup: Smartphones, Hackers and Cutting-Edge Mobile Technology
+Who's Responsible for Cloud Security Now?
+More Recent Content in Online Privacy
+Internet of Things: Who Owns the Data?
+6 Ways to Keep Apps From Oversharing Your Personal Data
+Web Roundup: Privacy, Internet Speeds and Room for Innovation in the Digital Music Industry
+View All...
+Online Privacy Home
+Internet
+Technology Trends
+Social Media
+Security
+End-to-End Email Encryption
+Passive Surveillance
+Internet Information Services Certificate
+Wildcard Secure Socket Layer Certificate (Wildcard SSL Certificate)
+Extended Validation Secure Socket Layer
+Website Security Certificate
+Secure Socket Layer Server
+Secure Socket Layer Unified Communications Certificate
+Blackphone
+Mutual Authentication
+All Topics
+Technology
+Data Centers
+Virtualization
+Storage
+Windows 8
+Internet
+CRM
+Green IT
+Hacking
+Personal Tech
+IT Business
+Buzzwords and Jargon
+IT Management
+Developers
+Network Admins
+Database Admins
+Tech Support
+Infographics
+Who To Follow
+Enterprise
+Home
+Dictionary
+Tags
+Data Management
+Acceptable Use Policy (AUP)
+Definition - What does Acceptable Use Policy (AUP) mean?
+An acceptable use policy (AUP) is a document that outlines a set of rules to be followed by users or customers of a set of computing resources, which could be a computer network, website or large computer system. An AUP clearly states what the user is and is not allowed to do with the these resources.  An AUP is very similar to the ubiquitous terms and conditions or end-user license agreements (EULA) found on almost all software applications. The main difference is that an AUP covers the use of a much larger shared computing resource, such as an LAN or website, as opposed to a single software item. One consequence of sharing is that an AUP typically goes into detail about etiquette and respect for fellow users of the resource, which is not applicable for single-user software applications.  An acceptable use policy is also known as a fair use policy or terms of use.
+Techopedia explains Acceptable Use Policy (AUP)
+AUPs are mostly used by organizations deploying networks for internal use, such as commercial corporations, schools and universities. They are also frequently employed by websites to inform site visitors and customers about what is allowed on the site. For example, some companies do not allow employees to use the corporate LAN after-hours for activities (such as games) that don't provide value to the company. This must be clearly spelled out to the employees.Users may only glance through AUPs or not read them at all. Often, this happens because AUPs use standard do's and don'ts and may be written in a way that is hard to read and understand. For the user, this is a mistake because he or she may never know about any unusual requirements. For example, some social networking sites may not allow discussions that disparage or offend certain religious, racial or political groups.The majority of AUPs also spell out the consequences of breaching the laid-down regulations. These range from warning users to disabling user accounts to extreme measures such as legal action.
+Posted by:
+Cory Janssen
+Related Terms
+End-User License Agreement (EULA)
+Local Area Network (LAN)
+Wide Area Network (WAN)
+Networking
+Policy Awareness
+Related Articles
+SOPA and the Internet: Copyright Freedom or Uncivil War?
+Related Tags
+Categories:
+Data ManagementSoftwareInternetLegal
+Synonyms:
+Fair Use Policy, Terms of Use
+Recommended For You close
+Web Roundup: New Innovations and Releases in the Tech World
+Read More »
+Connect with us
+Techopedia on Linkedin
+Follow us on LinkedIn
+Techopedia on Twitter
+'@Techopedia'
+Sign up for Techopedia's Free Newsletter!
+Techwise Webinar Series
+Understanding the Big Data Landscape
+Big Data is everywhere, that's for sure. But the big question for today's savvy enterprise is: exactly where does Big Data fit into your organization?
+Register Now
+Email Newsletter
+Join 138,000+ IT pros on our weekly newsletter
+Resources
+Free Whitepaper – Bridging the IT Operations Application Owner Gap:
+Conflicting organizational needs all too often create tension between functional silos. Application owners demand more and more resources.
+Free 30 Day Trial – VMTurbo Operations Manager:
+VMTurbo's flagship product, Operations Manager maintains your virtual and cloud environments in a healthy state. It manages homogeneous and...
+Technology Terms:
+#
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Home | Advertising Info | Write for Us | About | Contact Us
+Copyright ©
+2010 - 2015
+Janalta Interactive Inc. - Terms of Use - Privacy Policy
+Partner Sites :
+|Divestopedia
+|Testopedia
+|Securities Institute
+|Safeopedia
+|Zideate
+|Justipedia
+|Corrosionpedia
+|Insuranceopedia
+|Wine Frog

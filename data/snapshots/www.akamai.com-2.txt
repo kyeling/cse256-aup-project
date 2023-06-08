@@ -1,0 +1,110 @@
+Skip to main content
++1-8774252624
+Login
+Try Akamai
+Under Attack?
+Security
+App and API Security
+Zero Trust Security
+Zero Trust Segmentation
+Account Takeover Protection
+DDoS Protection
+Content Delivery (CDN)
+App and API Performance
+Media Delivery
+Edge Compute
+Serverless Computing
+Edge Applications
+Cloud Optimization
+Cloud Computing - Linode
+Solutions by Industry
+Ecommerce
+Financial Services
+Network Operator
+Public Sector
+Media
+All Products
+Global Services
+Our Platform
+About Us
+Resource Library
+Infection Monkey
+Videos
+Customer Stories
+Ebooks
+Product Briefs
+Reference Architectures
+Webinars
+White Papers
+Security Threat Research
+Connect
+Blog
+Events
+Learn
+Learning Hub
+Developer Hub
+Internet Visualizations
+State of the Internet
+Our Thinking
+What Is a CDN?
+What Is a DDoS Attack?
+What Is Zero Trust Security?
+What Is Edge Computing?
+Contact Sales
+Customer Support
+Get in Touch
+Akamai Partners
+Acceptable Use Policy
+Last updated August 14, 2020
+This Acceptable Use Policy ("AUP") sets forth the terms for acceptable use of Akamai's network and systems (the "Akamai Network") as well as its services, software, products, and associated data ("Akamai Services," together with the Akamai Network, the "Akamai Network and Services") by Customer and other users of the Akamai Network and Services. The types of activities described in this AUP are not meant to be exhaustive, but merely illustrative of examples of conduct deemed by Akamai to be inappropriate, improper, illegal, or otherwise harmful to Akamai's reputation, Network or Services and therefore prohibited when using the Akamai Network and Services. The terms and restrictions in this AUP on use of the Akamai Network and Services by Customer shall apply equally to Customer, Customer’s employees and any other person or entity that is provided access to the Akamai Network and/or Services directly or indirectly by Customer ("Customer Users"). By using the Akamai Network and Services, Customer acknowledges that it has read, understood and agrees to comply with the terms of this AUP. Customer shall (i) ensure that Customer Users comply with this AUP and (ii) be responsible for violations of this AUP by Customer or the Customer Users.
+General Conduct
+Customer must use the Akamai Network and Services in a manner consistent with the permitted use of such Akamai Network and Services. Unless otherwise expressly permitted in writing by Akamai, Customer may not assign, transfer, distribute, resell, lease or otherwise provide access to any third party to the Akamai Network or Services, or use the Akamai Network or Services with or for the benefit of any third party (other than Internet end users) or to develop or inform a competitive product or service. Customer may only use the Akamai Network and Services for lawful purposes and in accordance with this AUP.
+Responsibility for Content
+Akamai takes no responsibility for any Customer or Customer User content created, accessible or delivered on or through the Akamai Network or Services. Customer acknowledges that Akamai does not monitor or exercise any editorial control over such content and, absent notification explicitly alerting Akamai to the details of particular content, Akamai does not know the substance of any content that Customer places on the Akamai Network. Customer is solely responsible for (i) any content published or made available through the Akamai Network or Services by Customer and the Customer Users and (ii) compliance with all laws applicable to the publication, distribution, or export of such content, including inter alia the laws and regulations administered by the U.S. Department of the Treasury, Office of Foreign Asset Controls, the U.S. Department of Commerce, Bureau of Industry and Security, and any other applicable laws and regulations concerning export controls or economic sanctions (collectively, the “Export Control Laws”). Customer acknowledges that it is solely responsible for determining whether and to what extent the Export Control Laws apply to its content and for obtaining all authorizations that may be required for the export or reexport of such content to any destination or end user. Customer shall not, nor shall it cause Akamai to, export, facilitate the export, or permit any third party to export, directly or indirectly, any item without appropriate licenses or other required authorizations. Customer shall be solely responsible for maintaining a copy of its content.
+Inappropriate and Illegal Content
+Customer shall not use the Akamai Network and Services to transmit, distribute or store material that is inappropriate, as reasonably determined by Akamai, or material that is illegal, defamatory, libelous, indecent, obscene, pornographic, inconsistent with the generally accepted practices of the Internet community, or enables illegal online gambling. Customer shall ensure that its and its Users' use of the Akamai Network and Services and all content transmitted, distributed or stored on the Akamai Network do not violate any applicable domestic or foreign laws or regulations including but not limited to the Export Control Laws, or any laws relating to content distribution, encryption or any rights of any third party. Customer shall not use the Akamai Network and Services to transmit, distribute or store material that contains a virus, worm, Trojan horse, or other component harmful to the Akamai Network and Services, any other network or equipment, or to the Customer Users.
+Intellectual Property
+Customer shall not use the Akamai Network or Services in any manner that would infringe, dilute, misappropriate, or otherwise violate any privacy or other personal rights or any intellectual property rights, including but not limited to, copyrights and laws protecting patents, trademarks, trade secrets or other proprietary information. If Customer uses a domain name in connection with its use of the Akamai Network or Services, such domain name must not violate any trademark, service mark, or other rights of any third party.
+Fraudulent/Misleading Content
+Customer shall not use the Akamai Network or Services to transmit or distribute material containing fraudulent offers for goods or services, or any advertising or promotional materials that contain false, deceptive, or misleading statements, claims, or representations.
+Email and Spam
+Customer shall not use the Akamai Network or Services to send unsolicited e-mail messages or USENET postings, including, without limitation, bulk commercial advertising or informational announcements ("spam"). Further, Customer is prohibited from using the service of another provider to send spam or to otherwise promote a site hosted on or connected to the Akamai Network. In addition, Customer shall not use the Akamai Network or Services to (a) send email messages or USENET postings which are excessive and/or intended to harass or annoy others, (b) continue to send e-mail messages or USENET postings to a recipient who has indicated that he/she does not wish to receive them, (c) send e-mail messages or USENET postings with forged header information, or (d) send malicious e-mail messages or USENET postings, including, without limitation, "mailbombing." Akamai reserves the right to charge Customer at Akamai's standard rates for time required to handle any complaints that Customer or a Customer User violate this Email and Spam section.
+Security Violations
+Customer is prohibited from violating or attempting to violate the security of the Akamai Network and Services, or any third party network, system, server, or account, including, without limitation, engaging in any of the following activities: (a) accessing data, servers, accounts, databases, etc. which such Customer is not authorized to access, (b) impersonating Akamai personnel, (c) attempting to probe, scan or test the vulnerability of a system or network or to breach security or authentication measures without proper authorization, (d) attempting to interfere with, disrupt or disable service to any user, host or network, including, without limitation, via means of overloading, "flooding," "mailbombing," "denial of service" attacks, or "crashing," (e) forging any TCP/IP packet header or any part of the header information in any e-mail or newsgroup posting, (f) taking any action in order to obtain services to which such Customer is not entitled, or (g) attempting to utilize another party's account name or persona without authorization from that party. Customer is also prohibited from attempting any action designed to circumvent or alter any method of measuring or billing for Akamai Services. Violations of system or network security may result in civil or criminal liability.
+Akamai Rights and Remedies
+If Customer becomes aware of any content or activity that violates this AUP, Customer shall take all necessary action to prevent such content from being routed to, passed through, or stored on the Akamai Network. To the extent Akamai becomes aware of any content or activities that Akamai deems, in its sole discretion, to be in violation of this AUP, Akamai may immediately block access to such content, suspend or terminate any affected Akamai Services, or take any other actions Akamai deems appropriate. Akamai shall be solely responsible for determining if any content or action violates this AUP. Akamai reserves the right to terminate or suspend services if the continued provision of services would violate law or otherwise harm Akamai's Network, Services, reputation or customers. Akamai also reserves the right to cooperate with legal authorities and third parties in the investigation of alleged wrongdoing, including notifying such legal authorities or third parties of such alleged wrongdoing and disclosing the identity of the party that Akamai deems responsible for the wrongdoing. Akamai will endeavor to provide notice to Customer prior to suspension or termination of Akamai Services but may immediately suspend or terminate in instances where continued provision of Services would have a material adverse effect on Akamai. Akamai shall not be liable for any damages of any nature suffered by Customer, any Customer User, or any third party resulting in whole or in part from Akamai's exercise of its rights under this AUP. Akamai reserves the right to modify this AUP from time-to-time, in its sole discretion, effective upon posting a revised copy of the AUP on its homepage, available at https://www.akamai.com/legal/privacy-and-policies/acceptable-use-policy. Any use of the Akamai Network and Services after such modification shall constitute acceptance of such modification. Any violation shall be sent to abuse@akamai.com.
+Twitter
+Facebook
+YouTube
+LinkedIn
+Solutions
+Security
+Content Delivery (CDN)
+Edge Compute
+Company
+History
+Facts and Figures
+Leadership
+Board of Directors
+Investor Relations
+Environmental, Social, and Governance
+Ethics
+Locations
+Newsroom
+Press Releases
+In the News
+Awards
+Media Resources
+Careers
+Working at Akamai
+Students and Recent Grads
+Workplace Diversity
+Search Jobs
+Careers Blog
+Compliance
+Legal
+Privacy Trust Center
+Cookie Settings
+©2022 Akamai Technologies
+EMEA Legal Notices
+Service Status

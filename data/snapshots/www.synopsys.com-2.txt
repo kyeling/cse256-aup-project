@@ -1,0 +1,976 @@
+Silicon Design & Verification
+Silicon IP
+Software Integrity
+About Us
+Support
+SolvNetPlus
+Software Integrity Customer Community
+Global Sites
+日本語
+简体中文
+繁體中文
+Русский
+Silicon Design & Verification
+Products
+Solutions
+Resources
+Services
+Community
+Training
+Design
+3DIC Design
+RTL Design and Synthesis
+Physical Implementation
+Physical Verification
+Signoff
+Test Automation
+Flow Automation
+Custom Design
+FPGA Design
+System Simulation & Modeling
+Electro-Mechanical
+Wire Harness
+Automotive
+Aerospace
+Verification
+Simulation
+AMS Verification
+Static & Formal Verification
+Debug & Coverage
+Verification IP
+Virtual Prototyping
+Emulation
+Prototyping
+SoC Verification Automation
+FPGA Verification
+3D Image Processing
+Simpleware 3D Modeling Software
+Clinical Applications for 3D Images
+Life Sciences Applications for 3D Images
+Materials & Manufacturing
+Silicon Engineering
+Technology Computer Aided Design (TCAD)
+Atomic-Scale Modeling
+Mask Synthesis
+Mask Data Prep
+Yield Management
+Optical Design Solutions
+LightTools
+CODE V
+LucidShape
+Photonic Solutions
+RSoft Photonic Device Tools
+Photonic System Tools
+PIC Design Suite
+OptoCompiler
+Platform
+Fusion Design Platform
+Custom Design Platform
+Verification Continuum
+Silicon Lifecycle Management Platform
+Design
+3DIC
+Aerospace & Defense
+Artificial Intelligence
+Automotive
+DTCO
+Cloud
+Synopsys in the Cloud
+Verification
+Aerospace & Defense
+Automotive
+Low Power
+Networking
+Cloud
+Optical Design Solutions
+Lighting Simulation Software
+Optical Design Software
+Automotive Lighting Design Software
+Optical Engineering Services
+Platform
+Fusion Design Platform
+Custom Design Platform
+Verification Continuum
+Silicon Engineering
+Silicon Lifecycle Management Platform
+Photonic Solutions
+RSoft Photonic Device Tools
+Photonic System Tools
+PIC Design Software
+OptoCompiler
+Design
+Articles
+Blogs
+Datasheets
+Events
+News
+Newsletters
+Success Stories
+Videos
+Webinars
+White Papers
+Verification
+Articles
+Blogs
+Datasheets
+Events
+News
+Newsletters
+Success Stories
+Videos
+Webinars
+White Papers
+Silicon Engineering
+Articles
+Datasheets
+Events
+News
+Newsletters
+Webinars
+System Design Solutions
+SoC Design
+Functional Safety Services
+Arm Core Hardening & Optimization
+Methodology Consulting & Flow Deployment
+Physical Design & Assistance
+Hosted Collaboration Services
+Support
+Support Center Locations
+Licensing
+Installation
+Compute Platforms
+SolvNet
+Documentation
+Open a Support Case
+Download Center
+Community
+Community Overview
+SNUG
+Conferences
+Keynotes
+Proceedings
+Sponsors
+Partners
+Arm
+GLOBALFOUNDRIES
+Intel Custom Foundry
+Samsung
+TSMC
+Academic Programs
+Electronic Design
+Optical Design
+Static Analysis
+Company Blogs
+A View from the Top
+Hitting the Mark
+InFormal Chat
+VIP Central
+Looking Past the Horizon
+Optical and Photonic Solutions
+All Blogs
+Training and Education
+Course Catalog and Registration
+Course Options
+Silicon IP
+Products
+Markets
+Newsletter
+Customer Success
+News
+Resources
+Download Brochure
+Interface IP
+USB
+PCI Express
+DDR
+MIPI
+CXL
+CCIX
+High-Speed SerDes PHYs
+Ethernet
+Die-to-Die
+HDMI
+Mobile Storage
+Bluetooth
+Multi-Protocol PHYs
+VESA DSC
+IP Prototyping Kits
+Interface IP Subsystems
+Processor Solutions
+ARC Processor IP
+Embedded Vision Processor IP
+Development Tools
+Operating Systems
+Ecosystem
+ASIP Tools
+Memories & Libraries
+Logic Libraries
+Memory Compilers
+Duet Packages
+HPC Design Kit
+PVT Sensors
+Non-Volatile Memory
+Security IP
+Root of Trust
+Cryptography IP
+Interface Security Modules
+Security Protocol Accelerator
+Analog IP
+Data Converters
+IP Subsystems
+ARC Data Fusion IP Subsystem
+ARC Sensor & Control IP Subsystem
+Interface IP Subsystems
+IP Accelerated
+SoC Architecture
+IP Subsystems
+Signal/Power Integrity Analysis & IP Hardening
+IP Prototyping Kits
+Silicon Bring-Up Support
+SoC Infrastructure IP
+DesignWare Library
+Foundation Cores
+Verification IP
+Contact Us
+Market Solutions
+Artificial Intelligence
+Automotive
+Internet of Things
+Cloud Computing
+5G Mobile
+Contact Us
+Read
+News
+Articles
+Datasheets
+DesignWare Technical Bulletin
+Success Stories
+White Papers
+Watch
+Videos
+Webinars
+Community
+embARC.org
+PCI Express IP Blog: "Express Yourself"
+USB IP Blog: "To USB or Not to USB"
+DDR IP Blog: "Committed to Memory"
+Contact Us
+Software Integrity
+Tools & Services
+Solutions
+Training
+Customers
+Resources
+Partners
+Blog
+Contact Sales
+Platform
+Polaris DevSecOps Platform
+Intelligent Orchestration
+Tools
+Static Analysis (SAST)
+Software Composition Analysis (SCA)
+Interactive Application Security Testing (IAST)
+Protocol Fuzzing
+Services
+Security Testing Services
+AppSec Program Strategy
+Threat & Risk Assessments
+Security Training
+Open Source Audits
+By Need
+Application Security Testing
+DevSecOps
+Cloud & Container Security
+Open Source Security & License Management
+M&A Due Diligence
+Quality & Security Standards Compliance
+By Industry
+Financial Services
+IoT & Embedded
+Automotive
+Telecommunications
+Aerospace & Defense
+Public Sector
+Medical Device
+Software Security Training
+eLearning
+Instructor Led Training
+Course Catalog
+Product Education
+Community
+Resource Center
+Case Studies
+Datasheets
+eBooks
+Reports
+Webinars
+White Papers
+Blog
+Agile, CI/CD & DevOps News
+Application Security News
+Cloud Security News
+Container Security News
+Fuzz Testing News
+IAST News
+IoT Security News
+Medical Device Security News
+Software Compliance News
+SAST News
+Software Composition Analysis News
+Web Application Security News
+Cybersecurity Research Center
+Overview
+Research
+Company
+About Us
+Investor Relations
+Community
+Newsroom
+Resources
+Careers
+Contact Us
+About Us
+Company Overview
+Management Team
+Corporate Social Responsibility
+Board of Directors
+Corporate Governance & Ethics
+Worldwide Locations
+Investor Relations
+Recent Financial News
+Financials
+Investor Presentations
+Governance & Values
+Community
+Synopsys Users Group (SNUG)
+BSIMM
+Academic Programs
+Partners
+Software Integrity Community
+Newsroom
+Press Releases
+Spokesperson Bios & Images
+Synopsys Logos
+Media Contacts
+Resources
+Events
+Webinars
+Newsletters
+Blogs
+Careers
+Search for Jobs
+Women in Tech
+Careers Worldwide
+Internships
+< Silicon Design & Verification
+Silicon Design & Verification
+< Products
+Design
+3DIC Design
+RTL Design and Synthesis
+Physical Implementation
+Physical Verification
+Signoff
+Test Automation
+Flow Automation
+Custom Design
+FPGA Design
+< Products
+System Simulation & Modeling
+Electro-Mechanical
+Wire Harness
+Automotive
+Aerospace
+< Products
+Verification
+Simulation
+AMS Verification
+Static & Formal Verification
+Debug & Coverage
+Verification IP
+Virtual Prototyping
+Emulation
+Prototyping
+SoC Verification Automation
+FPGA Verification
+< Products
+3D Image Processing
+Simpleware 3D Modeling Software
+Clinical Applications for 3D Images
+Life Sciences Applications for 3D Images
+Materials & Manufacturing
+< Products
+Silicon Engineering
+Technology Computer Aided Design (TCAD)
+Atomic-Scale Modeling
+Mask Synthesis
+Mask Data Prep
+Yield Management
+< Products
+Optical Design Solutions
+LightTools
+CODE V
+LucidShape
+< Products
+Photonic Solutions
+RSoft Photonic Device Tools
+Photonic System Tools
+PIC Design Suite
+OptoCompiler
+< Products
+Platform
+Fusion Design Platform
+Custom Design Platform
+Verification Continuum
+Silicon Lifecycle Management Platform
+< Silicon Design & Verification
+Products
+Design
+System Simulation & Modeling
+Verification
+3D Image Processing
+Silicon Engineering
+Optical Design Solutions
+Photonic Solutions
+Platform
+< Solutions
+Design
+3DIC
+Aerospace & Defense
+Artificial Intelligence
+Automotive
+DTCO
+< Solutions
+Cloud
+Synopsys in the Cloud
+< Solutions
+Verification
+Aerospace & Defense
+Automotive
+Low Power
+Networking
+Cloud
+< Solutions
+Optical Design Solutions
+Lighting Simulation Software
+Optical Design Software
+Automotive Lighting Design Software
+Optical Engineering Services
+< Solutions
+Platform
+Fusion Design Platform
+Custom Design Platform
+Verification Continuum
+Silicon Engineering
+Silicon Lifecycle Management Platform
+< Solutions
+Photonic Solutions
+RSoft Photonic Device Tools
+Photonic System Tools
+PIC Design Software
+OptoCompiler
+< Silicon Design & Verification
+Solutions
+Design
+Cloud
+Verification
+Optical Design Solutions
+Platform
+Photonic Solutions
+< Resources
+Design
+Articles
+Blogs
+Datasheets
+Events
+News
+Newsletters
+Success Stories
+Videos
+Webinars
+White Papers
+< Resources
+Verification
+Articles
+Blogs
+Datasheets
+Events
+News
+Newsletters
+Success Stories
+Videos
+Webinars
+White Papers
+< Resources
+Silicon Engineering
+Articles
+Datasheets
+Events
+News
+Newsletters
+Webinars
+< Silicon Design & Verification
+Resources
+Design
+Verification
+Silicon Engineering
+< Services
+System Design Solutions
+SoC Design
+Functional Safety Services
+Arm Core Hardening & Optimization
+Methodology Consulting & Flow Deployment
+Physical Design & Assistance
+Hosted Collaboration Services
+< Services
+Support
+Support Center Locations
+Licensing
+Installation
+Compute Platforms
+< Services
+SolvNet
+Documentation
+Open a Support Case
+Download Center
+< Silicon Design & Verification
+Services
+System Design Solutions
+Support
+SolvNet
+< Community
+Community
+Community Overview
+< Community
+SNUG
+Conferences
+Keynotes
+Proceedings
+Sponsors
+< Community
+Partners
+Arm
+GLOBALFOUNDRIES
+Intel Custom Foundry
+Samsung
+TSMC
+< Community
+Academic Programs
+Electronic Design
+Optical Design
+Static Analysis
+< Community
+Company Blogs
+A View from the Top
+Hitting the Mark
+InFormal Chat
+VIP Central
+Looking Past the Horizon
+Optical and Photonic Solutions
+All Blogs
+< Silicon Design & Verification
+Community
+Community
+SNUG
+Partners
+Academic Programs
+Company Blogs
+< Training
+Training and Education
+Course Catalog and Registration
+Course Options
+< Silicon Design & Verification
+Training
+Training and Education
+< main menu
+Silicon Design & Verification
+Silicon Design & Verification
++
+Products
++
+Solutions
++
+Resources
++
+Services
++
+Community
++
+Training
+< Silicon IP
+Silicon IP
+< Products
+Interface IP
+USB
+PCI Express
+DDR
+MIPI
+CXL
+CCIX
+High-Speed SerDes PHYs
+Ethernet
+Die-to-Die
+HDMI
+Mobile Storage
+Bluetooth
+Multi-Protocol PHYs
+VESA DSC
+IP Prototyping Kits
+Interface IP Subsystems
+< Products
+Processor Solutions
+ARC Processor IP
+Embedded Vision Processor IP
+Development Tools
+Operating Systems
+Ecosystem
+ASIP Tools
+< Products
+Memories & Libraries
+Logic Libraries
+Memory Compilers
+Duet Packages
+HPC Design Kit
+PVT Sensors
+Non-Volatile Memory
+< Products
+Security IP
+Root of Trust
+Cryptography IP
+Interface Security Modules
+Security Protocol Accelerator
+< Products
+Analog IP
+Data Converters
+< Products
+IP Subsystems
+ARC Data Fusion IP Subsystem
+ARC Sensor & Control IP Subsystem
+Interface IP Subsystems
+< Products
+IP Accelerated
+SoC Architecture
+IP Subsystems
+Signal/Power Integrity Analysis & IP Hardening
+IP Prototyping Kits
+Silicon Bring-Up Support
+< Products
+SoC Infrastructure IP
+DesignWare Library
+Foundation Cores
+Verification IP
+< Silicon IP
+Products
+Interface IP
+Processor Solutions
+Memories & Libraries
+Security IP
+Analog IP
+IP Subsystems
+IP Accelerated
+SoC Infrastructure IP
+Contact Us
+< Markets
+Market Solutions
+Artificial Intelligence
+Automotive
+Internet of Things
+Cloud Computing
+5G Mobile
+< Silicon IP
+Markets
+Market Solutions
+Contact Us
+< Silicon IP
+Newsletter
+< Silicon IP
+Customer Success
+< Silicon IP
+News
+< Resources
+Read
+News
+Articles
+Datasheets
+DesignWare Technical Bulletin
+Success Stories
+White Papers
+< Resources
+Watch
+Videos
+Webinars
+< Resources
+Community
+embARC.org
+PCI Express IP Blog: "Express Yourself"
+USB IP Blog: "To USB or Not to USB"
+DDR IP Blog: "Committed to Memory"
+< Silicon IP
+Resources
++
+Read
++
+Watch
++
+Community
+Contact Us
+< main menu
+Silicon IP
+Silicon IP
++
+Products
++
+Markets
+Newsletter
+Customer Success
+News
++
+Resources
+< Software Integrity
+Software Integrity
+< Tools & Services
+Platform
+Polaris DevSecOps Platform
+Intelligent Orchestration
+< Tools & Services
+Tools
+Static Analysis (SAST)
+Software Composition Analysis (SCA)
+Interactive Application Security Testing (IAST)
+Protocol Fuzzing
+< Tools & Services
+Services
+Security Testing Services
+AppSec Program Strategy
+Threat & Risk Assessments
+Security Training
+Open Source Audits
+< Software Integrity
+Tools & Services
+Platform
+Tools
+Services
+< Solutions
+By Need
+Application Security Testing
+DevSecOps
+Cloud & Container Security
+Open Source Security & License Management
+M&A Due Diligence
+Quality & Security Standards Compliance
+< Solutions
+By Industry
+Financial Services
+IoT & Embedded
+Automotive
+Telecommunications
+Aerospace & Defense
+Public Sector
+Medical Device
+< Software Integrity
+Solutions
++
+By Need
++
+By Industry
+< Training
+Software Security Training
+eLearning
+Instructor Led Training
+Course Catalog
+< Training
+Product Education
+< Training
+Community
+< Software Integrity
+Training
+Software Security Training
+Product Education
+Community
+< Software Integrity
+Customers
+< Resources
+Resource Center
+Case Studies
+Datasheets
+eBooks
+Reports
+Webinars
+White Papers
+< Resources
+Blog
+Agile, CI/CD & DevOps News
+Application Security News
+Cloud Security News
+Container Security News
+Fuzz Testing News
+IAST News
+IoT Security News
+Medical Device Security News
+Software Compliance News
+SAST News
+Software Composition Analysis News
+Web Application Security News
+< Resources
+Cybersecurity Research Center
+Overview
+Research
+< Software Integrity
+Resources
+Resource Center
+Blog
+Cybersecurity Research Center
+< Software Integrity
+Partners
+< Software Integrity
+Blog
+< main menu
+Software Integrity
+Software Integrity
++
+Tools & Services
++
+Solutions
++
+Training
+Customers
++
+Resources
+Partners
+Blog
+< About Us
+Company
+< About Us
+About Us
+Company Overview
+Management Team
+Corporate Social Responsibility
+Board of Directors
+Corporate Governance & Ethics
+Worldwide Locations
+< About Us
+About Us
+About Us
+< Investor Relations
+Investor Relations
+Recent Financial News
+Financials
+Investor Presentations
+Governance & Values
+< About Us
+Investor Relations
+Investor Relations
+< Community
+Community
+Synopsys Users Group (SNUG)
+BSIMM
+Academic Programs
+Partners
+Software Integrity Community
+< About Us
+Community
+Community
+< Newsroom
+Newsroom
+Press Releases
+Spokesperson Bios & Images
+Synopsys Logos
+Media Contacts
+< About Us
+Newsroom
+Newsroom
+< Resources
+Resources
+Events
+Webinars
+Newsletters
+Blogs
+< About Us
+Resources
+Resources
+< Careers
+Careers
+Search for Jobs
+Women in Tech
+Careers Worldwide
+Internships
+< About Us
+Careers
+Careers
+< main menu
+About Us
+Company
++
+About Us
++
+Investor Relations
++
+Community
++
+Newsroom
++
+Resources
++
+Careers
+All Synopsys
++
+Silicon Design & Verification
++
+Silicon IP
++
+Software Integrity
++
+About Us
+Support
+SolvNetPlus
+Software Integrity Customer Community
+Global Sites
+日本語
+简体中文
+繁體中文
+Русский
+Synopsys – Acceptable Use Policy
+Version 2015.1
+Synopsys, Inc. (“Synopsys”, “we”, “us” or “our”) provides you with access to our forums as a service to you, our users and customers (“you” or “User”) to help you exchange ideas and information about our products and services.  Our Acceptable Use Policy (“AUP”) is provided to you as part of our effort to ensure that (1) our forums continue to function as a high quality and collaborative experience for you, (2) your privacy is protected, (3) assure everyone’s responsible participation in our forums, and (4) ensure everyone’s compliance with applicable laws.
+Our forums are here for the enjoyment and benefit of all participants and users and is accessible to all who register and are 13 years of age or older.  Our forum is most valuable when everyone obeys certain basic guidelines and rules for online behavior.  Our AUP is presented here so that everyone understands the ground rules of use and collaboration when using our forum. By registering you agree to comply with this AUP, in addition to our Legal Terms of Use.  We may change our AUP at any time, and our changes shall be effective immediately.  Your use of our forums after our changes are posted shall be deemed to constitute your acceptance of the changes.
+We may, in our sole discretion, determine whether a use of our forum is a violation of this policy. While it is not our intent to control or censor communications of participants, if we become aware of a violation of this policy, we make take such action as we deem appropriate to address such violation.
+We reserve the right to amend this policy from time to time without notice. Any such changes will be effective immediately upon posting of the revised policy to this site.
+Stay on Point.
+We provide our forums to you to facilitate collaboration between our users and customers regarding our products and services.  Please stay on point — refrain from discussing personal matters, abusing any company or product, or, in general, from posting content that is not related to Synopsys products or services.  Our forum is not a legal venue, and as such any discussion of litigation or potential litigation (past, present, future or otherwise) is not permitted and automatically regarded as off-point.
+Respect Each Other.
+We want everyone to have a positive experience while participating in our forums. It is your responsibility to make sure that you are not detracting from any of our other user’s experience in our forums. You must not post any material that is unlawful, libelous, defamatory, obscene, pornographic, indecent, lewd, harassing, threatening, harmful, invasive of privacy or publicity rights, abusive, inflammatory or otherwise disrespectful, objectionable, or injurious to others, as we may determine in our sole discretion. We welcome your opinions and advice, but personal attacks and harassment of other users using our forum or through private messaging are not acceptable.
+No Unsolicited Emails.
+Our forum is provided as a service to our users and customers only. You are not allowed to use our forums for the promotion of third party services, products, websites, or organizations. Please do not post advertisements, junk mail, spam, chain letters, charity requests, petitions for signatures or any other form of solicitation. Further, overwhelming our forum by excessive posting, padding/bumping posts, overly large font sizes, or cross-posting to other forums or websites is not allowed.
+Comply with the law.
+You must comply with all applicable laws when you use our forum. Our forums may not be used in connection with any criminal or civil violations of state, federal or international laws, regulations or other government requirements. Accordingly, you cannot post any material that (a) infringes on any patent, trademark, trade secret, copyright, or other rights of any party; (b) is fraudulent; (c) contains software viruses or any other computer code or files that are designed to disrupt, damage, or limit the functioning of any software or hardware; or (d) is illegal under local, state, federal, or international law, rule or regulation.
+Use common sense.
+If you follow any advice that you read in our forums, you do so at your own risk. You alone are responsible for deciding whether or not to follow such advice. If in doubt, do not try it.
+Don’t disclose your personal information.
+Please do not post personal information on our forums including your name and address, age, or phone number. If any user asks you for personal information, such as an account number, address, password or credit card number, do not provide it.
+We make no guarantee regarding, and we assume no liability for, the security and integrity of any data or information you store or transmit via the forums or the Internet, including any data or information stored or transmitted by any computer designated as “secure.” You are responsible for immediately reporting to us any issue which could compromise the security or integrity of any User or system taking part in the use of our forums.
+Don’t post your product’s license key publicly.
+Please do not post the serial number of your product on the public forum. You may post full information about your product, including its model number and part number, as well as information about your surrounding system, but DO NOT include the serial number. If you want to ask a moderator to look up something specific to your product, use the private message system or open a support case with Synopsys technical support.
+Moderator actions.
+Public discussion of moderator actions on the forum is not allowed. If you are inquiring about a moderator action, please send a PM to one of the other moderators for more information. Although the moderator’s will attempt to address the inquiry, we cannot guarantee such or that you will be satisfied with the response.
+Unofficial Copies, Benchmarks and Results of Analysis.
+Suggesting, referencing, or linking to unofficial copies of our Licensed Product, benchmarks of our Licensed Product, or results of analysis created by our Licensed Product is not permitted and shall be removed by our forums moderator.
+Private Messaging policy.
+Our forum Private Messaging (“PM”) tool is available for any user to use to contact any other user or our moderator in our forums.  You may access the PM tool by selecting the appropriate icon in the applicable forum.  Any PM is a private correspondence between you and the party to whom it is sent.
+Oversight.
+We retain the right to remove any posts or information we deem inconsistent with our AUP.
+Violations of our AUP.
+We do not edit or monitor User content posted in our forums.  However, we retain the right, at our sole discretion, to limit or deny your access to our forums and to remove any material posted by you that, in our sole judgment, does not comply with our policies or that we otherwise deem to be inappropriate for our forums.  Notwithstanding the foregoing, we are not responsible for any failure or delay in removing such material.  We may involve, and will cooperate with, law enforcement if we suspect criminal activity, and we shall have no liability to you or any third party for any actions taken in connection with such cooperation.  Our employees and all Users of our forums are responsible for providing assistance to us in such investigations as needed.
+Please report any suspected violations of our policy to us.
+If you suspect that a violation of our policy has occurred, please report it immediately to a forum moderator (this option is available from within all forum posts) or by email at legal@coverity.com.  Please include details that would assist us in investigating and resolving the complaint.
+Information that we collect.
+We may collect and use data pertaining to the use of our forums (“Usage Data”).  Any Usage Data we collect will be anonymous without reference to the particular user or users.  We may only use the Usage Data for our internal research and development purposes and may only disclose Usage Data in an aggregated format that in no way identifies any User or any particular User (e.g. we may disclose aggregate usage statistics for all of our hosted customers).
+We have the right to disclose User content to a third party only if required by law.  We will, to the extent permitted by law: (a) promptly notify the affected User (if we know the identity of the User) of the order’s terms and the circumstances surrounding its issuance; (b) consult in good faith with the affected User regarding possible responses to the order and, if requested by the User, make best efforts to narrow the order’s scope, obtain a protective order from the court, or produce documents to the court or government body under seal with appropriate instructions regarding preservation of the User’s confidentiality, if applicable; and (c) if disclosure is required to prevent Synopsys from being subjected to contempt sanctions or other penalties, disclose only the User content that, in the opinion of counsel reasonably satisfactory to us, is legally required to be disclosed, consistent with a reasonable interpretation of the order.
+DISCLAIMER OF WARRANTIES AND LIMITATION OF LIABILITY.
+Synopsys does not control and is not responsible for content posted to our forum by third parties. Participants like you are providing most of the material in our forum.  Such third-party content is the sole responsibility of the person originating the material.
+OUR FORUM AND ALL CONTENT AND MATERIALS ON THIS SITE ARE PROVIDED “AS IS” WITHOUT WARRANTIES OF ANY KIND EITHER EXPRESS OR IMPLIED.  SYNOPSYS DOES NOT WARRANT OR GUARANTEE THE ACCURACY, VALIDITY, RELIABILITY, COMPLETENESS, USEFULNESS, NON-INFRINGEMENT ON INTELLECTUAL PROPERTY RIGHTS OR QUALITY OF ANY MATERIAL THAT APPEARS IN OUR FORUMS, REGARDLESS OF WHO ORIGINATES THAT MATERIAL.  SYNOPSYS DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING WITHOUT LIMITATION, IMPLIED WARRANTIES OR MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT OR OTHER VIOLATIONS OF RIGHTS.  YOU EXPRESSLY UNDERSTAND AND AGREE THAT YOU BEAR ALL RISKS ASSOCIATED WITH USING OR RELYING ON ANY MATERIAL VIA THE FORUMS.  SYNOPSYS WILL NOT BE LIABLE OR RESPONSIBLE IN ANY WAY FOR ANY CONTENT IN OUR FORUMS, INCLUDING, WITHOUT LIMITATION, ANY ERRORS OR OMISSIONS IN THE MATERIAL OR FOR ANY LOSSES OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF OR RELIANCE ON ANY MATERIAL. THIS DISCLAIMER AND LIMITATION ON LIABILITY IS IN ADDITION TO THE DISCLAIMERS AND LIMITATIONS CONTAINED OUR TERMS OF USE THAT APPLY TO ALL USE OF THE FORUMS.
+Contact Information.
+Direct your inquiries regarding the AUP to:
+Synopsys, Inc.
+700 East Middlefield Road
+Mountain View, CA 94043

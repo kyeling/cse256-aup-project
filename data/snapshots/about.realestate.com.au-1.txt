@@ -1,0 +1,107 @@
+skip to Main
+Navigation
+skip to Content
+Acceptable Use Policy (AUP) - Residential
+Acceptable Use Policy (AUP) – Residential
+Version 11: Published February 2015
+INTRODUCTION
+1.1.    This Acceptable Use Policy is applicable to your use of the realestate.com.au web site to display residential property listings for sale or for rent, agent profile information and the realestate.com.au Admin System to upload property listings for display on the realestate.com.au web site (“the Service”).
+1.2.    This Acceptable Use Policy forms part of your agreement with us for the Service.
+1.3.    We may change this Acceptable Use Policy as set out in the Terms and Conditions for the Service.
+1.4.    We reserve our rights to maintain the quality of listing and agent profile content on realestate.com.au by making such directions in relation to modification of content that we consider reasonable in the circumstances. The rules in this Acceptable Use Policy are a non-exhaustive list of our requirements. We may therefore issue directions to you in relation to modification of content that are not covered by the requirements below.
+1.5.    We may interpret and apply the rules below in such reasonable manner that we consider appropriate in the circumstances.
+YOUR OBLIGATIONS
+2.1.    You must abide by the provisions of this Acceptable Use Policy.
+2.2.    You must only use the Service for the purposes for which it was designed and offered and not for any other purpose including, but not limited to, any purpose stated in this Acceptable Use Policy as being not acceptable.
+2.3.    You must use the Service in a responsible manner, taking into account the effects your use of the Service may have on other users of the Service and the realestate.com.au web site.
+ACCEPTABLE USE
+3.1.    It is acceptable to use the Service for the bona fide listing of real property for sale or lease, on behalf of the person entitled to offer the property for sale or lease and in accordance with the terms of this Acceptable Use Policy
+3.2.    Customers who have a Residential subscription to realestate.com.au, but do not have a Developer subscription to realestate.com.au, may only list properties in the “Buy” and “Rent” sections of realestate.com.au. It is not acceptable for such customers to list properties in any of the “New Homes” sections of realestate.com.au (i.e. House and Land Packages, New Apartments, Land Estates and Home Designs). Customers must have a Developer subscription to list properties in any of the “New Homes” sections of realestate.com.au.
+3.3.    Customers with Developer subscriptions are permitted to advertise individual New House & Land Packages, individual New Apartments and individual Land Estates allotments in the “Buy” section of realestate.com.au. Those customers must comply with both this Acceptable Use Policy and the Developer Acceptable Use Policy in respect of such listings and in particular these customers must comply with the Developer Acceptable Use Policy and must not list more than 5 property allotments at the same multi-dwelling street address.
+3.4.    It is acceptable to list properties for which you have the appropriate Agency Agreement or Authority to Sell as required in your State.
+WHAT IS NOT ACCEPTABLE USE?
+4.1.    It is not acceptable use of the Service to engage in any of the following practices, or to allow anyone else to engage in the following practices, in using the Service:
+4.1.1.    Listings other than real estate: Listing anything other than real property for sale or lease. For example: cars, car spaces, boats, caravans and portable homes are not acceptable listings on realestate.com.au.
+4.1.2.    Advertising your business: Using the Service to advertise your business in a listing rather than real property for sale or lease. Each listing uploaded by you must be a bona fide listing of real property for sale or lease. For example: using the service to advertise your business or its services as a property listing is not acceptable.
+4.1.3.    Incorrect categorisation of properties for sale:
+(a)    Listing properties for sale other than in accordance with the categories set out in 3.2 above
+(b)    Listing properties for sale in the ‘Rent’ section and listing properties for rent in the ‘Buy’ section. We may in our discretion allow certain ‘Rent to Buy’ type listings to appear in both the ‘Buy’ and ‘Rent’ sections.
+4.1.4.    Incorrect categorisation of rental properties:
+(a)    Subject to 4.1.4 (b) below, listing share properties under residential rentals. Only properties available for vacant possession are to be listed under residential rentals.
+(b)    The following listings may be listed under residential rentals:
+(i)    individual rooms within a multi-room complex that are rented on a separate tenancy basis (even if access to common areas is shared with other individual tenants); and
+(ii)    individual rooms within a student accommodation complex. Each listing must be tailored to the room being advertised. We will not allow use of a generic template for listings of multiple rooms.
+(c)    Listing holiday rental properties under residential rentals. We will have discretion to determine whether a listing is for a holiday rental listing for this purpose. Without limiting that discretion, we may deem a rental listing for duration of 3 months or less to be a holiday listing.
+4.1.5.    Listing of commercial properties on realestate.com.au: Listing commercial properties on the residential site at realestate.com.au. Where a property incorporates both commercial and residential property, it is acceptable to list the residential portion of the property on the site and refer to the commercial component of the property. However, it is not acceptable to feature the commercial property as the main component of the advertisement.
+4.1.6.    Generic listings: Listings which are not in relation to a specific lot number or address (for example ‘various properties available’).
+4.1.7.    Misuse of fields: Placing irrelevant information in an information, description or picture field of a listing. You must only use the information, description or picture fields for inserting information that is intended for those fields. For example, inserting the name or contact details of your business or agency in the description header or property description field is not acceptable.
+4.1.8.    Watermarks in photos: Inserting a business or agency logo as a picture in a property listing is not acceptable unless it takes the form of a transparent watermark inserted in one corner of the image with dimensions no greater than 10% of the total image size (i.e. 80 pixels by 60 pixels).
+4.1.9.    Incorrect photos or pictures:
+(a)    Displaying a photograph, drawing or other image that is not a photograph, drawing or image of the property being offered for sale or lease as the main image. Displaying photos of properties other than the property for sale or lease is not acceptable. ‘Too Early for Picture’ or images of cartoon houses are also not acceptable.
+(b)    You must not use the image Functionality for any unlawful, illegal, malicious or improper purpose. For example it is not acceptable to display images that:
+(i)    may defame or discredit another person or business;
+(ii)    may disclose private, personal or confidential information;
+(iii)    might be considered obscene, offensive, menacing or abusive;
+(iv)    might infringe the intellectual property rights of others; or
+(v)    may violate any law, regulation, standard, content requirements or code promulgated by any relevant authority or industry body.
+4.1.10.    Borders around photos or pictures: Displaying a photograph, drawing or other image within a border that we consider detracts from the quality of the image on a listing.
+4.1.11.    Text in photos or pictures: Displaying text within a photograph, drawing or other image that we consider detracts from the quality of the image on a listing.
+4.1.12.    Photo or image collages: Displaying a collage or combination of photos or other images within one frame on a listing.
+4.1.13.    Displaying ‘Lifestyle’ images as main image: Displaying a ‘lifestyle’ photograph, drawing or other image as the main image in a property listing. We will have discretion to determine what constitutes a ‘lifestyle’ image for this purpose, but for guidance a lifestyle image will commonly be an image of some local environmental or structural feature or amenity, and not an image of the exterior or interior of the property itself.
+4.1.14.    False street and place names: Using Street names, suburbs or location names that are inaccurate or not officially recognised. For example: stating that a property is within a neighbouring suburb is not acceptable.
+4.1.15.    Duplicate listing of properties:
+(a)    Creating more than one listing for the same property. For example, listing a single property more than once, but with different prices or listing a property in the homes for sale section and the land for sale section is not acceptable. However, a home may legitimately be listed in the homes for sale section and the rural property section or the homes for sale section and the rental section if it falls within both categories. A genuine listing of multiple units at the same address is not considered a duplicate listing of properties.
+(b)    No more than one Real Estate Office may list the same property where the offices purporting to list the property are majority-owned (directly or indirectly) by the same person or corporate entity (“Affiliated Offices”). Where there is a joint listing authority in place between a vendor and such Affiliated Offices, then we reserve the right to choose which office may list the property on the web site, or refuse to list the property altogether.
+4.1.16.    Refreshing listings: Removing and then re-listing the same property in order for the listing to appear as a new listing. This also applies where:
+(a)    A property is removed from and then placed back on the market with a new authority to the same agent or agency if the property has been off the market (and off the Site) for less than 60 days; or
+(b)    The property is removed by one office and then listed by an Affiliated Office within 60 days of the removal.
+4.1.17.    Multiple listings at the same street address: Listing more than 10 unique properties in unique listings at the same street address. Using the same titles, images or descriptions for these listings is also not acceptable. Using a showroom or generic photo without reference in the listing to the fact that the image is not that of the property advertised is not acceptable.
+4.1.18.    Large files: You must ensure that the graphic file submitted by you for your logo is no larger than 4k in memory size.
+4.1.19.    Listing without authority: Listing property that you have not been authorised to sell or lease and for which you do not have a signed authority from the owner or vendor, such as an Agency Agreement or Authority to Sell (as required in your State or Territory).
+4.1.20.    Listing where not the primary listing agent: Listing a property for which you are not the primary listing agent. Where two agents have equal rights to list the property as a joint listing, subject to 4.1.15 above each agent may list the property. However, where there is a primary listing agent and other eligible agents through a conjunction or a multi-listing agreement, only the primary listing agent may list the property on the Site
+4.1.21.    Impersonating other persons: Using the Service in way that is impersonating another person or persons.
+4.1.22.    Reselling the Service or its contents: Reselling the Service or its contents to any other person. If you are listing a property you must be representing the vendor in the sale or lease of that property.
+4.1.23.    Allowing others to use the Service: Using the Service to advertise properties for sale or lease for a Real Estate Office that is not subscribed to the Service. Each Real Estate Agency’s physical office location (including so-called “Satellite Offices” – and other physical offices falling under the definition of “Real Estate Office” in clause 1 of the Terms and Conditions) must be subscribed to the Service in order to upload property listings. Each property listing uploaded to the site must be uploaded using the subscription applicable to the office which has the vendor or landlord authority.
+4.1.24.    Listing where you are not licensed: Using the Service to advertise properties for sale or lease in a State in which you do not hold a current real estate agent’s licence.
+4.1.25.    References to third parties: Publishing advertisements with the Service that contain a reference to a third party (for example, the Vendor). Advertisements must only refer a viewer to the Real Estate Office of a licensed real estate agent that is a subscribing member of realestate.com.au.
+4.1.26.    Misleading or deceptive conduct: Using the Service in a way that does or is likely to mislead and deceive the public users of realestate.com.au. This is the case regardless of what content is considered misleading or deceptive. Without limiting the generality of this restriction, we may deem the following conduct misleading and deceptive:
+(a)    Uploading new listings labelled ‘Sold’ to the ‘Buy’ section, even if subsequently moved to the ‘Sold’ section;
+(b)    Uploading new listings in the incorrect suburb, even if subsequently moved to correct suburb;
+(c) listing an agent on a “Sold” listing that was not responsible for the property at the time it was sold; or
+(d) including false or misleading information in the descriptive text of an agent profile in the “Find Agents” tab of realestate.com.au.
+4.1.27.    Failure to remove sold properties: Failing to use your best endeavours to transfer a property to the sold database or remove a property from the web site as soon as possible after it has been sold. For the purposes of the Acceptable Use Policy, we will regard a property as being “sold” and require it to be moved to the sold database 72 hours following any of the following events:
+(a)    it has been sold at auction; or
+(b)    it has been sold by private treaty and the contract of sale entered into in respect of the property is unconditional; or
+(c)    it has been sold by private treaty and the contract of sale entered into in respect of the property becomes unconditional (i.e. the conditions are satisfied and/or waived); or
+(d)    it has been marked “under offer” or “under contract” on our website for longer than two months; or
+(e)    you or your agency refers to the property as “sold” in any public communication or display, including on the signboard, in marketing materials, on another website or in a window display; or
+(f)    once the sale has been settled (provided that, acting reasonably, you have been unable to move the property to the sold database following the events in items (a)-(e) previously).                   For the avoidance of any doubt, you will be penalised for breach under clause 5.2 of this Acceptable Use Policy if the property is not moved to the sold section within 72 hours of the events in clauses (e) or (f) occurring.
+4.1.28.    Failure to remove rented properties: Failing to, within 72 hours of a leasing contract being entered into in respect of a property delete the property from the residential rentals database.
+4.1.29.    Sold by another Agent: Changing the status of a property to sold for display on realestate.com.au where you are not the selling agent. For example, where a property was listed with multiple agents, only the selling agent may change the status of the property to sold, the other agent/s must remove the listing for the property.
+4.1.30.    Rules for Content Containing Video/Moving Images/3D Tours (Video):
+(a)    Each Video on a listing must advertise a property for sale or lease and focus predominantly on the property. You must not use Video to advertise yourself or your agency, except that you may include a transparent watermark of your agency logo in one corner of the Video with dimensions no greater than 10% of the total image size (i.e. 80 pixels by 60 pixels) that does not obstruct the Video content.
+(b)    Images and sounds in Videos must relate to the property being offered for sale or lease. Displaying a ‘lifestyle’ image or commenting on lifestyle features is acceptable (eg a view from the property or an image of some local environmental or structural feature or amenity) provided the property remains the principal focus of the Video.
+(c)    You must not use the Video Functionality in a way that is likely to mislead or deceive users of realestate.com.au.
+(d)    You must adhere to the technical requirements for embedded property videos communicated to you from time to time.
+(e)    You must not use the Video Functionality for any unlawful, illegal, malicious or improper purpose. For example it is not acceptable to display images or include commentary that:
+(i.)    may defame or discredit another person or business;
+(ii.)    may disclose private, personal or confidential information;
+(iii.)    might be considered obscene, offensive, menacing or abusive;
+(iv.)    might infringe the intellectual property rights of others; or
+(v.)    may violate any law, regulation, standard, content requirements or code promulgated by any relevant authority or industry body.
+(f)  You must not include any agent contact details (e.g. phone, skype, email, social media or website address) other than the agency name.
+(g) You must not include any links to websites or other tools with additional functionality (e.g. contact an agent, enquiry or booking call-to-actions such as “book inspection” or “contact agent”) .
+(h) The above rules apply to all forms of moving images permitted by us for use on our website including images involving video, animated, virtual, rendered and scanned technologies.  The general Acceptable Use rules apply to images and sounds in Videos, including without limitation sections 4.1.31 and 5 below.
+4.1.31.    Other inappropriate content: Using the Service for any unlawful, illegal, malicious or improper purpose. For example: it is not acceptable to, in your use of the Service, display material that:
+(a)    may defame or discredit another person or business;
+(b)    may disclose private, personal or confidential information;
+(c)    might be considered obscene, offensive, menacing or abusive;
+(d)    might infringe the intellectual property rights of others;
+(e)    may violate any law, regulation, standard, content requirements or code promulgated by any relevant authority or industry body.
+4.1.32 New Multi-Dwelling Projects: Purchasing a single residential listing in the “buy” channel for a property in a new multi-dwelling project that contains four or more properties (whether or not there are less than four properties available for sale). A new multi-dwelling project is a property development that is newly-titled and has never had an occupant (e.g. being sold off the plan or in a development before the occupancy certificate has been issued).
+4.1.33 Failing to verify the authenticity of listings: Allowing listings to be uploaded to our website for a person or entity using the listing for an improper purpose. An improper purpose includes to commit fraud against a consumer by impersonating a real estate agent or landlord that is authorised to advertise the property in order to obtain funds by deception. Where this occurs, you must satisfy us that you have adequate procedures to verify the authenticity of listings in place and ensure that they are uploaded for a proper purpose, as well as an agency authority with the owner of the property.
+BREACHING THIS POLICY
+5.1.    If you use the Service in a way that breaches this Acceptable Use Policy, you are in breach of your agreement with realestate.com.au for your use of the Service.
+5.2.    Breaching this Acceptable Use Policy may result in us taking action to remedy the breach. This might include: suspending your subscription; deleting a specific listing, deleting an agent profile, not permitting a listing to be uploaded to the site in the first place or any other action that we are permitted to take under our agreement with you and according to law.
+5.3.    For the avoidance of doubt, if we give you notice of a breach or breaches of this Acceptable Use Policy, we may require you to remedy those breaches AND otherwise become wholly compliant with this Acceptable Use Policy within the period specified in the notice. We reserve our rights to take suspension or termination action where you are in breach of ANY requirement of this Acceptable Use Policy at any time after the period specified in such a notice (and not only where you are in continuing breach of the specific requirements identified).
+5.4.    Where we suspend or delete listings or listings are prevented from being uploaded due to a breach or attempted breach by you of this Acceptable Use Policy, you will remain liable for your contractual obligations, including any fees and charges which may accrue, during the period of suspension and/or in relation to the listings deleted by us.

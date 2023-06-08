@@ -1,0 +1,265 @@
+sign-injoin techopedia
+Home
+Dictionary
+Articles
+Tutorials
+Newsletters
+Free Resources
+Terms
+Articles
+Menu
+Home
+Dictionary
+Term of the Day
+Data Center In A Box
+A data center in a box is a type of data center in which portable, mobile and modular information nodes are self-contained within a cargo container. It is designed and packaged for quick deployment and acquisition of data center solutions in organizations or facilities, including remote off-site locations.
+Read more
+Newest Terms
+Persistent Cookie
+Fork Bomb
+Retainable Evaluator Execution Framework
+Secure Sockets Layer Certificate Authority
+Java Zero Day
+Data Center In A Box
+Object-Oriented Design
+Dynamic Network Address Translation
+Disaster Recovery Software
+Data Center Infrastructure
+View All...
+Top Categories
+Communication
+Data
+Data Management
+Development
+Enterprise
+Hardware
+Internet
+Networking
+Security
+Software
+View Tag Cloud...
+Big Data
+Experts Predict the Top Tech Trends of 2014
+Can Big Data Save Health Care?
+Social Chatter: Should Your Company Be Listening?
+More Recent Content in Big Data
+Big Data, Bigfoot, UFOs and the Loch Ness Monster
+INFOGRAPHIC: The Data Backup Costs Behind Big Data
+INFOGRAPHIC: The Benefits of Big Data Marketing
+View All...
+Big Data Home
+Cloud Computing
+Virtualization
+Enterprise
+Databases
+Buzzwords and Jargon
+Retainable Evaluator Execution Framework
+Data Center In A Box
+Personal Health Information
+Records Management
+Petabit
+Data Filtering
+Bunny Suit
+Regional Computer Forensics Laboratory
+Cooling Capacity Factor
+Consumption-Based Pricing Model
+Cloud Computing
+Experts Predict the Top Tech Trends of 2014
+5 Things to Consider When Choosing a Cloud Drive
+Don't Mess This Up: How to Implement Cloud Computing
+More Recent Content in Cloud Computing
+Cloud Backup and Disaster Recovery for Small and Medium-Sized Businesses
+Breaking Down Gartner's 2014 Strategic Tech Trends
+Top 10 Cloud Computing Myths Busted
+View All...
+Cloud Computing Home
+Virtualization
+Buzzwords and Jargon
+Software-as-a-Service (SaaS)
+Distributed Computing
+Data Centers
+Open Source
+Transparent Computing
+Remote Wipe
+LIFI
+Simian Army
+Ubiquitous Computing
+Software as a Service Enterprise Resource Planning
+Cloud Computing Reseller
+Consumption-Based Pricing Model
+LUN Zoning
+Measured Service
+Mobile Computing
+CYOD: The Latest Acronym in the Mobileverse
+10 Tech Acronyms You Must Know
+Don't Mess This Up: How to Implement Cloud Computing
+More Recent Content in Mobile Computing
+Mobile Device Management vs. Mobile Application Management: The Big Fight Continues
+Mobile OS Wars: Samsung Introduces Tizen
+Beyond the Hype: 7 Key New Features in iOS 7
+View All...
+Mobile Computing Home
+Mobile Development
+Internet
+Networking
+CIO
+Data
+Enterprise Applications
+Wireless
+Phone Stacking
+Phubbing
+Locked Down Device
+Carputer
+Emoji
+Ad-Hoc Mode
+Application Security
+Mobile Broadband System
+Hard Handoff
+Wireless Application Service Provider
+Security
+Cybersecurity: The Big, Profitable Field Techies Are Overlooking
+3 Defenses Against Cyberattack That No Longer Work
+Mobile Device Management vs. Mobile Application Management: The Big Fight Continues
+More Recent Content in Security
+Is the NSA Spying on Me?
+5 Things to Remember About the NSA Leaks
+INFOGRAPHIC: 4 Major Criminals Caught by Computer Technology
+View All...
+Security Home
+Hacking
+Data Centers
+Forensics
+Legal
+Viruses
+Software
+Fork Bomb
+Secure Sockets Layer Certificate Authority
+Java Zero Day
+Vulnerability Assessment
+Mobile Application Management
+Email Security
+Zero Day Virus
+Encryption Software
+File Encryption Software
+Email Encryption Software
+Online Privacy
+Google: Good, Evil or Both?
+Is the NSA Spying on Me?
+5 Things to Remember About the NSA Leaks
+More Recent Content in Online Privacy
+Why Cookies Are Getting Stale
+5 Ways to Protect Online Privacy
+INFOGRAPHIC: How Burglars Are Using Social Media
+View All...
+Online Privacy Home
+Internet
+Technology Trends
+Social Media
+Security
+Cyberlibertarian
+Spamdress
+PRISM Program
+Public Network
+Nymwar
+Facebook Shadow Profile
+Aaron's Law
+Pod Slurping
+Pretexting
+Children's Online Privacy Protection Act of 1998
+All Topics
+Technology
+Data Centers
+Virtualization
+Storage
+Windows 8
+Internet
+CRM
+Green IT
+Hacking
+Personal Tech
+IT Business
+Buzzwords and Jargon
+IT Management
+Developers
+Network Admins
+Database Admins
+Tech Support
+Infographics
+Who To Follow
+Enterprise
+Home
+Dictionary
+Tags
+Data Management
+Acceptable Use Policy (AUP)
+Definition - What does Acceptable Use Policy (AUP) mean?
+An acceptable use policy (AUP) is a document that outlines a set of rules to be followed by users or customers of a set of computing resources, which could be a computer network, website or large computer system. An AUP clearly states what the user is and is not allowed to do with the these resources.  An AUP is very similar to the ubiquitous terms and conditions or end-user license agreements (EULA) found on almost all software applications. The main difference is that an AUP covers the use of a much larger shared computing resource, such as an LAN or website, as opposed to a single software item. One consequence of sharing is that an AUP typically goes into detail about etiquette and respect for fellow users of the resource, which is not applicable for single-user software applications.  An acceptable use policy is also known as a fair use policy or terms of use.
+Techopedia explains Acceptable Use Policy (AUP)
+AUPs are mostly used by organizations deploying networks for internal use, such as commercial corporations, schools and universities. They are also frequently employed by websites to inform site visitors and customers about what is allowed on the site. For example, some companies do not allow employees to use the corporate LAN after-hours for activities (such as games) that don't provide value to the company. This must be clearly spelled out to the employees.Users may only glance through AUPs or not read them at all. Often, this happens because AUPs use standard do's and don'ts and may be written in a way that is hard to read and understand. For the user, this is a mistake because he or she may never know about any unusual requirements. For example, some social networking sites may not allow discussions that disparage or offend certain religious, racial or political groups.The majority of AUPs also spell out the consequences of breaching the laid-down regulations. These range from warning users to disabling user accounts to extreme measures such as legal action.
+Posted by:
+Cory Janssen
+Related Terms
+End-User License Agreement (EULA)
+Local Area Network (LAN)
+Wide Area Network (WAN)
+Networking
+Policy Awareness
+Related Videos
+Related Links
+SOPA and the Internet: Copyright Freedom or Uncivil War?
+- SOPA could impact the Internet in a massive way. Here's what you need to know.
+Related White Papers
+Other Resources
+Related Tags
+Categories:
+Data ManagementSoftwareInternetLegal
+Synonyms:
+Fair Use Policy, Terms of Use
+Recommended For You close
+Money Laundering, the Internet Way
+Read More »
+Connect with us
+Techopedia on Linkedin
+Follow us on LinkedIn
+Techopedia on Twitter
+'@Techopedia'
+Sign up for Techopedia's Free Newsletter!
+Email Newsletter
+Join over 135,000 IT pros on our weekly newsletter.
+Technology Terms:
+#
+A
+B
+C
+D
+E
+F
+G
+H
+I
+J
+K
+L
+M
+N
+O
+P
+Q
+R
+S
+T
+U
+V
+W
+X
+Y
+Z
+Home | Advertising Info | Write for Us | About | Contact Us
+Copyright ©
+2010 - 2014
+Janalta Interactive Inc. - Terms of Use - Privacy Policy
+Janalta Interactive Sites:
+ForexDictionary.com
+| Testopedia.com
+| Divestopedia.com
+| Zideate.com

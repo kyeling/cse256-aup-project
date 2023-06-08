@@ -1,0 +1,65 @@
+Acceptable Use Policy
+Quality Technology Services, LLC’s (“QTS”) Acceptable Use Policy (“AUP”) applies to all persons and entities (collectively, "customers") using QTS’ or any QTS affiliate’s services, including internet services, Switchboard, Wi-Fi in the data centers, cross connects and other network services, of QTS (“QTS Network”).  This AUP is designed to protect the security, integrity, reliability, and privacy of both the QTS Network and the services QTS offers to its customers. QTS reserves the right to modify this policy at any time, effective immediately upon posting of the modification. Your use of the QTS Network and/or services constitutes your acceptance of this AUP in effect at the time of your use. You are solely responsible for any and all acts and omissions that occur during or relating to your use of the service, and you agree not to engage in any unacceptable use of the service.
+Unlawful or Harmful Use
+The QTS Network may only be used for lawful purposes and in a manner that is not harmful to other users. Transmission, distribution, or storage of any material in violation of any applicable law, regulation, right, or license is prohibited. This includes, but is not limited to, material protected by copyright, trademark, trade secret, patent or other intellectual property right, which is distributed, stored, or transmitted without proper authorization, material covered by any export control law, and material which is obscene, defamatory, libelous, threatening, or harassing in nature.
+Under no circumstances is a user of the QTS Network authorized to engage in any activity that is illegal under local, state, federal or international law while utilizing the QTS Network.
+System/Network Security Issues
+Any violation or attempted violation of any system or network security element is prohibited, and may result in criminal and civil liability. QTS will investigate incidents involving such violations and will cooperate with law enforcement if a criminal violation is suspected. Examples of system or network security violations include, but are not limited to, the following:
+Unauthorized access to or use of data, computers, servers, systems, networks, or virtual networks, including any attempt to probe, scan, or test the vulnerability of a system or network or to breach or circumvent security or authentication measures without express authorization of the owner of the system or network.
+Unauthorized monitoring of data or traffic on any network or system without express authorization of the owner of the system or network.
+Interference with service to any user, host, or network including, without limitation, mail bombing, flooding, deliberate attempts to overload a system, and broadcast attacks.
+Forging of any TCP-IP packet header or any part of the header information in an e-mail or a newsgroup posting.
+Intentionally introducing malicious code, including, but not limited to, viruses, worms, Trojan horses, e-mail bombs, spyware, adware and keyloggers.
+Intentionally revealing one’s account password to others or allowing use of one’s account by others.
+Electronic Messaging, E-mail and Advertising
+Causing unsolicited messages ("Spam") of any sort to be transmitted via a critical technology, including, but not limited to, e-mail, text messages, instant messages or voice mail, is prohibited. This prohibition includes, without limitation, unsolicited commercial messages, unsolicited advertising, or unsolicited informational announcements. This prohibition applies equally to Spam sent through or via the QTS Network and to Spam sent over other networks, but which directs the recipient to sites hosted by or accessed through the use of the QTS Network.
+A user shall not use another site's mail server to relay mail without the express permission of the site. The use of any electronic messaging for the purpose of soliciting e-mail for any e-mail address other than that of the poster's account or service, or with the intent to harass, annoy, or e-mail-bomb, or for the purpose of collecting e-mail addresses or IP header information is prohibited. The forging of message header information is prohibited. A user may not permit its server to be used as a relay for Spam.
+QTS may block mail that violates this AUP. In addition, mail services may be suspended or terminated for violation of this AUP in accordance with the applicable QTS master agreement.
+A user may not (nor cause any third party to) use the QTS Network or services to perform any illegal activities (including without limitation defaming, abusing, harassing, stalking, threatening or otherwise violating the legal rights (such as rights of privacy) of others) or immoral activities or any of the following types of activities, without limitation:
+transmitting information that infringes any patent, trademark, trade secret, copyright or other proprietary rights of any third party;
+transmitting any material that contains software viruses, Trojan horses, worms, time bombs, cancelbots, or any other computer code, files, or programs which may interrupt, destroy or limit the functionality of any computer software or hardware or telecommunications equipment;
+impersonating anyone or any entity, falsely stating or otherwise misrepresenting your affiliation with a person or entity;
+transmitting email messages, files or other data that result or may result in blacklisting, service interruption, complaints, regulatory investigations or other conditions that may negatively affect the security of the QTS Network or the ability of QTS Network users to send and receive email messages or other content;
+interfering with or disrupting the website;
+disrupting the activities or enjoyment of the website for other users; or
+collecting, or storing personal data about other users or posting any content that
+constitutes, depicts, fosters, promotes or relates in any manner to adult pornography,  child pornography, bestiality, consensual or non-consensual sex acts;
+is violent, incites violence, threatens violence or contains harassing content or hate speech;
+is unfair or deceptive under the consumer protection laws of any jurisdiction, including chain letters and pyramid schemes;
+is defamatory or violates a person's privacy;
+creates a risk to a person's safety or health, creates a risk to public safety or health, compromises national security or interferes with an investigation by law enforcement;
+improperly exposes trade secrets or other confidential or proprietary information of another person;
+is intended to assist others in defeating technical copyright protections;
+infringes on another person's copyright, trade or service mark, patent or other property right;
+promotes illegal drugs, violates export control laws, relates to illegal gambling or illegal arms trafficking;
+is otherwise illegal or solicits conduct that is illegal under laws applicable to you or to QTS; or
+is otherwise malicious, fraudulent or may result in retaliation against QTS by offended viewers.
+Content "published or transmitted" via equipment includes Web content, email, bulletin board postings, chat and any other type of posting or transmission that relies on the Internet. Users must promptly act to address any violations of the above prohibitions by its users.
+Social Media Policy – External
+QTS' goal for QTS’ online communities is to connect with customers to promote mutually sharing of information about events and news related to QTS, to keep customers apprised of industry trends and to get feedback on how QTS can continuously improve services.
+QTS wants QTS' communities to foster open discussions, and as such, has a few guidelines for community members to follow. By interacting with QTS using our social media channels, the user agrees to:
+Be respectful. Language that is or can be conceived to be harassing, obscene, pornographic, threatening or defamatory will be removed.
+Keep comments on topic. QTS will not endorse political candidates or post information for or against particular political parties, ballot initiatives or other election issues, and ask that users do not use QTS sites for such discussions. QTS reserves the right to edit or remove inappropriate or off-topic comments at any time.
+Recognize that opinions expressed by third parties on QTS sites are not endorsed by QTS.
+Grant QTS the right to reproduce, distribute, publish and display user content for any business purpose.
+Protect your personal privacy and that of others. Do not include personal information of either yourself or of others (e.g., names, email addresses, private addresses or phone numbers).
+Represent your own views and do not impersonate or falsely represent any other person.
+Do not post material that infringes the intellectual property rights of others.
+QTS reserves the right to block/remove individuals who falsely portray themselves as QTS employees on social networking sites or otherwise violate this AUP.
+Information Collection
+Collecting information traversing the cloud* environment in a manner prohibited by law or applicable privacy policies is prohibited. This includes:
+Collecting or using email addresses, screen names or other identifiers without the consent of the person identified (including, without limitation, phishing, Internet scamming, password robbery, spidering, and harvesting);
+Collecting or using information without the consent of the owner of the information;
+Collecting information in violation of an applicable privacy policy, law or regulation.
+*Non-applicable to colocation environments
+Other Abuse
+The QTS Network may not be used to engage in, foster, or promote illegal, abusive, or irresponsible behavior, including:
+Use of the service for distribution of advertisement delivery software unless: (i) the user affirmatively consents to the download and installation of such software based on a clear and conspicuous notice of the nature of the software, and (ii) the software is easily removable by use of standard tools for such purpose included on major operating systems (such as Microsoft's "ad/remove" tool);
+Any conduct that is likely to result in retaliation against the QTS Network or website, or QTS' employees, officers or other agents, including engaging in behavior that results in any server being the target of a denial of service attack (DoS); or
+Use in a way that unnecessarily interferes with the normal operation of the QTS Network and services generally. In such circumstances, QTS may require user to repair abnormalities in user's code if the operation of the code unnecessarily conflicts with other customers' use of their services.
+Contacts
+Complaints regarding possible violations of the AUP should be sent to abuse@qtsdatacenters.com
+Updated August 13, 2020
+Our website uses cookies to ensure your online experience is as informative and relevant as possible. Please review our privacy policy to learn more about the information we collect. Do you consent to our use of cookies?
+Powered by People
+877-787-3282

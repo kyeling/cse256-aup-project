@@ -1,0 +1,44 @@
+{{oc.data.outages.outageMessage}}
+Acceptable Use Policy (AUP)
+Acceptable Use Policy (AUP)
+Acceptable Use Policy (AUP)
+Updated January 2016
+The following sets forth the Acceptable Use Policy of users and Customers of services provided by Midcontinent Communications® (Midco®). Any Customer found in violation of the policy may be subject to disciplinary action up to and including the following:
+Expulsion from the Midco network
+Termination of Midco network services
+Forfeiture of all fees paid to date
+Liability for any legal fees and labor costs incurred by Midco due to the Policy violation
+Disciplinary actions may be taken at any time by Midco with or without notice to Customer upon Midco’s sole discretion and determination in order to protect its network, customers or other internet users.
+Indirect or attempted violations of the policy, and actual or attempted violations by a third-party on behalf of a Midco Customer or a Customer's end user, shall be considered violations of the policy by such Customer. Customer is responsible for the security and maintenance of any device that Customer connects to the Midco network. Midco is not responsible for any loss or damage, including but not limited to data, equipment or financial loss, incurred by Customer as a result of using the Midco network.
+Personal Use
+The Midco service may only be used by members of the subscribing household for personal purposes. The Midco service may not be sold, subleased or shared with third parties. The Midco residential service may not be used for commercial purposes. Any wireless network access device operating at a Customer location must be configured to require a password to prevent unrestricted public access to the Midco network.
+Commercial Use
+The Midco service may only be used by the subscribing business and its employees. The Midco service may not be sold, subleased or shared with third parties, unless specifically permitted in the customer’s service contract.
+Conduct
+The Midco network may be used only for lawful purposes. Transmission, distribution or storage of any material in violation of any applicable law or regulation is prohibited. This includes, without limitation, material protected by copyright, trademark, trade secret or other intellectual property right used without proper authorization, and material that is obscene, defamatory, threatening, unlawful or in any way constitutes or encourages conduct that could constitute a criminal offense.
+Inappropriate and unacceptable conduct also includes initiating, perpetuating or participating in malicious activities, including, but not limited to, an illegal scheme, spidering, harvesting, use of spyware, falsifying references to Midco or impersonating any other person or entity.
+Midco will cooperate with appropriate law enforcement agencies in investigating claims of illegal activity and may be required to disclose Customer information in order to comply with a court order or subpoena.
+System and Network Security
+Violations of system or network security are prohibited, and may result in criminal and civil liability. Examples of system or network violation include, without limitation, the following:
+Unauthorized access to or use of data, systems or networks, including any attempt to probe, scan or test the vulnerability of a system or network or to breach security or authentication measures without express authorization of the owner of the system or network
+Unauthorized monitoring of data or traffic on any network or system without express authorization of the owner of the system or network
+Interference with service to any user, host or network including, without limitation, mail-bombing, flooding, deliberate attempts to overload a system and broadcast attacks
+Forging of any TCP/IP packet header or any part of the header information in an email or newsgroup posting
+Midco reserves the right to update the firmware on any set-top box or cable modem connected to the Midco network, whether the modem is leased or owned by Customer, when determines a firmware update is necessary to provide, maintain or secure the Midco network or service. Midco has no obligation to provide any such updates and retains sole discretion to determine whether a firmware update is necessary or appropriate.
+Email
+Sending unsolicited mail messages, including, without limitation, commercial advertising and informational announcements, is explicitly prohibited. A Customer shall not use another site's mail server to relay mail without the express permission of the site. Sending unsolicited mail messages from another site on behalf of a site or mail ID on a Midco etwork is explicitly prohibited.
+Website Usage
+Posting the same or similar message to one or more web sites (excessive cross-posting or multiple posting, also known as spam) is explicitly prohibited. Customer must comply with any publically posted terms of service associated with a website Customer is visiting. Midco does not accept responsibility for content of materials accessible through the Midco network or damages caused by accessing such material. While Midco does not censor or edit network traffic or content, Midco reserves the right to determine whether any user is in violation of this Policy at any time.
+Changes to the AUP
+The use of the Midco network by Customer is subject to the terms and conditions of any agreements entered into by such Customer with Midco. This AUP is incorporated into such agreements by reference.
+Midco reserves the right to amend this AUP from time to time and will notify Customers by posting a revised copy of the AUP on the Midco website at Midco.com. Customers are responsible for monitoring this website for changes. Use of the Midco network and/or Services after changes to the AUP are posted on the website shall be deemed to constitute Customer’s acceptance of such new or additional terms of the AUP.
+Additional Information
+Information regarding Copyright Infringement can be found here: Copyright Infringement Policy.
+Complaints related to copyright-protected material should be sent to copyright@midco.net.
+Complaints regarding Illegal Use or System or Network Security issues should be sent to security@midco.net.
+Complaints regarding email abuse, Website abuse, or Spam should be sent to abuse@midco.net.
+All other questions regarding this policy should be addressed to technical_support@midco.net.
+Pay Bill
+We are taking you to a secure payment website where you can pay your Midco statement.
+Proceed
+Cancel

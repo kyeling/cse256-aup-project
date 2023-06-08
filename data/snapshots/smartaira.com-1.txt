@@ -1,0 +1,53 @@
+Acceptable Use Policy (AUP)
+Updated: May 1, 2022
+18.1         IN ORDER TO PROVIDE HIGH QUALITY CUSTOMER SERVICE AND TO ENSURE THE INTEGRITY, SECURITY, RELIABILITY, AND PRIVACY OF SMARTAIRA’S INTERNET NETWORK, SMARTAIRA HAS CREATED THIS ACCEPTABLE USE POLICY (AUP). THIS AUP APPLIES ALONG WITH THE TERMS OF SERVICE (TOS) GOVERNING THE CUSTOMER’S USE OF SMARTAIRA’S INTERNET AND RELATED SERVICES.TO SPECIFY USE RESTRICTIONS APPLICABLE TO USERS OF THE SERVICE. THE CUSTOMER RECOGNIZES AND AGREES THAT THE THEN CURRENT VERSION OF THE AUP TO BE MAINTAINED BY SMARTAIRA AND POSTED ON SMARTAIRA’S WEBSITE WILL SUPERSEDE ALL PREVIOUS VERSIONS OF THIS DOCUMENT AND THAT CUSTOMER’S CONTINUED USE OF SMARTAIRA’S INTERNET SERVICE WILL CONSTITUTE CUSTOMER’S ACCEPTANCE OF THIS POLICY AS IT MAY BE AMENDED. BY USING THE SERVICE, THE CUSTOMER AGREES TO ABIDE BY, AND REQUIRE EACH USER OF THE SERVICE TO ABIDE BY, THE TERMS OF THIS AUP AND ASSOCIATED. ANY USER WHO DOES NOT AGREE TO BE BOUND BY THESE TERMS, CUSTOMER MUST IMMEDIATELY CEASE USE OF THE SERVICE.
+SMARTAIRA RESERVES THE RIGHT AT ITS SOLE DISCRETION TO IMMEDIATELY SUSPEND, TERMINATE, OR RESTRICT USE OF THE SERVICE WITHOUT NOTICE IF SUCH USE VIOLATES THE AUP OR ANY ASSOCIATED AND POSTED TOS, IS OBJECTIONABLE OR UNLAWFUL, INTERFERES WITH SMARTAIRA’S SYSTEMS OR NETWORK OR THE INTERNET OR OTHERS’ USE OF THE SERVICE.
+18.2         USE
+18.2.1      The Service is designed solely for Customer’s personal, non-commercial use. Customer is responsible for any misuse of the Service that occurs through Customer’s account, whether by guest user of the Customer or an authorized or unauthorized third-party end users of the Service. Customer must take steps to ensure that others do not gain unauthorized access to the Service. Customer is responsible for the security of (i) any device Customer chooses to connect to the Service, including any data stored or shared on that device and (ii) any access point to the Customer’s Service. SMARTAIRA reserves the right to suspend or terminate the Service for failure to comply with any portion of this provision or this Policy, without prior notice.
+18.3         PROHIBITED ACTIVITIES USING THE SYSTEM, NETWORK, AND SERVICE
+18.3.1      Any activity or use of the Service which violates system or network security or integrity are prohibited and may result in criminal and civil liability. Such violations include, without limitation, the following:
+18.3.1.a   Unauthorized access to or use of data, systems, or networks, including any attempt to probe, scan, or test the vulnerability of a system or network, relay communication through a resource, or to breach security or authentication measures without express authorization of the owner of the system or network.
+18.3.1.b   Unauthorized monitoring of data or traffic on any network or system without express authorization of the owner or network.
+18.3.1.c   Interference with service to any user, host, or network, including but not limited to: mail bombing, flooding, or denial of service attacks.
+18.3.1.d   Forging the header of any transmitted information packet, email, or Usenet posting.
+18.3.1.e   Modifying or tampering with any hardware, software, or configuration provided by SMARTAIRA including but not limited to: routers, switches, access points, wireless gateways, and devices configuration files.
+18.3.1.f    Disrupting any aspect of the Service through any means.
+18.3.1.g   Assuming or assigning a SMARTAIRA IP address that was not allocated to the user by SMARTAIRA or its network – all SMARTAIRA Internet users must use an IP address provided by SMARTAIRA.
+18.3.1.h   Running any type of server on SMARTAIRA’s system that is intentionally used to disrupt other users of the Service or users of the Internet in general.
+18.4         NO ILLEGAL OR FRAUDULENT USE
+18.4.1      The Service may be used only for lawful purposes.
+18.4.2      Customer will not use or allow others to use the service in any manner that is in violation of any applicable federal, state, local or international laws or regulations or to promote, engage in, or enable illegal activity or conduct that violates or infringes upon the rights of any person.
+18.4.3      Transmission or distribution of any material in violation of any applicable law or regulation is prohibited. This includes, without limitation, material protected by copyright, trademark, trade secret, or other intellectual property right used without proper authorization, and material that is obscene illegal, defamatory, constitutes an illegal threat, or violates export control laws.
+18.4.5      Furthermore, use of the Service to impersonate a person or entity is not permitted.
+18.5         NO SPAM
+18.5.1      Users may not send any unsolicited bulk email or electronic communication including, but not limited to, instant messenger programs, IRC, Usenet, etc. that promotes or advertises a cause, opinion, money making opportunity, or the like that the recipient did not specifically request from the sender (“Spam”).These communications do not necessarily have to pass through the Service’s email infrastructure – it only needs to originate from a Service User.
+18.5.2      Users may not send any type of communication to any individual who has indicated that he/she does not wish to receive messages from them.
+18.5.3Continuing to send electronic communication to anyone that has expressly requested not to receive email from a User is considered to be harassment.
+18.6         NO SYSTEM DISRUPTION
+18.6.1      Customer will not use, or allow others to use, the Service to disrupt degrade, and/or otherwise adversely affect SMARTAIRA’s network or computer equipment owned by SMARTAIRA or other SMARTAIRA customers.
+18.7         SECURITY/ABUSABLE RESOURCES
+18.7.1      User is solely responsible for the security of any device connected to the Service, including any data stored on that device.
+18.7.2      Users shall take all necessary steps to avoid actions that result in the abuse of a resource on their network. Examples of abusable resources include but are not limited to: open news servers, open SMTP servers, insecure routers, wireless access and insecure proxy servers.
+18.7.3      Upon notification from SMARTAIRA, Users are required to address the problem in a timely fashion. Failure to address an issue after notification will be considered a violation of this AUP.
+18.8         NO “HACKING”
+18.8.1      Customer will not use, nor allow others to use, the Service to access the accounts of others or to attempt to penetrate security measures of the Service or other computer systems (“hacking”) or to cause a disruption of the Service to other on-line users.
+18.8.2      Customer will not use, nor allow others to use, tools designed for compromising network security, such as password-guessing programs, cracking tools, packet sniffers or network probing tools.
+18.9         NETWORK MANAGEMENT
+18.9.1      SMARTAIRA reserves the right to use a changing variety of reasonable network management techniques including but not limited to (i) allocation of a fixed maximum amount of bandwidth to non-customers seeking to upload peer-to-peer files from customers; (ii) utilizing routing techniques to prioritize traffic during times of peak congestion; and (iii) implementing filtering and spam detection techniques to manage reliable electronic communication sources and mitigate spam. In limited instances, these techniques may affect the throughput rate at which customers may send and receive data, non-customers’ ability to establish session connections within the network (such as peer-to-peer sessions),or result in the delay of certain traffic during times of peak congestion.
+18.10       Viruses
+18.10.1    Users must take appropriate action to prevent their systems from becoming infected with and/or distributing computer viruses such as but not limited to worms, “Trojan horses”, denial of service attacks bots.
+18.10.2    SMARTAIRA will take appropriate (as decided by SMARTAIRA’s sole discretion) action against Users infected with computer viruses or worms to prevent further spread.
+18.11       ENFORCEMENT
+18.11.1    SMARTAIRA reserves the right to investigate violations of this AUP, including the gathering of information from the Customer or other Users involved and the complaining party, if any, and the examination of material on SMARTAIRA’s servers and network.
+18.11.2    SMARTAIRA prefers to advise Users of AUP violations and any necessary corrective action but, if SMARTAIRA, in its sole discretion, determines that a User has violated the AUP, SMARTAIRA will take any responsive action that is deemed appropriate without prior notification. Such action includes but is not limited to: temporary suspension of service, reduction of service resources, and termination of service.
+18.11.3    SMARTAIRA is not liable for any such responsive action and these actions are not exclusive.
+18.11.4    SMARTAIRA may take any other legal or technical action deemed appropriate for resolution.
+18.12       NO WAIVER
+18.12.1    The failure by SMARTAIRA or its affiliates to enforce any provision of this Policy at any given point in time shall not be construed as a waiver of any right to do so at any future time thereafter.
+18.13       REVISIONS TO POLICY
+18.13.1    SMARTAIRA reserves the right to update or modify this Policy at any time and from time to time with or without prior notice.
+18.13.2    Continued use of the Service will be deemed acknowledgment and acceptance of this Policy.
+18.13.3    Notice of modifications to this Policy may be given by email or by conventional mail and will be effective immediately upon posting or sending.
+18.13.4    Customers should regularly visit SMARTAIRA’s website at https://www.smartaira.com/aup and review this Policy to ensure that their activities conform to the most recent version.
+18.13.5    In the event of a conflict between any customer or customer agreement and this Policy, the terms of this Policy will govern.
+18.13.6    Questions regarding this Policy or complaints of violations of it by SMARTAIRA customers can be directed to it-support@smartaira.com.

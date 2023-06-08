@@ -1,0 +1,84 @@
+Terms of use
+Open Source license
+Privacy policy
+Cookies policy
+Acceptable use policy
+Abusing and disrupting the services
+Spamming and phishing
+Deceiving and impersonating others
+Stealing
+Infringing, misappropriating and violating rights
+Breaking the law
+No illegal, harmful, or offensive use or content
+No security violations
+No Network Abuse
+Our monitoring and enforcement
+Reporting of violations of this Policy
+Acceptable use policy
+This Acceptable use policy (this “Policy”) describes prohibited uses of the web services (the “Services”) offered by CKSource Holding LTD, a company organized and existing under the laws of Poland, with its registered office in Warsaw, at ul. Okopowa 58/72, 01-042  Warsaw, Poland, NIP number 5252621537, REGON: 361766395 (“CKSource”) and its affiliates and all websites owned or managed by CKSource (the “CKSource Websites”). The examples described in this Policy are not exhaustive. We may modify this Policy at any time by posting a revised version on the CKSource Websites. By using the Services or accessing CKSource Websites, you agree to the latest version of this Policy. If you violate the Policy or authorize or help others to do so, we may suspend or terminate your use of the Services.
+We expect our users to behave responsibly. As a CKEditor Ecosystem user, you agree not to misuse the Services or help anyone else do so. For example, you can't do any of the following in connection with the Services:
+Abusing and disrupting the services
+Prohibited activities include:
+Don’t probe, scan or test the vulnerability of any system or network.
+Don’t breach or otherwise bypass any security or authentication measures.
+Don’t access, tamper with or use nonpublic areas or parts of the Services, or shared areas of the Services you haven't been invited to.
+Don’t interfere with or disrupt any user, host or network (whether it’s CKSource’s or someone else’s), for example by distributing malware or overloading, flooding or mail-bombing any part of the Services.
+Don’t take apart, decompile or reverse engineer any part of the Services in an effort to access things such as source code or algorithms.
+Don’t access, search or create accounts for the Services by any means other than our publicly supported interfaces (for example, scraping, spidering or crawling).
+Don’t take any action that imposes an unreasonable load on our infrastructure or our third party providers. (We reserve the right to determine what’s reasonable.)
+Don’t provide your password to any other person, use any other person’s username and password, or otherwise manage the Services through shared credentials.
+Spamming and phishing
+Don’t send spam or other unsolicited communications, promotions or advertisements. (We reserve the right to determine what constitutes spam.)
+Don’t send altered, deceptive or false source-identifying information, including without limitation phishing or spoofing.
+Deceiving and impersonating others
+Don’t do anything that's false, fraudulent, inaccurate or deceiving.
+Don’t impersonate another person, company or entity.
+Don’t engage in misleading or unethical marketing or advertising.
+Stealing
+Don’t use unauthorized credit cards, debit cards or other unauthorized payment devices on the Services.
+Don’t promote or advertise products or services other than your own without appropriate authorization.
+Don’t sell the Services unless specifically authorized to do so, or publish or use the Services on any network or system other than those provided by CKSource unless previously authorized by CKSource.
+Infringing, misappropriating and violating rights
+Don’t infringe or misappropriate anyone’s copyright, trademark or other intellectual property rights.
+Don’t violate anyone’s privacy or publicity rights.
+Breaking the law
+Don’t use the Services in violation of any export controls, regulations or sanctions.
+Don’t do anything that otherwise violates the law, including without limitation all local laws regarding online conduct and acceptable content.
+No illegal, harmful, or offensive use or content
+You may not use, or encourage, promote, facilitate or instruct others to use, the Services or any of the CKSource Websites for any illegal, harmful, fraudulent, infringing or offensive use, or to transmit, store, display, distribute or otherwise make available content that is illegal, harmful, fraudulent, infringing or offensive. Prohibited activities or content include:
+Illegal, harmful or fraudulent activities. Any activities that are illegal, that violate the rights of others, or that may be harmful to others, our operations or reputation, including disseminating, promoting or facilitating child pornography, offering or disseminating fraudulent goods, services, schemes, or promotions, make-money-fast schemes, ponzi and pyramid schemes, phishing, or pharming.
+Infringing content. Content that infringes or misappropriates the intellectual property or proprietary rights of others.
+Offensive content. Content that is defamatory, obscene, abusive, invasive of privacy, or otherwise objectionable, including content that constitutes child pornography, relates to bestiality, or depicts non-consensual sex acts.
+Harmful content. Content or other computer technology that may damage, interfere with, surreptitiously intercept, or expropriate any system, program, or data, including viruses, Trojan horses, worms, time bombs, or cancelbots.
+No security violations
+You may not use the Services to violate the security or integrity of any network, computer or communications system, software application, or network or computing device (each, a “System”). Prohibited activities include:
+Unauthorized access. Accessing or using any System without permission, including attempting to probe, scan, or test the vulnerability of a System or to breach any security or authentication measures used by a System.
+Interception. Monitoring of data or traffic on a System without permission.
+Falsification of origin. Forging TCP-IP packet headers, e-mail headers, or any part of a message describing its origin or route. The legitimate use of aliases and anonymous remailers is not prohibited by this provision.
+No Network Abuse
+You may not make network connections to any users, hosts, or networks unless you have permission to communicate with them. Prohibited activities include:
+Monitoring or crawling. Monitoring or crawling of a System that impairs or disrupts the System being monitored or crawled.
+Denial of Service (DoS). Inundating a target with communications requests so the target either cannot respond to legitimate traffic or responds so slowly that it becomes ineffective.
+Intentional interference. Interfering with the proper functioning of any System, including any deliberate attempt to overload a system by mail bombing, news bombing, broadcast attacks, or flooding techniques.
+Operation of certain network services. Operating network services like open proxies, open mail relays, or open recursive domain name servers.
+Avoiding system restrictions. Using manual or electronic means to avoid any use limitations placed on a System, such as access and storage restrictions.
+Our monitoring and enforcement
+We reserve the right, but do not assume the obligation, to investigate any violation of this Policy or misuse of the Services or CKSource Websites. We may:
+investigate violations of this Policy or misuse of the Services or CKSource Websites; or
+remove, disable access to, or modify any content or resource that violates this Policy or any other agreement we have with you for use of the Services or the CKSource Websites.
+We may report any activity that we suspect violates any law or regulation to appropriate law enforcement officials, regulators, or other appropriate third parties. Our reporting may include disclosing appropriate customer information. We also may cooperate with appropriate law enforcement agencies, regulators, or other appropriate third parties to help with the investigation and prosecution of illegal conduct by providing network and systems information related to alleged violations of this Policy.
+Reporting of violations of this Policy
+If you become aware of any violation of this Policy, you will immediately notify us and provide us with assistance, as requested, to stop or remedy the violation. To report any violation of this Policy, please contact us.
+We use cookies and other technologies to provide you with a better user experience.
+Learn more
+Hi there, any questions about products or pricing?
+Any questions about our products or pricing?
+Send us a quick message and one of our Sales Representatives will be in touch with you as soon as possible.
+Type of inquiry
+Sales inquires
+Your name
+Company e-mail address
+Message
+E-mail (optional)
+We are happy tohear from you!
+Thank you for reaching out to the CKEditor Sales Team. We have received your message and we will contact you shortly.

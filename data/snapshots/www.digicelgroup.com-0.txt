@@ -1,0 +1,106 @@
+DIGICEL ACCEPTABLE USE POLICY
+Publication Date:  March 10th, 2023
+1.      PURPOSE
+This Acceptable Use Policy defines the acceptable use of a Digicel website, network, product or service to ensure the privacy, security and integrity of all Digicel websites, networks, products or services.
+2.      WHO WE ARE & HOW TO CONTACT US
+2.1.   In this Policy, “Digicel”, “us”, “we” and “our” refers to the Digicel entity named in the terms and conditions, service or product agreement for the specific website, product or service, which you have visited, purchased or subscribed.
+2.2.   Please direct any questions or comments regarding this Acceptable Use Policy and complaints of violations of this Policy by emailing customercare@digicelgroup.com . Except where otherwise indicated “you” and “your” shall refer to customers and/or end users of Digicel websites, networks, products or services.
+3.      SCOPE OF POLICY
+3.1.   The following terms apply to your use of and access to any Digicel-owned or affiliated websites (“Website”), products (“Product”) or services (“Service”) as well as any electronic transmission sent, received, posted, accessed, or stored via any Digicel-owned or affiliated network ("Network"), Product or Service.
+3.2.   In addition to any Terms and Conditions or Agreements between you and Digicel, this document stipulates the policies that govern your access to and use of a Digicel Website, Network, Product or Service. By accessing or using of a Digicel Website, Network, Product or Service, you agree to these terms (collectively the "Policy"), which Digicel may modify from time to time. Modifications to this Policy are effective upon its posting on our Website www.digicelgroup.com.
+IF YOU DO NOT AGREE TO ACCEPT, COMPLY WITH OR BE BOUND BY THE TERMS OF THIS POLICY, AS AMENDED FROM TIME TO TIME, YOU SHOULD IMMEDIATELY STOP USING THE WEBSITE, NETWORK, PRODUCTS OR SERVICES AND WHERE APPLICABLE, NOTIFY DIGICEL THAT YOU WISH TO TERMINATE SERVICES.
+4.      ACCEPTABLE USES
+You may access and use a Digicel Website, Network, Product or Service only for lawful purposes. You are responsible for any transmission you send, receive, post, access, or store via our Network, including the content of any communication and you are responsible for abuse of your account by others.
+5.      PROHIBITED USES
+Without limitation, you may not use (or allow anyone else to use) a Digicel Website, Network, Product or Service for:
+5.1.   illegal activity such as transmitting, distributing, unlawful soliciting, or storing any information that violates any relevant and applicable law.
+5.2.   the infringement of intellectual property rights or other proprietary rights including, but not limited to, copyright, trademark, patent or trade secret protection. Such infringing activity include unauthorised copying, distribution, and/or posting of content (e.g. pictures, logos, software, articles, musical works, and videos) that violates the intellectual property/proprietary rights of others.
+5.3.   disseminating or posting material that is in breach of the right to privacy of others, unlawful, libellous, defamatory, obscene, harassing, threatening, harmful or invasive of publicity rights, abusive, inflammatory, or otherwise objectionable.
+5.4.   the transmission or dissemination of images containing child pornography.
+5.5.   the excessive utilisation of network resources, this includes, consuming a disproportionate amount of available Network resources resulting in the potential to disrupt or degrade the Network or Network usage by others. The determination of what constitutes excessive use depends on the specific state of the Network at any given time.
+5.6.   accessing any computer, software, data or any confidential, copyright-protected or patent protected material of any other person without the knowledge and consent of that person or use any tools designed to facilitate access such as  “packet sniffers”.
+5.7.   altering, reproducing, or tampering the Services or any function, component or identifier of your Services or Products (such as International Mobile Subscriber Identity (IMSI) or the International Mobile Equipment Identity (IMEI)) that is not meant to be altered, reproduced or tampered with.
+5.8.   misleading behaviour or conducting fraudulent business operations and practices; including but not limited to:
+a.      offering or disseminating fraudulent goods, services, schemes, chain letters, or pyramid schemes;
+b.      impersonating any person or entity or forging anyone else’s digital or  physical signature, seal, designation, or unique identification;
+c.       falsely stating or otherwise misrepresenting your affiliation with any person or entity;
+d.     using our Website, Product, Services or Network to create a false identity;
+e.      forging headers, invalid or non-existent domain names, and other means of deceptive addressing or manipulation of identifiers to disguise the origin of content transmitted through our Website, Product, Services or Network;
+f.    accessing without permission or right the accounts or computer systems of others, to spoof the URL, DNS or IP addresses of Digicel or any other entity, or to penetrate the security measures of Digicel or any other person’s computer system, or to attempt any of the foregoing.
+5.9.   causing harm or interference to our Website, Product, Services or Network by:
+a.           disrupting any backbone network nodes or network service, or otherwise restricting, inhibiting, disrupting or impeding our ability to monitor or deliver Products or Services, any transmissions or data;
+b.           interfering with computer networking or telecommunications service to or from any internet user, host, provider or network, including, without limitation, denying service attacks, overloading a service, improperly seizing or abusing operator privileges, or attempting to crash a host;
+c.            disseminating or posting material that is harmful to the Network or other users of the Network including, but not limited to, viruses, Trojan horses, worms, time bombs, zombies, keystroke loggers, spyware, or any other computer programming routines that may damage, interfere with, secretly intercept or seize any system, program, data, or personal information.
+5.10.  using or accessing a Digicel Website, Network, Product or Service with an aim to cause harm to a minor.
+5.11.  accessing without permission or right the accounts or computer systems of others, to spoof the URL, DNS or IP addresses of Digicel or any other entity, or to penetrate the security measures of Digicel or any other person’s computer system, or to attempt any of the foregoing.
+6.      UNSOLICITED COMMUNICATIONS
+6.1.   You may not use the Websites, Products, Services or Network to distribute, publish, or send unsolicited communications. This includes, without limitation:
+a.       using automatic dialling and announcing devices to initiate or otherwise make unsolicited voice or facsimile calls and bulk mailing of commercial advertising and informational announcements not authorized by law;
+b.       sending or distributing spam, including any unsolicited advertisements, solicitations, commercial e-mail messages, informational announcements, or promotional messages of any kind;
+c.        sending or distributing chain mail, numerous copies of the same or substantially similar messages, empty messages, messages that contain no substantive content, very large messages or files that disrupt a server, account, newsgroup, or chat service; or any message that may be  categorised as “phishing”.
+7.      SECURITY
+7.1.   You are responsible for any misuse of our Website, Products, Services or Network by your or by any other person with access to our Website, Products, Services or Network through your purchased product, service or equipment, or your account with us. As such, you must take reasonable steps ensure that others do not gain unauthorized access to the Services through any means, including, without limitation, wireless networking and wired networking.
+7.2.   You may not violate or circumvent any security protocol, technical or organizational measure or safeguard implemented for the protection of our Website, Products, Services or Network in any way. Such violations may result in criminal or civil liability.
+7.3.   You are solely responsible for the security of any device or equipment you choose to connect to our Website, Products, Services or Network including but not limited any data stored on that device or equipment. In particular, Rogers recommends against enabling security and controlled access features, where possible.
+7.4.   Digicel may, but is not obligated to, investigate any violation of our Website, Products, Services or Network. Digicel may cooperate with law enforcement where criminal or unauthorised activity is suspected. By using Digicel products and services or sending, receiving, posting, accessing, or storing any electronic transmission via our Network, you agree to cooperate in any such investigation.
+7.5.   A non-exhaustive list of security violations include:
+a.           Hacking: Unauthorised access to or use of Digicel data, systems, or networks, including any attempt to probe, scan or test the vulnerability of a system or network or to breach our security or authentication measures without our express prior authorisation.
+b.           Interception: Unauthorised monitoring of data or traffic on any network or system without the express prior authorisation of Digicel.
+c.            Avoiding System Restrictions: Using manual or electronic means to avoid any limitations established by Digicel or attempting to gain unauthorised access to, alter, or destroy any information that relates to any end-user of a Digicel Product or Service.
+d.          Crashing: Interfering with computer networking or telecommunications services to any user, host or network, including, without limitation, denial of service attacks, flooding of a network, overloading a service, improper seizing and abuse of operator privileges and attempts to disrupt the availability or services of a host.
+7.6.   Digicel may, but is not obligated to, take any action it deems necessary to:
+a.      protect its Website, Products, Services and Network, its rights, or the rights of its customers or third parties, or
+b.      optimise or improve its Website, Products, Services and Network services, systems, and equipment;
+c.       manage our Networks (or third party networks for which we have roaming or network sharing agreements) in order to optimize their efficiency for the benefit of our subscribers, including, without limitation, by way of the following: rate limiting (speed), rejection or removal of spam or otherwise unsolicited bulk e-mail, anti-virus, mechanisms, and protocol filtering to prevent hacking, viruses, or other potential harms without regard to any preference you may have communicated to us.
+8.      ENFORCEMENT OF THE POLICY
+8.1.   Digicel has the right, but is not obligated to monitor or investigate content that is transmitted using our Website, Products, Services and Network where, there is suspicious activity indicating a violation of this Policy.
+8.2.   Digicel has the right, but is not obligated to enforce this Policy through active investigation, litigation, prosecution or any other available route.
+8.3.   Digicel reserves the right to act immediately and without notice to restrict, suspend, or terminate your use of our Website, Products, Services or Network if it reasonably determines that your conduct may:
+a.      expose Digicel to sanctions, prosecution, civil action, or other liability;
+b.      cause harm to or interfere with the integrity or normal operations of our Website, Products, Services or Network or other networks with which Digicel is interconnected;
+c.       interfere with another Digicel customer's use of our Website, Products, Services or Network;
+d.     violate any applicable law, rule, or regulation; or
+e.      otherwise present an imminent risk of harm to Digicel or its customers.
+8.4.   Digicel has the right, but not the obligation, to monitor compliance with this Policy or restrict any uses of a Digicel Website, Network, Product or Service that Digicel reasonably believes, in its sole discretion, violate this Policy.
+8.5.   Digicel may also access and disclose any information (including transactional information) related to your access and use of a Digicel Website, Network, Product or Service for any lawful reason, including but not limited to:
+a.      responding to emergencies;
+b.      legal obligations;
+c.       protecting our rights or property and those of our customers; or
+d.     protecting users of those services and other carriers from fraudulent, abusive, or unlawful use of or subscription to such services.
+9.      GENERAL
+9.1.   Any failure to insist upon or enforce performance of any provision in this Policy will not be construed as a waiver of any provision of this Policy or existing right of Digicel.
+9.2. No conduct or practice shall modify any provision in this Policy.
+9.3.   Digicel may assign its rights and duties under these terms to a third party at any time without notice to you.
+9.4. If any provision of this Policy is deemed unlawful, void, or for any reason unenforceable, then that provision will be deemed severable from these terms and conditions so that it does not affect the validity and enforceability of any remaining provisions.
+9.5.   This Policy shall be governed by, and construed in accordance with the governing law provision set out in the Terms & Conditions governing the applicable Website, Product, Services or Network.
+9.6.   ANY INDIRECT OR ATTEMPTED BREACH OR VIOLATION OF THIS POLICY BY OR ON BEHALF OF A USER AND ANY ACTUAL OR ATTEMPTED BREACH OR VIOLATION BY A THIRD PARTY OF A USER SHALL BE CONSIDERED A BREACH OR VIOLATION OF THIS POLICY BY SUCH USER.
+Acceptable Use Policy
+Digicel Group - Connecting You to the World
+Digicel Group - Connecting You to the World
+{{accordionLabel}}
+Foundation
+Business
+Mobile
+Apps
+{{accordionLabel}}
+MyDigicel
+BiP
+Loop
+SportsMax
+GoLoud
+About Digicel
+{{accordionLabel}}
+Digicel Leadership
+Careers
+Investor Relations
+About Digicel
+ESG Report
+Legal
+Stay Connected
+{{accordionLabel}}
+YouTube
+LinkedIn
+More ways to shop. Find a Digicel Store or other retailer near you.
+Copyright © 2022 Digicel Group. All rights reserved.
+DigicelGroup.com
+Copyright © 2022 Digicel Group. All rights reserved.

@@ -1,0 +1,14 @@
+IBM
+IBM/Softlayer Consolidated AUP Policy
+This Acceptable Use Policy ("Policy") outlines unacceptable use of IBM Services (the "Services"). This Policy is in addition to any other terms and conditions under which IBM provides the Services to you.
+IBM may modify this Policy from time to time by posting a new version of this document on the IBM Web site at "www.ibm.com/services/aup.html"
+Questions about this Policy (e.g., whether any contemplated use is permitted) and reports of violations of this Policy should be directed to aup@us.ibm.com.
+Prohibited content, uses and activities include, without limitation, any use of the Services in a manner that, in IBM's reasonable judgment, involves, facilitates, or attempts any of the following:
+violating any law;
+displaying, performing, sending, receiving or storing any content that is obscene, inappropriate, offensive, or otherwise objectionable, even if  the material or its dissemination is lawful;
+harassing any person or advocating or encouraging violence of any kind against any person, entity or government;
+infringing, violating or misappropriating another's rights;
+obtaining unauthorized access to, or interfering by any means with, any user, system, network, service, or account, including evasion of filters or violation of the security or integrity of any network or system;
+distributing computer viruses or malware of any kind or
+sending, receiving or supporting email messages that are unsolicited, deceptive, anonymous, excessively voluminous or that contain falsified identifying information, including spamming and phishing.
+You are responsible to ensure that use of the Service and content is in compliance with all applicable laws, including laws where the Service or content is uploaded, hosted, stored, accessed or used and to implement necessary restrictions to prohibit use by any individual (e.g. restrictions on access by minors) or in any jurisdiction, as required to comply with such laws. Similarly, IBM reserves the right to take all actions it deems appropriate to comply with applicable laws.

@@ -1,0 +1,62 @@
+Skip to content
+Search for:
+An acceptable use policy or access agreement should been adopted to ensure uniform and appropriate use of an organization’s network, computer, information assets, and other electronic resources. The rules, obligations, and standards described in this policy and other policies/procedures should apply to all employees, temporary workers, independent contractors, vendors, and other electronic users wherever they may be located. The guidance and best practices in this article may be incorporated into your own template to create your own version of the acceptable use policy for your organization.
+What is the purpose of the acceptable use policy?
+The purpose of this policy should be to define end-user acceptable use criteria for organizational systems. Information systems provide access to both data and processes required to support most business functions. They have contributed to substantial improvements in both productivity and customer service; however, the use of information systems to access customer or financial data, electronic mail (E-mail), the Internet, and remote access to business systems introduces risk.
+Why is acceptable use policy important?
+Computers and networks can provide access to information resources both internal and external networks. To ensure this data is handled responsibly, users are to respect the rights of other users, protect the confidentiality and integrity of the systems and related physical resources, and observe all relevant laws, requirements, and regulations. It is the responsibility of every users, independent contractor, vendors, and other electronic users to use information systems and information assets, including protected health information, in a professional, ethical, and lawful manner. In addition, users are to ensure the security of information systems and information assets. All employees (and others) agree to assist in investigating any potential or actual violations of policies and procedures.
+How are acceptable use policies implemented?
+Acceptable usage should be appropriately defined and usage is explicitly authorized. Rules should be defined to describe user responsibilities and acceptable behavior regarding information system usage, including at a minimum, rules for email, Internet, mobile devices, social media and facility usage. Management approves the use of information assets and takes appropriate action when unauthorized activity occurs. All employees, temporary staff, independent contractors, vendors, and other electronic users should sign an acceptable use agreement prior to being granted access to information and system assets. All employees and contractors should be informed in writing through the acceptable use agreement that violations of the security policies will result in sanctions or disciplinary action.
+How access is granted
+Access to systems and data should be dependent upon the job requirements or the third party’s “need to know”. Management should review job requirements and approve access on a “need to know” basis. Users should be limited to only the minimum amount of access required to perform assigned duties.
+Only those employees, contractors, vendors, and other third party users (referred to as users) should be authorized by management to access systems may do so by first obtaining permission to access those systems by designated supervisors or managers. Authorized access may occur only after the user understands the information security policies, signs and submits an Access Request Form and a Statement of Understanding form to the appropriate manager, and is granted access to systems by management.
+By default, users should be assigned the following privileges when granted access to systems:
+Domain log-in for network accessAn E-mail accountInternet accessAccess to systems required to perform assigned duties
+Remote Access
+Since remote access to systems introduces a higher level of risk, only management should grant remote access to users, partners, vendors or other third parties according to the following standards:
+The computer systems may be monitored for all lawful purposes. All information (including personal or confidential information) placed on or sent over this system may be examined, recorded, copied, used, or disclosed for authorized purposes. By accessing the information system, the user acknowledges he/she does not and should not expect the right to privacy while using the systems.
+Systems Acceptable Use
+All devices should require authentication with username and password or other authentication item (e.g., token). The IT Department should maintain a list of devices and personnel authorized to use the devices. All devices should be labeled with owner, contact information, and purpose.
+Hardware and software in use should be purchased and installed by personnel in the IT Department. Use of personal computer equipment or software should be prohibited on systems or networks.Hardware and software installed at any office or department should be appropriately licensed and should be used in accordance with licensing agreements and policy.Users should be responsible for the confidentiality, integrity, and availability of their personal files. Any changes made to their files without their consent should be reported to management immediately. Shared files should be an exception to this guideline.Users should report any new executable programs or suspicious data files appear on their workstations without their knowledge to management.Users should ensure all programs are closed at the end of each working day to ensure that a valid network backup can be performed. If a program remains open, that file on the network drive cannot be backed up.The IT Department should maintain a list of acceptable network locations for all critical, user facing technologies.Only products that are listed in the list of company approved products (maintained by the IT department) should be used.Systems (including network access, systems access, e-mail, voicemail, internet access, and remote access) should be used only for conducting business. Occasional personal use of the system should be permitted, but information, data, and messages that are accessed, processed, shared, retrieved, and stored in these systems should be treated no differently from other records. Incidental personal use of systems is permissible only if the use: (a) does not consume more than a trivial amount of resources that could otherwise be used for business purposes, (b) does not interfere with workforce members’ productivity (c) does not preempt any business activity, and (d) does not otherwise violate policy.
+Remote Control Software Acceptable Use
+Use of remote control software should be limited to technical support or training requested by the end-user. All PC commands issued during a remote control session are considered to be issued by the logged-in user, even if they are actually issued by a customer of the IT Department or authorized vendor (administrator). Remote control sessions should not take place unless an end-user has explicitly granted access to the administrator initiating the session. All remote control sessions should take place while the logged user is present at the hosting PC and the administrator is present at the managing PC.
+While a remote control session is in progress, the end-user PC hosting software should notify the hosted user visually and audibly while a remote control session is active. The end-user who is allowing a hosted session should always be able to type on the keyboard, use the mouse, and see on the monitor what is happening during a remote control session. Either an administrator or an end-user may terminate an active remote control session. It should be the responsibility of the IT administrator to inform the end-user when a session is being terminated.
+Who owns the data in a company?
+All messages or data created, stored, transmitted, or retrieved over systems or through internet access should be the property of the organization and should be regarded as public information. The right to access is reserved over the contents of any messages or data sent over its computer network and use that information to enforce its policies. If the content violates regulations or laws, the right is reserved to submit the information to law enforcement for potential prosecution.
+Do workforce members have privacy rights?
+Users have no expectation of privacy or confidentiality in any of their system usage including internet access and e-mails. Inspection of systems, data, and voicemail by management should not require the consent of individual users. Any personal information placed on information system resources becomes the property of the organization; however, system users should protect the privacy of co-workers and clients.
+Unacceptable Use
+Although this is not an all-inclusive list, users should be prohibited from the following unacceptable use of systems:
+Use systems including E-mail to communicate sexual or other harassment. Include words or phrases that may be construed as derogatory based on race, color, sex, age, disability, national origin, or any other category.Any attempt to negate or circumvent security controls, policies and procedures (e.g., disabling virus protection or tunneling a protocol through a firewall).Unauthorized use, destruction, modification, and distribution of information or information systems. Sabotage, destruction, misuse, or unauthorized system repairs on information systems. Use of personal computing systems or test devices within or on networks without the written permission of management. Removal of any equipment (with the exception of authorized laptops) or software prior approval has been obtained. Use information systems to solicit for commercial ventures, religious or political causes, or for personal gain.Use of tools that compromise security (e.g., password crackers and network sniffers).Theft of resources including sensitive information.Use that violates local, state or federal laws.
+What are the consequences of non compliance?
+Violations of policies and procedures may result in disciplinary actions, including termination and potential civil and criminal liability. The use of company’s information systems and information assets is a privilege that may be limited or revoked at any time, with or without cause, and without notice in the sole discretion of management. If an employee (or others) does not accept the terms of the policies and procedures, including the provisions regarding collection and use of personal information, the employee (or others) may be denied use of information systems and information assets, may be denied employment, or may be terminated, to the full extent permitted by applicable laws.
+If you need help creating this policy or developing other policies and procedures, we can help. Contact us today!
+Your Name (required)
+Your Email (required)
+Subject
+Your Message
+Recent Posts
+Cybersecurity Maturity Model Certification (CMMC) – An Introduction
+Ryuk Ransomware: 4 Best Prevention Tips for Corporate Users
+Is a HIPAA Risk Assessment Required Annually?
+Breach Notification Policy for Healthcare Organizations and Business Associates
+5G Technology: Not So Fast! Security Risks and Concerns
+Exception Management Policy – Best Practices
+Personnel Security Policy – Best Practices
+Wireless Access Security Policy – Best Practices
+Online Social Media Policy: Best Practices and Template
+Internet Use Policy: Best Practices and Template
+Categories
+Best Practices
+Checklist
+Compliance Program
+GDPR
+How-To
+Latest Data Breaches
+Policies & Procedures
+Risk Management
+Security News
+Security Program
+Security Tools & Solutions
+Technology Risks
+Copyright © 2011-2020 Operated by CM Methods, LLC. A Cybersecurity Advisory Firm in Dallas, TX

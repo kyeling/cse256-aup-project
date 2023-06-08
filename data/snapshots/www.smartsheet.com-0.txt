@@ -1,0 +1,38 @@
+Skip to main content
+Legal
+Acceptable Use Policy
+This Acceptable Use Policy (“AUP”) governs use of Smartsheet’s websites (e.g., www.smartsheet.com) and online work collaboration services and applications, including any downloadable software, made available by Smartsheet for use therewith (collectively, the “Products”). Smartsheet reserves the right to modify or update this AUP from time to time. “You” and “Your” mean the “Customer” entities or individuals authorized to access and use the Products under an agreement with Smartsheet, and any users granted such access and use rights by Customer entities or individuals. Terms not otherwise defined in this AUP will have the meaning set forth in the User Agreement or the agreement between You and Smartsheet governing Your use of the applicable Product.
+You agree not to:
+interfere or attempt to interfere in any manner with the functionality or proper working of the Products;
+breach or otherwise bypass any security or authentication measures of the Products;
+transmit viruses, malware, any other malicious or destructive code, or other prohibited items, into the Products. Prohibited items include: any routine, device, or other undisclosed feature (e.g., so-called time bomb, virus, software lock, drop dead device, malicious logic, worm, Trojan horse, or trap, back door or software routine) that is either (1) designed to delete, disable, deactivate, interfere with, or otherwise harm any software, program, data, device, system, or service; or (2) intended to provide unauthorized access or produce unauthorized modifications;
+distribute content that harms or interferes with the operation of any Smartsheet or third-party networks, servers, or other infrastructure;
+use any robot, spider, data scraping or extraction tool, or similar mechanism in the Products;
+use the Products for phishing scams;
+access or use portions of the Products that Smartsheet has not authorized You to access or use;
+reverse engineer, decompile, disassemble, attempt to gain unauthorized access to, or attempt to discover the underlying source code or structure of, the Products, Smartsheet work product, and the technology and software used to provide them, and all intellectual property and proprietary rights therein; or
+access, use, or otherwise exploit the Products for purposes of You competing with or disparaging Smartsheet or the Products, including by not limited to benchmarking, monitoring availability, performance, or functionality, or conducting competitive analysis.
+You agree that You will not use the Products to:
+commit or encourage fraudulent or illegal activities in violation of any applicable laws, rules, or regulations (including those related to gambling, or piracy);
+use, store, share, host, copy, distribute, display, publish, transmit, or send objectionable content (e.g., content that is or could be deemed offensive, inflammatory, hateful, defamatory, discriminatory, obscene, abusive, invasive of privacy, or harmful to others).
+distribute unwanted, unsolicited, or harassing mass email or transmit unwanted promotional or commercial content (i.e., spam).
+access (including through any interfaces provided within the Product) any Smartsheet product or service, or other third-party service or website, in a manner that violates the terms for use of, or access to, such product, service or website;
+infringe or misappropriate any Smartsheet or third-party copyright, trademark, or other intellectual property, proprietary right, license right, or legal content protection;
+mislead or confuse others by alleging to be someone else or alleging to represent an organization You do not represent; or
+violate the rights (such as rights of privacy or publicity) of others, including distributing others’ personal and confidential information without their permission.
+Children
+By using the Products, You represent and warrant that You are at least eighteen years old.
+The Children’s Online Privacy Protection Act of 1998 (COPPA) and other laws protect the privacy of minors. Smartsheet abides by all federal and state laws and guidelines regarding youth privacy. The Products are not intended for use by individuals under the age of eighteen.
+Prohibited Data
+Protected Health Information (PHI). Under the Health Information Portability and Accountability Act and other health data privacy laws, certain information about a person’s health or health care services is classified as PHI or Sensitive Information. Unless You have signed a Business Associate Agreement with Smartsheet, You may not submit and store PHI in the Products. The Smartsheet HIPAA Implementation Guide provides information on features and security controls that can be employed to assist with Your compliance obligations. Contact Your account representative or privacy@smartsheet.com with questions about storing PHI in Smartsheet.
+Payment Card Industry (PCI). Smartsheet does not intend for use of the Products in compliance with the Payment Card Industry Security Standards. You agree not to use the Products to submit or store PCI data.
+Restricted Countries
+You are prohibited from using the Products (a) in a country that is subject to a United States Government embargo, or that is on Title 15, Part 740 Supplement 1 Country Group E of the United States Code of Federal Regulations; (b) in a country that has been designated by the United States Government as a “terrorist supporting” country; or (c) listed on any U.S. Government list of prohibited or restricted parties.
+Reported IP Infringement or Abuse
+To the extent You use the Products to publish or otherwise make available content, You must comply with any notices received under Title II of the Digital Millennium Copyright Act of 1998 (Section 512 of the U.S. Copyright Act) or similar statute in other countries (the “DMCA”). It is Smartsheet’s policy to respond to valid notices of claimed intellectual property infringement. If Smartsheet receives a notice alleging that material on  any “sheet”, “dashboard”, “report”, or “form” made publicly available infringes another party’s intellectual property, Smartsheet may take any remedial action it deems necessary, as further outlined below.
+If You encounter content that You believe violates this AUP, please report it to us using the “Report Abuse” link. Smartsheet may but is not obligated to investigate any violation of this AUP or misuse of the Products.
+Violation of this AUP
+In addition to any other remedies that may be available, Smartsheet reserves the right, in its sole discretion, to take any remedial action it deems necessary, including immediately suspending or terminating Your account or unpublishing any “sheet,” “dashboard,” or “report,” if such action is necessary to prevent disruption of the Product or to protect the rights and safety of Smartsheet, our customers, our users, and/or the general public.
+In addition, if Customer has, or Smartsheet reasonably suspects based on documented evidence that Customer has violated any law or regulation, Smartsheet may report such violations to the appropriate law enforcement officials, regulators, or other third parties. Our reporting may include disclosing relevant customer information. We also may cooperate with appropriate law enforcement agencies, regulators, or other third parties to help with the investigation and prosecution of illegal conduct by providing network and systems information related to alleged violations of this AUP.
+Last Updated: February 2020
+Archived versions

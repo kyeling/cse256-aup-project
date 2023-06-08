@@ -1,0 +1,36 @@
+Acceptable Use Policy
+Acceptable Use Policy
+Privacy Policy
+Acceptable Use
+Cookie Policy
+Site Terms
+Institutional Disclosures
+Introduction
+Prohibited Uses
+Reporting Violations
+Suspension or Termination
+Acceptable Use Policy
+This Acceptable Use Policy (“Policy”) defines acceptable practices relating to the use of any website of Coding Dojo, Inc. (“Coding Dojo”), including www.codingdojo.com, algorithm.codingdojo.com, and www.learn.codingdojo.com (“the Site”), and any Coding Dojo services, features or applications (the “Service”). Any person who accesses or uses the Site or the Service (“you” or “Users”) shall comply with this Acceptable Use Policy
+Coding Dojo reserves the right to modify this Acceptable Use Policy at any time without notice. Any such modifications shall be effective and applied prospectively from the date of posting on the Site.
+Prohibited Uses
+Users may not access or use, or encourage, promote, facilitate or instruct others to access or use, the Site or the Service for any illegal, harmful or offensive purpose, or to transmit, store, display, distribute or otherwise make available content or data that is illegal, harmful or offensive. Prohibited activities or content include the following:
+Illegal or Infringing Activities. Users may not access or use the Site or Service in violation of any law, rule or regulation or otherwise in violation of any third party’s rights. This includes, without limitation:
+the use or transmission of any data or material protected by copyright, trademark, trade secret, patent or other intellectual property right without proper authorization;
+the use or transmission of any material that constitutes an illegal threat or violates export control laws.
+Offensive Content. Users may not transmit content that is obscene, offensive, defamatory or otherwise objectionable.
+Harmful Content. Users may not transmit any data, send or upload any material that contains viruses, Trojan horses, worms, time-bombs, keystroke loggers, spyware, adware or any other harmful programs or similar computer code
+Unauthorized Use and Interference. Users may not access or use the Site or Service to violate the security or integrity of any network, computer or communications system, software application, or network or computing device (each, a “System”).
+Users may not:
+attempt to gain unauthorized access to the accounts or passwords of other Users;
+engage in any activities that may interfere with the ability of others to access or use the Site or Service; or
+monitor any data, information or communications on any System without authorization.
+Other Prohibited Uses. You may not:
+resell or redistribute the Service, or any part of the Service, or otherwise use the Service for any purpose other than your own personal or internal business use, unless pursuant to a separately executed agreement between you and Coding Dojo;
+reverse engineer, distribute, modify, transmit, reuse, repost, use, or create derivative works based on the content of the Site or Service in whole or in part for any purpose, without written permission from Coding Dojo;
+use the Site or Service for any mission or life-critical purposes, including the migration of any data which, if lost or corrupted, could endanger the health or safety of any person;
+use the Site or Service in ways that may be harmful to others or Coding Dojo’s reputation, including the use of any portion of the Services as a destination linked from any unsolicited bulk messages or unsolicited commercial messages; or
+use the Site or Service in any manner that Coding Dojo otherwise states on the Site or Service is prohibited.
+Reporting Violations
+If you become aware of any violation of this Acceptable Use Policy, you are required to immediately notify us and provide us with assistance, as requested, to stop or remedy the violation. To report any violation, please contact: info@codingdojo.com.
+Suspension or Termination
+Coding Dojo reserves the right, but does not have any obligation, to monitor or police activity occurring on the Site or Service. If a User engages in conduct while accessing or using the Site or Service that violates this Acceptable Use Policy, in addition to other available remedies, Coding Dojo may suspend or terminate the User’s access or use of the Site or Service. Coding Dojo will generally attempt to notify you of any activity in violation of the Acceptable Use Policy and request that you cease such activity; however, Coding Dojo reserves the right to suspend or terminate your access and use of the Site or Service without notification if reasonably necessary

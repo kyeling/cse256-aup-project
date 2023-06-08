@@ -1,0 +1,31 @@
+Athenian Acceptable Use Policy ("AUP")
+The Acceptable Use Policy (the "AUP" or the “Policy”) outlines the unacceptable usage of Athenian (the "Company") Software-as-a-Service (SaaS) (the “Services”). The use of the Services is conditioned by this Policy. The Subscriber agrees not to, and agrees not to allow third-parties to, act or use the Services in manners that violate the Policy.This Policy is in addition to any other terms and conditions under which the Company provides the Services to the Subscriber. Capitalized terms have the meaning stated in the applicable Agreement between the Subscriber and Athenian.
+Unacceptable Usage
+Forbidden uses and activities include, without limitation, those that in the Company's reasonable judgment, involves, facilitates, or attempts any of the following:
+For any unlawful, invasive, infringing, defamatory or fraudulent purpose;
+To engage in, promote or otherwise encourage illegal activity;
+To violate or encourage the violation of the legal rights of others;
+To harm or damage the image of the Company or its affiliates;
+To resell the Services, in whole or in part, to any entity or individual, without the Company's prior written consent, or to misrepresent the relationship with the Company;
+To interfere with the use of the Services, or the equipment used to provide the Services, by customers, authorized resellers, or other authorized users;
+To disable, interfere with or circumvent any aspect of the Services;
+To interfere with Services to any user, site, account, system, or network by use of any program, script, command, or otherwise;
+To obtain unauthorized access to any system, network, Service, or account;
+To modify, disable, or compromise the security, integrity or performance of the Services or related systems, network or data;
+To decipher any transmissions to or from the servers running the Services;
+To intentionally distribute viruses, worms, Trojan horses, corrupted files, hoaxes, or other items of a destructive or deceptive nature;
+To go unreasonably or intentionally beyond the use parameters for the Services as expected or described in its corresponding documentation;
+To use the Services, or any interfaces provided with the Services, to access other products or Services in a manner that violates the terms of Services of such other product or Services.
+To abuse, privately or publicly disclose bugs, exploits and vulnerabilities without the Company's prior written consent. For further information on our responsible disclosure, please refer to our Vulnerability Disclosure Policy.
+Policy Violation
+The Subscriber agrees that if in violation of these terms at the Company's sole determination, the Company may suspend or terminate the Subscriber access to the Services without prior notice to the Subscriber and the Company will have no liability to the Subscriber regarding the deletion, blocking or removal of content or the suspension or termination of SaaS Services, and in certain cases prompting further legal action.
+Get Engineering leadership content in your inbox!
+Thank you! Your submission has been received!
+Oops! Something went wrong while submitting the form.
+Our mission is to empower engineering teams to continuously improve.
+ProductVelocity InsightsQuality InsightsOutcome InsightsCI InsightsWhy Athenian?
+Data-Enabled EngineeringWhat is Data-Enabled Engineering?
+ResourcesBlogCase StudiesDeveloping Leadership PodcastProduct ChangelogService Status
+AthenianSecurityPricingAbout AthenianDocs & SupportCareersContact us
+TermsPrivacy PolicyTerms of ServiceAcceptable Use PolicyAthenian SLALegal Information
+© Athenian SAS - 2019-2022

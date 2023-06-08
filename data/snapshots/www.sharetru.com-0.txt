@@ -1,0 +1,29 @@
+Acceptable Use Policy
+LAST UPDATED MAY 24, 2022
+Sharetru requires that each of its customers accept and agree to Sharetru’s Subscription Services Agreement. The Subscription Services Agreement constitutes a legal agreement between the customer and Sharetru. In the Subscription Services Agreement, each customer agrees, among other things, to be bound by the terms and conditions of this Acceptable Use Policy (AUP). Sharetru may revise this AUP from time to time by posting a new version hereof on the Sharetru Website, and if Customer signed up for the Service under a previous version, such revised terms will become effective thirty (30) days after the Posted/Revised date listed above (“Last updated”) or the next time the customer uses the Service, whichever comes first. Continued use of the Service after the “Last updated” date constitutes acceptance of such revisions to this AUP and the Subscription Services Agreement into which it is incorporated therein by reference to this document.
+This AUP also binds all users of and visitors to Sharetru’s services and Web sites: by the act of using Sharetru’s services or visiting its Web sites, all such users and visitors agree to be bound by this AUP. (Customers, users, and visitors are referred to herein collectively as “Customers.”) Please note that this AUP is subject to change, and it is Customer’s responsibility to regularly check for modifications.
+Sharetru requires that all Customers conduct themselves as good citizens of the Internet and at all times behave with respect for others. Each Customer is responsible for preventing violations of this AUP by third parties accessing Sharetru services through Customer’s computers or accounts, including without limitation hackers and Customer’s own users.
+A. The following activities are expressly PROHIBITED:
+Reselling Sharetru services to sub-administrators using the Teams functions.
+Anonymous FTP or any user-authenticated FTP intended to resemble anonymous FTP.
+Content Distribution or any type of mass distribution of files, such as software distribution or synchronization of file systems on a large scale (more than 25 systems). You are better off purchasing services from a content delivery network (CDN).
+Backups from from your local machines. You are better off purchasing services from a BUaaS provider.
+Use of our services as a network testing hub, data streaming or any other activity that creates constant bandwidth or high system resource usage.
+Using KeepAlives or maintaining constant connections with little to no activity.
+Unauthorized access to any computer or system , including intrusion into or scanning of other Sharetru accounts.
+Dissemination of deliberately offensive material , including any message or information that is or may be threatening, libelous, obscene, or harassing.
+Child pornography or any other activity harmful to minors.
+Fraud.
+Violations of privacy rights.
+Intellectual property infringement , including violations of copyright, trademark, or patent rights.
+Network attacks or any unfriendly effort to interfere with service on another network or server.
+Virus distribution or distribution of any worm or other harmful code.
+Illegal activities of any kind.
+Hacking or perpetration of any security breach.
+B. Adult Content:
+Sharetru does NOT allow the transfer of any adult content using its service. The definition of what is considered to be “adult content” is entirely at the discretion of Sharetru.
+C. Investigations, disruptions, & security:
+Sharetru reserves the right to temporarily disable service in order to investigate suspected violations of this AUP or of the Subscription Services Agreement without first giving notice. Sharetru furthermore reserves the right to temporarily disable Customer’s service if Sharetru suspects that such service is the target of an attack or in any way interferes with services provided to other customers, even if Customer is not at fault. Sharetru does not issue refunds for terminating service due to any of the causes specified above.
+Customer is responsible for the use of its service, including transfer and bandwidth, even use by unauthorized users or hackers. Customer is responsible for maintaining security by using reasonable methods of password assignment, and for maintaining all original data files and backups. Customer is advised to maintain backups on its own premises and to never maintain the sole copy of any file on the FTP server.
+D. Reporting AUP Violations:
+Sharetru requests that anyone with information about a violation of this AUP, or of Sharetru’s Terms of Service, report it by contacting us immediately.

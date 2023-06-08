@@ -1,0 +1,70 @@
+SocketLabs Acceptable Use Policy
+SOCKETLABS ACCEPTABLE USE POLICY
+EFFECTIVE: December 12, 2014
+This Acceptable Use Policy (“AUP”) is an integral part of the SocketLabs Terms of Service Agreement (“TOS”) and is incorporated by reference therein. SocketLabs may modify this AUP at any time by posting a revised version on the SocketLabs website. The modified AUP will become effective immediately upon posting. It is your responsibility to check the SocketLabs Website regularly for modifications to the AUP. SocketLabs reserves the sole and absolute right to interpret, apply, define and implement this AUP. Your services may be suspended or terminated for violation of this AUP in accordance with the TOS. Inquiries regarding this policy should be directed to [email protected]
+NO MISSION CRITICAL OR HIGH RISK USE
+The service is not fault-tolerant and is not designed, intended, or authorized for use in any mission critical, emergency, medical, life saving or life sustaining systems, or for any other application in which the failure of the service could lead to personal injury or death, or to physical or environmental damage.
+ABUSE
+You may not use SocketLabs’ network or services to engage in, foster, or promote illegal, abusive, or irresponsible behavior, including but not limited to:
+●	Interference with service to any user of the SocketLabs (or any other) network including, without limitation, mail bombing, flooding, deliberate attempts to overload a system, abnormal or improper use of SocketLabs API or websites (or use that puts excessive strain on our systems) and transmitting computer viruses and Trojan horses;
+●	Collecting or using email addresses, screen names or other identifiers without the consent of the person identified (including, without limitation, phishing, Internet scamming, password robbery, spidering, and harvesting);
+●	Collecting or using information without the consent of the owner of the information or distributing software that does the same;
+●	Probing, scanning, penetrating, reverse-engineering or testing the vulnerabilities of a SocketLabs network, service, system or device to breach, attempt to breach or collect information about security or authentication measures, or any similar or related activity, without SocketLabs’ express written consent.
+●	Any conduct that causes or is likely to result in retaliation against the SocketLabs network or website, or SocketLabs’ employees, officers or other agents, including but not limited to engaging in behavior that results in any server being the target of a denial of service attack.
+●	Any conduct that is deemed abusive or malicious as determined by the sole discretion of SocketLabs.
+PROHIBITED CONTENT
+You may not publish, transmit or store on or via SocketLabs’ network and equipment any content or links to any content that SocketLabs reasonably believes:
+●	constitutes, depicts, fosters, promotes or relates in any manner to adult oriented material or activity including but not limited to pornography;
+●	is excessively violent, incites violence, threatens violence, or contains harassing content or hate speech;
+●	creates a risk to a person’s safety or health, creates a risk to public safety or health, compromises national security, or interferes with an investigation by law enforcement;
+●	exposes trade secrets or other confidential or proprietary information of another person;
+●	infringes on another person’s copyright, trade or service mark, patent, or other property right;
+●	promotes illegal drugs, violates export control laws, or illegal arms trafficking;
+●	is otherwise illegal or solicits conduct that is illegal under laws applicable to you or to SocketLabs;
+●	is otherwise malicious or fraudulent, as determined by the sole discretion of SocketLabs.
+In addition, SocketLabs has determined that certain types of mail generate higher than normal abuse and feedback loop complaints, and in order to protect the reputation of our network and to achieve the highest rates of deliverability for all of our customers, we are unable to provide service to organizations in the following industries:
+●	Payday loans
+●	Debt collection
+●	Gambling
+●	Affiliate Marketing
+●	Get rich quick, Ponzi, or pyramid schemes
+●	Work from home or make money online opportunities
+●	Day trading or penny stocks
+●	Any other lead sales or lead generation
+●	Email Data Broker or Email List purchasing
+ALL EMAIL
+You must comply with all applicable laws and regulations including but not limited to CAN-SPAM (Controlling the Assault of Non-Solicited Pornography And Marketing) and CASL (Canadian Anti-Spam Law). In addition, your email must meet the following requirements:
+●	Your email must claim to originate from an address at a domain that is currently registered to you, under your control, or you have to permission to transmit on behalf-of. The domain must not conceal the identity of the registrant;
+●	You may not send bulk text messages via email;
+●	Your email may not contain any false, misleading or deceptive information in its content or header, and you may not attempt to obscure or hide the source of the email.
+●	Your email must not be characteristic of spam as determined by the sole discretion of SocketLabs.
+TRANSACTIONAL EMAIL
+An email message is considered transactional if its primary purpose meets one or more of the following requirements:
+●	facilitates or confirms a commercial transaction that the recipient already has initiated and/or agreed to;
+●	gives warranty, recall, safety, or security information about a product or service;
+●	gives information about a change in terms or features or account balance information regarding a membership, subscription, account, loan or other ongoing commercial relationship;
+●	provides information about an employment relationship or employee benefits; or
+●	delivers goods or services as part of a transaction that the recipient already has agreed to.
+For all recipients that you have a transactional relationship with, you must retain:
+●	Evidence of the details each recipient’s transactional relationship in a form that can be promptly produced on request, and you honor the recipient’s and SocketLabs’ requests to produce this evidence within 48 hours of receipt of the request;
+●	Details of the transactional relationship including the names of the parties in the relationship, a description of the relationship, the date the relationship started, how the email address was obtained, and if possible, the dates of the first and most recent transaction.
+BULK OR COMMERCIAL EMAIL
+Commercial email is defined as any email message for which the primary purpose is the commercial advertisement or promotion of a commercial product, website, or service. Our requirements for commercial email include:
+●	You may not send email to addresses or lists that have been obtained from a third party.
+●	Your intended recipients have given their consent to receive email specifically from you via some affirmative means, such as an opt-in procedure;
+●	Your procedures for seeking consent include reasonable means to ensure that the person giving consent is the owner of the email address for which consent is given;
+●	You retain evidence of each recipient’s consent in a form that can be promptly produced on request, and you honor recipient’s and SocketLabs’ requests to produce consent evidence within 48 hours of receipt of the request. Evidence should contain at a minimum the date, time and place of the consent and if the consent was given online, the recipients IP address used to give the consent. All evidence must be satisfactory as determined by the sole discretion of SocketLabs.
+●	You have procedures in place that allow a recipient to revoke their consent – such as an unsubscribe link in the body of the email and you must honor revocations of consent and notify the recipient within 48 hours;
+●	You must have a Privacy Policy posted for each domain associated with the mailing;
+●	You must post an email address for complaints (such as [email protected]) in a conspicuous place on any website associated with the email and you must promptly respond to messages sent to that address;
+●	You must include the recipient’s e-mail address in the body of the message or in the “TO” line of the e-mail.
+●	Your email must not generate excessive blacklistings or any critical blacklisting as determined by the sole discretion of SocketLabs.
+●	Your email must not generate excessive complaints as determined by the sole discretion of SocketLabs.
+●	Your email list must be valid and not generate excessive failures as determined by the sole discretion of SocketLabs.
+Customers Who Trust in SocketLabs
+You’re in good company when working with SocketLabs. Here are some companies who have also trusted SocketLabs.
+Why SocketLabs?
+What Our Customers Are Saying!Should Have Signed up SoonerTJ Ruper - NHS-Northstar I chose to use you over other services because …Stephen Thomas - SkyBlue Studio Customer Service is the reason for successBob Heimann - Edge Manufacturing We Have Never Looked BackDavid Simms - ElectionsOnline Glad We Chose SocketLabsJason Storey - Mage Solar Projects, Inc. Knowledgeable… USA Built and Supported… Trusted IP AddressBrad C. - I. T. Pioneers, Inc. Your Email Service ROCKS!!Owen Ellington - PIU Management, LLC Responsive, Helpful, and KnowledgeableSandra Felger - Pro Transportation Services, Inc. Extremely Easy to Use, Could Not Be HappierMatt Gailey - Jinx Helpful, Reliable and AffordableBryan Crain - Wise Brother Media We Love Your ServiceGregg Paisley - Chief Mountain Technologies Second to None, 5 StarsDon Steinitz - Forex Robot Trader The customer service for Socket Labs is absolutely incredible.Mark Evans - Candidate Video (www.candidatevideo.com) Resolved All of Our Deliverability Issues!Doug Tung - CircleUp.com Vastly Superior; Well Done!Steve M. - Federated Software Consulting Ltd. Fast & ReliableOwen Ellington - PIU Management, LLC Best Deliverability Possible, Would Recommend to AnyoneKevin McManaway - E-Media Direct Really ProfessionalGuillaume Peris - Sungard You guys are great. Thank you.Kem Sisson - Money Movers, Inc. You … Are … The … Bomb!Jake Wilson - Customer Thermometer
+HomeContact UsFeatures
+DeliverabilityEmail MarketingReliabilityNo Hassle SetupAnalyticsInbound Email ParsingCustomer ServiceOn Premise Options Back
+Signup & PricingDevelopersBlogSupportCustomer LoginWhy SocketLabs

@@ -1,0 +1,26 @@
+Skip to main content
+This site uses JavaScript to provide a number of functions, to use this site please enable JavaScript in your browser.
+Acceptable Use Policy   Effective Date: SEPTEMBER 15, 2016
+This Acceptable Use Policy (“AUP”) outlines acceptable uses of Zscaler services and products (“Products”). This AUP prohibits uses and activities involving the Products that are illegal, infringe the rights of others, or interfere with or diminish the use and enjoyment of the Products by others. For example, these prohibited uses and activities include using the Products to:
+Conduct and Information Restrictions
+Undertake or accomplish any unlawful purpose. This includes, but is not limited to, posting, storing, transmitting or disseminating information, data or material which is libelous, obscene, unlawful, threatening or defamatory, or which infringes the intellectual property rights of any person or entity, or which in any way constitutes or encourages conduct that would constitute a criminal offense, or otherwise violate any local, state, federal, or non-U.S. law, order, or regulation;
+Upload, post, publish, transmit, reproduce, create derivative works of, or distribute in any way information, software or other material obtained through the Products or otherwise that is protected by copyright or other proprietary right, without obtaining any required permission of the owner;
+Transmit unsolicited bulk or commercial messages commonly known as “spam;”
+Send very large numbers of copies of the same or substantially similar messages, empty messages, or messages which contain no substantive content, or send very large messages or files that disrupts a server, account, blog, newsgroup, chat, or similar service;
+Participate in the collection of very large numbers of e-mail addresses, screen names, or other identifiers of others (without their prior consent), a practice sometimes known as spidering or harvesting, or participate in the use of software (including “spyware”) designed to facilitate this activity;
+Falsify, alter, or remove message headers;
+Impersonate any person or entity, engage in sender address falsification, forge anyone else's digital or manual signature, or perform any other similar fraudulent activity (for example, “phishing”);
+Technical Restrictions
+Access any other person's computer or computer system, network, software, or data without his or her knowledge and consent; breach the security of another user or system; or attempt to circumvent the user authentication or security of any host, network, or account. This includes, but is not limited to, accessing data not intended for you, logging into or making use of a server or account you are not expressly authorized to access, or probing the security of other hosts, networks, or accounts without express permission to do so;
+Use or distribute tools or devices designed or used for compromising security or whose use is otherwise unauthorized, such as password guessing programs, decoders, password gatherers, keystroke loggers, analyzers, cracking tools, packet sniffers, encryption circumvention devices, or Trojan Horse programs. Unauthorized port scanning is strictly prohibited;
+Copy, distribute, or sublicense any proprietary software provided in connection with the Products by Zscaler;
+Distribute programs that make unauthorized changes to software (cracks);
+Alter, modify, or tamper with the Products or permit any other person to do the same who is not authorized by Zscaler;
+Network and Usage Restrictions
+Restrict, inhibit, or otherwise interfere with the ability of any other entity, to use or enjoy the Products, including posting or transmitting any information or software which contains a worm, virus, or other harmful feature, or generating levels of traffic sufficient to impede others’ ability to use, send, or retrieve information;
+Restrict, inhibit, interfere with, or otherwise disrupt or cause a performance degradation to the Products or any Zscaler (or Zscaler supplier) host, server, backbone network, node or service, or otherwise cause a performance degradation to any Zscaler (or Zscaler supplier) facilities used to deliver the Products;
+Interfere with computer networking or telecommunications service to any user, host or network, including, without limitation, denial of service attacks, flooding of a network, overloading a service, improper seizing and abusing operator privileges, and attempts to “crash” a host.
+ZSCALER RESERVES THE RIGHT TO NOTIFY ITS CUSTOMERS OF ANY INFORMATION THAT AFFECTS THE SECURITY OF THE PRODUCTS.
+If you have any questions about this AUP, please contact Zscaler as follows:
+Zscaler, Inc.
+ATTN: Legal Department120 Holger WaySan Jose, CA 95134, USAEmail: [email protected]

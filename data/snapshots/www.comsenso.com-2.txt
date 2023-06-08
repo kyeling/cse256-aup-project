@@ -1,0 +1,104 @@
+Zoeken naar:
+Skip to content
+Comsenso >    Acceptable Use Policy
+Introduction
+This Acceptable Use Policy is drawn up in English to accomodate international uses. The purpose of this Acceptable Usage Policy, Net etiquette and Rules of Conduct (AUP) document is to promote proper, legal access to, and use of, Comsenso’s network, services and data, and to provide information to assist users to understand how Comsenso BV  (“Comsenso”):
+Protects Comsenso’s network against irresponsible use and illegal and criminal activities
+Enhances the functionality, performance and integrity of Comsenso services
+Enhances the privacy, security and reliability of the Comsenso’s Network, the networks of our clients, business partners, and employees
+This AUP also provides terms, and describes certain actions Comsenso might take, in order to support these objectives.
+The Comsenso Network is defined as the backbone operated by Comsenso and used for the provision, via one or more layers, of Comsenso’s services, including all related systems, services, or products, etc.
+Purpose
+It is Comsenso’s intent to prevent misuse (whether intentional or inadvertent), to attempt to detect misuse when it does occur, and to respond, as swiftly as practicable, to any imminent or actual misuse in accordance with applicable law and regulation, the terms of this AUP, and general ethical network practices.
+This policy applies to all Users, regardless of the origin or destination of communication and whether or not the misuse attempt was successful. The prohibitions described in this AUP are by no means exhaustive but are listed to provide an indication of activities that are considered unacceptable use.
+Comsenso reserves the right to take all actions it determines necessary to protect its network, Comsenso’s other systems and its business interests.
+Scope
+Users are solely responsible for the content of their postings, data or transmissions using the network. By the use of, or transmission through, the Network or Comsenso’s services, every User explicitly represents and warrants that it will not use, or attempt to use, the Network or Comsenso’s services in violation of this AUP or law.
+In addition, where the Network is used to transmit or connect into other networks worldwide, Users are expected to conform to any applicable acceptable usage policy relating to those other networks.
+Fraudulent and Unlawful Activities
+Users are prohibited from using or attempting to use the Network for any unlawful purposes or criminal deception.
+Transmitting, copying, distributing, storing or infringing upon any material in violation of any applicable law or regulation is strictly prohibited. This includes, without limitation:
+The use of material protected by copyright, trademark, trade secret, or other intellectual property right used without proper authorization by the party holding such right
+Material that is obscene, sexually offensive, pornographic, defamatory or libellous, invasive of privacy, racial, threatening, harassing, malicious, promotes violence against a person, group, or government, or provides insider or confidential information about a company, group, or technology with the goal of causing damage either financially, technically, or physically
+The Network may not be used for activities such as or which include fraud, wire fraud, wrongly impersonating another person or organization, falsifying one’s network identity for improper or illegal purposes, making fraudulent offers of products, items, or services, or exporting software, information, or technology in violation of international or regional export control laws.
+System and Network Activities
+The Network may not be used to gain unauthorized access to any data, server, or network, or to interfere with system or network operations or functionality. Examples of specific activities that are prohibited by this AUP include, but are not limited to:
+Introduction of malicious or destructive programs into the network or server (e.g., viruses, worms, Trojan horses, e-mail bombs, etc.)
+Revealing an individual account password to others or allowing use of your account by others
+Circumventing user authentication or security of any host, network or account
+Performing security audits, penetration testing, port scanning or security scanning is expressly prohibited unless approved in advance in writing by Comsenso Executive Management and Comsenso’s Security Group
+Executing any form of network monitoring, tapping, or eavesdropping to intercept data not intended for the User who is undertaking the monitoring, etc., unless to the extent it is a part of a Comsenso employee’s job/duty
+Disclosing in any manner classified or sensitive information about Comsenso, it’s Business, The Network, or its clients, partners, or vendors to third parties unless formally authorized by Comsenso in writing by an authorized signatory
+Effecting, or deliberately enabling or allowing Security Breaches or Disruptions of network communication to any network, server, or User
+For the purpose of this AUP “Security Breaches” includes, but is not limited to:
+Unauthorized accessing of data or using received data of which you are not the intended recipient
+Logging into or accessing any system, network resource, or user account unless expressly authorized to do so (unless these duties are within the scope of regular Comsenso support duties)
+Using any program/script/command, or sending messages of any kind, in a manner that interferes with, or disables, any network element or session, via any means, locally or via the Internet/Intranet/Extranet
+For the purpose of this AUP “Disruption” includes, but is not limited to:
+Network sniffing, ping floods, packet spoofing, and denial of service, and Forged routing information for fraudulent, illegal, or malicious purposes
+Spam, E-mail and Communications
+The Network and the Comsenso Services may not be used to abuse communication technologies and methods. Examples of unacceptable usage include, but are not limited to:
+Sending unsolicited e-mail messages, including the sending of “junk mail” or other advertising material to individuals who did not specifically request such material (e-mail spam)
+Making unauthorized usage of an SMTP Mail server (“Relay Server”) to relay (bulk) e-mail and/or forging of identities to make it appear as though the e-mail was sourced from the Relay Server or other falsified source
+Conducting any form of harassment via e-mail, telephone paging, or other messaging whether through language, content, frequency, or size of messages
+Unauthorized use or forging of e-mail header or any TCP/IP packet header information
+Creating or forwarding “chain letters”, “Ponzi” or other “pyramid” schemes of any type
+Sending e-mail in violation of laws applicable to the sender
+Consequences of Violations
+In each case where Comsenso becomes aware of a violation of this AUP, Comsenso may take any action it deems appropriate to address or prevent such violation.
+Users found to be, or where there are grounds to suspect that Users are or will be, in violation of this AUP, in the sole and final determination of Comsenso, will be subject to disciplinary actions. These actions are at the discretion of Comsenso and may include, but are not limited to, any of the following:
+Termination of access for the User
+Termination of right to use the network service
+Liability for damages
+Suspension of service, access, or other privileges, temporarily (e.g., pending further investigation) or permanently
+Termination of employment, contracts, partnership, etc.
+Reporting of violations or suspected violations to the appropriate authorities
+In the event any of these actions is undertaken, Comsenso shall not be liable (including, without limitation, any obligation to refund any prepaid fees or payment of revenue-sharing fees) as a result of such actions. Users agree to reimburse Comsenso’s costs and damages associated with investigating the incident and shall pay any charges levied by civil and criminal penalties. Furthermore, any violation of this AUP may lead to other legal actions (civil or criminal) under any applicable local and international laws.
+Comsenso will fully cooperate with investigations of suspected criminal violations, violation of systems or network security if so requested by the relevant legal authorities.
+Each User agrees that Comsenso may store their name, address and other personal or corporate information in a private database for the purpose of refusing to grant them future access to Comsenso’s services if Comsenso determines that such User has violated this AUP. Each User agrees that Comsenso may share this information with other network providers and Internet Service Providers (ISPs) and notify them that the User’s account for Comsenso has been terminated should Comsenso determine that the User has violated this AUP.
+Rules of Conduct and Net Etiquette
+The following Rules of Conduct and Net Etiquette apply to all Comsenso employees and some of them apply to all users of the Comsenso network:
+Unless an encryption method is used, it must be assumed that all e-mail is unsecure, hence sending confidential data through e-mail should be avoided
+Employees must use Comsenso’s corporate e-mail system for all company communication
+Users must respect copyrights of material that is being reproduced
+Messages that are being forwarded should not be altered. Messages should only be forwarded with the permission of the original sender.
+Chain letters may not be send or forwarded
+Users should be conservative in what they send and liberal about what they receive. Flamed messages should not be send, even when being provoked. Users should not react to provocative messages. Pick up the phone and call a person when in doubt
+Users should use descriptive subjects in their messages
+Care should be exercised when addressing e-mail. Some addresses that look like a person are in fact a group of people. Users should know who they send e-mail
+Care should be taken when copying e-mail (cc:). Remove persons on the cc-list when a discussion between two persons is started. The use of bcc: should be avoided and only be used when it is obvious that an e-mail is send to a group
+Time differences should be taken into consideration when expecting answers to messages. Recipients can be anywhere in the world. Phone conversation should be used when an immediate answer is expected, but users must be aware people can be asleep because of time zone differences
+Users should avoid sarcasm and should realize that the recipient at the other side is a human being, with different culture, language and humour
+Users should use small and capital fonts as appropriate. The use of ALL CAPS should be avoided, because it has the same effect as yelling
+Users should use emoticons (sparingly) to add intonation to their writing. Users should not assume that the use of a smiley makes up for an insult
+Users should avoid sending messages immediately when emotional. A good practice is to save the message over the night and read it again the next morning before sending it
+Users should be aware that messages could be falsified or spoofed. Common Sense should be used before assuming a message is what it seems
+The cost of sending and receiving messages per e-mail are normally evenly distributed over sender and receiver, unlike other media like postal mail or (in most cases) telephone calls. Sending e-mail consumes network-bandwidth, disk space and processing power. This is the fundamental reason why unsolicited e-mail advertisements (›spam‹) are undesirable and even forbidden in most countries. Users should there fore refrain from taking part in these activities
+Users should know the size of their messages. Attaching large file could cause the message to become undeliverable or bounced and should be zipped or avoided where possible. Attachments should be removed from messages before they are replied to and from forwarded messages
+Furthermore, it is expected that Comsenso employees:
+Respect and handle Comsenso property as if it where their own. i.e.
+Don’t leave laptops or smartphones unattended or in a car
+Keep all equipment neat and clean
+Report theft, loss & damage of equipment to the authorities and the IT-department
+Archive their e-mailbox at regular intervals. It is recommended that archiving is set to automatic for all mail, older than 6 months
+Take into account that data on a PC is not regularly backed up. Important documents, data, and a copy of local address books should be stored on the appropriate servers
+Laptops can be stolen. PGP desktop encryption should there fore be used for all laptop disks
+Use Comsenso provided mobile phones for business purposes only. Excessive private calls should be avoided or made with private phones. Comsenso can recover the costs for private calls any time from the caller
+Activate voice mail on a Company mobile phone. The voice mail message should be in English, it should be brief and professional and the users name and the name Comsenso should be mentioned
+don’t send e-mails with large unzipped attachments to mail groups
+don’t send or receive pornographic material through company e-mail
+log on to the Comsenso Windows domain regularly to receive the latest Virus scanner updates (this applies to any home pc/laptop that is used for work purposes)
+configure and use an e-mail footer conform company standards
+Contact Information and AUP Concerns
+Anyone who wishes to contact Comsenso regarding prohibited use or other abuse related to the Network, or for requests of clarification regarding this AUP, can send an e-mail message to security-officer@comsenso.com.
+Complaints about unsolicited bulk e-mail/mass e-mail and News posting abuse should be e-mailed to abuse@comsenso.com.
+Complaints about cracking, hacking, or other suspected security incidents should be addressed to via e-mail to CERT-group@comsenso.com or by filing an incident-report at https://csosupportcenter.comsenso.com. Internal Comsenso users and customers can also call the Comsenso help desk at +31-88-2666666 and open a CERT trouble ticket.
+Please include all information that may assist Comsenso in investigating your concern, including all applicable header lines of forwarded messages.
+Disclaimers
+Comsenso reserves the right to modify this AUP at any time, effective upon posting on Comsenso’s web site.
+Comsenso does not accept liability for damages caused to any User or third party by any action or omission by another User or for any other reason. Comsenso does not control, monitor or censor the content of communications transmitted over the Network unless requested by the owner of such communications. Comsenso does not accept any responsibility for any information or content passing through the Network.
+Although pursuant to this AUP, it is Comsenso’s intention to take steps to protect the Network and users thereof from abuse, as set out in this policy, Comsenso is not obligated to take any (proactive) steps to suspend users, block passwords, etc. and therefore it is important for Users who suspect or know of abuse (and who are desirous of a course of action being taken to deal with such abuse) to notify the above-mentioned contacts, or ensure clear instructions are agreed between them and Comsenso or their account manager/contact at Comsenso.
+Comsenso or third-party providers of content may provide links to other Web sites or resources. Comsenso does not control these sites and resources, does not endorse them, and is not responsible for their availability, content, or delivery of services.
+Ook vragen over uw IT-infrastructuur?
+Wilt u meer informatie? Bel met onze adviseurs op nummer +31 882 666 666 of vul het contactformulier in. Wij nemen dan zo spoedig mogelijk contact met u op voor een vrijblijvend advies.
+Contactformulier
