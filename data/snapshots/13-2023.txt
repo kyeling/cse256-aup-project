@@ -1,75 +1,71 @@
-HomeMore with monday.comMortgage Broker CRMBusiness Process Automation for Mortgage BrokersEcommerce Order ManagementAboutBlogResources
-Ultimate monday․com CRM ReviewMonday.com ROI for Creative TeamsMonday.com ROI for MarketingContact
 Acceptable Use Policy
-Effective Date: This Acceptable Use Policy was last updated effective May 19th, 2018.
-We reserve the right to change this AUP at any time . Such changes, modifications, additions or deletions shall be effective immediately upon posting on-line at this location. You acknowledge and agree that it is your responsibility to review this site and this AUP periodically and to be aware of any modifications .
-You may identify whether Polished Geek LLC has revised this AUP by noting the "Effective Date" above. Your continued use of the site after such modifications will constitute your: (a) acknowledgment of the modified AUP; and (b) agreement to abide and be bound by the modified AUP. If you do not agree to these terms, please do not access or use this site or any site on the Polished Geek, LLC network.
-Polished Geek LLC's Acceptable Use Policy ("AUP") has been designed to assist in protecting Polished Geek, LLC and our clients from improper and/or illegal activity over the Internet and to further compliance with all relevant laws and regulations. This AUP is also intended to establish a clear understanding of what Polished Geek expects of clients using our services.
-This AUP is applicable to any and all access or use of Polished Geek, LLC's services (the "Service") or Polished Geek, LLC's network (the "Network"). This includes, but is not limited to, any use or access by (a) Polished Geek, LLC's clients, (b) Polished Geek , LLC's clients' clients, members, end-users, and a gents and (c) any other parties who use or access the Service or Network (collectively, "Users"). All Users must comply with this AUP. Any access or usage of the Service or Network constitutes acceptance and agreement to this AUP. Each client of Polished Geek agrees that it is responsible for violations of this AUP by itself and by any party that uses or access the services or the network through such client, whether authorized by such client or not.
-Polished Geek supports the uncensored flow of information and ideas and does not exercise editorial control over the content of any website, e-mail transmission, newsgroups, or other material created or accessible over or through the Service, except for certain proprietary web sites. However, in accordance with our TOS (Terms of Service), we may remove any materials that, in our sole discretion, may be illegal, may subject us to liability, or which may violate this AUP. We may cooperate with legal authorities and/or third parties in the investigation of any suspected or alleged crime or civil wrong doing.
-We believe in communicating with our clients and will try to work with our clients to resolve any AUP violations before taking action which could cause your service to become unavailable. However, due to the nature or severity of some violations, this is not always possible or preferable. We reserve the right to immediately suspend or terminate, without warning, services to a client who is in violation of the AUP.
-This AUP does not (a) obligate Polished Geek to monitor, review, or police the data and content residing on its network or (b) create any obligation of Polished Geek to any party that is not a direct client.
-Polished Geek, LLC expressly disclaims any liability for the data and content residing on its network and for the actions of its Users.
-The following activities are expressly prohibited, and are considered violations of the AUP. These descriptions are guidelines and are not intended to be exhaustive. Polished Geek, LLC will be the sole arbiter as to what constitutes as unacceptable use on our systems.
-Illegal Activity or Content
-The Service shall not be used for any unlawful activities or in connection with any criminal or civil violation. Use of the Service or Network for transmission, distribution, retrieval, or storage of any information, data or other material in violation of any applicable law or regulation (including, where applicable, any tariff or treaty) is prohibited. Th is includes, without limitation, the use or transmission of any data or material protected by copyright, trademark, trade secret, patent or other intellectual property right without proper authorization and the transmission of any material that constitutes an illegal threat, violates export control laws, or is obscene, defamatory or otherwise unlawful.
-Network Abuse
-Polished Geek expressly prohibits any activities that, in its sole discretion, constitute network abuse. This includes, but is not limited to:
-Denial of Service attacks or any activities designed to exhaust the resources of a host or network;
-Any attempt to monitor data or traffic on any network or system without the authorization of the owner of the system or network;
-Accessing, illegally or without authorization, computers, accounts or networks belonging to another party, or attempting to penetrate security measures of another individual's system;
-Port-scanning, vulnerability scanning, and any other activity that may be used as a precursor to an attempted system penetration;
-Introducing malicious programs into any network or server, such as viruses, worms, trojan horses, and key loggers;
-Intentionally or negligently injecting false data into the Internet, for instance in the form of bad routing information or incorrect DNS information;
-Forging any e-mail message header, in part or whole , of any electronic transmission, originating or passing through the Network;
-Executing any form of network activity that will intercept data not intended for the client's server.
-Unsolicited Email
-Users are prohibited from engaging in improper use or distribution of email. Polished Geek, LLC will b e the sole arbiter as to what constitutes a violation of this provision. This includes, but is not limit ed to:
-Sending of any unsolicited email ("spam"). Any message sent to a recipient from a purchased, rented, licensed, or traded list of email addresses is automatically considered unsolicited.
-Hosting web pages advertised within "spam e-mail" sent from another network ("spamvertising")
-Using the Service to receive replies from unsolicited emails ("drop-box" accounts).
-Configuring any email server in such a way that it will accept third party emails for forwarding ("open mail relay").
-Running Unconfirmed Mailing Lists. Subscribing email addresses to any mailing list without the express and verifiable permission of the email address owner is prohibited. All mailing lists run by Polished Geek Users must be Closed-loop ("Confirmed Opt-in"). The subscription confirmation message received from each address owner must be kept on file for the duration of the existence of the mailing list.
-Purchasing lists of email addresses from 3rd parties for mailing to/from any Polished Geek hosted domain, or referencing any Polished Geek account, is prohibited.
-Operating an account on behalf of, or in connection with, or reselling any service to, persons or firms listed in the Spamhaus Register of Known Spam Operations (ROKSO) database at www.spamhaus.org.
+Last Updated August 20, 2020
+Definitions
+Host = Pagely® and/or its Parent CompanyOwner, User, You, Your = You, The paying Customer.
+This Acceptable Use Policy (the “Policy” or “AUP”) is an integral part of your agreement with Host for the provision of services (collectively the “Services”) set forth on the Service and Pricing Order Form.
+This Policy is designed to help protect Host’s customers from irresponsible and/or illegal activities. The Policy is a non-exclusive list of the actions prohibited by Host and Host reserves the right to modify the Policy at any time, effective upon notice to you. Host reserves the sole and absolute right to interpret, apply, define and implement this Policy.
+WordPress Hosting
+Pagely® is Managed Hosting for WordPress (https://wordpress.org) and WordPress compatible plugins and themes. Any other software applications or frameworks including but not limited to: phpBB, Joomla, or Drupal is forbidden without Host’s express written consent. Host retains the right to audit all customer supplied code for performance and/or security concerns and allow or disallow at sole discretion.
+DMCA Complaints
+As Pagely asks others to respect its intellectual property rights, it respects the intellectual property rights of others. If you believe that material located on or linked to by a Pagely hosted site violates your copyright, you are encouraged to notify Pagely in accordance with Pagely’s Digital Millennium Copyright Act (“DMCA”) Policy. Pagely will respond to all such notices, including as required or appropriate by removing the infringing material or disabling all links to the infringing material. Pagely will terminate a customer’s access to and use of the service if, under appropriate circumstances, the customer is determined to be a repeat infringer of the copyrights or other intellectual property rights of Pagely or others. In the case of such termination, Pagely will have no obligation to provide a refund of any amounts previously paid to Pagely.
+Illegal Use
+Any use of Host Services in a manner which is defined or deemed to be statutorily illegal is a direct violation of Host’s AUP. This includes, but is not limited to: death threats, terroristic threats, threats of harm to another individual, multi-level marketing schemes, “ponzi schemes”, invasion of privacy, credit card fraud, racketeering, defamation, slander, and other common illegal activities.
+Offensive Content
+You may not use any Host Service to distribute content or links to content that Host reasonably believes:
+Constitutes, depicts, fosters, promotes or relates in any manner to child pornography, bestiality, or non-consensual sex acts;Is excessively violent, incites violence, threatens violence or contains harassing content or hate speech;Is unfair or deceptive under the consumer protection laws of any jurisdiction, including chain letters and pyramid schemes;Is defamatory;Violates a person’s privacy;Creates a risk to a person’s safety or health, creates a risk to public safety or health, compromises national security or interferes with a investigation by law enforcement;Improperly exposes trade secrets or other confidential or proprietary information of another person;Is intended to assist others in defeating technical copyright protections;Infringes on another person’s copyright, trade or service mark, patent or other property right;Promotes illegal drugs, violates export control laws, relates to illegal gambling or illegal arms trafficking;Is otherwise illegal or solicits conduct that is illegal under laws applicable to you or to Host;Is otherwise malicious or fraudulent, or may result in retaliation against Host by offended recipients; orIs intended to harass or threaten.
+Child Pornograhy
+Host has a zero-tolerance policy on child pornography and related sites. The hosting of child pornography or related sites or contact information is in direct violation of federal law and Host’s AUP.
+Denial of Service
+Host absolutely prohibits the use of services or network services for the origination or control of denial of service (“DOS”) attacks or distributed denial of service (“DDOS”) attacks. Any relation to DOS or DDOS type activity is a direct violation of Host’s AUP.
+Server Abuse
+Any attempts to undermine or cause harm to a Host server or subscriber of Host is strictly prohibited including, but not limited to:
+Logging into a server or account that you are not authorized to access;Accessing data or taking any action to obtain services not intended for you or your use;Tampering, hacking, modifying, or otherwise corrupting or breaching security or authentication measures without proper authorization;Transmitting material that contains viruses, trojan horses, worms, time bombs, cancelbots or other computer programming routines or engines with the intent or effect of damaging, destroying, disrupting or otherwise impairing a computer’s functionality or the operation of the Host’s systems;Interfering with, intercepting or expropriating any system, data or information to which you do not have the right to access; andInterfering with service to any user, host or network including, without limitation, by means of overloading, “flooding”, “mail-bombing”, or “crashing” any computer system.
 IRC
-All IRC activity is prohibited. This includes running any type of IRC software including, but not limited to, IRC client software, IRC server software, web-based IRC software, IRC bots such as "eggdrop", and IRC proxies such as "psyBNC".
-Proxy Servers
-Proxy Servers are prohibited. This includes, but is not limited to, SOCKS proxies, Squid proxies, Bittorrent Proxies, Tor, and any CGI or PHP proxy scripts.
-Facilitating a Violation of this Policy
-Advertising, transmitting, or otherwise making available any software, program, product, or service that is designed to violate this AUP, which includes, but is not limited to, the facilitation of the means to send Unsolicited Bulk Email, initiation of pinging, flooding, mail-bombing, denial of service attacks.
-Network and Server Performance
-Polished Geek, LLC accounts operate on shared network resources. Excessive use or abuse of these shared network resources by one customer may have a negative impact on all other customers. Misuse of network resources in a manner which impairs network performance is prohibited by this policy and may result in termination of your account. You are prohibited from excessive consumption of resources, including CPU time, memory, disk space and session time. You may not use resource-intensive programs which negatively impact other customers or the performances of the Service or Network. Polished Geek, LLC reserves the right to limit such activities.
-Reporting violations of Polished Geek, LLC's AUP
-Polished Geek, LLC requests that anyone who believe s that there is a violation of this AUP direct the information to the Abuse Department at
-If available, please provide the following information:
-The IP address used to commit the alleged violation
-The date and time of the alleged violation, including the time zone or offset from GMT
-Evidence of the alleged violation
-An E-mail with full header information provides all of the above, as do system log files. Other situations will require different methods of providing the above information.
-Polished Geek, LLC may take any one or more of the following actions in response to complaints:
-Issue written or verbal warnings
-Disable access to a client's content which violates AUP
-Remove content which violates AUP
-Block mail or any other network service
-Null-route client's IP address
-Suspend the client's account
-Terminate the clients's account
-Bill the client for administrative costs and/or reactivation charges
-Bring legal action to enjoin violations and/or to collect damages, if any, caused by violations
-Any violation of the AUP which results in a client' s server being removed or blocked from network access may be subject to reconnection fees as described in the TOS.
-The aforementioned list of actions shall not be construed in any way to limit the actions or remedies that Polished Geek, LLC may take to enforce and ensure compliance with this AUP. We reserve the right to recover any and all expenses, and apply any reasonable charges, in connection with a client's violation of this AUP. No service credits will be issued for any interruption in service resulting from violations of this AUP.
-The client agrees to indemnify and hold harmless Polished Geek, LLC from any claims resulting from the use of the service, which damages the subscriber or any other parties.
-More Questions?
-If you have any questions about a Polished Geek official business policy, please contact us through this website or send your inquiry directly to .
-500 Westover Drive, Suite 6832, Sanford, North Carolina 27330
-919-275-0676
-A certified monday.com consultant agency specializing in monday.com implementation, consulting, custom integration and support.
-Client Quick Links
-Book a MeetingSupport Request
-The Fine Print
-Privacy PolicyTerms Of ServiceRefund PolicyAcceptable Use PolicyEqual Opportunity Employer
-© 2009 - 2023  Polished Geek LLC
-Sitemap     GDPR     Cookies
-Your Free Consultation
-Choose a time and date below to schedule a time to chat with Polished Geek!
+We do not allow IRC, Egg Drops, BNC, or IRC bots to be operated on our servers or network. Files with references to IRC or any likeness thereof are prohibited. Also any program that acts like an IRC server or that provide chat functions that run as background processes are not allowed.
+Proxies
+We do not allow proxy servers of any kind, whether for personal or business use. Files with references to any proxy or likeness thereof are prohibited.
+Game Servers
+We do not allow game servers (dedicated game server programs) of any kind.
+Fraudulent Activities
+Host prohibits utilizing dedicated services or network services for fraudulent activities. Participation in fraudulent activities is in direct violation of state and federal law and Host’s AUP.
+Distribution of Malware
+Host prohibits the storage, distribution, fabrication, or use of malware including virus software, root kits, password crackers, adware, keystroke capture programs and other programs normally used in malicious activity; provided, however, programs used in the normal ordinary course of business are deemed acceptable. As an example, a security company hosting at Host analyzes the latest root kit for new security analysis/software.
+Phishing
+Host strictly prohibits any activity associated with Phishing or systems designed to collect personal information (name, account numbers, user names, passwords, etc.) under false pretense. Splash pages, phishing forms, email distribution, proxy email or any relation to phishing activities will result in immediate removal.
+HYIP or Ponzi Schemes
+High Yield Investment Plans or Ponzi schemes with the intent to defraud end users are illegal and not allowed on the network. This includes hosting, linking and or advertising via email websites or schemes designed to defraud.
+Atypical Usage
+Any accounts reasonably deemed by the host to be used for atypical purposes such as competitive analysis or research, compliance auditing and testing, or use in or by a bug bounty program are forbidden without Host’s express written consent.
+IP Address Usage
+You may only use IP addresses assigned to you by Host in connection with your Host Services.
+Bulk Mail
+You may not use any Host Service to send Bulk Mail. “Bulk Mail” means email messages of similar content that are sent to more than two hundred and fifty (250) recipients. Attempts to circumvent this restriction by breaking up bulk email over time, using multiple accounts, or other means will be a violation of this restriction. A mail message sent to other users within your domain names hosted on the Host system is not considered Bulk Mail.
+Unsolicited Mail
+You may not send unsolicited email. Email is unsolicited if you have no pre-existing relationship with the recipient, unless the recipient has published or otherwise provided his or her email address in a manner which implies consent to receive the email. You may not send email of any kind to a person who has indicated that they do not wish to receive it. Any such email shall comply with all laws and regulations, including without limitation, the CAN SPAM Act.
+Message Source
+You may not obscure the source of your email in any manner, including by intentionally omitting, forging, or misrepresenting message headers or return addresses.
+Email Abuse Complaints
+Complaints from email recipients and third party abuse agencies (e.g. SpamHaus or Spamcop) shall be deemed proof of the facts stated therein unless you provide compelling evidence to the contrary. Host shall have the right to terminate your mail service if we receive excessive or repeated complaints from your email recipients, regardless of whether you are in breach of this AUP or are otherwise at fault.
+Blacklisting / Retaliation
+Host may terminate your Services if your email address or related IP number(s) is/are blacklisted by any third party, or Host is retaliated against as a result of your use of the mail system, regardless of whether you are in breach of this AUP or are otherwise at fault.
+Usenet Spam
+The use of dedicated services to send, receive, forward, or post UseNet unsolicited email or posts is a direct violation of Host’s AUP. This includes UseNet services located within the Host network or unrelated third party networks.
+Host Administrative Address
+You, the customer, acknowledges that to facilitate efficient server management, inventory and related activities, the Host servers may include a Host administrative account and password and/or a Host daemon. All reasonable precautions are made by Host to maintain the security of these tools and the privacy of client data. You will not tamper, hinder, delete or in anyway change the functioning of these tools.
+Resellers: If you resell, rent or otherwise allow third parties to use any Host Services, you are responsible for use of the Services by such third parties in violation of this AUP to the same extent as if you were using Host Services yourself. You are also responsible for all accounting and support for your end customers.
+Disclosure to Law Enforcement
+Occasionally, Host is required by law to submit customer information to law enforcement officials when presented with a valid subpoena or order from a court or governmental entity. Information requested is disclosed as directed pursuant to the subpoena or order. Host utilizes great care in keeping customer information safe and private and will only release information described in the subpoena order. Host will notify customer of the information request to the extent permitted by the subpoena or order.
+Reporting Violation of the Acceptable Use Policy
+Host accepts reports of alleged violations of this AUP via email.
+Reports of alleged violations must be verified and include name, contact information, IP address, and description of the violation. Host owes no duty to third parties reporting alleged violations; provided, however, Host will use commercially reasonable efforts to review all verified third party reports and will take appropriate actions as described within the resolution process as set forth in Table A below.
+Resolution Process For Violations of Host’s Acceptable Use Policy
+The ultimate goal of this AUP by Host is to balance the rights of our customers while ensuring full compliance of this AUP. The goal of our Resolution Process is to mitigate service interruptions while resolving potential violations under this AUP. Our sales, support and abuse staff is dedicated to working with the customer in resolving potential violations, and are available via phone or email. The resolution process below provides the process for resolving all potential violations. Timing for resolution differs according to the degree of the violation, the nature of the violation, involvement of law enforcement, involvement of third party litigation, or other related factors. Overall, Host is dedicated to working with the customer in resolving all potential violations prior to any service interruptions.
+Step 1: First Alleged Violation of AUP
+A ticket will be generated under Host to obtain the customer’s master user account with information regarding the potential violation of Host’s AUP. This is often a fact-finding email requiring further information or notifying customer of the potential violation and the required actions to resolve the issue.
+Step 2: Acknowledgement of Violation of AUP
+A ticket is generated under the customer’s master user account with information specific to the violation. This ticket will also include any additional facts about the situation and will notify customer of the action required to resolve the violation.
+Step 3: Violation of AUP Disregarded, Not Properly Addressed, Or Continuing Violation If A ticket Has Been Disregarded, Not Properly Addressed, Or Resolved By The Customer For A Specified Period of Time
+Host engineers will turn the public network port to the specified dedicated services off. Access to the dedicated services may then be achieved through the secure private service network for customer resolution. As soon as the violation is addressed, the public access shall be restored and service will continue as normal.
+Step 4: Failure to Address Violation and Resolve Violation
+If customer fails to address the violation AND resolve the violation, a suspension of services may occur in Host’s sole discretion. This is a last resort for Host and only results when the customer completely fails to participate in Host’s resolution process. A permanent suspension of services includes reclamation of all dedicated services and the destruction of customer’s data.
+Disclaimer: Host retains the right, at its sole discretion, to refuse new service to any individual, group, or business. Host also retains the right to discontinue service to customers with excessive and/or multiple repeated violations.

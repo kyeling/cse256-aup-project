@@ -1,22 +1,20 @@
-Name.com Acceptable Use Policy
-You affirm and guarantee that you will not use our Services in connection with any illegal activities or in a manner that violates any applicable local, state, national, or international laws or regulations.
-You also affirm and guarantee that neither the content you place on our network, nor the domain names you register through our services shall contain or resolve to websites hosted elsewhere which contain illegal activities or prohibited content or links to similar.
-Illegal activities and prohibited content include but are not limited to:
-Content that depicts minors engaged in any activity of a sexual nature or which may otherwise harm minors;
-Activities that mislead or deceive minors into viewing sexually explicit material;
-Content or actions that attempt to defraud members of the public in any way (for example, "phishing" sites);
-Content or actions that are used to send unsolicited commercial email (SPAM) or email which is in violation of applicable laws or customary acceptable use of Internet connections, including but not limited to the transmission of child pornography;
-Content that is hateful, defamatory, derogatory or bigoted based on racial, ethnic, political grounds or which otherwise may cause or incite injury, damage or harm of any kind to any person or entity;
-Content that is threatening or invades another person's privacy or property rights or is otherwise in breach of any duty owed to a third party;
-Content or actions that infringe the trademark, copyright, patent rights, trade secret or other intellectual property rights, or any other legal rights of Name.com or any third party;
-Content or actions that violate any applicable local, state, national or international law or regulation;
-Content or actions that promote, are involved in or assist in, the conduct of illegal activity of any kind or promote business opportunities or investments that are not permitted under applicable law;
-Content that advertises or offers for sale any goods or services that are unlawful or in breach of any national or international law or regulation;
-Content that advertises or offers for sale any goods or services the Advertiser does not have the legal right to sell; or
-Content that links to or is associated with the sale, promotion or distribution of prescription medication that violates any applicable law or regulation.
-Involvement in the unauthorized transfer of a domain(s) from an ICANN accredited Registrar, another Name.com account or Registered Domain Holder.
-If you are in violation of any of the above provisions or are engaged in any other misleading or illegal activities, you agree that we may suspend, cancel, transfer or modify your use of services or individual domain names without prior notice to you.
-No fees will be refunded if any of the activities mentioned above, or any other inappropriate or illegal activities, result in the suspension, transfer or other such loss your domain name.
-Two-Step Verification Login Blocked
-You've been blocked from signing in for 30 seconds. Grab a cup of coffee and try again in a little bit.
-Have questions? - Check out our Knowledge Base for more information about two-factor authentication.
+AWS Acceptable Use Policy
+Last Updated: July 1, 2021
+This Acceptable Use Policy (“Policy”) governs your use of the services offered by Amazon Web Services, Inc. and its affiliates (“Services”) and our website(s) including http://aws.amazon.com (“AWS Site”). We may modify this Policy by posting a revised version on the AWS Site. By using the Services or accessing the AWS Site, you agree to the latest version of this Policy.
+You may not use, or facilitate or allow others to use, the Services or the AWS Site:
+for any illegal or fraudulent activity;
+to violate the rights of others;
+to threaten, incite, promote, or actively encourage violence, terrorism, or other serious harm;
+for any content or activity that promotes child sexual exploitation or abuse;
+to violate the security, integrity, or availability of any user, network, computer or communications system, software application, or network or computing device;
+to distribute, publish, send, or facilitate the sending of unsolicited mass email or other messages, promotions, advertising, or solicitations (or “spam”).
+Investigation and Enforcement
+We may investigate any suspected violation of this Policy, and remove or disable access to any content or resource that violates this Policy. You agree to cooperate with us to remedy any violation.
+When determining whether there has been a violation of this Policy, we may consider your ability and willingness to comply with this Policy, including the policies and processes you have in place to prevent or identify and remove any prohibited content or activity.
+Reporting of Violations
+To report any violation of this Policy, please follow our abuse reporting process.
+Ending Support for Internet Explorer
+Got it
+AWS support for Internet Explorer ends on 07/31/2022. Supported browsers are Chrome, Firefox, Edge, and Safari.
+Learn more »
+Got it

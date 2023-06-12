@@ -1,66 +1,84 @@
-top of pageAcceptable Use PolicyThis acceptable use policy sets out the terms between you and us under which you may access our website [www.programframework.com] (our site). This acceptable use policy applies to all users of, and visitors to, our site.
-Your use of our site means that you accept, and agree to abide by, all the policies in this acceptable use policy, which supplement our terms of website use [https://www.programframework.com/terms-website-use].
-www.programframework.com is a site operated by Program Framework Limited (we or us).  We are registered in England and Wales under company number 5461232 and we have our registered office at Hoppingwood Farm, Robin Hood Way, London, SW20 0AB. Our VAT number is 867 6674 60.
-Prohibited uses
-You may use our site only for lawful purposes.  You may not use our site:
-In any way that breaches any applicable local, national or international law or regulation.
-In any way that is unlawful or fraudulent, or has any unlawful or fraudulent purpose or effect.
-For the purpose of harming or attempting to harm minors in any way.
-To send, knowingly receive, upload, download, use or re-use any material which does not comply with our content standards as set out below.
-To transmit, or procure the sending of, any unsolicited or unauthorised advertising or promotional material or any other form of similar solicitation (spam).
-To knowingly transmit any data, send or upload any material that contains viruses, Trojan horses, worms, time-bombs, keystroke loggers, spyware, adware or any other harmful programs or similar computer code designed to adversely affect the operation of any computer software or hardware.
-You also agree:
-Not to reproduce, duplicate, copy or re-sell any part of our site in contravention of the provisions of our terms of website use
-Not to access without authority, interfere with, damage or disrupt:
-any part of our site;
-any equipment or network on which our site is stored;
-any software used in the provision of our site; or
-any equipment or network or software owned or used by any third party.
-Interactive services
-​
-We may from time to time provide interactive services on our site, including, without limitation:
-Chat rooms.
-Bulletin boards.
-Comment feeds.
-Where we do provide any interactive service, we will provide clear information to you about the kind of service offered, if it is moderated and what form of moderation is used (including whether it is human or technical).
-We will do our best to assess any possible risks for users (and in particular, for children) from third parties when they use any interactive service provided on our site, and we will decide in each case whether it is appropriate to use moderation of the relevant service (including what kind of moderation to use) in the light of those risks. However, we are under no obligation to oversee, monitor or moderate any interactive service we provide on our site, and we expressly exclude our liability for any loss or damage arising from the use of any interactive service by a user in contravention of our content standards, whether the service is moderated or not.
-The use of any of our interactive services by a minor is subject to the consent of their parent or guardian. We advise parents who permit their children to use an interactive service that it is important that they communicate with their children about their safety online, as moderation is not fool-proof. Minors who are using any interactive service should be made aware of the potential risks to them.
-Where we do moderate an interactive service, we will normally provide you with a means of contacting the moderator, should a concern or difficulty arise.
-Content standards
-​
-These content standards apply to any and all material which you contribute to our site (contributions), and to any interactive services associated with it.
-You must comply with the spirit and the letter of the following standards. The standards apply to each part of any contribution as well as to its whole.
-​
-Contributions must:
-Be accurate (where they state facts).
-Be genuinely held (where they state opinions).
-Comply with applicable law in the UK and in any country from which they are posted.
-Contributions must not:
-Contain any material which is defamatory of any person.
-Contain any material which is obscene, offensive, hateful or inflammatory.
-Promote sexually explicit material.
-Promote violence.
-Promote discrimination based on race, sex, religion, nationality, disability, sexual orientation or age.
-Infringe any copyright, database right or trade mark of any other person.
-Be likely to deceive any person.
-Be made in breach of any legal duty owed to a third party, such as a contractual duty or a duty of confidence.
-Promote any illegal activity.
-Be threatening, abuse or invade another’s privacy, or cause annoyance, inconvenience or needless anxiety.
-Be likely to harass, upset, embarrass, alarm or annoy any other person.
-Be used to impersonate any person, or to misrepresent your identity or affiliation with any person.
-Give the impression that they emanate from us, if this is not the case.
-Advocate, promote or assist any unlawful act such as (by way of example only) copyright infringement or computer misuse.
-Suspension and termination
-​
-We will determine, in our discretion, whether there has been a breach of this acceptable use policy through your use of our site.  When a breach of this policy has occurred, we may take such action as we deem appropriate.
-Failure to comply with this acceptable use policy constitutes a material breach of the terms of use upon which you are permitted to use our site, and may result in our taking all or any of the following actions:
-Immediate, temporary or permanent withdrawal of your right to use our site.
-Immediate, temporary or permanent removal of any posting or material uploaded by you to our site.
-Issue of a warning to you.
-Legal proceedings against you for reimbursement of all costs on an indemnity basis (including, but not limited to, reasonable administrative and legal costs) resulting from the breach.
-Further legal action against you.
-Disclosure of such information to law enforcement authorities as we reasonably feel is necessary.
-We exclude liability for actions taken in response to breaches of this acceptable use policy.  The responses described in this policy are not limited, and we may take any other action we reasonably deem appropriate.
-​
-Changes to the acceptable use policy
-We may revise this acceptable use policy at any time by amending this page. You are expected to check this page from time to time to take notice of any changes we make, as they are legally binding on you. Some of the provisions contained in this acceptable use policy may also be superseded by provisions or notices published elsewhere on our site.bottom of page
+Skip to content
+Menu
+Data Processing Agreement
+Security Statement
+Acceptable Use Policy
+Privacy Policy
+Impressum
+Cookie Policy
+Customer Terms of Service
+Acceptable Use Policy
+PLEASE READ THESE CUSTOMER TERMS OF SERVICE CAREFULLY.
+Publitas.com B.V. whose registered office and address for service is at J.H. Oortweg 21, 2333 CH Leiden, the Netherlands.
+UPDATED: MARCH 17, 2023
+EFFECTIVE: MARCH 17, 2023
+Description
+Publitas.com’s Acceptable Use Policy provides guidelines for our customers on the appropriate use of our services, and how we would normally respond in the event that we receive a complaint concerning content on a site that we host, or an email that we have transmitted.
+This Policy is an integral part of our Terms of Services. You can find the Terms of Services here.
+Definitions
+“AUP” means the Acceptable Use Policy for services provided by the Company as published and amended from time to time on the Company website at https://www.publitas.com/aup/.
+“Client” means the Company’s contracted customer and/or any user of the Service by virtue of their contract with The Company’s contracted customer.
+“Company” means Publitas.com B.V. whose registered office and address for service is at Zeeburgerpad 5, 1018 AH Amsterdam, the Netherlands.
+“Service” means the service provided by the Company under the Subscription Services Agreement.
+“Server Farm” means system for the hosting of digital publications, websites and other Internet services owned by the Company.
+“Web Hosting” means any service provided by the Company which makes use of the Server Farm.
+General
+The Service must not be used for the transmission or exchange of illegal material, or any material which may be deemed to be offensive, abusive, defamatory, obscene, menacing or otherwise as prohibited by applicable statutes in force.
+The Service must not be used for the transmission or exchange of any material that may be in breach of copyright (including Intellectual Property Rights), confidence, privacy or other rights.
+The Client will comply with applicable data protection laws.
+The Client will ensure that all content supplied by it for use will be pre-checked for harmful content, including without limitation, viruses, Trojan horses, worms, time bombs, cancelbots or any other computer programming routines that may damage, interfere with, surreptitiously intercept or expropriate any system, program, data or personal information.
+The Client agrees to indemnify and hold harmless the Company from any claims, losses, liabilities and expenses (including legal fees) resulting from the Client’s breach of this Acceptable Use Policy.
+Web Hosting
+The Company cannot and does not proactively monitor all content added or amended by the Client and cannot and does not guarantee that material added in this manner is free from illegal content or other materials that may be considered unacceptable.
+The Client undertakes sole responsibility for the content of its Web pages whether within the Company’s domains (publitas.com and publitas.nl) or other domains hosted within the Company’s Server Farm.
+The Client undertakes sole responsibility to ensure that it has permission to use any material added to a site, whether provided to the Company for inclusion on the Client’s site or added directly by the Client.
+The Client undertakes sole responsibility for any dispute involving Copyright or Intellectual Property Rights associated with any material added to a site, whether provided to the Company for inclusion on the Client’s site or added directly by The Client.
+The Client shall not use any digital publication, website or web service hosted by the Company to promote and/or distribute any material or content that is illegal under applicable legislation. The Client should be aware that the Internet is a global communications network and what may be legal in the Netherlands may be illegal elsewhere and leave the Client liable to prosecution in another country.
+The Company may undertake investigation of content services if potential abuse is brought to its attention and reserves the right to remove any digital publication or website on The Server Farm that the Company deems to contravene this AUP.
+Email
+The Service must not be used to send emails that are likely to cause offense, annoyance, inconvenience or anxiety to a recipient.
+The Service must not be used to send emails to recipients who have specifically requested not to receive such communications by email.
+The Service must not be used with intent to deprive others of service.
+Investigation of abuse of The Service
+Please address all complaints about abuse of the Company’s services to support@publitas.com.
+The Company reserves the right to investigate suspected or potential abuse of its Acceptable Use Policy. If the Company becomes aware of possible abuse, the Company will begin an investigation that may include gathering information from all potential parties and materials on its servers. The Company reserves the right to suspend the Service during such investigations and/or to remove materials from the Server Farm.
+The Client understands that the Company may be required by applicable legislation to access, store, copy or otherwise process the Client’s data stored within or transmitted by the Service. By accepting this Acceptable Use Policy, the Client expressly agrees that the Company may access and use the Client’s personal data or other account information in connection with any such investigation and may disclose such data to any law enforcement authority.
+The Company reserves the right to terminate the Service, with immediate effect and without further obligation or liability to The Client if required to do so by any law enforcement authority or by the Courts of the Netherlands.
+Enforceability
+If any provision of this Acceptable Use Policy or part thereof shall be void for whatever reason, the offending words shall be deemed deleted and the remaining provisions shall continue in full force and effect.
+The Company reserves the right to add, delete or modify any provision of this Policy at any time without notice, effective upon posting of the modified Policy at https://www.publitas.com/legal/acceptable-use-policy/.
+This Policy shall be governed by the laws of the Netherlands and the parties submit to the exclusive jurisdiction of the Courts of the Netherlands.
+Try any of our paid plans free for 14 days and publish your content online.
+Try For Free
+PRODUCT
+Home
+Features
+Enterprise
+Pricing
+Try For Free
+Flipbook maker
+Publish brochures online
+Publish magazines online
+Publish catalogs online
+Google Catalogs alternative
+Publish PDF online
+PUBLITAS
+About us
+Jobs
+Contact
+Blog
+Support
+Partners
+LEGAL
+Terms & Conditions
+Acceptable Use Policy
+Security Statement
+Privacy Statement
+Cookie Policy
+Impressum
+SOCIAL
+Twitter
+Facebook-f
+Linkedin
+© Publitas.com. All rights reserved. Registered office: Publitas.com B.V., J.H. Oortweg 21, 2333 CH, Leiden, the Netherlands.
+CoC (KvK): 39096214. VAT (BTW): NL817087151B01.

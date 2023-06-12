@@ -1,89 +1,21 @@
-Account Dashboard
-Log Out
+Menu
+(407) 499-4008
+Acceptable Use Policy
+General Information
+As a provider of Internet/World Wide Web access, website hosting, and other Internet-related services, A.T. Enterprises LLC. (“My Website Spot”) offers its customers, the means to acquire and disseminate a wealth of public, private, commercial, and non-commercial information. My Website Spot respects that the Internet provides a forum for free and open discussion and dissemination of information, however, when there are competing interests at issue, My Website Spot reserves the right to take certain preventative or corrective actions. In order to protect these competing interests, My Website Spot has developed this Acceptable Use Policy (“AUP”), which supplements and explains certain terms of each customer’s respective service agreement and is intended as a guide to the customer’s rights and obligations when utilizing My Website Spot’s services. This AUP will be revised from time to time. A customer’s use of My Website Spott’s services after changes to the AUP are posted on My Website Spot’s website, http://www.MyWebsiteSpot.com under the Legal Details section will constitute the customer’s acceptance of any new or additional terms of the AUP that result from those changes. One important aspect of the Internet is that no one party owns or controls it. This fact accounts for much of the Internet’s openness and value, but it also places a high premium on the judgment and responsibility of those who use the Internet, both in the information they acquire and in the information they disseminate to others. When subscribers obtain information through the Internet, they must keep in mind that My Website Spot cannot monitor, verify, warrant, or vouch for the accuracy and quality of the information that users may acquire. For this reason, the user must exercise his or her best judgment in relying on information obtained from the Internet, and also should be aware that some material posted to the Internet is sexually explicit or otherwise offensive. Because My Website Spot cannot monitor or censor the Internet, and will not attempt to do so, My Website Spot cannot accept any responsibility for injury to its users, customers, or subscribers that results from inaccurate, unsuitable, offensive, or illegal Internet communications. When users, customers or disseminate information through the Internet, they also must keep in mind that My Website Spot does not review, edit, censor, or take responsibility for any information its users, customers, or subscribers may create. When users place information on the Internet, they have the same liability as other authors for copyright infringement, defamation, and other harmful speech. Also, because the information they create is carried over My Website Spot’s network and may reach a large number of people, including both customers and subscribers and non-subscribers of My Website Spot, customers’ and subscribers’ postings to the Internet may affect other customers and subscribers and may harm My Website Spot’s goodwill, business reputation, and operations. For these reasons, customers and subscribers violate My Website Spot policy and the service agreement when they, their customers, affiliates, or subsidiaries engage in activities described herein.
+Scope
+This AUP governs the usage of My Website Spot’s products and services (the “Services”). This AUP is incorporated by reference into each contract My Website Spot enters into with a customer (each, a “Customer”) for the use of such Services. My Website Spot may modify this AUP at any time without notice. In addition, this AUP is incorporated by reference into the Terms of Service applicable to My Website Spot’s Web site so that no person who utilizes My Website Spot’s Web site (regardless of whether that person is a Customer) may take any action utilizing My Website Spot’s Web site that a Customer would be prohibited to take utilizing the Services.
+Purpose
+The purpose of this AUP is to enhance the quality of the Services and to protect My Website Spot’s customers, and the Internet community as a whole, from illegal, irresponsible, or disruptive Internet activities. This AUP applies to each Customer and its employees, agents, contractors, or other users of such Customer who obtain Services from My Website Spot (each such person being a “User”). Each User should use common sense and good judgment in connection with the Services. Parents or guardians should always supervise minors in using the Internet. Parents and guardians should remain aware at all times of what is on the Internet and how the minors under their care are using the Services and the Internet.
+Prohibited Uses
+Customers and Users may not:
+Utilize the Services to send unsolicited bulk and/or commercial messages over the Internet (known as “spam” or “spamming”). It is not only harmful because of its negative impact on consumer attitudes toward My Website Spot, but also because it can overload My Website Spot’s network and disrupt service to its Customers subscribers. Maintaining an open SMTP relay is prohibited. Any direct action, configuration, or setting that causes excessive outbound email traffic is subject to review and possible action. When a complaint is received, My Website Spot has the absolute and sole discretion to determine from all of the evidence whether the email recipients were from an “opt-in” email list, or whether the outbound email traffic generated from an account is suitable for a shared hosting environment. Utilize the Services in connection with any illegal activity. Without limiting the general application of this rule, Customers and Users may not: Utilize the Services to copy material from third parties (including text, graphics, music, videos or other copyrightable material) without proper authorization; Utilize the Services to misappropriate or infringe the patents, copyrights, trademarks or other intellectual property rights of any third party; Utilize the Services to traffic in illegal drugs, illegal gambling, obscene materials or other any products or services that are prohibited under applicable law; Utilize the Services to export encryption software to points outside the United States in violation of applicable export control laws; Utilize the Services to Forge or misrepresent message headers, whether in whole or in part, to mask the originator of the message; or Utilize the Services in any manner that violates applicable law. Utilize the Services in connection with any tortious or actionable activity. Without limiting the general application of this rule, Customers and Users may not: Utilize the Services to publish or disseminate information that (A) constitutes slander, libel or defamation, (B) publicizes the personal information or likeness of a person without that person’s consent or (C) otherwise violates the privacy rights of any person. Utilize the Services to threaten persons with bodily harm, to make harassing or abusive statements or messages, or to solicit the performance of acts or services that are illegal under applicable law. Utilize the Services in connection with any other disruptive or abusive activity. Without limiting the general application of this rule, Customers and Users may not: Utilize the Services to cause denial of service attacks against My Website Spot or other network hosts or Internet users or to otherwise degrade or impair the operation of My Website Spot’s servers and facilities or the servers and facilities of other network hosts or Internet users; or Post messages or software programs that consume excessive CPU time, or storage space, or network bandwidth; or Utilize the Services to offer mail services, mail forwarding capabilities, POP accounts or auto responders other than for the User’s own account; or Utilize the Services to resell access to CGI scripts installed on My Website Spot’s servers; or Utilize the Services to subvert, or assist others in subverting, the security or integrity of any My Website Spot systems, facilities or equipment; or Utilize the Services to gain unauthorized access to the computer networks of My Website Spot or any other person; or Utilize the Services to provide passwords or access codes to persons not authorized to receive such materials by the operator of the system requiring the password or access code; or Utilize the Services to (A) forge the signature or other identifying mark or code of any other person, (B) impersonate or assume the identity or any other person, or (C) engage in any other activity (including “spoofing”) to attempt to deceive or mislead other persons regarding the true identity of the User (excluding the use of anonymous re-mailers or Internet nicknames); or Utilize the Services to distribute or post any virus, worm, Trojan horse, or computer code intended to disrupt services, destroy data, destroy or damage equipment, or disrupt the operation of the Services; or Utilize the Services to conduct port scans or other invasive procedures against any server (except any server for which the User is an authorized system administrator); or Utilize the Services to distribute, advertise or promote software or services that have the primary purpose of encouraging or facilitating unsolicited commercial e-mail or Spam; or Utilize the Services to solicit or collect, or distribute, advertise or promote, e-mail address lists for the purpose of encouraging or facilitating unsolicited commercial e-mail or Spam; or Utilize the Services in any manner that might subject My Website Spot to unfavorable regulatory action, subject My Website Spot to any liability for any reason, or adversely affect My Website Spot’s public image, reputation or goodwill, including, without limitation, sending or distributing sexually explicit, hateful, vulgar, racially, ethnically or otherwise objectionable materials as determined by My Website Spot in its sole discretion; or While on a shared hosting platform, utilize, operate, enable, execute, compile, upload or publicly store source code, executable code, programs, or software packages designed to perform tasks not directly associated with website/email hosting, including, without limitation, (A) directly opening any listening port, (B) starting any ‘daemon’ process, (C) performing local/remote security scans, (D) simulating local shell/OS access by means of a tunneled/encapsulated connection to a remote host, (E) circumventing firewall restrictions, (F) connecting to any IRC/Peer to Peer file sharing server/network, (G) providing ‘tracker’ services to ‘BitTorrent’ clients and/or (H) exploiting web browser vulnerabilities, as determined by My Website Spot in its sole discretion; or Attempt to attack, disrupt, or abuse the support- and contact-related mechanisms of My Website Spot, including, but not limited to, telephone lines, email addresses, fax lines, bulletin boards or contact/signup forms; or Utilize the Services in any other manner to interrupt or interfere with the Internet usage of other persons;
+Violations
+Disclaimer. My Website Spot expressly disclaims any obligation to monitor its Customers and other Users with respect to violations of this AUP. My Website Spot has no liability or responsibility for the actions of any of its Customers or other Users or any content any User may post on any Web site. Reporting Non-Copyright Violations. My Website Spot encourages Users to report violations of this policy by e-mail to: [email protected], including in any such report the name of the offending domain (for example, xyz.com) and the type of abuse (for example, Spam, illegal acts, harassment, etc.) in the “subject” field of the e-mail. Reporting Copyright Violations. My Website Spot complies with the Digital Millennium Copyright Act (“DMCA”). My Website Spot encourages Users to report an alleged copyright infringement involving a user by sending a notice that complies with the DMCA which information is located under the Legal section of this website. Remedies. If My Website Spot learns of a violation of this AUP, My Website Spot will respond to the applicable Customer and may, in My Website Spot’s sole discretion, take any of the following actions, in accordance with the severity and duration of the violation: Warning the Customer; and/or Suspending the offending Customer from the Services; and/or Terminating the offending Customer from the Services; and/or Imposing fees or charges on the offending Customer account in accordance with the applicable service contract; and/or Removing the offending content; and/or Taking other action in accordance with this AUP, the applicable service contract or applicable law.
+Reservation of Rights
+My Website Spot reserves the right to cooperate with appropriate legal authorities in investigations of claims of illegal activity involving My Website Spot’s Services, Customers, and other Users. My Website Spot reserves all other rights to respond to violations of this AUP to the extent of applicable law and in accordance with any applicable contractual obligations. My Website Spot may utilize technical means to monitor communications into, and out of, its network facilities to prevent the introduction of viruses or other hostile code, to prevent intrusions, and otherwise to enforce this AUP and each Customer agrees that My Website Spot is authorized to monitor its communications through My Website Spot’s network for such purposes.
+Let's Find Your Spot
+Among The Stars
 Get Started
-Create a website
-Overview
-Award-Winning Templates
-Blogging
-Portfolios
-Website Analytics
-Connected
-Services
-Hire an Expert
-Enterprise Solutions
-Sell Anything
-Overview
-Ecommerce Templates
-Sell Products
-Sell Services
-Schedule Appointments
-Checkout, Payment, & Taxes
-Member AreasNew
-Extensions
-Restaurants & HospitalityNew
-Build your Brand
-Overview
-Email Marketing
-SEO Tools
-Social Media Tools
-Video MakerNew
-Get a Domain
-Find a Domain
-Transfer a Domain
-Templates
-Made with Squarespace
-Squarespace Blog
-Help Center
-Forum
-Webinars
-Log In
-Log Out
-Get Started
-Templates
-Log
-In
-Account Dashboard
-Log Out
-Get Started
-Create a website
-Overview
-Award-Winning Templates
-Blogging
-Portfolios
-Website Analytics
-Connected
-Services
-Hire an Expert
-Enterprise Solutions
-Sell Anything
-Overview
-Ecommerce Templates
-Sell Products
-Sell Services
-Schedule Appointments
-Checkout, Payment, & Taxes
-Member AreasNew
-Extensions
-Restaurants & HospitalityNew
-Build your Brand
-Overview
-Email Marketing
-SEO Tools
-Social Media Tools
-Video MakerNew
-Get a Domain
-Find a Domain
-Transfer a Domain
-Made with Squarespace→
-Squarespace Blog→
-Help Center→
-Forum→
-Webinars→
-A collection of inspirational websites made by real Squarespace users.
-Stories and solutions for the modern entrepreneur.
-In-depth guides and videos about the platform, our services, and how to get started.
-An online community for Squarespace users and professionals to discuss best practices and seek advice.
-Free, online sessions where you’ll learn the basics and refine your Squarespace skills.
-The Fine Print
-The Fine Print
-Acceptable Use PolicyLast Updated: February 24, 2020This Acceptable Use Policy outlines examples of prohibited conduct in connection with our Services. Note that any capitalized terms not defined in this Acceptable Use Policy have the meanings set forth in our Terms of Service. If you have any comments or questions about this Acceptable Use Policy, feel free to contact us.Our Services are used by millions of people to express themselves, build their brands and grow their businesses. We’re proud of the creative and inspiring ways that people use our Services, but we expect our users to use our platform responsibly. As a Squarespace user you agree not to misuse the Services or help anyone else do so. Below are some guidelines for what you should not do with the Services.1. Abusing And Disrupting The Services1.1. Don’t probe, scan or test the vulnerability of any system or network.1.2. Don’t breach or otherwise bypass any security or authentication measures.1.3. Don’t access, tamper with or use non-public areas or parts of the Services, or shared areas of the Services you haven't been invited to access.1.4. Don’t interfere with or disrupt any user, host or network (whether it’s Squarespace’s or someone else’s), for example by distributing malware or overloading, flooding or mail-bombing any part of the Services.1.5. Don’t take apart, decompile or reverse engineer any part of the Services in an effort to access things such as source code or algorithms.1.6. Don’t access, search or create accounts for the Services by any means other than our publicly supported interfaces (for example, scraping, spidering or crawling).1.7. Don’t take action that imposes an unreasonable load on our infrastructure or our third party providers. We reserve the right to determine what’s reasonable.1.8. Don’t provide your password to any other person, use any other person’s username and password, or otherwise manage the Services through shared credentials.1.9. Don’t avoid, bypass, remove, deactivate, impair, descramble or otherwise circumvent any technological or other measure (including watermarks) used by Squarespace or any other party (including another user) intended to protect the Services (including any Template).1.10. Don’t remove any copyright or other proprietary notices from the Services (including any Template).2. Spamming And Phishing2.1. Don’t use our Services to send spam, emails that violate CAN-SPAM or other laws, emails to people who have not explicitly consented (where such consent is required) or other unsolicited communications (bulk or otherwise), promotions or advertisements. Note, we reserve the right to determine what constitutes spam.2.2. Don’t send altered, deceptive or false source-identifying information (including any misleading or incorrect names, email addresses, subject lines), including without limitation phishing or spoofing.3. Deceiving And Impersonating Others3.1. Don’t do anything that's false, fraudulent, inaccurate or deceiving.3.2. Don’t impersonate another person, company or entity.3.3. Don’t engage in misleading or unethical marketing or advertising.4. Stealing4.1. Don’t use unauthorized credit cards, debit cards or other unauthorized payment devices on the Services.  4.2. Don’t promote or advertise products or services other than your own without appropriate authorization.4.3. Don’t sell the Services unless specifically authorized to do so, or publish or use the Services on any network or system other than those provided by Squarespace unless previously authorized by Squarespace.5. Infringing, Misappropriating And Violating Rights5.1. Don’t infringe or misappropriate anyone’s copyright, trademark or other intellectual property rights.5.2. Don’t violate anyone’s privacy or publicity rights.6. Other Improper Or Illegal Conduct6.1. Don’t threaten, harass, or abuse any individuals.6.2. Don’t incite violence.6.3. Don’t publish sexually explicit or obscene material.6.4. Don’t condone or promote self-harm.6.5. Don’t condone or promote violence against any person or group based on race, ethnicity, nationality, religion, gender, gender identity, sexual preference, age or disability.6.6. Don’t violate any laws through the Services, including without limitation all local laws regarding online conduct and acceptable content.If we conclude, in our discretion, that you have misused the Services, we may take action against your Account or Your Sites. We try to ensure fair outcomes, but in all cases we reserve the right to remove any content or suspend or terminate your Account or Your Sites, without any refund of any amounts paid for the Services, without liability or notice to you, at any time and for any reason (except where prohibited by applicable law). We reserve the right to enforce, or not enforce, this Acceptable Use Policy in our sole discretion.You can report violations of these guidelines to us directly by emailing abuse@squarespace.com.We may modify this Acceptable Use Policy from time to time, and will post the most current version on our site. If a modification meaningfully reduces your rights, we'll notify you in accordance with the procedures set forth in our Terms of Service.
+Menu
+Copyright © 2005-2021 My Website Spot. All Rights Reserved.

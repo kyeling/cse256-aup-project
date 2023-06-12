@@ -1,74 +1,108 @@
-Acceptable Use Policy
-1. Acceptable Use Policy
-1.1. Otava has published this acceptable use policy (“AUP”) in an effort to enhance the use of the Internet by promoting responsible use and in an effort to provide a reliable, high-quality service to its clients. In that regard, Otava requires its clients and other third-party users (collectively, its “Members”) to utilize Otava’s Services, as defined below, and network responsibly and in compliance with all applicable laws and the terms of this AUP.
-1.2. Otava reserves the right to modify this AUP at any time, effective upon posting of the modified AUP to www.otava.com/aup. By purchasing and using the Services, and thereby accepting the terms and conditions of the Otava General Terms of Sale, you agree to abide by this AUP as modified from time to time. Your continued use of the Services after posting of the modified AUP will be considered acceptance of any and all changes to the AUP.
-2. Your General Responsibilities
-2.1. The Services enable you to develop and display a Web site through which you can interact with users of the Internet and retrieve and send vast amounts of information. Otava will not monitor, censor, or directly control any content that you display on your Web site(s) or information that you collect or use through your Web site(s); provided, however, that Oavat reserves the right, but undertakes no duty or obligation, to do so and decide whether any item of Content, as defined below, complies with this AUP. Otava provides the Services with the goals of (a) maintaining an image and reputation of Otava as a responsible provider of the Services, (b) preserving the value of Internet resources as a conduit for free expression, and (c) encouraging the responsible use of Internet resources and discouraging degrading, libelous or illegal uses of such resources. Consequently, Otava expects you, and all other users of the Services, to take responsibility in using the Internet with courtesy and responsibility, and to be familiar with and practice good Internet etiquette, in furtherance of the above stated goals.
-2.2. VIOLATION OF ANY ASPECT OF THIS AUP IS STRICTLY PROHIBITED AND MAY RESULT IN THE TERMINATION OR SUSPENSION OF THE SERVICES YOU RECEIVE FROM OTAVA . YOU WILL REMAIN SOLELY LIABLE AND RESPONSIBLE FOR YOUR USE OF THE SERVICES AND ANY AND ALL CONTENT THAT YOU DISPLAY, UPLOAD, DOWNLOAD OR TRANSMIT THROUGH THE USE OF THE SERVICES. “CONTENT” INCLUDES, WITHOUT LIMITATION, YOUR E-MAIL, INDIVIDUALLY IDENTIFIABLE INFORMATION, WEB PAGES, PERSONAL HOME PAGES, AND DOMAIN NAMES.
-2.3. Otava may need to contact you from time to time. Otava’s principal mode of contact is through email. It is your sole responsibility to ensure that your contact information with Otava is accurate and kept up to date in our customer portal.
-3. Illegal or Harmful Use
-3.1. The following list sets forth examples of prohibited uses of Otava Services. This list is not, and is not intended to be, inclusive of all prohibited uses of the Services:
-3.1.1. Infringement. Infringement of intellectual property rights or other proprietary rights including, without limitation, material protected by copyright, trademark, patent, trade secret, or other intellectual property right used without proper authorization. Infringement may result from, among other activities, the unauthorized copying and posting of pictures, logos, software, articles, musical works, and videos. For procedures to report infringement, see Section 8 below.
-3.1.2. Offensive Materials. Transmission, disseminating, sale, storage or hosting material that is unlawful, libelous, defamatory, obscene, pornographic, indecent, lewd, harassing, threatening, harmful, invasive of privacy or publicity rights, abusive, inflammatory or otherwise objectionable.
-3.1.3. Export Violations. Posting or sending of software or technical information in violation of U.S. export laws, including, without limitation, the Export Administration Act and the Export Administration Regulations maintained by the Department of Commerce.
-3.1.4. Harmful Content. Disseminating or hosting harmful content including, without limitation, viruses, Trojan horses, worms, time bombs, cancelbots or any other computer programming routines that may damage, interfere with, surreptitiously intercept or expropriate any system, program, data or personal information.
-3.1.5. Fraudulent Conduct. Offering or disseminating fraudulent goods, services, schemes, or promotions (i.e., make money fast schemes, chain letters, pyramid schemes), or furnishing false data on any signup form, contract or online application or registration, or the fraudulent use of any information obtained through the use of the Services, including without limitation use of credit card numbers.
-4. System and Network Security and Integrity
-4.1. Violations of Otava’s or any third party’s server, system or network security through the use of the Services are prohibited, and may result in criminal and civil liability. Otava may, in its sole discretion, investigate incidents involving such violations. Otava may, in its sole discretion, involve and cooperate with law enforcement if Otava suspects a criminal violation. Examples of server, system or network security violations include, without limitation, the following:
-4.1.1. Hacking. Unauthorized access to or use of data, systems, server or networks, including any attempt to probe, scan or test the vulnerability of a system, server or network or to breach security or authentication measures without express written authorization of the owner of the system, server or network.
-4.1.2. Interception. Unauthorized monitoring of data or traffic on any network, server, or system without express written authorization of the owner of the system, server, or network.
-4.1.3. Intentional Interference. Interference with service to any user, host or network including, without limitation, mail bombing, news bombing, other flooding techniques, deliberate attempts to overload a system, broadcast attacks and any activity resulting in the crash of a host. Intentional interference also means the use of any kind of program/script/command, or send messages of any kind, designed to interfere with a user’s terminal session, via any means, locally or by the Internet.
-4.1.4. Falsification of Origin. Forging of any TCP-IP packet header, e-mail header or any part of a message header. This prohibition does not include the use of aliases or anonymous remailers.
-4.1.5. Avoiding System Restrictions. Using manual or electronic means to avoid any use limitations placed on the Services such as timing out specifications.
-4.1.6. Failure to Safeguard Accounts. Failing to prevent unauthorized access to accounts, including any account passwords.
-5. E-Mail
-5.1. You may not distribute, publish, or send any of the following types of e-mail through the use of the Services:
-5.1.1. Unsolicited promotions, advertising or solicitations (commonly referred to as “spam”), including, without limitation, commercial advertising and informational announcements, except to those who have explicitly requested such e-mails;
-5.1.2. Commercial promotions, advertising, solicitations, or informational announcements that contain false or misleading information in any form;
-5.1.3. Harassing e-mail, whether through language, frequency, or size of messages;
-5.1.4. Chain letters;
-5.1.5. Malicious e-mail, including without limitation “mailbombing” (flooding a user or Web site with very large or numerous pieces of mail) or “trolling” (posting outrageous messages to generate numerous responses); or
-5.1.6. E-mails containing forged or falsified information in the header (including sender name and routing information), or any other forged or falsified information.
-5.2. In addition, you may not use Otava’s mail server or another Web site’s mail server to relay mail without the written permission of the account holder or the Web site owner. Posting the same or similar message to one or more newsgroups (excessive cross-posting or multiple-posting) also is explicitly prohibited.
-6. Recommended Client Controls
-Otava’s controls are designed with the assumption that our clients implement certain controls to assure the security of their equipment in our data centers. The following are controls that Otava believes customer organizations should implement to assure secure access to their equipment in the data center:
-6.1. Controls should be established to ensure that you only authorize employees to be granted access to the Otava facility.
-6.2. Controls should be established to ensure written notification for terminated employees is communicated to Otava in a timely manner to restrict unauthorized access to the facility along with the collection of proximity cards being collected at the time of termination.
-6.3. Controls should be established to ensure client equipment is physically secured at all time to restrict unauthorized access to client cabinets and/or cages.
-6.4. Controls should be established to ensure all individuals with active access to client space are valid.
-6.5. Controls should be established for clients managing dedicated suites to ensure adequate environmental controls, physical controls, and monitoring of equipment is in place to mitigate the risk of environmental threats, unauthorized access and system downtime.
-7. Reporting Violations of AUP
-Otava requests that anyone who believes that there is a violation of this AUP direct the information to [email protected]. If available, please provide the following information: IP address used to commit the alleged violation; date and time of the alleged violation, including the time zone or offset from GMT; evidence of the alleged violation. Otava may, in its sole discretion, investigate any violation reported.
-8. Intellectual Property
-8.1. If you (“Complaining Party”) believe that your trademark or your copyrighted work is being infringed by Content hosted by Otava, please submit a written notice in accordance with the applicable process outlined below. Otava customers who receive notice of a written complaint and whose material was removed or access to which was suspended, may follow the counter notification policy in Section 8.4.
-8.2. Copyright Complaints.
-8.2.1. Please send an e-mail to [email protected] with the words “Copyright Complaint” in the subject line or fax your complaint to the fax number provided on the contact page, /contact. For your written notice to be effective, it must comply will all requirements sets forth in the Digital Millennium Copyright Act and include the following information and include the following information:
-(a) Identification of the copyrighted work claimed to have been infringed with the Copyright Registration number if the work is registered;
-(b) Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled;
-(c) Information reasonably sufficient to permit us to locate the material that is claimed to be infringing such as the website URL or step by step directions to locate the infringing material Otava customer’s website;
-(d) Information reasonably sufficient to permit Otava to contact the Complaining Party, such as the Complaining Party’s address, telephone number, or an email address;
-(e) A statement that the Complaining Party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law;
-(f) A statement that the information in the notification is accurate, and under penalty of perjury, that the Complaining Party is the owner, or is authorized to act on behalf of the owner; and
-(g) An electronic signature of the copyright owner, or a person authorized to act on behalf of the owner, of an exclusive copyright that has allegedly been infringed.
-8.2.2. Upon receipt of notification consistent with the requirements set forth in Section 8.2.1, Otava shall (a) remove or disable access to the material claimed to be infringing, (b) forward the Complaining Party’s written notification to the alleged infringer to the email address on file with Otava; and (c) notify the alleged infringer via the email address on file with Otava that the allegedly infringed content was removed or disabled.
-8.3. Trademark Complaints.
-8.3.1. Please send an e-mail to [email protected] with the words “Trademark Complaint” in the subject line or fax your complaint to the fax number provided on the contact page, /contact . Your must be the owner of a valid trademark or service mark, where validity is demonstrated through having a registration number from the United States Patent and Trademark Office or an equivalent foreign office (state registrations are not valid for these purposes).
-8.3.2. For your written notice to be effective, it must include the following information:
-(a) The trademark, service mark, trade dress, name, or other indicia of origin (the “Mark”) that is claimed to be infringed;
-(b) The Marks registration number and the name of the office that issued the registration (e.g., United States Patent and Trademark Office);
-(c) The jurisdiction or geographical area to which the mark applies;
-(d) The name, mailing address, telephone number and email address of the Mark’s owner;
-(e) A description of the manner in which the Complaining Party believes its Mark is being infringed upon.
-(f) Information reasonably sufficient to permit Otava to locate the allegedly infringing mark such as the website URL or step by step directions to locate the infringing mark on the Otava customer’s website;
-(g) Sufficient evidence demonstrating that the owner of the website that is claimed to be infringing is an Otava customer;
-(h) A good faith certification, signed under penalty of perjury, stating that: (i) You have a good faith believe that use of the trademarks describe above in connection with the use(s) described above is not authorized by the trademark owner, its authorized agent and is not otherwise permissible under law; (ii) You are the trademark owner or its authorized agent; and (iii) Under penalty of perjury, the information in the written notification is true and correct.
-8.3.3. Upon receipt of notification consistent with the requirements set forth in Section 8.3.2, Otava will (i) initiate an investigation and may, at its sole discretion and without any legal obligation to do so, temporarily remove or disable access to the website or website page displaying the allegedly infringing mark; (ii) forward the Complaining Party’s written notification to the alleged infringer at the email address on file with Otava; and (c) if the allegedly infringing content was removed or disabled, notify the alleged infringer via the email address on file with Otava of such removal.
-8.3.4. If Otava determines that the Complaining Party has raised a legitimate claim, Otava may, at its sole discretion and without any legal obligation to do so, permanently remove the material from Otava’s system and notify the alleged infringer of such removal. If Otava determines, at its sole, that the Complaining Party has not raised a legitimate claim or if it is not clear whether the Complaining Party has raised a legitimate claim, Otava will restore access to the challenged material.
-8.4. Counter Notification Process. If you are an Otava customer and have received a notice of copyright or trademark infringement, you may provide Counter Notification by emailing [email protected] and including the following:
-(a) Identification of the material that was removed or to which access was disabled and the location of where the material appeared before it was removed or access to it was disabled;
-(b) A statement under penalty of perjury that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled;
-(c) Your name, mailing address, telephone number, email address and a statement that you consent to the jurisdiction of the Eastern District of Michigan, and that you will accept service of process from the Complaining Party or its agent; and
-(d) Your electronic signature.
-8.5. Upon receipt of a Counter Notification consistent with Section 8.4, Otava shall provide the Complaining Party with a copy of the Counter Notification, and inform such Party that it will replace the removed material or cease disabling access to it in five (5) days. Otava will replace the removed material and cease disabling access to it in not less than five (5), nor more than ten (10), days following receipt of the Counter Notification, unless Otava first receives notice from the Complaining Party that such Complaining Party has filed an action seeking a court order to restrain the alleged infringer from engaging in infringing activity relating to the Content on Otava’s network. The Complaining Party shall include a copy of the filed court action with such notice.
-Get started with Otava now!
-First Name*Last Name*Company Name*Email*Phone NumberJob Title*Job Title*...CEO/President/OwnerVice PresidentDirectorManagerOtherDo you have an upcoming cloud, DRaaS or data protection project?*Upcoming Cloud, DRaaS or data protection project?*...NoYes - in 6 months or lessYes - in 6-12 monthsTell us more about your hybrid cloud, data protection, disaster recovery, security or colocation needs*EmailThis field is for validation purposes and should be left unchanged.
+Home
+Warehousing and Logistics
+Supply Chain Management
+Logistics and Distribution Services
+Order Processing and Fulfilment
+Warehousing Solutions
+Inventory Management
+Pick and Pack Services
+Returns Management
+Specialist Destruction Services
+Waste Reduction and Recycling
+Production Services
+Kitting and Reworking
+Secondary Packaging Services
+Barcoding and Security Systems
+Labelling Solutions
+Inspection and Quality Control
+Regulation Requirements
+Marketing Services
+Marketing Support
+Literature and POS Fulfilment
+Exhibition and Meetings Management
+Mailing Services
+Campaign Management
+Bespoke Solutions
+Online Ordering
+Pharmisa
+Medisa
+E-commerce Order Fulfilment
+Reporting and Forecasting Services
+About Us
+Who We Are
+Why Use Us
+Join Our Team
+Accreditations
+Our Infrastructure
+Our Process
+Newsletter
+News and Blog
+Contact
+Coronavirus (Covid-19) Updates
+Home | Acceptable Use Policy
+ACCEPTABLE USE POLICY
+This acceptable use policy sets out the terms between you and us under which you may access our website www.cpg-logistics.com (our site). This acceptable use policy applies to all visitors to our site.
+Your use of our site means that you accept, and agree to abide by, all the policies in this acceptable use policy, which supplement our terms of website use.
+OUR DETAILS
+www.cpg-logistics.com is a site operated by CPG Logistics Limited (“We”). We are a limited company registered in England and Wales under company number 2597908 and have our registered office and main trading address at CPG Logistics Limited, Fareham Reach, 166 Fareham Road, Gosport, Hampshire, PO13 0FW. Our VAT number is 615055270.
+PROHIBITED USES
+You may use our site only for lawful purposes. You may not use our site:
+In any way that breaches any applicable local, national or international law or regulation.
+In any way that is unlawful or fraudulent, or has any unlawful or fraudulent purpose or effect.
+For the purpose of harming or attempting to harm minors in any way.
+To send, knowingly receive, upload, download, use or re-use any material which does not comply with our content standards.
+To transmit, or procure the sending of, any unsolicited or unauthorised advertising or promotional material or any other form of similar solicitation (spam).
+To knowingly transmit any data, send or upload any material that contains viruses, Trojan horses, worms, time-bombs, keystroke loggers, spyware, adware or any other harmful programs or similar computer code designed to adversely affect
+the operation of any computer software or hardware.
+You also agree:
+Not to reproduce, duplicate, copy or re-sell any part of our site in contravention of the provisions of our terms of website use.
+Not to access without authority, interfere with, damage or disrupt:
+any part of our site;
+any equipment or network on which our site is stored;
+any software used in the provision of our site; or
+any equipment or network or software owned or used by any third party.
+INTERACTIVE SERVICES
+We may from time to time provide interactive services on our site, including, without limitation:
+Chat rooms.
+Bulletin boards.
+Twitter, Facebook, blogs, job notices,
+Where we do provide any interactive service, we are under no obligation to oversee, monitor or moderate any interactive service we provide on our site, but may choose to do so. We expressly exclude our liability for any loss or damage arising from the use of any interactive service by a user in contravention of our content standards, whether the service is moderated or not.
+Where we do choose to moderate an interactive service, we will normally provide you with a means of contacting the moderator, should a concern or difficulty arise.
+CONTENT STANDARDS
+These content standards apply to any and all material which you contribute to our site (contributions), and to any interactive services associated with it.
+You must comply with the spirit of the following standards as well as the letter. The standards apply to each part of any contribution as well as to its whole.
+Contributions must:
+Be accurate (where they state facts).
+Be genuinely held (where they state opinions).
+Comply with applicable law in the UK and in any country from which they are posted.
+Contributions must not:
+Promote any prescription-only medicine.
+Contain any material which is defamatory of any person.
+Contain any material which is obscene, offensive, hateful or inflammatory.
+Promote sexually explicit material.
+Promote violence.
+Promote discrimination based on race, sex, religion, nationality, disability, sexual orientation or age.
+Infringe any copyright, database right or trade mark of any other person.
+Be likely to deceive any person.
+Be made in breach of any legal duty owed to a third party, such as a contractual duty or a duty of confidence.
+Promote any illegal activity.
+Be threatening, abuse or invade another’s privacy, or cause annoyance, inconvenience or needless anxiety.
+Be likely to harass, upset, embarrass, alarm or annoy any other person.
+Be used to impersonate any person, or to misrepresent your identity or affiliation with any person.
+Give the impression that they emanate from us, if this is not the case.
+Advocate, promote or assist any unlawful act such as (by way of example only) copyright infringement or computer misuse.
+SUSPENSION AND TERMINATION
+We will determine, in our discretion, whether there has been a breach of this acceptable use policy through your use of our site. When a breach of this policy has occurred, we may take such action as we deem appropriate.
+Failure to comply with this acceptable use policy constitutes a material breach of the terms of use upon which you are permitted to use our site, and may result in our taking all or any of the following actions:
+Immediate, temporary or permanent withdrawal of your right to use our site.
+Immediate, temporary or permanent removal of any posting or material uploaded by you to our site.
+Issue of a warning to you.
+Legal proceedings against you for reimbursement of all costs on an indemnity basis (including, but not limited to, reasonable administrative and legal costs) resulting from the breach.
+Further legal action against you.
+Disclosure of such information to law enforcement authorities as we reasonably feel is necessary.
+We exclude liability for actions taken in response to breaches of this acceptable use policy. The responses described in this policy are not limited, and we may take any other action we reasonably deem appropriate.
+CHANGES TO THE ACCEPTABLE USE POLICY
+We may revise this acceptable use policy at any time by amending this page. You are expected to check this page from time to time to take notice of any changes we make, as they are legally binding on you. Some of the provisions contained in this acceptable use policy may also be superseded by provisions or notices published elsewhere on our site.
+Version 2.0: May 2018
+Call CPG: +44(0) 1329 245 600
+Get in touch
