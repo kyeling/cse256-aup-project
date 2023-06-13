@@ -1,0 +1,257 @@
+Support
+See All
+Software and Drivers
+Printer Support
+Computer Support
+ACCEPTABLE USE POLICY
+This Acceptable Use Policy ("AUP") is part of the terms of use (the “Website Terms of Use”) governing Your use of any website (a “Website”) controlled by HP Inc. and its subsidiaries and affiliates (together, “HP”). Any words that are capitalized in this AUP are defined in the Website Terms of Use unless HP provides You with a definition here. This AUP describes ways that You are not authorized to use any Website, any Materials (as defined in the Website Terms of Use) that appear on those Websites and any services or products offered from any Website (the “Services”).
+Unless You have written permission from HP stating otherwise, You are not authorized to use any Website in any of the following ways (these are examples only and the list below is not a complete list of everything that You are not permitted to do):
+Violates any local, state, national, foreign, or international statute, regulation, rule, order, treaty, or other law (each a "Law");
+Is abusive, deceptive, pornographic, obscene, defamatory, slanderous, offensive, or otherwise inappropriate;
+Violates or otherwise encroaches on the rights of others, including, but not limited to, infringing or misappropriating any intellectual property or proprietary right of another;
+Advocates or induces illegal activity;
+Stalks, harasses, or harms anyone;
+Impersonates any person or entity or otherwise misrepresents Your affiliation with a person or entity;
+Modifies, alters, tampers with, repairs, or otherwise creates derivative works of any software included in the Services (except to the extent software included in the Services is provided to Customer under a separate license that expressly permits the creation of derivative works);
+Except as allowed by local law, reverse engineers, disassembles, or decompiles the Services or software included in the Services;
+Interferes with or disrupts any Website or any Services or servers or networks connected to the Services;
+Uses any high volume automated means (including robots, spiders, scripts or similar data gathering or extraction methods) to access any Website or any Services or any other accounts, computer systems, or networks connected to the Services (each a "System");
+Attempts to gain unauthorized access to any portion of the Services or any System, whether through hacking, password mining, or any other means;
+Violates the security or integrity of a System.
+MONITORING AND ENFORCEMENT
+While not obligated to perform investigations, HP may:
+Investigate violations of this AUP or misuse of any Website or Service;
+Investigate and help prevent security threats, fraud, or other illegal, malicious, or inappropriate activity;
+Remove, disable access to, or modify any content or resource that HP believes violates this AUP or any Other Agreement HP has with You; or
+Suspend or terminate provision of Services to You for uses that violate this AUP or any Other Agreement HP has with You.
+It is up to HP to decide whether any User Submission of Your use of a Website or Service is prohibited. All User Submissions that are provided to HP or actions that are performed via Your account, whether provided or performed by Yourself or someone involved in Your business (such as Your employees, contractors or customers and end users) are Your sole responsibility.
+HP may report any activity that it suspects violates any law or regulation to appropriate law enforcement officials, regulators, or other appropriate third parties. HP's reporting may include disclosing appropriate information that You may have provided. HP also may cooperate with appropriate law enforcement agencies, regulators, or other appropriate third parties to help with the investigation and prosecution of illegal conduct by providing network and systems information related to alleged violations of this AUP.
+REPORT VIOLATIONS
+Customer can report abuse of this AUP to cloudsupport@hp.com.
+CONTACT US
+If Customer has any questions or suggestions regarding this AUP, please contact HP at cloudsupport@hp.com.
+Related links:
+Terms of use
+Select Your Country/Region and Language
+Close Country/Region Selector Dialog
+Americas
+América Central
+Argentina
+Bolivia
+Brasil
+Canada
+Canada - Français
+Caribbean
+Chile
+Colombia
+Ecuador
+México
+Paraguay
+Perú
+Puerto Rico
+United States
+Uruguay
+Venezuela
+Asia and Oceania
+Asia Pacific
+Australia
+Bangladesh
+Hong Kong SAR
+India
+Indonesia
+Malaysia
+New Zealand
+Pakistan
+Philippines
+Singapore
+Sri Lanka
+Việt Nam
+ไทย
+中华人民共和国
+中國香港 - 繁體中文
+臺灣 地區
+日本
+한국
+Europe, Middle East and Africa
+Africa
+Afrique
+België
+Belgique
+Česká republika
+Danmark
+Deutschland
+Eesti
+España
+France
+Hrvatska
+Ireland
+Italia
+Latvija
+Lietuva
+Magyarország
+Middle East
+Nederland
+Norge
+Österreich
+Polska
+Portugal
+România
+Saudi Arabia
+Slovenija
+Slovensko
+South Africa
+Suisse
+Suomi
+Sverige
+Switzerland
+Türkiye
+United Kingdom
+Ελλάδα
+България
+Казахстан
+Србија
+Україна
+ישראל
+الشرق الأوسط
+المملكة العربية السعودية
+End of content
+Country/Region :
+Close Country/Region Selector
+SelectedUnited States
+HP Worldwide
+popUpSRBeginingLabelString
+Select Your Country/Region and Language
+Click or use the tab key to select your country
+Africa
+Afrique
+América Central
+Argentina
+Asia Pacific
+Australia
+Bangladesh
+België
+Belgique
+Bolivia
+Brasil
+Canada
+Canada - Français
+Caribbean
+Česká republika
+Chile
+Colombia
+Danmark
+Deutschland
+Ecuador
+Eesti
+España
+France
+Hong Kong SAR
+Hrvatska
+India
+Indonesia
+Ireland
+Italia
+Latvija
+Lietuva
+Magyarország
+Malaysia
+México
+Middle East
+Nederland
+New Zealand
+Norge
+Österreich
+Pakistan
+Paraguay
+Perú
+Philippines
+Polska
+Portugal
+Puerto Rico
+România
+Saudi Arabia
+Singapore
+Slovenija
+Slovensko
+South Africa
+Sri Lanka
+Suisse
+Suomi
+Sverige
+Switzerland
+Türkiye
+United Kingdom
+United States
+Uruguay
+Venezuela
+Việt Nam
+Ελλάδα
+България
+Казахстан
+Србија
+Україна
+ישראל
+الشرق الأوسط
+المملكة العربية السعودية
+ไทย
+中华人民共和国
+中國香港 - 繁體中文
+臺灣 地區
+日本
+한국
+popUpSREndingLabelString
+Close Country/Region Selector Dialog
+About Us
+About Us
+About Us
+Contact HP
+Careers
+Investor relations
+Sustainable impact
+Diversity, Equity and Inclusion
+Press center
+The Garage
+Ways to buy
+Ways to buy
+Shop online
+Call an HP rep
+Find a reseller
+Enterprise store
+Public sector purchasing
+Support
+Support
+Support
+Download drivers
+Support & troubleshooting
+Community
+Register your product
+Authorized service providers
+Check repair status
+Training & certification
+Fraud alert
+Security Center
+HP Partners
+HP Partners
+HP Amplify Partner Program
+HP Partner Portal
+Developers
+Stay connected
+Stay connected
+Recalls|
+Product recycling|
+Accessibility|
+CA Supply Chains Act|
+Privacy|
+Use of cookies|
+Your privacy choices|
+Terms of use|
+Limited warranty statement|
+Terms & conditions of sales & service|
+©  Copyright 2023 HP Development Company, L.P.
+Your browser does not support iframes.
+Show Next Slide
+Show Previous Slide
+Go to slide %{i}
+Close
+Clear
+Play?
