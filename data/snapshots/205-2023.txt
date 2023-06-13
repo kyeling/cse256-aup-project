@@ -1,0 +1,42 @@
+Legal
+Acceptable Use Policy
+Information Security | Acceptable Use Policy | Master SLA | MSA | DPA
+Version 1.0 – Dated July 1, 2022
+Webscale Networks, Inc.’s customers are prohibited from transmitting on or through any of Webscale’s services, any material that is, in Webscale’s sole discretion, unlawful, obscene, threatening, abusive, defamatory, libelous, or encourages conduct that would constitute a criminal offense, give rise to civil liability, or otherwise violate any local, state or federal.
+Webscale’s services may only be used for lawful purposes. Transmission, distribution or storage of any information, data or material in violation of the United States or state regulation or law, or by the common law, is prohibited. Including, but not limited to, material protected by copyright, trademark, trade secret or any other statute. Webscale reserves the right to remove such illegal material from its servers or to immediately terminate your services.
+The customer is responsible for keeping his billing data with Webscale up-to-date and accurate. Furnishing false data on any contract or application, including fraudulent use of credit card numbers, is grounds for immediate termination and may subject the offender to civil or criminal liability.
+Magento Configuration Requriments on Production Instances
+Must be in Production Mode.
+All caches enabled.
+Session storage set to Redis or Memcache (no files, no database).
+Cache storage set to Redis (no files, no database).
+Magento Version 2 requires our M2 Cron extension installed and activated.
+Indexers set to Manual Mode.
+Electronic Mail (E-mail)
+Misuse of electronic mail may result in termination of service. This non-exclusively includes:
+Unsolicited bulk or commercial messages (“spam”).
+Forging, altering or removing electronic mail headers.
+Sending numerous copies of the same or substantially similar message or sending very large messages or files to a recipient, with the intent to disrupt a server or account (“mail bombing”).
+Use electronic mail to harass or intimidate others.
+Being listed on the list of Register Of Known Spam Operations ” ROKSO “
+Web Hosting
+Webscale provides storage space and access for websites through its web hosting services. In addition, dedicated accounts may provide for the hosting of websites. Webscale will not routinely monitor the content of your websites.
+You are solely responsible for any information contained on your web site. However, if complaints are received regarding language, content or graphics contained on your web site Webscale may, at its sole discretion, remove the web site hosted on Webscale’s servers and terminate your service. You agree to promptly reimburse Webscale for any reasonable expenses it incurs (including attorney’s fees) in defending itself from third party claims relating to any of the content (whether created by you, your customers or your users) contained on your website.
+You may not use your web site to publish material which Webscale determines, at its sole discretion, to be unlawful, indecent or objectionable. For purposes of this policy, “material” refers to all forms of communications including narrative descriptions, graphics (including photographs, illustrations, images, drawings and logos), executable programs, video recordings, and audio recordings.
+Objectionable content is otherwise legal content with which Webscale concludes, in its sole discretion, it does not want to be associated in order to protect its reputation and brand image, or to protect its employees, shareholders and affiliates.
+Performance
+Some Webscale accounts may operate on shared resources. Excessive use or abuse of these shared computer resources by one customer may have a negative impact on all other customers. Clients are restricted from running both processes that take up an inordinate amount of resources or fall into the list of non-exclusive examples of prohibited usage:
+IRC or eggdrop bots (or any software that interfaces with an IRC network).
+Unattended server-side processes.
+Using Webscale servers as a secondary “script hosting account” from any domain.
+Using Webscale to share the load between another host for any domain.
+Excessive use or abuse of network resources by one customer may have a negative impact on all other customers. Misuse of network resources in a manner which impairs network performance is prohibited by this policy and may result in termination of your account.
+Security
+You are responsible for any misuse of your account, even if the inappropriate activity was committed by a friend, family member, guest or employee. Therefore, you must take steps to ensure that others do not gain access to your account. In addition, you may not use your account to breach the security of another account or attempt to gain unauthorized access to another network or server.
+Illegal Activity
+Any activity on our network that is a violation of any state or federal law is a violation of this policy and will result in immediate termination of service.
+Account Cancelation
+If you wish to cancel your Webscale hosting account, you need to create a support ticket by either logging into your billing account and going through the support ticket system or sending an e-mail to support@webscalenetworks.com. A support technician will respond to your ticket with any further information needed.
+Contact Us
+Demo
+Resources

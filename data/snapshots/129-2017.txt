@@ -1,0 +1,244 @@
+About Us
+Residential
+Cox Business
+Contact Us
+Select a Location
+Select a Location
+Current Location:
+Let us know the location you'd like to browse.
+Zip Code
+OR
+State
+Choose a state
+Arizona
+Arkansas
+California
+Connecticut
+Florida
+Georgia
+Idaho
+Iowa
+Kansas
+Louisiana
+Massachusetts
+Missouri
+Nebraska
+Nevada
+North Carolina
+Ohio
+Oklahoma
+Rhode Island
+Virginia
+City
+City
+Search
+Search Form
+Entire Site
+About Us
+Cox Business
+Residential
+News
+OnDemand
+logo
+Main Menu
+Community
+Careers
+Newsroom
+Diversity
+Suppliers
+Community Home
+Community Overview
+Community Tools
+Internet Safety Survey
+Safety Tools and Tips
+Tech Solutions
+More Tools
+Take Charge
+Take Charge Initiatives
+Recent Survey
+Tech Tips
+Parental Controls
+Internet Safety
+McAfee
+Cox in the Community
+Community Initiatives
+Cox Conserves
+Connect2Compete
+Boys and Girls Club
+Charitable Giving
+Get Started
+Careers Home
+EEO Reports
+Home
+News Releases
+Company Overview
+Leadership Team
+Product Fact Sheets
+Multimedia Resources
+Image Gallery
+Video Gallery
+Articles
+Awards & Honors
+Corporate Media Contacts
+Local Media Contacts
+Diversity Home
+Suppliers
+People
+Partnerships
+Communities
+Customers
+Awards and Recognition
+Suppliers Home
+Procurement
+Support FAQs
+My Account
+My Account Overview
+Explore My Services
+Add or Upgrade Services
+Move My Services
+Manage My Appointments
+Profile and Settings
+My Bill Overview
+Pay My Bill
+Automatic Payments
+Recent Activity
+My Payment Methods
+Manage Paperless Billing
+My Tools
+Webmail Inbox
+Internet Tools
+Phone Tools
+TV Tools
+Homelife Portal
+Menu
+logo
+Cox Business Acceptable Use Policy
+Updated 10/01/2012
+This Acceptable Use Policy ("AUP") applies to all Cox Business Internet-related services, including without limitation services provided through WiFi ("Service" or "Services"). Use of any of the Services shall at all times be subject to the terms and conditions of this AUP. This AUP is incorporated into any applicable agreement between Cox Business and Customer that states the AUP applies, including without limitation any applicable Commercial Services Agreement and retail or wholesale Master Services Agreement (each an "Applicable Agreement"). The AUP may be amended by Cox Business from time to time and the current version will appear on the Policies page on cox.com. Customer's continued use of the Services following an amendment shall constitute acceptance.
+In the event of a conflict between an Applicable Agreement and this AUP, the terms of this AUP will govern. Questions regarding this AUP and complaints of violations of this AUP can be directed to abuse@cox.net.
+A. General Information on Use of the Services
+1. Illegal or Infringing Activity. Customer is prohibited from using the Services for any activity that violates, or constitutes an attempt to violate, any local, state, federal or international law, order or regulation, or to engage in tortious conduct. Customer may not use the Services to harm or attempt to harm a minor, including, but not limited to, by posting, possessing, disseminating, or transmitting material that is unlawful, including child pornography. Customer may also not use the Services in a manner that infringes on the copyright, trademark, moral rights, patent, rights of privacy, rights of publicity or any other intellectual property right of any third party.
+2. Spamming/Unsolicited Email. Sending unsolicited email messages, including, without limitation, commercial advertising and informational email is prohibited. Unsolicited advertisements or solicitations sent from other networks which reference email accounts or websites hosted at Cox Business shall be treated as if they originated from the account referenced. Customer may not:
+(a) use the Cox Business Service as an emaildrop for responses from unsolicited email;
+(b) falsify end-user information, including forging, altering or removing email headers; or
+(c) reference Cox Business or any related entity (e.g. by including "Organization: Cox Business" in the header or by listing an IP address that belongs to Cox Business or any related entity) in any unsolicited email even if that email is not sent through the Cox Business network.
+(d) use another site's email server to relay email without the express permission of the owners of such site.
+Cox Business uses several spam reporting services to identify unsolicited email messages and senders. Listing by one or more of these services may result in suspension of Service to Customer. Each case will be individually investigated by Cox Business. Cox Business may condition reconnection of Services upon removal of the listing from the spam reporting service.
+3. Harvesting/Spidering/Spyware. The collection of email addresses, screen names, or identifiers of others (without their prior consent), a practice sometimes known as spidering or harvesting, or the use of software (including "spyware") designed to facilitate this activity, or use of a list obtained from such means is not allowed. An end-user suspected or found harvesting email addresses may be blocked from sending email until Cox Business is satisfied that the activity has stopped.
+4. Network Management. Cox is committed to the ongoing management of its network to improve its service offerings, protect Customers, and create new Services and feature enhancements for its Customers. Unless requested by Customer, Cox does not shape or throttle Internet traffic based on the particular online content, protocols or applications a Customer uses. Cox uses multiple measures to ensure the best overall experience, including, without limitation: rate limiting of email (as set forth in our email policies), email storage limits (including deletion of dormant or unchecked email), and rejection or removal of "spam" or otherwise unsolicited bulk email. Cox also employs other means to protect Customers, children, and its network, including blocking access to child pornography (based upon lists of sites provided by a third party and an international police agency), and security measures (including identification and blocking of botnets, viruses, phishing sites, malware, and certain ports as set forth below). Cox may take any appropriate measures, whether or not they are described above, in response to extraordinary levels of usage, denial of service attacks, or other exigent circumstances that have a significant effect on our Customers' ability to use Services or Cox's ability to provide the Services. Although Cox Business has no obligation to monitor Services provided and/or the network, Cox Business and its various affiliates reserve the right to monitor bandwidth, usage, and content from time to time to operate our Services; to identify violations of this AUP; and/or to protect the network and Cox Business customers. Transmission speed of the Service may vary with the number of end-users using the Services. Customer may not remove Cox Business owned and managed equipment from Customer's premises without prior written permission from Cox Business.
+5. Customer Responsibility for End Users. All references to "Customer" in this AUP shall apply to any end-user of the Service(s). If Customer allows others to use the Services, Customer is responsible for ensuring that all such end-users comply with this AUP. Customer is responsible for ensuring that all accounts, sub-accounts, and alternative account names associated with Customer's principal account comply with this AUP. In the event of a suspected violation of this AUP, Customer will cooperate with Cox Business and will promptly provide Cox Business with information about Customer's end-users upon request from Cox Business. Cox Business may suspend or terminate Services to Customer (including Customer's end-users) if Cox Business determines or receives a complaint that an end-user has violated or is violating this AUP.
+6. Resale and Redistribution of Services.
+(a) The Services are provided to an individual person or company pursuant to the Applicable Agreement and such use is subject to the Applicable Agreement and this AUP. It is a violation of this AUP to provide Services to any third parties not named, described or authorized in the Applicable Agreement without prior written permission from Cox Business. This includes, but is not limited to, the sharing of bandwidth or services through wireless access points or wired links. Notwithstanding the foregoing, educational institutions, hotels, and military barracks may resell or redistribute Cox Business Internet Service to its residents or guests located on their property subject to the terms and conditions set forth in this Section 6. If permitted by the Applicable Agreement between Cox Business and a sales agent or service broker, such sales agent or service broker may be authorized by Cox Business to resell the Services to end-users approved by Cox Business; however, such Services may not be resold by anyone other than the sales agent or service broker authorized by Cox Business, including any end-user of such sales agent or service broker.
+(b) Approved Resale. If Customer has been authorized in writing by Cox Business to resell the Services, the following provisions apply:
+Customer agrees that:
+(i) any resale of the Services shall not relieve Customer of its payment obligations under the Applicable Agreement with Cox Business;
+(ii) Customer shall be solely responsible for managing end-user trouble reports and providing all support to its end-users using the Services, and Customer shall not have its end-users contact Cox Business directly in the event that technical support is needed except as otherwise provided in the Applicable Agreement;
+(iii) Customer shall be responsible for and shall indemnify and hold Cox Business harmless from and against any and all liabilities, judgments, claims, losses, obligations, damages, penalties, actions, or other proceedings, suits, costs, fees, expenses and disbursements (including reasonable attorney's fees) arising out of, relating to or resulting from any violations of this AUP by its end-user(s) in connection with the use of the Services,
+(iv) Customer shall not make any guarantees to its end-users regarding availability or speed of the Services;
+(v) Customer shall not use any Cox Business trademarks or logos and shall not market or sell the Services using any Cox Business trademarks or logos;
+(vi) Customer is responsible for ensuring that all end-users of the Services agree to the terms and conditions of this AUP, as may be amended from time to time;
+(vii) if Customer becomes aware of a violation of the AUP by any of its end-users, Customer shall suspend the Services to such end-user and shall notify Cox Business in writing as soon as reasonably practicable;
+(viii) Cox Business reserves the right to terminate or suspend the Services to Customer's end-user(s) if, in Cox Business' sole discretion, the AUP has been or is being violated by Customer's end-user(s); and
+(ix) if Customer provides the Services to more than one (1) end-user and Cox Business reasonably determines that Customer or any end-user of Customer is violating this AUP or any existing law or regulation in a manner that poses an immediate and substantial threat of harm to Cox Business' network or its ability to provide Services to Customer, its other end-users or other customers, Cox Business reserves the right to immediately suspend or terminate the Services to all of Customer's end-users, including Customer, if Cox Business does not have the ability to determine which end-user is responsible for the violation. Customer understands that Cox may not have the ability to pinpoint the source of an AUP violation if end-users other than Customer are using the Services. Cox shall use commercially reasonable efforts to notify Customer and the offending end-user(s), if possible, of such suspension or termination and the reasons therefor as soon as reasonably practicable. If Customer sells or resells advertising or web space to a third party Customer will be responsible for the contents of that advertising and the actions of that third party. Cox Business has the absolute right to reject any advertising or other third party content that is illegal, offensive or otherwise in breach of this AUP. Cox Business may suspend or terminate the Services if Customer refuses to remove any advertising or other third party content it deems objectionable.
+7. Security. Customer is solely responsible for the protection of their computer equipment. Customer is responsible for any misuse of the Services, even if the inappropriate activity was committed by an employee, consultant, guest or other individuals who have access to Customer's system or network. Therefore, Customer must take steps to ensure that others do not gain unauthorized access to the Services. The Services may not be used to breach the security of other end-users or to attempt to gain access to any other person's or entity's computer, server, software or data, without the knowledge and consent of such person or entity, including attempts to circumvent the end-user authentication, or probing the security of other networks. Customer may utilize scanners, sniffers and any other such security analysis tools to maintain Customer's own network as long as Customer only uses such tools with respect to Customer's own network. Customer shall not scan, probe, or use security analysis tools against the Cox Business network or the networks of our other customers. Use of or distribution of tools designed for compromising security of non-Customer networks, such as password guessing programs, cracking tools, packet sniffers or network probing tools, is prohibited. Customer may not willfully or knowingly disrupt the Services or interfere with computer networking or telecommunications services to any end-user, host or network, including, without limitation, denial of service attacks, flooding of a network, overloading a service, and attempts to "crash" a host. The transmission or dissemination of any information or software which contains a virus or other harmful feature, and the improper or unauthorized seizing of operator privileges, are prohibited. Customer is solely responsible for the security of any device Customer chooses to connect to the Services, including any data stored on that device. If Cox Business detects that Customer's equipment or Customer's Internet transmissions contain viruses, trojans, worms or similar malicious content that adversely affects the Cox Business network or otherwise compromises the integrity or the operation of the Cox Business network, Cox Business may disconnect or suspend Customer from the Services immediately. In such event, Cox Business will make reasonable efforts to promptly contact Customer regarding the interruption of the Services. It is Customer's sole responsibility to ensure that any device they connect to the Cox Business network remains secure and virus free. Login credentials such as, but not limited to, passwords and personal identification numbers to any Cox Business managed or owned sites and servers must follow the Cox Business password requirements. Accounts that do not follow this guideline may be suspended until Customer complies and is secured. Cox Business will not make changes to Customer accounts without proper authorization. In the event of any partnership dissolution, corporate reorganization, or other legal proceeding involving Customer and the Services, Cox Business may put the account on hold and suspend the Services until the situation has been resolved to Cox Business's reasonable satisfaction. Customer is responsible for maintaining the confidentiality of his/her password. In the event of a breach of security through Customer's account, Customer will be liable for any unauthorized use of the Cox Business services, including any resulting damages.
+8. Customer Information Disclosure. Cox Business and its distribution affiliates and vendors may cooperate with law enforcement authorities in the investigation of suspected criminal violations to the extent permitted by law. Cooperation may include Cox Business or its vendors providing the name, IP address(es), or other identifying information regarding Customer or its end-users. Cox Business will not release any personally identifiable information regarding Customer (except publicly available information) or Customer's end-users to law enforcement or government agency except upon presentation of
+(a) a subpoena issued by a government entity in a civil or criminal investigation or litigation;
+(b) a civil investigative demand issued by a government entity; or
+(c) a court order or other similar legal mandate. Cox Business may release such information based upon its sole reasonable judgment as to the validity of any such order. If Cox Business is ordered by a court of competent jurisdiction to monitor Customer's connection to comply with a court order or legal process, Cox Business will treat that information as confidential and only divulge the necessary information as required by such order or legal process.
+9. Inappropriate Content and Unacceptable Links. Cox Business is not responsible for any information accessed by Customer through use of the Services. If using the Services to reproduce, publish, display, transmit and distribute content, Customer warrants that the content complies with this AUP and Cox Business and its distribution affiliates are authorized to reproduce, publish, display, transmit and distribute such content as necessary for Cox Business to deliver the content in a timely manner.
+10. Newsgroups. Messages posted to newsgroups must comply with the written charters or FAQs for those newsgroups. Customer is responsible for determining the policies of a given newsgroup before posting to it. Posting or cross posting the same or substantially similar messages to more than eight newsgroups is prohibited. Repeated complaints about Customer not meeting the charter of a newsgroup or posting off-topic may result in termination of Cox Business Services. Customer shall not post to any Usenet or other newsgroup, forum, or list articles which are illegal or inappropriate in the local forum.
+11. Internet Relay Chat. Cox Business Services may be used to participate in "chat" discussions, however, the Services may not be used to perform chat "flooding." Any single computer or other device connected through the Services may not maintain more than 2 simultaneous chat connections. This includes the use of automated programs, such as "bots" or "clones". Automated programs may not be used when the end-user is not physically present at the device. The Services may not be used to access any chat server in violation of the acceptable use policy of that server.
+12. Misuse of System Resources. Customer shall not use scripts or programs which consume excessive CPU time or storage space to permit the use of email services, email forwarding capabilities, POP accounts, or auto responders other than for the Customer's account; or to resell access to scripts installed on Cox Business servers. Cox Business shall determine in its sole discretion whether Customer is misusing system resources.
+13. Web Hosting. If Customer operates a website through Cox Business, the terms of this AUP will apply. In addition, if the website is hosted on a third party web hosting service through agreement with Cox Business, the third party may also have additional requirements. If Cox Business receives a complaint about a Customer's website, Cox Business will make reasonable efforts to notify Customer about the complaint. Cox Business is not liable if a third party web hosting service takes down Customer's website.
+14. IP Addresses. Cox Business's IP address policy is based on RFC 2050 and the American Registry for Internet Numbers (ARIN) guidelines for Internet Service Providers. However, Cox Business may allocate IP addresses in any manner which it determines, in its sole discretion, is reasonable for the operation of the Services. When Cox Business assigns an IP address to Customer, ownership of the IP address does not transfer to Customer or any end-user; ownership of all IP addresses assigned by Cox Business remains with Cox Business at all times. IP address assignment may be changed by Cox Business at any time in order to enhance network efficiency, however, notice will be provided to Customer. Unused IP addresses may be reclaimed by Cox Business upon notice to Customer. IP addresses are relinquished by Customer upon the expiration, termination or cancellation of the Services. Cox Business may require an ARIN organizational ID from Customer to complete IP requests. If requested, the organizational ID must be provided. Customer may call ARIN at 703-227-0660 to obtain an ID. Please contact Cox Business for any questions regarding IP address rules and policies.
+15. Domain Name Registrations. If Customer requests, Cox Business will register an available domain name on behalf of Customer, and such registration and use shall be subject to the terms and conditions required by the domain name registrar, which may be amended from time to time and are presently posted at http://help.register.com/.
+16. Use Of Residential Cox High Speed Internet Services. Cox Business customers using cox.net email addresses in conjunction with their Cox Business Services must also abide by the Cox High Speed Internet residential service Acceptable Use Policy ("Cox Residential AUP"). Please review the Cox Residential AUP for compliance located at http://ww2.cox.com/aboutus/policies.cox#acu.
+17. Termination. Upon termination of Customer's Services, Cox Business is authorized to delete any files, programs, data and email messages associated with such account.
+B. Features and Limitations of CoxMail® Email Service.
+1. When utilizing Cox Business email servers, end-users are restricted to 300 recipients per message. This includes recipients in the ‘CC', ‘BCC' and ‘TO' fields. Each source IP may send a maximum of 900 messages per hour.
+2. Forwarding/Filtering of Incoming Email. Cox Business is not responsible for the forwarding or storage of email sent by Customer or end-user where the account has been suspended or terminated. Cox Business has the right to block electronic communications from other entities on the Internet where necessary to protect the Cox Business network and Cox Business customers. Cox has the right to disable immediately any account in order to forestall further abuse or damage to email systems.
+3. Email Virus Detection. Cox Business email servers employ virus detection and prevention methods. If a virus or malware is discovered in an email, the virus or malware will be cleaned or deleted. No report will be sent to Customer because most infected email contains a 'fake' reply address. Cox Business Customer Safety Department may contact Customer upon receiving a complaint.
+4. Trash Folder retention. Messages that remain in the Trash folder on the CoxMail® server for 30 days or more after receipt will be deleted without notice. Customer may retain an email message indefinitely by moving it to an alternative folder.
+5. Administration of Third Party Email Server (Non-Cox Business Email Server). Cox Business prohibits the relaying of Customer email from Customer's or third party owned/administered email servers through Cox Business email servers. Customers who maintain their own email server or have an email server through a third party shall not use any Cox Business outbound email servers to deliver their email to the recipients.
+6. CoxMail® Dormant Mailbox Retention
+(a) Dormant Mailbox Locked: When a non-administrative Mailbox* is not checked for new email for at least 120 days, it is considered dormant and will be locked ("Dormant Mailbox"). New messages sent to a Dormant Mailbox will be returned as undeliverable. Dormant Mailboxes can be reactivated by accessing your CoxMail® Mailbox via webmail (coxmail.com), POP-3 client (ex. Outlook), or by setting up an automatic forward to an active email account. (*A non-administrative mailbox is a mailbox that does not have administrative rights. Administrative mailboxes, which allow an end-user to manage and provision mailboxes, are not locked for non-use). For more information on CoxMail® administrative Mailboxes go to http://control.coxmail.com.
+(b) Dormant Mailbox Deleted: When a Dormant Mailbox is not checked for new email for an additional 60 days after it is locked, the Mailbox and any messages in the Mailbox at that time are deleted. PLEASE NOTE: Deleted email cannot be recovered. New messages sent to a deleted Dormant Mailbox will be returned as undeliverable. If your mailbox is deleted you will lose any personalization (all folders, address book entries, and preferences). If this occurs and you wish to set up a new mailbox, contact your local Cox Business customer support representative.
+C. Mass Mailing
+1. Definition of Mass Mailing. Mass Mailing is defined as emailing to more than 150 recipients per message by either Cox Business customers or through their 3rd party email agents. Before Customer or its end-users engage in Mass Mailing, Customer must obtain written approval from Cox Business. Customer must complete the Mass Mailing request form located at http://massmailing.coxmail.com, and, if approval is granted by Cox Business, Customer must comply with all instructions and requirements outlined by Cox Business before Customer may engage in Mass Mailing. Cox Business may request to review the content of your bulk mailings prior to approval. Please allow up to 72 hours for a response. Mass Mailing is not included as part of any Cox Business service offering and Customer has no contractual right to engage in Mass Mailing until and unless Customer receives written approval from Cox Business. Cox Business may approve, deny, or condition permission in its sole discretion. Cox Business may rescind previously granted permission in its sole discretion if Customer violates any Mass Mailing policy. Formal approval must be received before Mass Mailing can commence; lack of response to a Mass Mailing request is deemed a denial of Mass Mailing authorization.
+2. Customers may only send email to recipients who have intentionally requested to receive information via electronic distribution from the originating domain name or business referenced within the content of the email. Without exception, Cox Business prohibits the practice of mass mailing unwanted email solicitations of any type ("Spam"), regardless of content, and will take action to prevent this practice. Email distribution lists that are purchased or freely received from a 3rd party and/or are represented to Customer as "opt in" clean lists are not exempt from this AUP.
+3. Mass Mailing Requirements for Approved Mass Mailing Customers
+(a) Recipient Limits and Send Rate: When approved for mass mailing and utilizing Cox Business email servers, end-users are restricted to 300 recipients per message and 100,000 recipients per hour. Cox Business email servers also limit each source IP address to approximately 900 messages per hour. If Customer uses a third-party mail server or Customer's own mail server to send mass mailings, these restrictions do not apply.
+(b) All email distributions must have a functional and clear option or instructions for unsubscribing or "opting-out" of the subscriber list.
+(c) For all email distributions, the subject of the email must match or relate to the body of the text.
+(d) The email must contain a valid physical postal address.
+(e) "From", "Reply-To", "Return-Path" and "Error-To" headers must be valid and each email address must accept any bounces at the rate they may occur.
+Messages that do not follow these requirements will be rejected by the server.
+Cox Business reserves the right to reject any request to perform a mass emailing for any reason. Cox Business reserves the right to cease processing a sender's email if the mailing is overly burdensome on the Cox Business email servers. For example, this could happen due to an exceptionally large attachment or an attempt to flood the server, but should not occur with normal sending usage.
+D. Complaints and AUP Violations.
+If Cox Business receives a complaint against Customer or believes there is a violation of this AUP, Cox Business will investigate and if appropriate, inform Customer of the complaint. Cox Business will work with Customer to obtain a mutually satisfactory resolution to the complaint/violation and advise as to any necessary corrective action; however, if a resolution cannot be reached in a reasonable period of time depending upon the nature of the complaint or violation, Cox Business may suspend the Services. Cox Business reserves the right to act immediately and without notice to suspend or restrict Services in response to a court order, government mandate, or if Cox Business reasonably believes Customer's activity is harmful to the Cox Business network or its other customers. The failure of Cox Business to enforce this AUP for whatever reason does not constitute a waiver of any right to do so at a later time. Cox Business is not liable for suspension or termination of Services arising from an alleged or actual violation of this AUP.
+Cox Policies
+Site Policies
+Online Privacy Policy
+Visitor Agreement
+Cox Forums Terms & Conditions
+Residential Customers
+Customer Service Agreement
+Annual Privacy Notice
+Annual Customer Notices
+Credit Report Notice
+Service Agreement
+24 Month Service Agreement
+Service Protection Plan Terms & Conditions
+Billing and Payment Policies
+Residential Internet Service
+Copyright Information
+Acceptable Use Policy
+Speeds and Data Plans
+Tech Solutions Terms of Service
+WiFi Terms of Service
+Residential Telephone Service
+Telephone Modem Battery Policy
+Residential Video Service
+All Digital Plan Details
+Business Customers
+Annual Privacy Notice
+General Terms
+DDoS Mitigation Service
+Business Data Services
+Acceptable Use Policy
+WiFi Terms of Service
+Business Voice Services
+Customer Telephone Agreement
+California Teleconnect Fund Program
+Operations Policies
+Internet Service Disclosures
+Procedure for Making a Copyright Infringement Claim
+Law Enforcement and Subpoenas Information
+Leased Access Information
+About Cox
+About Us Home
+Careers
+Newsroom
+Take Charge
+Suppliers
+In the Community
+Diversity
+Investors
+Contact Us
+Find a Cox WiFi Hotspot
+Site Information
+Policies
+Visitor Agreement
+Privacy Policy
+Business Policies
+Advertise with us
+Headquarters
+Cox Media
+Policies
+Privacy Policy
+© 1998-2017 Cox Communications, Inc.
+YouTube
+Instagram
+Facebook
+Twitter
+Google+

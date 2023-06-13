@@ -1,0 +1,50 @@
+Platform
+On-Call Management
+Modern Incident Response
+Event Intelligence
+Analytics
+Visibility
+What's new
+Weekly demo
+PagerDuty overview
+Digital operations management
+Customers
+Pricing
+Integrations
+Contact us
+Try now
+Log in
+Acceptable Use Policy
+Product Terms
+Terms of Service
+Standard Service Level Agreement
+Policies & Other Terms
+Policies
+Privacy Policy
+Acceptable Use Policy
+Community Policy
+DMCA Takedown Notice
+Subprocessors
+Support Policy
+Data Processing Addendum
+Data Security Policy
+Security
+Overview
+Security Disclosure
+Last Updated: October 16, 2018
+Your access and use of the PagerDuty Services and/or Website is subject to this Acceptable Use Policy.  Capitalized terms have the meaning stated in the underlying agreement applicable to your role as customer, website user, and/or Community member (referred to herein as the “Agreement”). To the extent there are conflicts between this policy and the applicable Agreement, the terms of the Agreement shall take precedence.
+You shall use the Services exclusively for authorized and legal purposes, and in compliance with all applicable laws, rules, regulations, and license restrictions. You shall not use the PagerDuty Services:
+to transmit any material that infringes the intellectual property rights or other rights of third parties;
+to transmit any material or content that is defamatory, offensive, inappropriate, pornographic, obscene or otherwise objectionable to any reasonable person;
+for any illegal, fraudulent, or abusive purpose, or in violation of any laws (including without limitation data, privacy, and export control laws).
+in connection with unsolicited or harassing notifications (commercial or otherwise), including unsolicited or unwanted SMS or emails;
+to receive, send, or otherwise process sensitive personal data such credit card and payment information, or Protected Health Information as defined by the Health Insurance Portability and Accountability Act of 1996 as amended, or other types of sensitive and highly-regulated data;
+to provide material support or resources (or to conceal or disguise the nature, location, source, or ownership of material support or resources) to any organization(s) designated by the United States government as a foreign terrorist organization pursuant to section 219 of the Immigration and Nationality Act or other laws and regulations concerning national security, defense, or terrorism;
+Additionally, You shall not attempt to bypass or break any security mechanism on any of the PagerDuty Services, or using the PagerDuty Services in any other manner that poses a material security or service risk to PagerDuty or any of its other customers, including but not limited to:
+attempting to reverse engineer, decompile, hack, disable, interfere with, disassemble, modify, copy, translate, or disrupt the features, functionality, integrity or performance of the Services (including any mechanism used to restrict or control the functionality of the Services), any third party use of the Services, or any third party data contained therein (except to the extent such restrictions are prohibited by applicable law);
+conducting scans in order to find limitations, vulnerabilities, or evade filtering capabilities;
+launching or facilitating, whether intentionally or unintentionally, a denial of service attack on any of the PagerDuty Services or any other conduct that materially and adversely impacts the availability, reliability, or stability of the PagerDuty Services.;
+sending altered, deceptive, or false source-identifying information, including “spoofing” or “phishing”;
+creating a false identity or forged email address, phone number, or otherwise attempting to create alternative users;
+using the Services for purposes of  benchmarking or other competitive purposes.
+If you become aware of any violations of this Acceptable Use Policy, please contact us immediately at privacy@pagerduty.com. Subject to the terms of the underlying Agreement, without affecting any other remedies available to us, PagerDuty may permanently or temporarily terminate or suspend a user’s account or access to the services without notice or liability if PagerDuty determines that a user has violated this Acceptable Use Policy.

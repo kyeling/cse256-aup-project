@@ -1,0 +1,33 @@
+Skip to main content
+RingCentral Acceptable Use Policy
+Legal Overview
+Emergency Calling Policy
+Terms of Service
+Acceptable Use Policy
+Numbering Policy
+Privacy Notice
+Online DPA
+Last updated: January 24, 2022
+Any and all use of RingCentral Services is subject to and conditioned upon compliance with the following Acceptable Use Policy (“AUP”). If you have an Agreement with RingCentral, this AUP is incorporated into and made a part of your Agreement with RingCentral.
+This Acceptable Use Policy applies to all RingCentral Services. Please carefully review the following to determine if the Services you have purchased are subject to additional, service-specific prohibitions.
+A.  The Services (including any device, system, network, or account used in connection with the Services, or the RingCentral Network) may not be used to:
+Illegal activity. Violate any applicable law or regulation applicable to the use of the Services.
+Resale Prohibited. Engage in resale activities. Customer may not sell, resell, sublicense, assign, license, or sublicense the Service or any component thereof or use or offer the same on a service-bureau or time-sharing basis.
+NO HIGH RISK USE. Engage in high risk use of the Services. The Services may not be available in the event of a loss of power or internet connectivity, or network congestion. The Services are not designed, intended, or recommended for use in any situation where, in the normal course of use, service disruption could result in personal injury or death (“high-risk use”). High-risk use is prohibited except to the extent you have fail-safe alternatives in place at all times.
+Infringing activity. Infringe, misappropriate, or otherwise violate RingCentral’s or anyone’s rights (including intellectual property, privacy, personality, publicity, or otherwise; or display or use RingCentral’s marks without consent or in violation of RingCentral policies.
+Minors. Exploit or harm minors (e.g., expose them to inappropriate content; ask for personally identifiable information without parental consent).
+Malicious activity. Transmit any material that contains viruses, time or logic bombs, Trojan horses, worms, malware, spyware, or any other programs that may be harmful or dangerous.
+Objectionable activity. Act in an indecent, offensive, threatening, harassing, defamatory, libelous, fraudulent, malicious, disruptive, tortious, or other objectionable manner, including making calls or sending messages that contain phishing or spam content, or otherwise violates RingCentral’s SMS/MMS Content Guidelines.
+Misrepresenting origin and/or identity. Mislead recipients as to Customer’s identity. Create a false caller ID (e.g., ID spoofing), forge addresses or headers, or fraudulently undertake other technical measures to misrepresent the origin or identity of the sender.
+Harvest information; spam; bulk messages. Without consent: harvest or collect information about third parties or End Users, or send bulk communications.
+Excessive or unauthorized use. Use any device, system, network, account, plan, or the Services in an unauthorized manner or in excess of reasonable business use (e.g. interfere, inhibit, compromise, or otherwise harm the Services or the RingCentral Network (regardless of intent or knowledge)).
+Circumvent compliance or security. Take advantage of, bypass, exploit, defeat, disable, or otherwise circumvent limitations of the Services, security mechanisms, or compliance with this AUP or any law.
+Interception. Intercept, capture, sniff, monitor, modify, emulate, decrypt, or redirect any communication or data for any purpose.
+B.  RingCentral MVP Services are intended for regular business use between individuals and not for high-volume commercial messaging or call center calling. In addition to the prohibitions described in (A) above, RingCentral MVP Services, (including any device, system, network, or account used in connection with the Services, or the RingCentral Network) may not be used to:
+Auto-dialing; trunking; automated use
+Perform auto-dialing or “predictive dialing”;
+trunk or forward your RingCentral phone or fax number to other numbers that handle multiple simultaneous calls or to a private branch exchange (PBX) or a key system; or
+use the Services in any way that is inconsistent with typical human operation, including automate use of the RingCentral MVP Services (e.g. use of desktop automation software or similar tools), violate the SMS/MMS Content Policy, or send voice calls or text messages indicative of phishing or spam.
+The list above is not exhaustive or exclusive. For purposes of this AUP, “End User” means an individual user of the Services, and may be a natural person, and may include but is not limited to a Customer’s employees, consultants, clients, external users, invitees, contractors and agents. Except as otherwise provided, terms defined in the Agreement have the same meanings when used in this AUP.
+RingCentral may act immediately and without notice to suspend or terminate the Services if, in RingCentral’s sole discretion, Customer’s or its End Users’ use of the Services violates the terms of this Acceptable Use Policy.
+Customer may cancel any services purchased under this Agreement with written notice to RingCentral within thirty (30) days of the date in which the purchase becomes effective. Except as otherwise provided in the Agreement between the Parties, in the event of a timely cancelation, Customer shall not owe any fees or charges for the services being canceled in respect of any period subsequent to the date of such written notice (except those arising from continued Usage), and shall be entitled to a pro-rata refund of any prepaid and unused fees for the services subject to the cancelation. All purchases are final after 30 days.

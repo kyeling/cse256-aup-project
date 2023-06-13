@@ -1,0 +1,105 @@
+Acceptable Use Policy (AUP)
+This Acceptable Use Policy (AUP) of Planisys. sets forth the rules, regulations, and restrictions regarding the use of the devices (any CPU-based hardware platform), IP addresses (any publicly routable IPv4 32-bit or IPv6 128-bit Internet Protocol
+address), and services (corporate e-mail service corpmail; e-mail marketing—dmds; hosting, co-location, cloud services), provided, managed, or assigned to a Client by Planisys, as described in a Service Contract or other Order Form accepted
+by the Client. Planisys may, from time to time at its sole discretion, impose rules, regulations, or restrictions on the Services not expressly stated in this AUP. Planisys may modify this AUP at any time at its sole discretion. Modifications
+and revisions of this AUP will be posted on the company’s website www.planisys.com and effective immediately.  The use or hiring of any Planisys Services implies the Client’s implicit acceptance of the terms
+and conditions of this AUP, agreeing to abide by them and the applicable laws of the cities, states, and countries where the Client uses the Services and where the Services are located.
+Violations of this AUP
+Any violations of this AUP, the policies of any upstream provider of Planisys, or the policies of any network connected on, to, from or through the Services may, at the sole discretion of Planisys, result in the immediate suspension or cancellation
+of any or all Services or other action deemed appropriate by Planisys, without remuneration to the Client. Any fees paid in advance of such suspension, cancellation, or other actions are non-refundable.
+Data Storage and Liability Issues
+The Client is solely liable and responsible for any and all data stored or transmitted on, to, from, or through the Services, including, without limitation, block special files, character special files, directories, symbolic links, socket links,
+fifos, regular files, programs, databases, text, graphics, pictures, movies, audio, streaming media, web pages, hyperlinks, email, instant messages, chat messages, file transfers, host names, and domain names.
+Liability
+The Client is solely liable and responsible for any and all damages or fines resulting directly or indirectly from violations of this AUP. Violations of this AUP may result in significant civil and criminal liability issues for the Client. Any
+attempted or actual violation of this AUP by any party on the Client’s behalf shall be considered a violation of this AUP by the Client. The Client is responsible for the conduct of the Client’s customers and is responsible for informing the
+Client’s customers of their responsibility for adhering to the terms and conditions set forth in this AUP.
+Disclaimer
+Planisys assumes no liability or responsibility to any party for any violation of this AUP by any other party. Planisys shall monitor its sites and network for any violations of this AUP but does so not under any obligation.
+Policy Enforcement and Resolution
+Violations of this AUP are enforced at the sole discretion of Planisys. Any client, or other third party, in violation of the terms and conditions herein will be notified via e-mail at the abuse contact email address(es), if provided, and/or the
+first principal contact email address associated with the Services. The Client is responsible for maintaining its contact information up to date so that Planisys can reach the Client even in the event of the disconnection of the Client’s Services.
+The Client must notify Planisys of any changes or modifications at info@planisys.com. The Client’s failure to receive a notice regarding the AUP infringement or violation does
+not limit the right of Planisys to enforce this AUP or the Client’s responsibility to resolve violations of this AUP in a manner acceptable to Planisys. The Client must remove all domains, sites, users, or exploits causing a violation of this
+AUP. The Client must reconfigure, harden, or remove any improperly configured or insecure software causing a violation of this AUP. Planisys may, at its sole discretion, access any managed Service or require root access to any unmanaged Service
+to remove the cause of a violation or reconfigure, harden, or remove any improperly configured or insecure software. Depending on the violation type, severity, history, quantity of complaints, upstream provider requirements, and other factors,
+Client’s Services may be:
+Monitored for additional violations
+Disconnected, null-routed, or port shutdown in 24-hours, 16-hours, 8-hours, 1-hour, or 0-hours as indicated in a policy enforcement notice
+Required to provide root login information for our direct investigation, cleaning, hardening, and/or securing
+Required to remove current end-user-customer from all services
+Placed on 30-day probation
+Reviewed for probation violation
+Cancelled
+Response time for violations of this AUP
+There is a standard response time assigned for each violation within which period an initial reply from the Client, with appropriate comments, questions, or actions to resolve issues indicated in an AUP violation notice, must be received by Planisys.
+If the Client’s initial reply is not received within the specified timeframe, Planisys will suspend the Services. However, replying within a standard time is not a guarantee the Services will not be suspended. The standard times may be modified
+on a case-by-case basis depending on the abuse type, severity, history, quantity of complaints, upstream provider requirements, and other factors. The client will be informed of the response time in the e-mail sent by Planisys informing the
+Client of the specific violation.
+In general terms, the Client will have between 24 hours (for issues such as copyright violations, spam, etc.) and 8 hours (for issues such as Open Proxy, Hosting an Open Proxy, Open Relay, among others) to respond to Planisys’
+notice, except in the case of child pornography for which Planisys maintains a zero tolerance policy. A complete list of offenses and responses times is available upon request.
+SPAM
+Planisys and all of its e-mail services are operating under the concept known as Permission-Based E-Marketing, which means
+that e-mails are to be sent only to the customers that solicit them. Planisys does not tolerate SPAM, defined as all unsolicited bulk e-mail sent to multiple recipients who did not give verifiable, deliberate, explicit, and revocable permission
+for the message to be sent.  If any customer or natural personal sends any type of Spam through our email delivery services, the case will be dutifully investigated and prosecuted.
+Unsubscribing: As required by law, Planisys includes a link to unsubscribe from future email deliveries made by the same sender.
+Sender information: Each email generated by Planisys contains the legitimate address of the source of the message.
+Promise of Email Marketing: Planisys accepts, supports and meets the terms of the Email Marketing Pledge, guidelines that are established by the ESPC, Email Sender Provider Coalition. Planisys’ permission-based E-marketing
+platform is equipped with all the tools Planisys Clients need to develop and monitor email deliveries, in order to ensure that Planisys’ anti-spam policy is not violated. If you have received unsolicited emails or if you have any questions
+regarding Spam and/or our anti-spam policy, please email us at abuse@planisys.com
+Opt-In Mailing Lists
+Mailing lists must be true opt-in, requiring that Client to provide the recipient with either a confirmation email or a confirmation web page where the recipient must reply with a confirmation email having a unique tracking number, or must click
+a hyperlink either in the confirmation email or the confirmation web page both having a unique tracking number maintained in the Client’s web server log file, thereby granting verifiable, deliberate, explicit, and revocable permission to be
+added to the specific opt-in email list at the specific opt-in site both of which must be hosted on the network of Planisys under the Client’s administrative control. The Client is required to provide the confirmation email reply or the web
+server log file line having the unique tracking number as evidence that the recipient did indeed opt-in to the email list. The Client is also required to provide at least one simple method to opt out of the email list that must be honored
+immediately.
+Managed and Unmanaged Services
+In regard to unmanaged Services, the Client is solely responsible for the management, administration and security of the Services, all data stored or transmitted on, to, from, or through the Services, and for all passwords provided to the Client
+by Planisys. In regard to managed Services, the Client is solely responsible for all data stored or transmitted on, to, from, or through the Services, and for all passwords provided to the Client by Planisys. It may become necessary for Planisys
+to perform management, administration, or security work on the Services to resolve a violation of this AUP in a manner acceptable to Planisys without the Client’s prior approval; the Client will be responsible for paying Planisys US$100.00
+per hour, with a one-hour minimum, to carry out aforementioned tasks.
+Disclosure to Law Enforcement
+It is strictly prohibited for the Clients to use Planisys Services for illegal activities. Planisys will cooperate as needed with law enforcement authorities in the investigation and prosecution of all and any criminal activity. The Client accepts
+that Planisys may disclose any and all of the Client’s information, including assigned IP addresses, account history, account use, etc. to any law enforcement agency as permitted or required by law without the Client’s consent, nor requiring
+any prior notification.
+Intellectual Property
+Planisys is required by law to require the Client to delete or remove access to material that infringes the copyrights, trademarks, or other intellectual property rights of others. If a Client is found guilty of repeatedly infringing the copyrights,
+trademarks, or other intellectual property rights of others, Planisys will be forced to suspend and/or cancel the Client’s Services. In the event that a Client believes that its work has been copied in a way that constitutes copyright infringement,
+the Client shall provide Planisys with the following information:
+A physical or electronic signature of a person authorized to act on behalf of the owner of the allegedly infringed upon exclusive right.
+Identification of the copyrighted work allegedly infringed upon, or, if the notice covers multiple copyrighted works on a single online site, a representative list of such works at that site.
+Identification of the material allegedly infringed upon or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit the service provider to locate
+the material.
+Information reasonably sufficient to permit the service provider to contact the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which the complaining party may be contacted.
+A statement that the complaining party has a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law.
+A statement that the information in the notification is accurate, and under penalty of perjury, that the complaining party is authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+Network Performance
+Use of a publicly routable IP address not provided to the Client by Planisys as part of the Services is prohibited. Planisys provides shared network resources and, therefore, excessive use or abuse of these shared network resources by a single
+Planisys Client may adversely affect other clients of Planisys or the network of Planisys. Any misuse of network resources in a manner adversely affecting other clients of Planisys or the network of Planisys is prohibited. Any activity or
+data stored or transmitted on, to, from, or through the Services that adversely affects other clients of Planisys, the network of Planisys by an offended third party, or the reputation of Planisys is prohibited.
+Free Hosting Services
+The Client is liable and responsible for violations of this AUP by any third party the Client provides with free web, mail, ftp, or other hosting. Planisys strongly advises that the Client does not provide free hosting to unknown third persons
+or parties. If violations of this AUP are repeatedly the result of said free hosting services, Planisys may, at its sole discretion, suspend or cancel any or all Services or require Client to cease its offering of said free hosting, removing
+the service from its network.
+Bit Torrent, Point-to-Point, and Proxy Software
+Bit Torrent, Point-to-Point, and Proxy software are allowed as long as they do not result in a violation of this AUP. Planisys may, at its sole discretion, require removal of such software.
+E-Mail Feedback Loops Planisys maintains feedback loops in cooperation with other major ISPs (Internet Service Providers) and ESPs (E-mail Service Providers) covering all of its IP address space, where individual unsolicited e-mails
+are reported by end-users. Planisys will notify its Clients of such e-mails, and the Clients in turn are required to take actions such as closing open relays or conducting list removals. Planisys regularly analyzes feedback patterns and monitors
+whether there are any violations of this AUP by Planisys Clients.
+Violation Reporting
+Violations or concerns regarding this AUP should be reported to  abuse@planisys.com
+Privacy Policy
+Payments via Credit Card
+Planisys allows its clients to pay for our services via major credit or debit cards through our selected third party payment processors (Payment Processors). By submitting payment with Planisys via credit or debit card, you acknowledge
+that you have entered into a written agreement to pay for services that Planisys provides, has provided, or will provide, and you also accept the terms of use and and other conditions set forth by the Payment Processors. Any dissatisfaction
+that you may have for any reason with the services rendered or paid for must be made known to Planisys in accordance with your invoice, contract, or other written agreement. In addition, any refund for payments made via credit or debit card
+shall be made only in accordance with your invoice, contract, or other written agreement executed by Planisys. Any refund which Planisys may issue may take up to two months to receive and can be made via the payment method chosen by Planisys.
+Planisys reserves the right to reduce the amount returned in accordance with the applicable invoice, contract, or other written agreement.
+For specific issues regarding privacy, including the collection, use and handling of information, please see our
+Privacy Policy.
+Contact Us!
+Planisys © All rights reserved.
+Terms and Conditions   |
+Acceptable use policy   |
+Quality policy  |
+Our Mission

@@ -1,0 +1,55 @@
+Acceptable Use Policy
+Effective July 15, 2020
+WEBSITE, USE & NETWORK MANAGEMENT TERMS
+The following terms apply to your use of and access to any Sprint together with its subsidiaries, affiliates, agents, and licensors (collectively "Sprint ") owned or operated website ("Website"), as well as any electronic transmission sent, received, posted, accessed, or stored via any network ("Network").
+COVERAGE OF THIS POLICY
+In addition to other agreements between you and Sprint, these terms explain the policies that govern your access to and use of our Website and Network. By accessing or using our Website or Network, you agree to these terms (collectively the "Policy"), as Sprint may modify it from time to time. Modifications to this Policy are effective upon its posting on our Website. If you do not agree to accept and comply with the Policy, then do not access or use our Website or Network.
+ILLEGAL OR HARMFUL USE
+You may access and use our Website and Network only for lawful purposes. You are responsible for any transmission you send, receive, post, access, or store via our Network, including the content of any communication. Transmitting, distributing, or storing any material that violates any applicable law is prohibited. Additionally, the following non-exhaustive list details the kinds of illegal or harmful conduct that is prohibited:
+Infringement: Infringement of intellectual property rights or other proprietary rights including, without limitation, material protected by copyright, trademark, patent, trade secret, or other intellectual property right. Infringement may result from the unauthorized copying, distribution, and/or posting of pictures, logos, software, articles, musical works, and videos.
+Offensive Materials: Disseminating or posting material that is unlawful, libelous, defamatory, obscene, indecent, lewd, harassing, threatening, harmful, invasive of privacy or publicity rights, abusive, inflammatory, or otherwise objectionable. Without limiting the foregoing, you may not access or use our Website or Network in any manner for the transmission or dissemination of images containing child pornography.
+Excessive Utilization of Network Resources: Consuming a disproportionate amount of available Network resources resulting in the potential to disrupt or degrade the Network or Network usage by others. The determination of what constitutes excessive use depends on the specific state of the Network at any given time. Excessive use is determined by resource consumption relative to that of a typical individual user of the Network and not by the use of any particular application. Without limiting the foregoing, you are not allowed to use the Network to continually or repeatedly dial telephone numbers associated with free conference calls, free chat lines, or similar or related services that are used to increase the inter-carrier compensation billed to Sprint.
+Export Violations: Violations of export laws, regulations, and rules, including, without limitation, violations of the Export Administration Act and the Export Administration Regulations administered by the Department of Commerce.
+Fraudulent Conduct: (1) Conducting fraudulent business operations and practices; (2) offering or disseminating fraudulent goods, services, schemes, or promotions (e.g., make-money-fast schemes, chain letters, and pyramid schemes); and (3) individual or business representation as an authorized 3rd party affiliation or agent for a business entity (e.g., Sprint) without the business' prior consent.
+Falsification/Impersonation: Using the Network to impersonate any person or entity; falsely state or otherwise misrepresent your affiliation with any person or entity; or create a false identity for the purpose of misleading others. Without limiting the foregoing, you may not use invalid or forged headers, invalid or non-existent domain names, or other means of deceptive addressing.
+Failure to Abide by Third-Party Network or Website Policies: Violating the rules, regulations, or policies that apply to any third-party network, server, computer database, or website that you access.
+Harmful Content: Disseminating or posting content that is harmful to the Network or other users of the Network including, without limitation, viruses, Trojan horses, worms, time bombs, zombies, cancelbots, or any other computer programming routines that may damage, interfere with, secretly intercept or seize any system, program, data, or personal information.
+ELECTRONIC COMMUNICATIONS
+You may not distribute, publish, or send through our Network: (1) any spam, including any unsolicited advertisements, solicitations, commercial e-mail messages, informational announcements, or promotional messages of any kind; (2) chain mail; (3) numerous copies of the same or substantially similar messages; (4) empty messages; (5) messages that contain no substantive content; (6) very large messages or files that disrupt a server, account, newsgroup, or chat service; or (7) any message that is categorized as "phishing."
+Likewise, you may not: (1) participate in spidering, harvesting, or any other unauthorized collection of e-mail addresses, screen names, or other identifiers of others or participate in using software (including "spyware") designed to facilitate such activity; (2) collect responses from unsolicited messages; or (3) use any of our mail servers or another site's mail server to relay mail without the express permission of the account holder or the site.
+NETWORK SECURITY AND INTEGRITY
+You may not violate the security of our Network in any way. Such violations may result in criminal or civil liability. Sprint may, but is not obligated to, investigate any violation of our Network. Sprint may cooperate with law enforcement where criminal or unauthorized activity is suspected. By using Sprint products and services or sending, receiving, posting, accessing, or storing any electronic transmission via our Network, you agree to cooperate in any such investigation. Examples of Network security violations include, without limitation:
+Hacking: Unauthorized access to or use of data, systems, or networks, including any attempt to probe, scan or test the vulnerability of a system or network or to breach security or authentication measures without the express prior authorization of the owner of the system or network.
+Interception: Unauthorized monitoring of data or traffic on any network or system without the express prior authorization of the owner of the system or network.
+Intentional Interference: Interference with service to any user, host, or network including, without limitation, denial-of-service attacks, mail bombing, news bombing, other flooding techniques, deliberate attempts to overload a system, and broadcast attacks.
+Falsification of Origin or Routing Information: Using, selling, or distributing in conjunction with the Network, any computer program designed to conceal the source or routing information of electronic mail messages in a manner that falsifies an Internet domain, header information, date or time stamp, originating e-mail address, or other identifier.
+Avoiding System Restrictions: Using manual or electronic means to avoid any limitations established by Sprint or attempting to gain unauthorized access to, alter, or destroy any information that relates to any Sprint customer or other end-user. Sprint may, but is not obligated to, take any action it deems necessary to (1) protect its Network, its rights, or the rights of its customers or third parties, or (2) optimize or improve its Network, services, systems, and equipment. You acknowledge that such action may include, without limitation, employing methods, technologies, or procedures to filter or block messages sent through the Network. Sprint may, in its sole discretion and at any time, filter "spam" or prevent "hacking," "viruses," or other potential harms without regard to any preference you may have communicated to us.
+INVESTIGATION AND ENFORCEMENT OF THE POLICY
+We have the right, but are not obligated, to strictly enforce this Policy through self-help, active investigation, litigation, and prosecution.
+Sprint reserves the right to act immediately and without notice to restrict, suspend, or terminate your use of the Network if it reasonably determines that your conduct may: (1) expose Sprint to sanctions, prosecution, civil action, or other liability; (2) cause harm to or interfere with the integrity or normal operations of Sprint's Network or networks with which Sprint is interconnected; (3) interfere with another Sprint customer's use of the Network; (4) violate any applicable law, rule, or regulation; or (5) otherwise present an imminent risk of harm to Sprint or its customers.
+Sprint has the right, but not the obligation, to monitor or restrict any uses of the Network that Sprint reasonably believes in its sole discretion violate this AUP. You are solely responsible for all content that you transmit or receive utilizing the Network, and you are responsible for abuse of your account by others.
+We may also access and disclose any information (including transactional information) related to your access and use of our Network for any lawful reason, including but not limited to: (1) responding to emergencies; (2) complying with the law (e.g., a lawful subpoena); (3) protecting our rights or property and those of our customers; or (4) protecting users of those services and other carriers from fraudulent, abusive, or unlawful use of or subscription to such services. INDIRECT OR ATTEMPTED BREACHES OF THIS POLICY AND ACTUAL OR ATTEMPTED BREACHES BY A THIRD PARTY ON BEHALF OF A COMPANY, CUSTOMER, OR USER MAY BE CONSIDERED BREACHES OF THIS POLICY BY SUCH COMPANY, CUSTOMER, OR USER.
+MISCELLANEOUS
+Any failure to insist upon or enforce performance of any provision in this Policy will not be construed as a waiver of any provision or right. Neither the course of conduct between the parties nor trade practice will act to modify any provision in this Policy. Sprint may assign its rights and duties under these terms to any party at any time without notice to you. If any provision of this Policy is deemed unlawful, void, or for any reason unenforceable, then that provision will be deemed severable from these terms and conditions so that it does not affect the validity and enforceability of any remaining provisions.
+Change Credit
+Session Modal
+Do you want to continue?
+For security reasons, your session will time out in 2 minutes unless you choose to continue.
+Login
+Sign in to Sprint
+Connecting to your account lets us quickly confirm your options, pricing and personal information.
+Username
+Password
+Caps lock is on
+I forgot my
+Username or
+Password.
+Create a My Sprint account
+Easily view or pay bills, update your account preferences, monitor data usage, upgrade online and get special offers.
+Create an account
+Call to order 1-866-275-1411
+Welcome Back,
+You left some items in your Cart. Pick up where you left off when you visit your cart.
+View My Cart
+Just a moment...
+Your cart is being prepared.

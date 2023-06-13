@@ -1,0 +1,69 @@
+Client Experience
+Thrive5
+Platform
+Digital Transformation
+Services
+Cybersecurity
+Collaboration
+Cloud
+Disaster Recovery
+Global Network Management
+Consulting
+Virtual Chief Information Security Officer (vCISO)
+Compliance & Regulatory
+Managed IT
+Equipment Based Managed Services
+Data Centers
+Industries
+Financial Services
+Private Equity
+Hedge Funds
+Life Sciences
+Legal & Professional Services
+Healthcare
+Retail
+Education
+About Us
+Team
+Resources
+Product Sheets
+Case Studies
+White Papers
+Videos
+Security Resource Center
+Testimonials
+Newsroom
+Careers
+Acceptable Use Policy
+Acceptable Use Policy (“AUP”)
+This AUP describes activities prohibited on Thrive’s network for the protection of Thrive, its affiliates, employees, contractors, vendors and clients. You hereby agree to comply with our policies and the use of our services is subject to your acceptance and compliance with this AUP. We reserve the right to amend or modify this AUP from time to time, and we will post any such changes to the AUP on our website at www.thrivenextgen.com. You are responsible for complying with this AUP and for violations directly or indirectly attributable to your clients and end-users. Therefore, you agree to take all necessary steps to ensure that your clients, vendors and end-users all comply with this AUP.
+CLIENT CONDUCT
+Client shall not use Thrive’s Services, personnel or network to engage in, solicit or endorse irresponsible, illegal or malicious behavior such as:
+Conduct that may result in a breach to any laws or regulations applicable to the parties which include trade secrets, confidential data, intellectual property or any other actions which could be considered deceitful, duplicitous or slanderous
+Conduct likely to result in retaliation or adverse action against Thrive or its affiliates, network, services or website. Specifically, any activity that could result in Thrive’s IP space becoming “Blacklisted” or on an abuse database);
+The storage or circulation of offensive content on Thrive’s network or systems such as, but not limited to, child pornography, nonconsensual, live and offensive sex acts, excessive violence, harassing and threatening content or hate crimes and speech
+Introducing malicious code into the Services or Third Parties’ systems without their prior approval
+Unauthorized monitoring or access to, use of, or interference with another party’s Internet services, computer systems, data or networks
+Conduct violating rules and conventions of any domain registrar, email service, bulletin board, chat group, or forum used in conjunction with Thrive’s Services or network
+Deceitful collection, transmitting or distribution of software which covertly gathers or circulates information about a user;
+Falsification of records, using unauthorized credit cards or banking accounts, gambling activities that violate State, Local and Federal laws.
+SPAM
+You agree to NOT engage in:
+Sending unsolicited bulk messages over the Internet (spamming);
+Creating a fake weblog or weblogs which are intended or reasonably likely to promote the author’s affiliated websites or to increase the search engine rankings of associated sites
+Sending spam to weblog sites or automatically post random comments or promotions for commercial services to weblogs (spamming blogs)
+All users must comply with all relevant legislation and regulations such as CAN-SPAM Act of 2003 or similar future legislation that govern Spamming
+Users may not send mass unsolicited e-mail, which is email that is sent to recipients who have not “opted-in” to mailings from the user. Users who send mass mailings must maintain complete and accurate records of all consents and opt-ins and provide such records to Thrive upon request. Any user-maintained mailing list must also allow any party on the list to remove itself automatically and permanently
+Forgery of e-mail headers (spoofing)
+Spamming via third-party proxy, aggregation of proxy lists, or installation of proxy mailing software
+Configuration of an email server to accept and process third-party messages for sending without user identification and authentication
+Hosting websites or providing services that support spam
+Directing 3rd parties to violate this AUP
+TESTING
+Client, their affiliates, vendors and employees shall not attempt to penetrate or test the vulnerability of a Thrive network or computer system, or attempt to breach Thrive’s security policies, by any means without Thrive’s prior written consent
+DNS RECORDS & IP ADDRESSES
+Client shall maintain valid information with Client’s domain name registrar for any domain hosted by Thrive, and only use IP addresses assigned to Client by Thrive in connection with the services. Client agrees Thrive may modify, transfer or delete any DNS record or zone with Thrive, along with DNS servers or other services upon request from the registrant or administrative contact according to the registrar’s WHOIS system
+JUDICIAL COOPERATION
+Client agrees to cooperate with any investigation and/or proceeding and agrees to permit Thrive to do the same with respect to any relevant authority that requests to inspect Client’s content or traffic. Thrive shall only do so in the event that they are legally obligated, and will notify client, where permitted by applicable law and regulation, at the earliest possible opportunity. Thrive also reserves the right to report any criminal and illegal activity to appropriate authorities when this information becomes apparent to them
+AUP BREACH
+If Client breaches the AUP, either intentionally or unintentionally, by failing to use sufficient security safeguards, Thrive reserves the right to block any client traffic, data or other content, suspend services, or terminate services in accordance with the terms and conditions laid-out in the Master Services Agreement or applicable Service Orders. Credits shall NOT be available to clients under any Service Level Agreement for interruptions of services resulting from an AUP breach.

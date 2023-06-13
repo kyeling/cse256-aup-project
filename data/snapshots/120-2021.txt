@@ -1,0 +1,55 @@
+Publisher:
+Telstra
+Name:
+Telstra Enterprise Acceptable Use Policy
+Copyrighted By:
+Telstra
+Family Friendly:
+Yes
+Language:
+English
+Americas
+Australia
+EMEA
+Hong Kong
+Singapore
+United Kingdom
+Select your region
+Americas
+Australia
+EMEA
+Hong Kong
+Singapore
+United Kingdom
+Follow us
+We want our customers to get the most out of their use of our network and systems and the services we provide over them. However, it is equally important that such use is lawful and does not interfere with the use, enjoyment or rights of others. To this end, we have created this Telstra Enterprise AUP, which is a framework intended to safeguard our customers’ collective enjoyment of our network, systems and services (collectively, "Services") while at the same time ensuring overall compliance with applicable laws and regulations. In some cases Services, including, for example, internet Services provided in China, are subject to supplemental AUPs. If a portion in that supplemental AUP conflicts with this AUP, the supplemental AUP will apply. This AUP does not apply to Telstra’s Big Pond Services or other consumer internet services which have their own independent AUPs.
+When we refer to "you" in this AUP, we are also referring to your officers, employees, contractors, agents, end users, affiliates and anyone else who uses the Service provided to you. A reference to "Telstra" includes your Telstra Service provider and all of its affiliates.
+Prohibited Activities
+You must not use the Services in any way that is unlawful or interferes with the use of Telstra's network or systems or the rights of third parties (including other providers and users). In particular, you must not use any Services or any of our networks or systems in a way that:
+is unlawful or induces unlawful activity;
+accesses, downloads, transmits, disseminates, stores or posts illegal, abusive, deceptive, obscene, defamatory, offensive, threatening or otherwise inappropriate content or materials;
+could interfere with or infringe the rights of others, including any intellectual property rights or rights to privacy;
+could interfere with, degrade or deny service to, impair the use of, or subvert the security or privacy of: Telstra’s services, networks, equipment, data or information; or those of another person, unless you have, as applicable, Telstra’s or such other person’s written consent to do so; or
+attempts to manipulate or bypass any limitations on the Service by any means.
+Further, any failure to adhere to the rules, guidelines or agreements applicable to search engines, subscription Web services, chat areas, bulletin boards, Web pages, applications, or other services that are accessed from a Telstra-branded website is also a violation of this AUP.
+Your responsibilities
+You are responsible for ensuring that the systems and machines that connect to and use the Services are secure. This includes having in place the requisite patches, ensuring that updates are promptly installed on all operating systems and changing default passwords regularly.
+You are also responsible for all material created, hosted, posted, downloaded or uploaded from your systems and machines. We are not responsible for any material created, hosted, posted, downloaded or uploaded by you or any third parties. We are also not responsible for the content of any websites (other than our own) that are hosted on or accessible using our network or systems. Links to third party websites are provided for navigation purposes only.
+You must ensure anyone who uses or accesses the Services does not conduct any of the prohibited activities above. Any breach by such users shall be deemed to be your breach.
+We will send any relevant notifications relating to the enforcement of this AUP to the address or email address that we have for you on record.
+How we will enforce this AUP
+If we believe there has been a breach of this AUP, we reserve the right to take remedial action. We may also take remedial action if the law or a regulator or other authority requests us to do so.
+Depending on the severity and effect of the breach, the types of remedial action we may in our full discretion take include any or a combination of the following:
+giving you a warning that any repetition of the activity or conduct will result in us immediately terminating or suspending your Service;
+reporting the activities or conduct to relevant authorities;
+if your Service involves us publishing, hosting or making available material or content provided or selected by you, removing or disabling access to that material or content; and
+immediately terminating, limiting, restricting or suspending your Service.
+In particular, our right to terminate or suspend the Services includes, but is not limited to, suspension or termination in response to infringements of copyright in accordance with Telstra’s policy for dealing with this type of activity.
+We will usually attempt to notify you before we suspend or terminate the Services if it is reasonably possible to do so. However, any failure on our part to notify you will not affect any such termination or suspension or create any liability for us.
+Changes to the AUP
+We may change or modify the terms of this AUP at any time and these changes will be effective when posted on our web site at www.telstra.com/acceptable-use-policy. You will be deemed to have accepted any changed or additional terms if you continue to use the Services after such changes to the AUP are posted to our website. Do review this AUP from time to time to ensure that you are kept updated on any changes.
+Reporting of breaches of this AUP
+Please send the details of any actual or suspected violations of this AUP to copyrightrepresentative@team.telstra.com.
+Top
+This website would like to use the following cookies: Adobe Analytics, Google Analytics and Oracle Eloqua, for web analytics purposes; as well as cookies that track and serve advertising campaigns. You do not need to accept these cookies to browse our site, but if you do they will remain active for the duration of your visit. You can delete cookies at any time using the clear cookies function in your browser. Find out more about how Telstra handles your personal information, by reading our Privacy Policy here and our cookie policy here.
+To accept cookies from this site, please click 'Ok, I Accept'.
