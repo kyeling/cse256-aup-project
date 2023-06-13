@@ -1,0 +1,59 @@
+Skip to content
+Last Updated: December 21, 2022
+The following ACCEPTABLE USE POLICY (“AUP”) supplement and are subject to InMotion Hosting, Inc.’s (“Company”) Universal Terms of Service (“UToS”) which are located here, which are incorporated herein by this reference. Capitalized terms used and not otherwise defined herein shall have the meanings set forth in the UToS. In the event of a conflict between the AUP and the UToS, this AUP shall control. Customer acknowledges that Customer has read this AUP.
+Company does not monitor any content that is submitted to, stored on or distributed or disseminated by Customer via the Products or Customer’s website(s), Customer’s customer(s) and/or Customer’s user(s) (collectively, the “Customer Content”).  By posting or publishing Customer Content to the Website(s) or through the Products, Customer represents and warrants to Company that:
+Customer has all necessary rights to distribute Customer Content; and
+Customer Content does not violate the rights of any third party(ies).
+The Websites and Products may only be used for lawful purposes under this AUP and the UToS.
+Customer is prohibited from using the Websites or Products:
+In any manner that violates any other applicable policy maintained by the Company, including without limitation the Company’s UToS or Privacy Policy;
+In any manner that violates any federal, state, international, or local law or regulation;
+In a manner that interferes with Company’s activities or business, interferes with Company’s delivery of the Products or harms any of Company’s customers, affiliates, directors, officers, employees, partners, brands, or Products;
+To threaten, bypass, or destroy any security mechanism used with or incorporated in the Websites or Products;
+To disparage, denigrate, insult, or otherwise make pejorative statements about Company and/or any of its affiliates, directors, officers, employees, partners, brands, or Products;
+To transmit any content or information that is harassing, offensive, sexual in nature, rude, lewd, pornographic, related to nudity, adult content, defamatory, libelous, harassing, racist, obscene, vulgar, profane, indecent information, tortious, abusive, illegal, prejudice, discriminatory or otherwise inappropriate or objectionable;
+To transmit any marketing, advertising or promotional materials, including without limitation any “spam,” “junk mail,” or other deceptive or unsolicited bulk or commercial email;
+To harm, or attempt to harm, minors in any way;
+To engage in disruptive activity online;
+To modify, sub-license, adapt, translate, reverse engineer, sell, disassemble, or decompile any portion of a Product and/or the Websites’ functionality;
+To impersonate Company (including any Company personnel), any user of the Websites and/or Products, or any other person or entity;
+To transmit any content, data, or material that infringes upon the intellectual property rights or other personal rights (including privacy) of any third parties;
+To use the Products and/or Websites in connection with unsolicited, unwanted, or harassing communications, including without limitation, SMS messages, phone calls, voice mail, chat, video, or email;
+To transmit any content, data, or material that contains viruses, spyware, spiders, robots, worms, Trojan horses, logic bombs, or any other type of malicious or deleterious programs;
+To use the Websites or Products to collect information about other users, including telephone numbers or email addresses, without any such individual’s prior explicit consent or otherwise under false pretenses of any kind;
+To impersonate any other person or entity or falsely represent a professional or other affiliation with any person or entity;
+To use the Products or Websites to record or monitor a telephone call, virtual communication or any other communication without first obtaining express consent from the participants per applicable law;
+In any manner that can reasonably be considered contrary to the Company’s goodwill, public image, and overall reputation;
+To express or imply that any user’s statements, activities, or causes are endorsed by Company;
+To collect, or attempt to collect, personal information about users or other third parties without their prior knowledge and affirmative consent;
+To divulge any of Company’s (or any of its affiliates’) proprietary information;
+In any manner that promotes any illegal activity;
+To knowingly receive, use, re-use, upload, post, transmit or download any material which:
+Contains material that may reasonably be considered obscene, defamatory, offensive, abusive, hateful, inflammatory, harassing, violent, or otherwise objectionable;
+Promotes pornographic, adult or other sexually explicit material, discrimination, or violence, based on race, religion, nationality, sex, gender, disability, age, or sexual orientation;
+Is likely to deceive any person acting reasonably under the circumstances;
+Impersonates any person; or
+Involves commercial activities or sales of illegal material(s).
+To post and/or store material that promotes, incites, or facilitates acts of violence, hate speech, and/or terrorism;
+To use or implement cryptocurrency mining, cryptominting, render farming, committing or promoting any type of illegal activity including, but not limited to, fraud, mailbombing, denial of service attacks, storing and/or housing and/or linking to illegal content, including but not limited to, “warez,” “hacking” /“cracking”/“key generators,” gambling, obscene material or be used in the traffic of illegal materials;
+To use or post image hosting scripts that allow an anonymous user to upload an image for display on another website;
+To use or post banner advertisement services for display on other websites or devices (commercial banner ad rotation);
+To file use or post dump or mirror scripts that allow an anonymous user to upload a file for other to download;
+To use or post commercial audio streaming;
+To use or post push button mail scripts that allow the user to specify recipient email addresses;
+To use or post anonymous or bulk SMS gateways;
+To backup content from another computer, device or website;
+To use or post BitTorrent trackers;
+To use or post any script or application that causes a degradation in the performance of Company server or network environments; or
+To use or post ad-servers, attempts to circumvent quota system owned by “nobody,” certain podcasting sites, use of torrent software, proxies, excessive resource usage or “core dumping,” attempting to circumvent any of Company’s or other sites” security policies, procedures, or systems.
+Customer understands and agrees that Company, in its sole and absolute discretion, determines whether any information transmitted or received violates this Section. Customer also agrees to indemnify and hold Company and its employees, officers, directors and agents harmless from any claim or demand, including reasonable attorneys’ fees, made by a third party arising from Customer’s breach of this Section.
+Customer shall be solely responsible, will be held liable and shall indemnify Company and its employees, officers, directors and agents harmless from any claim or demand, including reasonable attorneys’ fees, made by a third party arising from any and all of Customer Content that is submitted through a Customer Account.
+Customer shall be solely responsible and will be held liable and shall indemnity Company and shall indemnify Company and its employees, officers, directors and agents harmless from any claim or demand, including reasonable attorneys’ fees, made by a third party arising from the incorrect setting of netmasks, routes, or any other network configuration or programming issue which causes unnecessary broadcast or multicast traffic on the Websites, through the Products or on Company’s network, or denial of service, deliberate or not, caused by forging address resolution protocol queries or replies or by configuring internet protocol addresses into Customer’s hardware or software which were not assigned to Customer’s Account. The foregoing actions may result in disconnection of the Products and suspension or termination of a Customer Account, as determined by Company. Any loss of functionality of a Customer Account related to the foregoing actions will be and remain the Customer’s sole responsibility.
+While Company does not monitor Customer or a third-party’s use of the Websites and/or Products to confirm compliance with the terms of this AUP and any other applicable Company policy(ies), if Company obtains any information of Customer’s violation of this AUP, as determined in Company’s sole discretion, Company maintains the absolute right to delete any material (including Customer Content) Company deems illegal, inappropriate, or violative of any Company or applicable third-party policy(ies), including this AUP. If Company discovers a violation, it will take whatever action it deems reasonably necessary or appropriate to address such behavior, which may include (but is not limited to) disclosing Customer’s personal information to a third party(ies) or law enforcement or suspend and/or terminate the Products and/or Customer’s access to the Products and Websites. CUSTOMER HEREBY WAIVES AND HOLD HARMLESS COMPANY, ALONG WITH COMPANY’S EMPLOYEES, OFFICERS, DIRECTORS, AFFILIATES, LICENSEES, AND SERVICE PROVIDERS, FROM ANY AND ALL CLAIMS RESULTING FROM, OR ARISING DIRECTLY OR INDIRECTLY OUT OF, ANY ACTION TAKEN BY ANY OF THE FOREGOING PARTIES IN CONNECTION WITH INVESTIGATIONS BY EITHER COMPANY OR LAW ENFORCEMENT AUTHORITIES. In the event Company takes corrective action due to a violation of this AUP, Company shall not refund to Customer any fees paid in advance of such corrective action. Customer hereby agrees that Company shall have no liability to Customer or any of Customer’s customers due to any corrective action that Company may take hereunder.
+Company requests that any person or entity who believes that a violation of this AUP or any other Company policy(ies) has occurred may report the alleged violation(s) to Company. Such a report can be made online here,Any questions about this AUP can be submitted by e-mail or regular mail at the following address:
+InMotion Hosting, Inc.
+Attn: Legal Department
+555 S. Independence Blvd.
+Virginia Beach, VA 23452
+[email protected]
+Scroll Up
