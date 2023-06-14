@@ -1,0 +1,1176 @@
+TextFile,Disallowed Action,Label
+199-current.txt,Violate applicable law,Violate law
+6215-current.txt,copying,Distributing
+6215-current.txt,non-automated “scraping”,Scraping
+6215-current.txt,automated system,Robots
+6215-current.txt,transmitting spam,Spam
+6215-current.txt,compromise system integrity,Compromising
+6215-current.txt,imposing large load,Overloading
+6215-current.txt,uploading viruses,Viruses
+6215-current.txt,collecting info,Data Harvesting
+6215-current.txt,commercial solicitation,Solicitation
+6215-current.txt,impersonation,Impersonation
+6215-current.txt,bypassing measures,Bypassing
+1710-current.txt,Use not in connection to video game,Unauthorized Use
+1710-current.txt,Use via SDK with other credentials,Unauthorized Use
+1710-current.txt,Use not as intended,Misuse
+1657-current.txt,Posting offensive content,Offensive Content
+1657-current.txt,Unauthorized access to another user’s account,Unauthorized Access
+1657-current.txt,Harassing or bullying another user,Harassment/Bullying
+1657-current.txt,Distributing viruses or malware,Viruses/Malware
+1296-current.txt,Login,Unauthorized Access
+1296-current.txt,Menu,Unauthorized Access
+1296-current.txt,Sell,Unauthorized Access
+1296-current.txt,Home,Unauthorized Access
+1296-current.txt,Breach applicable law,Illegal Activity
+1296-current.txt,Unlawful/Fraudulent,Illegal Activity
+1296-current.txt,Harm minors,Illegal Activity
+1296-current.txt,Content Standards,Illegal Activity
+1296-current.txt,Spam,Illegal Activity
+1296-current.txt,Viruses,Illegal Activity
+1296-current.txt,Duplicate,Illegal Activity
+1296-current.txt,Interfere/Damage,Illegal Activity
+064-current.txt,Use in mission critical or high risk systems,High Risk Use
+6688-current.txt,Unauthorised access,Unauthorised Access
+6688-current.txt,Unauthorised use,Unauthorised Use
+6688-current.txt,Interference with service,Interference
+6688-current.txt,Unauthorised sharing,Unauthorised Sharing
+6688-current.txt,Infringing copyright,Copyright Infringement
+8643-current.txt,Unauthorized access,Unauthorized Access
+8643-current.txt,Unauthorized use,Unauthorized Use
+8643-current.txt,Distributing viruses,Virus Distribution
+8643-current.txt,Sending spam,Spamming
+097-current.txt,In any way that breaches any applicable local,"national or international law or regulation,Illegal activity"
+097-current.txt,In any way that is unlawful or fraudulent,Illegal activity
+097-current.txt,For the purpose of harming or attempting to harm minors in any way,Harm minors
+097-current.txt,To send,"knowingly receive, upload, download, use or re-use any material which does not comply with our content standards,Violate content standards"
+097-current.txt,To transmit,"or procure the sending of, any unsolicited or unauthorised advertising or promotional material or any other form of similar solicitation (spam),Spam"
+2060-current.txt,Illegal activity,Illegal
+2060-current.txt,Fraudulent or illegal use,Fraudulent
+2060-current.txt,Auto-dialing; trunking; traffic pumping,Auto-dialing
+2060-current.txt,Exploit or harm minors,Exploit minors
+2060-current.txt,Interfere; transmit viruses,Transmit viruses
+2060-current.txt,Objectionable or Misleading activity,Misleading activity
+165-current.txt,Breach any applicable law,Breach Law
+165-current.txt,Unlawful or fraudulent purpose,Unlawful/Fraudulent
+165-current.txt,Harm minors,Harm Minors
+165-current.txt,Non-compliant material,Non-Compliant
+165-current.txt,Unsolicited/unauthorised advertising,Unsolicited Advertising
+165-current.txt,Transmit viruses/malware,Transmit Malware
+165-current.txt,Reproduce/duplicate/copy/re-sell,Duplicate/Re-Sell
+9999-current.txt,Store,"publish or use unlawful content,Unlawful Content"
+9999-current.txt,Impede the prosecution of unlawful content,Impede Prosecution
+9999-current.txt,Circumvent user authentication,Circumvent Authentication
+9999-current.txt,Compromise security of server/network,Compromise Security
+9999-current.txt,Disturb operation of servers/networks,Disturb Operation
+9999-current.txt,Fail to keep applications/software up to date,Fail to Update
+057-current.txt,Use of software applications or frameworks without Host's express written consent,Unauthorized Software
+107-current.txt,Engaging in illegal activity,Illegal Activity
+107-current.txt,Engaging in harmful or offensive activities,Harmful Activity
+107-current.txt,Engaging in activities that interfere with the Service,Interference
+197-current.txt,Breach applicable law,Breach Law
+197-current.txt,Unlawful or fraudulent purpose,Unlawful Fraud
+197-current.txt,Harm minors,Harm Minors
+197-current.txt,Content standards violation,Content Violation
+197-current.txt,Spam,Spam
+197-current.txt,Virus transmission,Virus Transmission
+144-current.txt,Engage in illegal activities,Illegal Activity
+144-current.txt,Transmit or store material that is infringing,Infringing
+144-current.txt,Transmit or store material that is obscene,Obscene
+144-current.txt,Transmit or store material that is libelous,Libelous
+144-current.txt,Transmit or store material that is defamatory,Defamatory
+144-current.txt,Transmit or store material that is harassing,Harassing
+144-current.txt,Transmit or store material that is threatening,Threatening
+144-current.txt,Transmit or store material that is abusive,Abusive
+144-current.txt,Transmit or store material that is hateful,Hateful
+144-current.txt,Transmit or store material that is harmful to minors,Harmful to Minors
+7705-current.txt,Breaching applicable law,Breaching Law
+7705-current.txt,Unlawful or fraudulent purposes,Fraudulent
+7705-current.txt,Harming minors,Harming Minors
+7705-current.txt,Content standards violation,Content Standards
+7705-current.txt,Unsolicited/unauthorised advertising,Unauthorised Advertising
+7705-current.txt,Transmitting viruses,Transmitting Viruses
+7705-current.txt,Reproducing/duplicating/copying/re-selling,Duplicating
+1145-current.txt,Share on Twitter,Social Media
+1145-current.txt,Edit this page,Unauthorized Editing
+1145-current.txt,Open Web IDE,Unauthorized Access
+1145-current.txt,Contribute to this page,Unauthorized Editing
+1145-current.txt,Open in Web IDE,Unauthorized Access
+1145-current.txt,Use of file sharing services other than Google Drive,Unauthorized Access
+2661-current.txt,Use our Services in any way that breaches any applicable local,"national, or international law or regulation,Lawful Use"
+2661-current.txt,Use our Services in any way that is unlawful or fraudulent,Unlawful Use
+2661-current.txt,Harm minors,Harm Minors
+2661-current.txt,Abusive or harmful content,Abusive Content
+2661-current.txt,Unsolicited or unauthorised advertising,Spam
+2661-current.txt,Dealing in harmful programs,Harmful Programs
+2661-current.txt,Tax evasion,Tax Evasion
+2661-current.txt,Adult content,Adult Content
+2661-current.txt,Pornography,Pornography
+2661-current.txt,Services of sexual nature,Sexual Services
+2661-current.txt,Sexually oriented establishments,Sexual Establishments
+2661-current.txt,Alcohol businesses,Alcohol Businesses
+1350-current.txt,Sign In,Unauthorized Access
+1350-current.txt,Buy Online or Call 1-800-WWW-DELL,Unauthorized Access
+1350-current.txt,Violate Law,Illegal Activity
+1350-current.txt,Abusive/Deceptive/Pornographic/Obscene/Defamatory/Slanderous/Offensive/Violent/Inappropriate,Misconduct
+1350-current.txt,Infringe Rights,Infringement
+1350-current.txt,Encourage Illegal Activity,Illegal Activity
+1350-current.txt,Stalk/Harass/Harm,Misconduct
+1350-current.txt,Impersonate/Misrepresent,Misconduct
+1350-current.txt,Modify/Alter/Tamper,Unauthorized Access
+1350-current.txt,Reverse Engineer/Disassemble/Decompile,Unauthorized Access
+1350-current.txt,Avoid Fees/Exceed Usage Limits/Quotas,Unauthorized Access
+1350-current.txt,Interfere/Disrupt,Unauthorized Access
+1350-current.txt,High-Volume Automated Means,Unauthorized Access
+1350-current.txt,Send Spam/Unsolicited Messages,Misconduct
+1350-current.txt,Transmit Viruses/Worms/Defects/Trojan Horses,Misconduct
+1350-current.txt,Gain Unauthorized Access,Unauthorized Access
+1350-current.txt,Probe/Scan/Test Vulnerability,Unauthorized Access
+1350-current.txt,Interfere with Service,Unauthorized Access
+116-current.txt,Posting illegal content,Illegal content
+116-current.txt,Misusing personal data,Misuse data
+116-current.txt,Publishing offensive material,Offensive material
+116-current.txt,Using the Site for commercial purposes,Commercial use
+017-current.txt,Send unsolicited messages,SPAM
+017-current.txt,Rent/lease/loan/sell access,Transfer rights
+017-current.txt,Reverse engineer/assemble,Reverse engineer
+152-current.txt,Use of resources for non-University purposes,Misuse of resources
+0585-current.txt,Advertisement,Advertising
+0585-current.txt,Report,Reporting
+026-current.txt,Unauthorized access,Unauthorized Access
+026-current.txt,Unauthorized use,Unauthorized Use
+026-current.txt,Unauthorized distribution,Unauthorized Distribution
+026-current.txt,Unauthorized modification,Unauthorized Modification
+026-current.txt,Unauthorized disclosure,Unauthorized Disclosure
+026-current.txt,Unauthorized disruption,Unauthorized Disruption
+026-current.txt,Unauthorized monitoring,Unauthorized Monitoring
+185-current.txt,Using services for unlawful purposes,Unlawful Use
+3041-current.txt,Search,Unauthorized Access
+3041-current.txt,Submit,Unauthorized Use
+004-current.txt,Posting malicious content,Malicious content
+004-current.txt,Posting content that infringes any third party intellectual property rights,Infringing IP
+004-current.txt,Harassing or bullying other users,Harassment
+9139-current.txt,Probe system or network,Security breach
+9139-current.txt,Bypass security measures,Security breach
+9139-current.txt,Tamper with non-public areas,Unauthorized access
+9139-current.txt,Distribute malware,Malware
+9139-current.txt,Overload system,System disruption
+9139-current.txt,Flood system,System disruption
+9139-current.txt,Mail-bomb,System disruption
+9139-current.txt,Decompile or reverse engineer,Code tampering
+9139-current.txt,Scrape or spider,Unauthorized access
+9139-current.txt,Impose unreasonable load,System disruption
+9139-current.txt,Provide password,Unauthorized access
+9139-current.txt,Use another's username and password,Unauthorized access
+9139-current.txt,Violate laws or regulations,Illegal activity
+077-current.txt,Breaching applicable law,Illegal Activity
+077-current.txt,Attempting to harm minors,Harm Minors
+077-current.txt,Sending unsolicited material,Spam
+077-current.txt,Transmitting viruses,Malicious Code
+077-current.txt,Reproducing,Duplication
+146-current.txt,Violating applicable laws,Unlawful Use
+146-current.txt,Refusing service to anyone,Discrimination
+146-current.txt,Removal of content,Content Removal
+146-current.txt,Not responding to communication,Non-Responsive
+0014-current.txt,Commit or assist criminal acts,Criminal acts
+0014-current.txt,Send unsolicited information,Spam email
+0043-current.txt,illegal or fraudulent activity,Illegal Activity
+0043-current.txt,violate the rights of others,Rights Violation
+0043-current.txt,threaten,"incite, promote, or actively encourage violence, terrorism, or other serious harm,Violent Promotion"
+0043-current.txt,content or activity that promotes child sexual exploitation or abuse,Child Abuse
+0043-current.txt,violate the security,"integrity, or availability of any user, network, computer or communications system, software application, or network or computing device,Security Violation"
+0043-current.txt,distribute,"publish, send, or facilitate the sending of unsolicited mass email or other messages, promotions, advertising, or solicitations (or “spam”),Spam"
+060-current.txt,Posting Malicious Code,Malicious Code
+060-current.txt,Unauthorized access,Unauthorized Access
+060-current.txt,Unauthorized use of Services,Unauthorized Use
+060-current.txt,Unauthorized use of Content,Unauthorized Use
+060-current.txt,Unauthorized use of Output,Unauthorized Use
+060-current.txt,Unauthorized use of Documentation,Unauthorized Use
+3839-current.txt,Breach applicable law,Breach law
+3839-current.txt,Unlawful or fraudulent purpose,Unlawful fraud
+3839-current.txt,Harm minors,Harm minors
+3839-current.txt,Bully,"insult, intimidate,Bully"
+3839-current.txt,Non-compliant material,Non-compliant
+045-current.txt,Use Services in connection with illegal activities,Illegal Activities
+045-current.txt,Content placed on our network contains illegal activities,Illegal Content
+045-current.txt,Domain names registered contain illegal activities,Illegal Domain Names
+221-current.txt,Violating copyright,Copyright violation
+221-current.txt,Unauthorized access,Unauthorized access
+221-current.txt,Unauthorized use,Unauthorized use
+178-current.txt,breaches applicable law,Illegal Activity
+178-current.txt,unlawful or fraudulent,Illegal Activity
+178-current.txt,harm minors,Harm Minors
+178-current.txt,bully,"insult, intimidate,Humiliate"
+178-current.txt,transmit unsolicited or unauthorised advertising,Spam
+7289-current.txt,Make calls or send texts in relation to the marketing,"promotion or administration of a business, group or organisation,Business Promotion"
+7289-current.txt,Send bulk texts to a customer base,Business Promotion
+7289-current.txt,Make an excessive number of calls to an unusually large number of recipients,Business Promotion
+7289-current.txt,Generate artificially inflated traffic,Artificial Traffic
+7289-current.txt,Send automated or unsolicited text messages,Unsolicited Texts
+7289-current.txt,Send abnormally high volumes of texts,High Volume
+7289-current.txt,Send texts to an unusually large number of recipients,High Volume
+7289-current.txt,Send large volumes of texts in a short space of time,High Volume
+7289-current.txt,Send SPAM texts,SPAM Texts
+127-current.txt,fraudulent activity,Fraud
+127-current.txt,breaching applicable law,Lawbreaking
+127-current.txt,harm to a child,Harm to Child
+127-current.txt,sending unsolicited content,Spam
+127-current.txt,breaching terms of use,Breach of Terms
+127-current.txt,introducing viruses,Malware
+127-current.txt,unauthorized access,Unauthorized Access
+127-current.txt,denial-of-service attack,DoS Attack
+022-current.txt,uploading content that is offensive,Offensive Content
+022-current.txt,making contact with other users that is offensive,Offensive Contact
+022-current.txt,linking to our site from an inappropriate website,Inappropriate Linking
+022-current.txt,interacting with our site in a fraudulent manner,Fraudulent Interaction
+013-current.txt,Posting offensive or illegal content,Illegal Content
+013-current.txt,Selling or trading user accounts,Account Trading
+013-current.txt,Harassing other users,Harassment
+2111-current.txt,skip to Main Navigation,Inappropriate Use
+2111-current.txt,skip to Content,Inappropriate Use
+2111-current.txt,any purpose stated in this Acceptable Use Policy as being not acceptable,Inappropriate Use
+1028-current.txt,Compliance with Laws and Regulations,Violating laws
+1028-current.txt,No Harmful Activities,Harmful activities
+0040-current.txt,Providing inaccurate information,Misrepresentation
+0040-current.txt,Unauthorized access,Unauthorized Access
+0040-current.txt,Interfering with services,Interference
+0040-current.txt,Duplicating resources,Duplication
+0040-current.txt,Commercial activities,Commercial Activity
+082-current.txt,Transmission or exchange of illegal material,Illegal material
+082-current.txt,Transmission or exchange of offensive material,Offensive material
+082-current.txt,Transmission or exchange of material in breach of copyright,Copyright breach
+6236-current.txt,Security violations or network abuse,Security Abuse
+6236-current.txt,Bypass security,Security Bypass
+6236-current.txt,Security risk,Security Risk
+6236-current.txt,Malicious attacks,Malicious Attack
+6236-current.txt,Fake engagement,Fake Engagement
+6236-current.txt,Infringement,Infringement
+6236-current.txt,Harmful content,Harmful Content
+1706-current.txt,Post unlawful material,Unlawful Posting
+1706-current.txt,Transmit threatening material,Threatening Transmission
+1706-current.txt,Distribute libelous material,Libelous Distribution
+1706-current.txt,Encourage criminal conduct,Criminal Encouragement
+1706-current.txt,Promote physical harm,Physical Harm Promotion
+1706-current.txt,Impersonate a person,Impersonation
+1706-current.txt,Solicit money,Money Solicitation
+1706-current.txt,Contain a virus,Virus Containment
+1893-current.txt,Navigation,Navigation
+1893-current.txt,Exams,Exams
+1893-current.txt,SuperCoaching,Super Coaching
+1893-current.txt,Live Classes,Live Classes
+1893-current.txt,Test Series,Test Series
+1893-current.txt,Skill Academy,Skill Academy
+1893-current.txt,Select Courses,Select Courses
+1893-current.txt,Practice,Practice
+1893-current.txt,Pass,Pass
+1893-current.txt,Pass Pro,Pass Pro
+1893-current.txt,GK & Current Affairs,GK & Current Affairs
+1893-current.txt,Doubts,Doubts
+1893-current.txt,Blog,Blog
+1893-current.txt,Refer & Earn,Refer & Earn
+1893-current.txt,Our Selections,Our Selections
+1893-current.txt,Get Started,Get Started
+1893-current.txt,English,English
+1893-current.txt,Hindi,Hindi
+1893-current.txt,Get Pass,Get Pass
+1893-current.txt,Pro,Pro
+1893-current.txt,Renew Pass Pro,Renew Pass Pro
+1893-current.txt,Get Pass Pro,Get Pass Pro
+1893-current.txt,Upgrade to Pass Pro,Upgrade Pass Pro
+1893-current.txt,All Exams,All Exams
+1893-current.txt,Careers,Careers
+1893-current.txt,IAS Preparation,IAS Preparation
+1893-current.txt,Current Affairs,Current Affairs
+1893-current.txt,Get App,Get App
+1893-current.txt,Acceptable Use Policy,Acceptable Use Policy
+180-current.txt,Not enabling JavaScript,Not following instructions
+7346-current.txt,Use the Foursquare Services to send spam,Use Spam
+198-current.txt,Using unallocated IP Address,Unauthorized IP Use
+198-current.txt,Violation of applicable laws,Illegal Activity
+7094-current.txt,Illegal Use,Illegal
+7094-current.txt,Spam,Spam
+7094-current.txt,Identity Theft and Privacy,Identity Theft
+7094-current.txt,Hate Content,"Defamation,Libel,Hate Content"
+0354-current.txt,Illegal activity,Illegal
+0354-current.txt,Fraudulent or illegal use,Fraudulent
+0354-current.txt,Auto-dialing; trunking; traffic pumping,Auto-dialing
+0354-current.txt,Exploit or harm minors,Harm minors
+0354-current.txt,Interfere; transmit viruses,Transmit viruses
+0354-current.txt,Objectionable or Misleading activity,Objectionable
+129-current.txt,WIN  TWO VIP TICKETS TO PUB IN THE PARK 2023 – T&CS,Winning Tickets
+129-current.txt,WIN A £100 VOUCHER FOR KERRIDGE’S BAR AND GRILL,Winning Voucher
+129-current.txt,WIN A MEAL FOR 2 AT KERRIDGE’S FISH & CHIPS TERMS AND CONDITIONS,Winning Meal
+129-current.txt,HOLLANDAISE SAUCE,Unauthorized Access
+129-current.txt,Order Form,Unauthorized Access
+129-current.txt,Payment,Unauthorized Access
+129-current.txt,Your Saved Recipes,Unauthorized Access
+129-current.txt,PIRATES ONLY,Unauthorized Access
+129-current.txt,TOM IN THE COMMUNITY,Unauthorized Access
+129-current.txt,WHAT’S NEW,Unauthorized Access
+129-current.txt,FOOD AND DRINK INSPIRATION,Unauthorized Access
+129-current.txt,PRODUCTS,Unauthorized Access
+129-current.txt,TOM KERRIDGE IN THE COMMUNITY,Unauthorized Access
+129-current.txt,EVENTS,Unauthorized Access
+129-current.txt,THANK YOU,Unauthorized Access
+129-current.txt,MY ACCOUNT,Unauthorized Access
+129-current.txt,TOM’S RECIPE BOOKS,Unauthorized Access
+129-current.txt,HOME,Unauthorized Access
+129-current.txt,PIRATE SHIP PODCASTS,Unauthorized Access
+129-current.txt,Privacy and Cookie Policy,Unauthorized Access
+129-current.txt,MY FAVOURITE RECIPES,Unauthorized Access
+129-current.txt,TOM’S RESTAURANTS,Unauthorized Access
+129-current.txt,SIGNUP,Unauthorized Access
+129-current.txt,Terms of Use,Unauthorized Access
+129-current.txt,COOK-A-LONG VIDEOS,Unauthorized Access
+129-current.txt,THANK YOU,Unauthorized Access
+129-current.txt,SIGN IN/UP,Unauthorized Access
+050-current.txt,Unauthorized use of company equipment,Unauthorized use
+050-current.txt,Unauthorized access to company files,Unauthorized access
+050-current.txt,Illegal activities,Illegal activities
+050-current.txt,Using company equipment for personal gain,Personal gain
+050-current.txt,Intentional damage to company systems,Intentional damage
+115-current.txt,Visit or use Website/App without agreeing to the Acceptable Use Policy,Violate Policy
+0586-current.txt,Using personal API keys for public-facing applications,Unauthorized use
+8546-current.txt,Breaching applicable law,Illegal
+8546-current.txt,Harming minors,Harmful
+8546-current.txt,Content not complying with standards,Inappropriate
+8546-current.txt,Transmitting unsolicited material,Spam
+8546-current.txt,Transmitting data containing viruses,Malicious
+8546-current.txt,Reproducing content,Duplication
+8546-current.txt,Unauthorized access,Unauthorized
+7081-current.txt,breach applicable law,Breach Law
+7081-current.txt,fraudulent purpose,Fraudulent
+7081-current.txt,harm anyone,Harm
+7081-current.txt,non-compliant material,Non-Compliant
+7081-current.txt,unsolicited advertising,Unsolicited Ad
+0838-current.txt,Use in a way that is against applicable law,Illegal activity
+0838-current.txt,Upload and distribute unlicensed software,Piracy
+0838-current.txt,Access from embargoed country,Embargoed country
+0838-current.txt,Threatening,Stalking
+0838-current.txt,Invading privacy,Privacy invasion
+0838-current.txt,Gain unauthorized access,Unauthorized access
+0838-current.txt,Use to gain unauthorized access,Unauthorized access
+0838-current.txt,Use automated process,Automated process
+0301-current.txt,Downloading malicious software,Malicious Software
+0301-current.txt,Using DWP systems for personal gain,Personal Gain
+0301-current.txt,Unauthorised access to DWP systems,Unauthorised Access
+2553-current.txt,Interfere with functionality,Interference
+2553-current.txt,Violate privacy rights,Privacy violation
+2553-current.txt,Upload malware,Malware upload
+7287-current.txt,Sharing export-controlled information,Export control
+9864-current.txt,apply cashback savings,Financial Transaction
+9864-current.txt,harm minors,Harm Minors
+9864-current.txt,send unsolicited/unauthorised advertising,Spam
+3045-current.txt,use MoJ IT systems or services for any activities which are illegal,Illegal activities
+3045-current.txt,use MoJ IT systems or services to access,"store, process or transmit inappropriate material,Inappropriate material"
+1091-current.txt,Use of Service without agreement,Unauthorized use
+1091-current.txt,Accessing Service without an account,Unauthorized use
+1091-current.txt,Failure to comply with Policy,Non-compliance
+3080-current.txt,Running servers,Unpermitted Server
+3080-current.txt,Web servers,Web Server
+3080-current.txt,SMTP,"POP, IMAP mail servers,Mail Server"
+3080-current.txt,News servers,News Server
+3080-current.txt,FTP servers,FTP Server
+3080-current.txt,Games servers,Game Server
+3080-current.txt,Media servers (e.g.Napster),Media Server
+3080-current.txt,Streaming media servers,Streaming Media
+3080-current.txt,Proxy servers,Proxy Server
+3080-current.txt,Remote adminstration servers,Remote Admin
+3080-current.txt,DNS servers,DNS Server
+3080-current.txt,DHCP servers,DHCP Server
+3080-current.txt,X servers,X Server
+3080-current.txt,Telnet servers,Telnet Server
+3080-current.txt,SSH servers,SSH Server
+3080-current.txt,Print servers,Print Server
+3080-current.txt,TFTP Servers,TFTP Server
+3080-current.txt,Messaging servers,Messaging Server
+3080-current.txt,MUD servers,MUD Server
+3080-current.txt,ICQ servers,ICQ Server
+3080-current.txt,Chat servers,Chat Server
+3080-current.txt,IRC servers,IRC Server
+3080-current.txt,Database servers,Database Server
+3080-current.txt,File and Printer sharing (e.g.the Windows Networking service),File Sharing
+5524-current.txt,Use of the Cricket Network and Services without agreement,Non-Compliance
+5524-current.txt,Data Speeds exceeding 8 Mbps,Excessive Speed
+5524-current.txt,Data access speeds exceeding 128 kbps,Excessive Speed
+2510-current.txt,Transactions with illegal/fraudulent activity,Illegal/Fraudulent
+2510-current.txt,Transactions involving gambling,Gambling
+2510-current.txt,Transactions involving adult services,Adult Services
+2510-current.txt,Transactions involving weapons or explosives,Weapons/Explosives
+2510-current.txt,Transactions involving drug paraphernalia,Drug Paraphernalia
+098-current.txt,Breach applicable law,Illegal
+098-current.txt,Attempt to harm minors,Harm minors
+098-current.txt,Send unsolicited or unauthorised material,Spam
+098-current.txt,Transmit viruses,Malware
+3352-current.txt,Offer goods or services that exploit or abuse children,Child exploitation
+3352-current.txt,Promote or condone hate or violence,Hateful content
+8628-current.txt,track visits to our website,Tracking Visitors
+8628-current.txt,store any of your personal details,Storing Personal Details
+0156-current.txt,Collectives™ on Stack Overflow,Illegal Use
+0156-current.txt,Operating a phishing site,Illegal Use
+0156-current.txt,Submitting spam,Spam
+0156-current.txt,Identity Theft and Privacy,Identity Theft
+153-2023.txt,Child exploitation,Exploitation
+153-2023.txt,COVID-19,Non-Compliance
+153-2023.txt,Harassment,Bullying
+153-2023.txt,Defamation,Threats
+153-2023.txt,Hateful content,Hate
+128-2023.txt,Skipping content,"Ignoring policy,Data Transfer,Unauthorized data transfer"
+70-2023.txt,Violation of AUP,Violation
+70-2023.txt,Using services without agreeing to AUP,Unauthorized Use
+166-2023.txt,Illegal Activities,Illegal
+166-2023.txt,Harmful or Fraudulent Activities,Fraudulent
+166-2023.txt,Infringing Content,Infringing
+166-2023.txt,Offensive Content,Offensive
+166-2023.txt,Harmful Content,Harmful
+186-2023.txt,use the Services in violation of any applicable laws,Label
+186-2023.txt,use the Services to commit fraud or other illegal activities,Illegal Activity
+186-2023.txt,use the Services to distribute malware,Malware Distribution
+41-2023.txt,Unlawful activities,Unlawful
+41-2023.txt,Harmful to AT&T network,Harmful
+41-2023.txt,Interferes with use of others' services,Interfering
+41-2023.txt,Infringes intellectual property rights,Infringing
+41-2023.txt,Publishes threatening/offensive material,Threatening
+41-2023.txt,Spam/E-mail/Usenet abuse,Abuse
+41-2023.txt,Security risk,Security Risk
+41-2023.txt,Violation of privacy,Privacy Violation
+11-2023.txt,Using our site unlawfully,Unlawful Use
+11-2023.txt,Using our site fraudulently,Fraudulent Use
+11-2023.txt,Harming minors,Harm Minors
+11-2023.txt,Not complying with content standards,Content Standards
+11-2023.txt,Transmitting spam,Spam
+168-2023.txt,Creation or distribution of unsolicited bulk email and mailing lists,Spam
+168-2023.txt,Creation of an account after being previously terminated by Linode without our prior written permission,Unauthorized Account Creation
+168-2023.txt,Disruption or interference of any data system or network,"computer or communications system, software application, or network or computing device,System Interference"
+168-2023.txt,Monitoring data or traffic on any network or system without the express authorization of the owner of the system or network,Unauthorized Monitoring
+37-2023.txt,Attempt to access or search the Products,"App, or Site with any engine, software, tool, agent, device, or mechanism other than the software and/or search agents provided by DAT,Unauthorized Access"
+131-2023.txt,be under 18,Underage
+131-2023.txt,provide false information,Misrepresentation
+131-2023.txt,refuse to provide Services,Refusal
+131-2023.txt,suspend or close account,Suspension
+27-2023.txt,In a manner that causes,"or may cause, damage to the website or impairment of the availability or accessibility of the website,Damage"
+53-2023.txt,Accessing or using the Site without agreeing to the Policy,Non-Compliance
+53-2023.txt,Submitting Content to the Site,Content Submission
+53-2023.txt,Using the Site for any purpose other than its intended use,Misuse
+54-2023.txt,Share on Twitter,Social Media
+54-2023.txt,Edit this page,Editing
+54-2023.txt,Open Web IDE,Software Access
+54-2023.txt,Maintained by:,N/A
+54-2023.txt,Contribute to this page,Editing
+54-2023.txt,View source,Software Access
+54-2023.txt,Open in Web IDE,Software Access
+54-2023.txt,Use of file sharing services other than Google Drive,File Sharing
+57-2023.txt,Use the Service for unlawful purposes,Unlawful use
+20-2023.txt,Breaching applicable law,Breaching Law
+20-2023.txt,Unlawful/fraudulent purpose,Unlawful/Fraud
+20-2023.txt,Harming minors,Harm Minors
+20-2023.txt,Transmitting spam,Spam
+20-2023.txt,Reproducing content,Duplicate
+20-2023.txt,Accessing without authority,Unauthorized Access
+203-2023.txt,Skip main content,Navigation
+203-2023.txt,Contact Us,Navigation
+203-2023.txt,Email Sales,Communication
+203-2023.txt,Sales Chat,Communication
+205-2023.txt,violating any law,Illegal Activity
+205-2023.txt,displaying,"performing, sending, receiving or storing any content that is obscene, inappropriate, offensive,Objectionable Content"
+205-2023.txt,harassing any person,Harassment
+205-2023.txt,infringing,"violating or misappropriating another's rights,Infringement"
+205-2023.txt,obtaining unauthorized access,Unauthorized Access
+205-2023.txt,distributing computer viruses or malware,Malware Distribution
+205-2023.txt,sending,"receiving or supporting email messages that are unsolicited, deceptive, anonymous, excessively voluminous or that contain falsified identifying information,Spamming"
+43-2023.txt,Use our Services in connection with any illegal activities,Illegal Activities
+43-2023.txt,Content on our network contains prohibited content,Prohibited Content
+43-2023.txt,Domain names registered with us contain illegal activities,Illegal Activities
+93-2023.txt,Breaching applicable law,Illegal Activity
+93-2023.txt,Attempting to harm minors,Harm Minors
+93-2023.txt,Non-compliance with content standards,Content Standards
+93-2023.txt,Transmitting unsolicited material,Spam
+93-2023.txt,Transmitting harmful computer code,Malware
+169-2023.txt,Use Services to violate applicable law,"rule or regulation,Violate Law"
+116-2023.txt,Display Prohibited Materials,Infringement
+116-2023.txt,Store Prohibited Materials,Infringement
+116-2023.txt,Process Prohibited Materials,Infringement
+116-2023.txt,Transmit Prohibited Materials,Infringement
+116-2023.txt,Access Non-Public Areas,Unauthorized Access
+116-2023.txt,Probe Alchemer Systems,Unauthorized Access
+116-2023.txt,Interfere with Users,Disruption
+116-2023.txt,Scrape the SaaS,Unauthorized Access
+116-2023.txt,Send Unsolicited Communications,Spam
+116-2023.txt,Send Altered Source Information,Spoofing
+116-2023.txt,Decipher Software,Reverse Engineering
+6-2023.txt,Breaches any applicable law,Breaching law
+6-2023.txt,Unlawful or fraudulent,Unlawful Fraud
+6-2023.txt,Harm minors,Harm minors
+6-2023.txt,Non-compliance with content standards,Non-compliance
+6-2023.txt,Transmit unsolicited or unauthorised advertising,Spam
+6-2023.txt,Transmit viruses,Viruses
+39-2023.txt,Provide false information,Misinformation
+39-2023.txt,Maintain false information,Misinformation
+39-2023.txt,Create multiple accounts,Multiple Accounts
+47-2023.txt,Uploading malicious software,Malicious Software
+47-2023.txt,Harassing or intimidating other users,Harassment/Intimidation
+47-2023.txt,Collecting personal data without permission,Data Collection
+50-2023.txt,Use Services in violation of applicable laws,Violate laws
+22-2023.txt,Abuse,Abuse
+22-2023.txt,Discrimination,Discrimination
+22-2023.txt,Rights Infringement,Rights Infringement
+22-2023.txt,Harm or Disadvantage,Harm
+22-2023.txt,Unauthorized Use,Unauthorized Use
+31-2023.txt,misuse of the Service,Misuse
+31-2023.txt,unauthorized access,Unauthorized Access
+31-2023.txt,non-commercial use,Non-Commercial Use
+84-2023.txt,breaching applicable law,Illegal Activity
+84-2023.txt,fraudulent activity,Illegal Activity
+84-2023.txt,harming minors,Harm Minors
+84-2023.txt,not complying with content standards,Content Standards
+84-2023.txt,sending spam,Spam
+84-2023.txt,transmitting viruses,Viruses
+72-2023.txt,Update Browser,Outdated Browser
+110-2023.txt,Cause damage to the Services,Damage
+110-2023.txt,Be unlawful,"illegal, fraudulent or harmful,Illegal"
+110-2023.txt,Infringe legal rights,Infringe
+110-2023.txt,Give rise to legal action,Legal action
+110-2023.txt,Be libellous or maliciously false,Libel
+110-2023.txt,Be obscene or indecent,Obscene
+110-2023.txt,Infringe intellectual property rights,Intellectual property
+110-2023.txt,Infringe rights of confidence,Confidence
+110-2023.txt,Depict violence,Violence
+110-2023.txt,Be pornographic,Pornographic
+110-2023.txt,Be untrue,"false, inaccurate or misleading,Misleading"
+110-2023.txt,Cause illness,"injury or death,Harmful"
+81-2023.txt,Contact sales,Misuse services
+81-2023.txt,Log in,Misuse services
+81-2023.txt,Free trial,Misuse services
+81-2023.txt,Home,Misuse services
+81-2023.txt,Trust,Misuse services
+81-2023.txt,Terms,Misuse services
+81-2023.txt,Acceptable Use Policy,Misuse services
+81-2023.txt,Dropbox provides services,Misuse services
+81-2023.txt,Help anyone else to do so,Misuse services
+4-2023.txt,Illegal activities,Illegal
+4-2023.txt,Harmful activities,Harmful
+4-2023.txt,Unauthorized access,Unauthorized
+190-2023.txt,Breaches any law or regulation,Breach Law
+190-2023.txt,Infringes the Intellectual Property Rights,Infringe IP
+190-2023.txt,Engages in any fraudulent,"deceptive, or defamatory conduct,Fraudulent Conduct"
+190-2023.txt,Introduces Malware,Introduce Malware
+190-2023.txt,Permits unauthorized access,Unauthorized Access
+190-2023.txt,Breaches security/data privacy obligations,Security Breach
+190-2023.txt,Creates an online account with false information,False Information
+190-2023.txt,Initiates a chargeback,Chargeback
+190-2023.txt,Abusive/offensive behavior,Abusive Behavior
+190-2023.txt,Attempts to test vulnerability,Test Vulnerability
+190-2023.txt,Modifies source code,Modify Source Code
+190-2023.txt,Attempts to access/search with other engine,Other Engine
+190-2023.txt,Attempts to decompile/reverse engineer,Decompile/Reverse
+190-2023.txt,Stores/transmits infringing material,Infringing Material
+190-2023.txt,Stores/transmits Malware,Store Malware
+190-2023.txt,Stores/transmits material in violation of export control laws,Export Control Violation
+34-2023.txt,Legal,Compliance
+34-2023.txt,card or payment association (e.g.,"VISA, MasterCard, NACHA) rules and policies,Compliance"
+34-2023.txt,prohibited use of the Services,Prohibited Use
+132-2023.txt,Breaches applicable law,Law violation
+132-2023.txt,Unlawful or fraudulent purpose,Fraud
+132-2023.txt,Harm minors,Harm minors
+132-2023.txt,Non-compliant material,Non-compliant
+132-2023.txt,Unauthorized advertising,Unauthorized ad
+132-2023.txt,Harmful programs,Harmful programs
+132-2023.txt,Duplicate,Duplication
+45-2023.txt,breaches any applicable law or regulation,Law violation
+45-2023.txt,unlawful or fraudulent purpose,Fraud
+45-2023.txt,harm minors,Harm minors
+45-2023.txt,send unsolicited or unauthorised advertising,Spam
+45-2023.txt,transmit viruses,Viruses
+180-2023.txt,Sharing of Information,Sharing Personal Info
+97-2023.txt,Log,Authentication
+97-2023.txt,Try for free,Free Trial
+97-2023.txt,Test for free now,Free Trial
+171-2023.txt,Conduct that may result in a breach to any laws or regulations,Illegal behavior
+171-2023.txt,Conduct likely to result in retaliation,Malicious behavior
+206-2023.txt,violate any local,"regional, national or international law,Violation of Law"
+206-2023.txt,distribution of child pornography,Child Pornography
+206-2023.txt,defamation,Harassment
+206-2023.txt,transmission of malicious code,Malicious Code
+206-2023.txt,promotes,"incites or threatens violence,Violence"
+206-2023.txt,contains harassing content or hate speech,Hate Speech
+206-2023.txt,infringes on another personâ€™s copyright,Copyright Infringement
+89-2023.txt,Print this page,Printing
+159-2023.txt,Sell,"Sublease or Share with Third Parties,Unauthorized Sharing"
+159-2023.txt,Use for Commercial Purposes,Commercial Use
+159-2023.txt,Unrestricted Public Access,Unauthorized Access
+137-2023.txt,Posting obscene material,Obscene material
+137-2023.txt,Unauthorized access to other computers or networks,Unauthorized access
+137-2023.txt,Distributing viruses,Virus distribution
+187-2023.txt,Transmission or distribution of any material in violation of any applicable law or regulation,Illegal Use
+187-2023.txt,Use of the Service to impersonate a person or entity,Impersonation
+187-2023.txt,Violations of system or network security,Security Violation
+204-2023.txt,Transmission,"distribution, or storage of any material in violation of any applicable law, regulation, right, or license,Illegal Use"
+204-2023.txt,Engage in any activity that is illegal under local,"state, federal or international law,Illegal Use"
+204-2023.txt,Violation or attempted violation of any system or network security element,Network Security
+129-2023.txt,Abuse,Abuse
+129-2023.txt,Discrimination,Discrimination
+129-2023.txt,Rights infringement,Infringement
+129-2023.txt,Harm or disadvantage any group,Harmful
+129-2023.txt,Unauthorized use,Unauthorized
+161-2023.txt,Illegal Activities,Illegal
+161-2023.txt,Harmful Content,Harmful
+161-2023.txt,Falsification/Impersonation,Impersonation
+189-2023.txt,Breaches any applicable law,Breaching law
+189-2023.txt,Unlawful or fraudulent purpose,Unlawful fraud
+189-2023.txt,Attempting to harm minors,Harm minors
+189-2023.txt,Non-compliant material,Non-compliant
+189-2023.txt,Unsolicited or unauthorised advertising,Unauthorised advertising
+189-2023.txt,Transmit viruses,Transmit viruses
+189-2023.txt,Send or upload harmful programs,Harmful programs
+154-2023.txt,access or use the Site or its content in any other way,Misuse
+170-2023.txt,Breaching applicable law,Unlawful
+170-2023.txt,Fraudulent purpose,Fraudulent
+170-2023.txt,Harming minors,Harm minors
+170-2023.txt,Bullying,Bullying
+170-2023.txt,Sending spam,Spam
+88-2023.txt,publish materials that violate the law or this Acceptable Use Policy,Violate Law
+88-2023.txt,suspend or cancel the services of any US Internet subscriber,Cancel Services
+88-2023.txt,misuse US Internet services,Misuse Services
+88-2023.txt,delay US Internet services,Delay Services
+88-2023.txt,non-delivery of US Internet services,Non-Delivery
+111-2023.txt,Enter EdgeConneX data centers without approval,Unauthorized Access
+111-2023.txt,Intrusions into Customer Equipment,Security Breach
+58-2023.txt,Use Malicious Code,Malicious Code
+10-2023.txt,breaching applicable laws,Illegal
+10-2023.txt,fraudulent purpose,Fraud
+10-2023.txt,harming minors,Harm
+10-2023.txt,not complying with content standards,Content Standards
+10-2023.txt,sending spam,Spam
+10-2023.txt,transmitting viruses,Viruses
+51-2023.txt,Undertake or accomplish any act that is illegal,Illegal activity
+51-2023.txt,Harvest or collect information about others,Data harvesting
+79-2023.txt,Transmission or exchange of illegal material,Illegal material
+79-2023.txt,Transmission or exchange of offensive material,Offensive material
+79-2023.txt,Breach of copyright,Copyright infringement
+79-2023.txt,Unsolicited bulk email,Spam
+68-2023.txt,In any way that breaches any applicable local,"national, or international law or regulation,Breaching Law"
+68-2023.txt,In any way that is unlawful or fraudulent,Unlawful Fraud
+68-2023.txt,For the purpose of harming or attempting to harm minors,Harming Minors
+68-2023.txt,For anything that is abusive,"harmful,Abusive Harmful"
+68-2023.txt,For any unsolicited or unauthorised advertising,"promotional material,Unsolicited Advertising"
+68-2023.txt,To deal in harmful programs,Dealing Harmful Programs
+68-2023.txt,To evade any applicable taxes,Evading Taxes
+68-2023.txt,Adult content,Adult Content
+68-2023.txt,Pornography and other visual content depicting explicitly sexual acts,Pornography
+68-2023.txt,Services of sexual nature,Sexual Services
+68-2023.txt,Sexually oriented establishments,Sexual Establishments
+68-2023.txt,Alcohol businesses,Alcohol Business
+155-2023.txt,copyright infringement,Copyright Infringement
+155-2023.txt,patent infringement,Patent Infringement
+155-2023.txt,trademark infringement,Trademark Infringement
+155-2023.txt,trade secret misuse,Trade Secret Misuse
+155-2023.txt,child pornography,Child Pornography
+155-2023.txt,child erotica,Child Erotica
+155-2023.txt,non-consensual sex acts,Non-Consensual Sex
+155-2023.txt,bestiality,Bestiality
+155-2023.txt,gambling,Gambling
+155-2023.txt,defamation,Defamation
+155-2023.txt,harassment,Harassment
+155-2023.txt,libel,Libel
+155-2023.txt,slander,Slander
+155-2023.txt,fraud,Fraud
+155-2023.txt,false advertising,False Advertising
+155-2023.txt,hacking,Hacking
+155-2023.txt,phishing,Phishing
+155-2023.txt,social engineering,Social Engineering
+155-2023.txt,malicious code,Malicious Code
+155-2023.txt,unauthorized use,Unauthorized Use
+155-2023.txt,violence,Violence
+155-2023.txt,sex trafficking,Sex Trafficking
+155-2023.txt,harassing content,Harassing Content
+155-2023.txt,hate speech,Hate Speech
+155-2023.txt,privacy violation,Privacy Violation
+155-2023.txt,terrorism,Terrorism
+155-2023.txt,trafficking,Trafficking
+155-2023.txt,denial of service,Denial of Service
+179-2023.txt,Log in,Logging in
+179-2023.txt,Start now,Starting
+179-2023.txt,Go to the New Relic platform,Navigating
+77-2023.txt,Managing passwords,Managing passwords
+77-2023.txt,Online intellectual property,Online intellectual property
+77-2023.txt,Software licenses,Software licenses
+77-2023.txt,Excessive use of system resources,Excessive use
+30-2023.txt,Skip to Main Content,Navigation
+30-2023.txt,Select a Location,Navigation
+30-2023.txt,Close Location Selection,Navigation
+30-2023.txt,Close Sign In,Navigation
+30-2023.txt,Close Menu,Navigation
+30-2023.txt,Close Sign In,Navigation
+30-2023.txt,Close Menu,Navigation
+114-2023.txt,Copy or distribute content,Copyright violation
+114-2023.txt,Misrepresent your identity,Identity fraud
+114-2023.txt,Violate any applicable laws,Illegal activity
+24-2023.txt,Illegal activity,Illegal
+24-2023.txt,Resale Prohibited,Resale
+24-2023.txt,NO HIGH RISK USE,High Risk
+24-2023.txt,Infringing activity,Infringing
+24-2023.txt,Minors,Minors
+142-2023.txt,Breaching applicable law,Illegal
+142-2023.txt,Harm minors,Harmful
+142-2023.txt,Non-compliant material,Inappropriate
+142-2023.txt,Unauthorized advertising,Spam
+142-2023.txt,Data transmission with viruses,Malicious
+142-2023.txt,Reproducing Our Site,Infringement
+142-2023.txt,Unauthorized access,Unauthorized
+167-2023.txt,contact,Inappropriate Communication
+167-2023.txt,LoginBDx 360Â° Login,Unauthorized Access
+167-2023.txt,Channel Partners,Inappropriate Communication
+167-2023.txt,transmit obscene content,Harmful Content
+167-2023.txt,defamatory,Harmful Content
+167-2023.txt,libelous,Harmful Content
+167-2023.txt,threatening,Harmful Content
+167-2023.txt,abusive,Harmful Content
+167-2023.txt,hateful,Harmful Content
+167-2023.txt,excessive violence,Harmful Content
+167-2023.txt,violate,Proprietary Rights
+167-2023.txt,infringe,Proprietary Rights
+167-2023.txt,breach Intellectual Property rights,Proprietary Rights
+167-2023.txt,interfere,Harmful Content
+167-2023.txt,interrupt,Harmful Content
+167-2023.txt,cause injury or harm,Harmful Content
+83-2023.txt,Authorise,"encourage, promote, facilitate or instruct others to violate this Policy,Violate Policy"
+92-2023.txt,Breach applicable law,Illegal
+92-2023.txt,Harm minors,Harmful
+92-2023.txt,Content standards violation,Content violation
+92-2023.txt,Spam,Spam
+92-2023.txt,Transmit viruses,Virus
+92-2023.txt,Send unsolicited/unauthorised advertising,Spam
+60-2023.txt,To commit any unlawful act,Unlawful act
+65-2023.txt,Accessing the Services without authorization,Unauthorized Access
+65-2023.txt,Using the Services to send unsolicited messages,Spamming
+65-2023.txt,Using the Services to facilitate any illegal activities,Illegal Activity
+207-2023.txt,Infringing copyright,Copyright Infringement
+207-2023.txt,Unauthorized use,Unauthorized Use
+207-2023.txt,Data collection,Data Collection
+188-2023.txt,Misuse of Amplitude's website,Misuse
+188-2023.txt,Violate applicable law,Violate Law
+188-2023.txt,Pose a risk to the Services,Pose Risk
+91-2023.txt,Posting offensive content,Offensive Content
+91-2023.txt,Spamming,Spam
+91-2023.txt,Harassing other users,Harassment
+91-2023.txt,Accessing private user data,Unauthorized Access
+139-2023.txt,Violate applicable laws,"rules and regulations,Illegal Actions"
+139-2023.txt,Refuse service to anyone,Discrimination
+139-2023.txt,Remove content without notice,Unauthorized Removal
+78-2023.txt,Use the Services if You are our competitor,Competitor Use
+38-2023.txt,Infringe national or international laws,Violate Law
+38-2023.txt,Interfere with the network,Network Interference
+38-2023.txt,Use Megaport Services without authority,Unauthorized Use
+183-2023.txt,use the Services in any way that is unlawful,Unlawful Use
+183-2023.txt,interfere with the use of Telstra's network or systems,Interference
+183-2023.txt,interfere with the rights of third parties,Rights Interference
+122-2023.txt,Posting offensive content,Offensive Content
+122-2023.txt,Harassing other users,Harassment
+122-2023.txt,Uploading copyrighted material,Copyright Infringement
+122-2023.txt,Spamming,Spamming
+2-2023.txt,Reselling Sharetru services,Reselling
+2-2023.txt,Anonymous FTP,FTP
+135-2023.txt,infringes the intellectual property rights,IP infringement
+135-2023.txt,pirated material,Piracy
+135-2023.txt,offering to sell unauthorized copies,Piracy
+135-2023.txt,violates the privacy or publicity rights,Privacy violation
+135-2023.txt,defamatory,Defamation
+135-2023.txt,obscene,Obscenity
+135-2023.txt,pornographic,Pornography
+135-2023.txt,hateful,Hate
+135-2023.txt,abusive,Abuse
+135-2023.txt,threatening,Threats
+135-2023.txt,offensive,Offensive
+135-2023.txt,illegal,Illegal
+135-2023.txt,malicious code,Malicious code
+135-2023.txt,false,False
+135-2023.txt,deceptive,Deception
+135-2023.txt,misleading,Misleading
+135-2023.txt,contains any advertising,Advertising
+135-2023.txt,contains any software,Software
+61-2023.txt,transmit any material that infringes the intellectual property rights,Privacy Rights
+61-2023.txt,transmit any material or content that is defamatory,"offensive, inflammatory, inappropriate, pornographic, obscene or otherwise objectionable,Objectionable Content"
+61-2023.txt,for any illegal,"fraudulent, or abusive purpose,Illegal Activity"
+173-2023.txt,Posting or transmitting any material that is unlawful,"obscene, defamatory, threatening, harassing, abusive, slanderous, or hateful,Harmful Content"
+197-2023.txt,posting unlawful material,Unlawful Material
+197-2023.txt,posting material which is defamatory,Defamatory Material
+197-2023.txt,posting material which is obscene,Obscene Material
+197-2023.txt,causing annoyance to other users,Annoyance
+134-2023.txt,Platform,Misuse
+134-2023.txt,Product Overview,Misuse
+134-2023.txt,Unified Customer Data,Misuse
+134-2023.txt,Customer Intelligence & AI,Misuse
+134-2023.txt,Cross-channel Engagement,Misuse
+134-2023.txt,Personalization,Misuse
+134-2023.txt,Integrations,Misuse
+134-2023.txt,Solutions,Misuse
+134-2023.txt,Solutions for:,Misuse
+134-2023.txt,Common Challenges,Misuse
+134-2023.txt,Industries,Misuse
+134-2023.txt,Email for Agencies,Misuse
+134-2023.txt,Services Overview,Misuse
+134-2023.txt,Campaign Management,Misuse
+134-2023.txt,Deliverability Services,Misuse
+134-2023.txt,Lead Generation,Misuse
+134-2023.txt,Strategic Data Consulting,Misuse
+134-2023.txt,Strategic Services,Misuse
+134-2023.txt,Client Technical Services,Misuse
+134-2023.txt,Channels,Misuse
+134-2023.txt,Channel Overview,Misuse
+134-2023.txt,Email Marketing,Misuse
+134-2023.txt,Mobile Marketing,Misuse
+134-2023.txt,Web Marketing,Misuse
+134-2023.txt,Retargeting,Misuse
+134-2023.txt,Direct Mail Marketing,Misuse
+134-2023.txt,Customers,Misuse
+134-2023.txt,Our Customers,Misuse
+134-2023.txt,Retail & eCommerce,Misuse
+134-2023.txt,Finance & Insurance,Misuse
+134-2023.txt,Media & Publishing,Misuse
+134-2023.txt,Other Industries,Misuse
+134-2023.txt,Partners,Misuse
+134-2023.txt,Partner Program,Misuse
+134-2023.txt,Business and Certified Partners,Misuse
+134-2023.txt,Technology Partners,Misuse
+134-2023.txt,Become a Partner,Misuse
+134-2023.txt,Become a partner,Misuse
+134-2023.txt,Blog,Misuse
+134-2023.txt,Resources,Misuse
+134-2023.txt,SIGN UP FOR OUR NEWSLETTER,Misuse
+134-2023.txt,THE TOTAL ECONOMIC IMPACTâ„¢ OF MAPP CLOUD,Misuse
+134-2023.txt,Download report â€º,Misuse
+134-2023.txt,About us,Misuse
+134-2023.txt,Why Mapp,Misuse
+134-2023.txt,Leadership,Misuse
+134-2023.txt,Careers,Misuse
+134-2023.txt,Press,Misuse
+134-2023.txt,Contact Us,Misuse
+134-2023.txt,FALL UPDATE 2022,Misuse
+134-2023.txt,Read more â€º,Misuse
+134-2023.txt,Contact Us,Violation
+125-2023.txt,Transmitting unlawful material,Illegal
+125-2023.txt,Furnishing false data,Fraud
+125-2023.txt,Unsolicited bulk or commercial messages,Spam
+125-2023.txt,Forging,"altering or removing electronic mail headers,Mail Header Manipulation"
+125-2023.txt,Sending numerous copies of the same or substantially similar message,Mail Bombing
+174-2023.txt,Unlawful purpose,Illegal activity
+174-2023.txt,Interfering with use and enjoyment of Services,Interference
+120-2023.txt,Fraudulent activity,Fraud
+120-2023.txt,Breaching laws,Breach
+120-2023.txt,Harm to child,Harm
+120-2023.txt,Sending spam,Spam
+120-2023.txt,Reproducing content,Reproduce
+120-2023.txt,Introducing malicious material,Malicious
+120-2023.txt,Gaining unauthorised access,Unauthorised Access
+120-2023.txt,Denial-of-service attack,DoS Attack
+85-2023.txt,In any way that breaches any applicable local,"national or international law or regulation,Illegal activity"
+85-2023.txt,In any way that is unlawful or fraudulent,Unlawful activity
+85-2023.txt,For the purpose of harming or attempting to harm minors,Harm minors
+85-2023.txt,To send,"knowingly receive, upload, download, use or re-use any material which does not comply with our content standards,Violate content standards"
+85-2023.txt,To transmit,"or procure the sending of, any unsolicited or unauthorised advertising or promotional material or any other form of similar solicitation (spam),Spam"
+85-2023.txt,To knowingly transmit any data,"send or upload any material that contains viruses, Trojan horses, worms, time-bombs, keystroke loggers, spyware, adware or any other harmful programs or similar computer code designed to adversely affect the operation of any computer software or hardware,Malicious code"
+115-2023.txt,Unauthorized access,Unauthorized Access
+115-2023.txt,Illegal activities,Illegal Activity
+115-2023.txt,Threatening or harassing behavior,Harassment
+115-2023.txt,Distribution of malware,Malware Distribution
+115-2023.txt,Spamming,Spamming
+67-2023.txt,Inputs Customer Content that is illegal,Label
+67-2023.txt,Inputs Customer Content that is offensive,Offensive
+67-2023.txt,Uses the Services to harass or threaten an Individual,Harassment
+67-2023.txt,Uses the Services to interfere with,"disrupt, or create an undue burden on the Services or the networks or services connected to the Services,Disruption"
+67-2023.txt,Uses the Services to infringe any Intellectual Property Rights of any third party,Infringement
+67-2023.txt,Uses the Services to send unsolicited advertising,"marketing or other solicitations,Spam"
+67-2023.txt,Uses the Services to post or transmit any malicious code,Malicious
+67-2023.txt,Uses the Services to access,"monitor or copy any Content using any robot, spider, scraper or other automated means or any manual process for any purpose without our express written permission,Unauthorized Access"
+42-2023.txt,Attempt to access,"circumvent, or test the vulnerability of the Services,Security violation"
+42-2023.txt,Attempt to gain unauthorized access to the Services,Security violation
+42-2023.txt,Engage in any activity that disrupts or diminishes the quality of the Services,Quality disruption
+42-2023.txt,Interfere with or disrupt the integrity or performance of the Services,Performance disruption
+42-2023.txt,Use the Services for any purpose or in any manner that violates any law,Law violation
+191-2023.txt,Unauthorized access,Unauthorized Access
+191-2023.txt,Posting of malicious content,Malicious Content
+191-2023.txt,Unauthorized distribution of copyrighted materials,Copyright Infringement
+46-2023.txt,Abusing or Disrupting the Service,Misuse Service
+172-2023.txt,Not enabling JavaScript,Not Following Rules
+144-2023.txt,Posting illegal content,Illegal content
+144-2023.txt,Distributing viruses,Virus distribution
+144-2023.txt,Unauthorized access,Unauthorized access
+144-2023.txt,Engaging in activities that disrupts services,Disruptive activity
+123-2023.txt,Offer any hardware or hardware/software combination of services for any unlawful purposes,Unlawful Use
+123-2023.txt,Post unlawful,"infringing, threatening, harassing, defamatory, vulgar, obscene, profane, indecent, offensive, hateful or otherwise objectionable material,Objectionable Material"
+123-2023.txt,Interfere with normal operation or another user's use,Interference
+29-2023.txt,Generating or sending email through the Services,Unsolicited Commercial Email
+71-2023.txt,Skip content,Unauthorized Access
+71-2023.txt,Illegal activities,Illegal
+71-2023.txt,Harmful activities,Harmful
+71-2023.txt,Fraudulent activities,Fraudulent
+71-2023.txt,Infringing content,Infringing
+71-2023.txt,Offensive content,Offensive
+71-2023.txt,Harmful content,Harmful
+71-2023.txt,Unauthorized access,Unauthorized Access
+99-2023.txt,Posting unlawful content,Unlawful content
+99-2023.txt,Gaining unauthorized access,Unauthorized access
+99-2023.txt,Infringing copyright,Copyright infringement
+82-2023.txt,breaches applicable law,Law Breach
+82-2023.txt,unlawful or fraudulent,Fraud
+82-2023.txt,harm minors,Harm Minors
+82-2023.txt,content standards,Content Standards
+82-2023.txt,unsolicited advertising,Spam
+82-2023.txt,viruses,Virus
+26-2023.txt,Violate third-party rights,Violate rights
+181-2023.txt,breaches any applicable local,"national or international law or regulation,Illegal Activity"
+181-2023.txt,unlawful or fraudulent purpose,Illegal Activity
+181-2023.txt,harm minors,Harm Minors
+181-2023.txt,material which does not comply with our content standards,Content Standards
+181-2023.txt,unsolicited or unauthorised advertising,Spam
+181-2023.txt,transmit viruses,Computer Viruses
+181-2023.txt,reproduce,"duplicate, copy or re-sell,Duplication"
+33-2023.txt,Go Back,Navigation
+33-2023.txt,Products,Navigation
+33-2023.txt,Support,Navigation
+33-2023.txt,News & Views,Navigation
+33-2023.txt,Company,Navigation
+33-2023.txt,Search Synopsys.com,Search
+33-2023.txt,Global Sites,Navigation
+33-2023.txt,Menu,Navigation
+33-2023.txt,æ—¥æœ¬èªž,Navigation
+33-2023.txt,ç®€ä½“ä¸­æ–‡,Navigation
+33-2023.txt,ç¹é«”ä¸­æ–‡,Navigation
+33-2023.txt,í•œêµ­ì–´,Navigation
+33-2023.txt,By Industry,Navigation
+33-2023.txt,Aerospace & Government,Navigation
+33-2023.txt,Automotive,Navigation
+33-2023.txt,Financial Services,Navigation
+33-2023.txt,HPC & Data Center,Navigation
+33-2023.txt,Internet of Things,Navigation
+33-2023.txt,Medical,Navigation
+33-2023.txt,Manufacturing,Navigation
+33-2023.txt,Memory,Navigation
+33-2023.txt,Mobile/5G,Navigation
+33-2023.txt,Optical,Navigation
+33-2023.txt,Photonic,Navigation
+33-2023.txt,Public Sector,Navigation
+33-2023.txt,By Technology,Navigation
+33-2023.txt,AI & Machine Learning,Navigation
+33-2023.txt,Application Security Testing,Navigation
+33-2023.txt,Cloud,Navigation
+33-2023.txt,Design Technology Co-Optimization,Navigation
+33-2023.txt,DevSecOps,Navigation
+33-2023.txt,Energy-Efficient SoCs,Navigation
+33-2023.txt,Multi-Die System,Navigation
+33-2023.txt,Open Source Audits,Navigation
+33-2023.txt,Open Source Risk Management,Navigation
+33-2023.txt,RF Design,Navigation
+33-2023.txt,Silicon Lifecycle Management,Navigation
+33-2023.txt,Software Supply Chain Security,Navigation
+33-2023.txt,Synopsys Cloud,Navigation
+33-2023.txt,Cloud native EDA tools & pre-optimized hardware platforms,Navigation
+33-2023.txt,Request a Free Evaluation â†’,Navigation
+33-2023.txt,Multi-Die System Solution,Navigation
+33-2023.txt,A comprehensive solution for fast heterogeneous integration,Navigation
+33-2023.txt,Discover Multi-Die â†’,Navigation
+33-2023.txt,View All Solutions  â†’,Navigation
+33-2023.txt,Silicon Design & Verification,Navigation
+33-2023.txt,Silicon IP,Navigation
+33-2023.txt,Application Security,Navigation
+33-2023.txt,Explore Silicon Design & Verification,Navigation
+73-2023.txt,Breaching applicable law,Illegal
+73-2023.txt,Unlawful or fraudulent purpose,Illegal
+73-2023.txt,Harming minors,Illegal
+73-2023.txt,Content standards violation,Illegal
+73-2023.txt,Sending spam,Illegal
+73-2023.txt,Transmitting viruses,Illegal
+73-2023.txt,Reproducing website,Unauthorized
+73-2023.txt,Accessing without authority,Unauthorized
+73-2023.txt,Interfering with website,Unauthorized
+73-2023.txt,Damaging website,Unauthorized
+73-2023.txt,Disrupting website,Unauthorized
+119-2023.txt,Select Sidearea,Unauthorized Access
+119-2023.txt,Populate the sidearea,Unauthorized Access
+119-2023.txt,+1234567890,Spam
+119-2023.txt,Call Now,Spam
+119-2023.txt,Email,Spam
+136-2023.txt,Unauthorized access,Unauthorized Access
+136-2023.txt,Damaging activities,Damaging Activities
+136-2023.txt,Abuse of resources,Abuse of Resources
+136-2023.txt,Unauthorized use,Unauthorized Use
+138-2023.txt,Unauthorized Use,Unauthorized Access
+150-2023.txt,Skip to content,Navigation
+150-2023.txt,Using our website for unlawful purposes,Unlawful Use
+0-2023.txt,Transmission of any material in violation of any Country,"Federal, State or Local regulation,Illegal Activity"
+0-2023.txt,Housing any copyrighted information (to which the customer does not hold the copyright or an appropriate license),Illegal Activity
+0-2023.txt,Using DreamHost's servers or network to conspire to commit or support the commission of illegal activities,Illegal Activity
+0-2023.txt,Websites dedicated to the discussion of hacking activities or the distribution of hacking tools,Hacking
+0-2023.txt,Accessing any system,"service, or network without the owner's consent,Hacking"
+0-2023.txt,Execution of Denial of Service attacks or other maliciously configured software,Service Interruptions
+0-2023.txt,Mining of any cryptocurrency,Mining of Cryptocurrencies
+0-2023.txt,Anonymous proxies,Anonymous Proxies
+127-2023.txt,Uploading malicious code,Malicious code
+127-2023.txt,Harassing or threatening other users,Harassment
+127-2023.txt,Unauthorized access to other computer systems,Unauthorized access
+127-2023.txt,Sharing confidential information,Confidentiality
+36-2023.txt,Use unlawful purpose,Unlawful Use
+36-2023.txt,Damage,"disable, overburden, impair Software Service,Damage"
+36-2023.txt,Gain unauthorized access,Unauthorized Access
+40-2023.txt,Chat,Communication
+40-2023.txt,Contact Us,Communication
+40-2023.txt,Residential,Services
+40-2023.txt,Shop,Services
+40-2023.txt,Internet,Services
+40-2023.txt,Home Phone,Services
+40-2023.txt,Moving?Check for Deals at My Home,Services
+40-2023.txt,My Brightspeed,Services
+40-2023.txt,My Home,Services
+40-2023.txt,Quick Bill Pay,Services
+40-2023.txt,Enroll,Services
+40-2023.txt,Support,Services
+40-2023.txt,Support Center,Services
+40-2023.txt,Contact Us,Communication
+40-2023.txt,Small Business,Services
+40-2023.txt,Shop,Services
+40-2023.txt,Business Internet,Services
+40-2023.txt,Business Phone,Services
+40-2023.txt,Support,Services
+40-2023.txt,Contact Us,Communication
+40-2023.txt,Support Center,Services
+40-2023.txt,Quick Bill Pay,Services
+40-2023.txt,Manage Your Account,Services
+40-2023.txt,Support,Services
+40-2023.txt,Sign In,Communication
+40-2023.txt,Chat,Communication
+40-2023.txt,Residential,Services
+40-2023.txt,Check For Deals At My Home,Services
+40-2023.txt,Internet,Services
+40-2023.txt,Home Phone,Services
+40-2023.txt,Moving?My Brightspeed Sign In,Services
+40-2023.txt,Support,Services
+40-2023.txt,Contact Us,Communication
+40-2023.txt,Support Center,Services
+40-2023.txt,Quick Bill Pay,Services
+40-2023.txt,Small Business,Services
+90-2023.txt,Misuse or abuse of products and services,Misuse/Abuse
+23-2023.txt,Transmit unsolicited or unauthorised advertising,Spam
+23-2023.txt,Attempt to harm minors,Harm minors
+23-2023.txt,Malicious activity,Malicious
+23-2023.txt,Duplicate or resell,Duplicate/Resell
+23-2023.txt,Interfere with equipment,Interference
+19-2023.txt,Search for,Searching
+19-2023.txt,Blog,Blogging
+19-2023.txt,Partners in Tone,Partnering
+19-2023.txt,Dr Decibel FAQs,FAQs
+19-2023.txt,Upgrade Your Tone,Upgrading
+19-2023.txt,Our News,News
+19-2023.txt,Contact Us,Contacting
+19-2023.txt,International Distributors,Distributing
+19-2023.txt,Download Brochures,Downloading
+19-2023.txt,Key Technologies,Technology
+19-2023.txt,Meet the Makers,Meeting
+19-2023.txt,PA Partners,Partnering
+19-2023.txt,About Us,About
+19-2023.txt,Careers,Careers
+19-2023.txt,Breaching applicable laws,Law-breaking
+19-2023.txt,Unlawful or fraudulent purpose,Fraud
+19-2023.txt,Harm minors,Harming minors
+19-2023.txt,Send unsolicited or unauthorised advertising,Spamming
+19-2023.txt,Transmit data with viruses,Viruses
+19-2023.txt,Send or upload material with harmful programs,Malware
+13-2023.txt,Illegal activity,Illegal activity
+13-2023.txt,Harassment,Harassment
+13-2023.txt,Threats,Threats
+13-2023.txt,Unauthorized access,Unauthorized access
+13-2023.txt,Spamming,Spamming
+13-2023.txt,Copyright infringement,Copyright infringement
+146-2023.txt,Login,Login Access
+52-2023.txt,Use Service Offerings for illegal activities,Illegal Activities
+52-2023.txt,Encourage fraudulent activities,Fraudulent Activities
+52-2023.txt,Infringe intellectual property,Infringing Content
+64-2023.txt,Illegal Activities,Illegal
+64-2023.txt,Harmful or Fraudulent Activities,Fraudulent
+64-2023.txt,Infringing Content,Infringing
+64-2023.txt,Offensive Content,Offensive
+64-2023.txt,Harmful Content,Harmful
+140-2023.txt,publish content or engage in activity that is harmful to others,Illegal Activity
+140-2023.txt,send unsolicited bulk or commercial e-mail,Spamming
+133-2023.txt,Skip to main content,Unauthorized Access
+133-2023.txt,Buy Now,Unauthorized Purchases
+133-2023.txt,Join Meeting,Unauthorized Access
+62-2023.txt,Use in any mission critical,"emergency, medical, life saving or life sustaining systems,High Risk Use"
+145-2023.txt,Posting of inappropriate content,Inappropriate Content
+145-2023.txt,Unauthorized access to University data,Unauthorized Access
+145-2023.txt,Harassment of other users,Harassment
+200-2023.txt,Posting,"transmission, re-transmission, or storing material,Violation of laws"
+200-2023.txt,"Installation or distribution of ""pirated"" software",Unauthorized software
+200-2023.txt,Resale of Cogent's products,Unauthorized resale
+200-2023.txt,Sending unsolicited commercial or bulk email,Spam
+200-2023.txt,Accessing accounts of others,Unauthorized access
+200-2023.txt,Disrupting Cogent's services,Service disruption
+9-2023.txt,In any way that breaches any applicable local,"national or international law or regulation,Breach Law"
+9-2023.txt,In any way that is unlawful or fraudulent,Unlawful Fraud
+9-2023.txt,For the purpose of harming or attempting to harm minors,Harm Minors
+9-2023.txt,To send,"knowingly receive, upload, download, use or re-use any material which does not comply with our content standards,Violate Content"
+9-2023.txt,To transmit,"or procure the sending of, any unsolicited or unauthorised advertising or promotional material or any other form of similar solicitation (spam),Spam"
+130-2023.txt,Unauthorized access,Unauthorized Access
+130-2023.txt,Encourage illegal activities,Illegal Activities
+130-2023.txt,Infringe intellectual property rights,Infringement
+130-2023.txt,Post offensive content,Offensive Content
+1-2023.txt,violates applicable law,Violate Law
+1-2023.txt,misappropriates or impairs rights,Impair Rights
+1-2023.txt,abusive,"deceptive, defamatory,Abusive"
+1-2023.txt,unauthorized use,Unauthorized Use
+1-2023.txt,circumventing,"breaching,Circumventing"
+1-2023.txt,introducing viruses,Introduce Virus
+1-2023.txt,gaining unauthorized access,Unauthorized Access
+1-2023.txt,disrupting integrity,Disrupt Integrity
+75-2023.txt,breaching applicable law,Breaching Law
+75-2023.txt,fraudulent purposes,Fraudulent
+75-2023.txt,harming minors,Harming Minors
+75-2023.txt,not complying with content standards,Content Standards
+75-2023.txt,sending spam,Spam
+75-2023.txt,transmitting viruses,Viruses
+164-2023.txt,Share confidential information,Unauthorized sharing
+164-2023.txt,Harass or abuse,Harassment
+164-2023.txt,Damage or interfere with the Website,Damage
+66-2023.txt,Breaching applicable law,Illegal
+66-2023.txt,Unlawful or fraudulent purpose,Illegal
+66-2023.txt,Harm minors,Illegal
+66-2023.txt,Not comply with content standards,Inappropriate
+66-2023.txt,Transmit spam,Inappropriate
+66-2023.txt,Transmit viruses,Inappropriate
+66-2023.txt,Reproduce,"duplicate, copy or re-sell,Illegal"
+117-2023.txt,Leaving Excedrin.com,Leaving Website
+160-2023.txt,Use the Service for any other purpose,Not Acceptable
+118-2023.txt,Breaching applicable law,Unlawful
+118-2023.txt,Attempting to harm minors,Harmful
+118-2023.txt,Non-compliant material,Non-compliant
+118-2023.txt,Unsolicited or unauthorized advertising,Spam
+118-2023.txt,Data transmission,Data transmission
+118-2023.txt,Viruses,Viruses
+118-2023.txt,Reproducing,Duplicating
+118-2023.txt,Accessing without authority,Unauthorized Access
+156-2023.txt,Breach any applicable local,"national or international law or regulation,Law violation"
+156-2023.txt,Attempt to harm minors,Harm minors
+156-2023.txt,Bully,"insult, intimidate,Humiliate"
+156-2023.txt,Send unsolicited/unauthorised advertising,Spam
+8-2023.txt,Use in any way that breaches any applicable local,"national or international law or regulation,Breach Law"
+8-2023.txt,Use in any way that is unlawful or fraudulent,Unlawful Fraud
+8-2023.txt,Attempt to harm minors,Harm Minors
+8-2023.txt,Send material that does not comply with content standards,Violate Standards
+8-2023.txt,Send unsolicited or unauthorised advertising,Unauthorized Advertising
+8-2023.txt,Transmit viruses,Virus Transmission
+148-2023.txt,Provide inaccurate information,Misleading info
+148-2023.txt,Maintain confidentiality of login info,Breach of confidentiality
+148-2023.txt,Access Services and Resources by other means,Unauthorized access
+148-2023.txt,Disrupt or interfere with Services and Resources,Interference
+148-2023.txt,Copy,"duplicate, reproduce, sell, trade, or resell Resources,Unauthorized use"
+148-2023.txt,Post content with commercial or sales activities,Commercial use
+199-2023.txt,Posting content that infringes another's intellectual property rights,Infringing Intellectual Property Rights
+199-2023.txt,Posting content that is illegal,Illegal Content
+199-2023.txt,Posting content that is abusive,Abusive Content
+163-2023.txt,Illegal Activities,Illegal
+163-2023.txt,Harmful or Fraudulent Activities,Fraudulent
+163-2023.txt,Infringing Content,Infringing
+163-2023.txt,Offensive Content,Offensive
+163-2023.txt,Harmful Content,Harmful
+48-2023.txt,Illegal or damaging actions,Illegal Actions
+48-2023.txt,Compromise of network systems,Network Compromise
+48-2023.txt,Conducting non-business activities,Non-Business Activity
