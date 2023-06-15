@@ -21,9 +21,7 @@ The 'code/analysis/' directory is divided into three types of analysis:
 The following workflow was used for collecting the data:
 1. Automatically download the most up-to-date CrUX list ('current.csv') and get the urls of websites in the CrUX list.
 2. Get the urls of AUPs and store them 'data/aup-urls'   
-
-a. For the first 10k CrUX urls, run a google search on each url and perform token matching on the original vs search result urls to find an AUP that is relevant to the original website (if one exists, which is often not the case). The urls of the AUPs are split into files by CrUX rank.   
-    
+a. For the first 10k CrUX urls, run a google search on each url and perform token matching on the original vs search result urls to find an AUP that is relevant to the original website (if one exists, which is often not the case). The urls of the AUPs are split into files by CrUX rank.      
 b. To supplement, also run a google search with the query "acceptable use policy site.com" and collect as many relevant AUP urls as possible. (This method collected 222 AUP urls.)   
 
 3. Use the Wayback CDX API to query the historical versions of a given AUP url and get a list of urls containing every historical snapshot. TODO: the code functionality is writte in 'code/data.py' (see part 3 of the file), but the snapshot urls haven't been collected yet.
